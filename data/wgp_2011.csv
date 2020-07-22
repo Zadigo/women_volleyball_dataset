@@ -1,0 +1,303 @@
+id,name,date_of_birth,height,weight,spike,block,link
+0,name,date_of_birth,height,weight,spike,block,link
+1,Marianela Garbari,13/11/1980,165,65,280,270,Players.asp?Tourn=WGP2011&Team=ARG&No=135779
+2,Paula Yamila Nizetich,27/01/1989,181,74,305,295,Players.asp?Tourn=WGP2011&Team=ARG&No=122486
+3,Aylin Pereyra,2/07/1988,180,68,300,292,Players.asp?Tourn=WGP2011&Team=ARG&No=122485
+4,Lucia Fresco,14/05/1991,195,92,304,290,Players.asp?Tourn=WGP2011&Team=ARG&No=124661
+5,Daniela Gildenberger,12/06/1984,180,77,300,290,Players.asp?Tourn=WGP2011&Team=ARG&No=135503
+6,Ileana Leyendeker,14/10/1986,189,84,301,293,Players.asp?Tourn=WGP2011&Team=ARG&No=117249
+7,Tatiana Soledad Rizzo,30/12/1986,178,64,280,268,Players.asp?Tourn=WGP2011&Team=ARG&No=122484
+8,Camila Jersonsky,30/05/1991,181,68,305,289,Players.asp?Tourn=WGP2011&Team=ARG&No=123035
+9,Emilce Sosa,11/09/1987,177,72,305,295,Players.asp?Tourn=WGP2011&Team=ARG&No=124660
+10,Georgina Pinedo,30/05/1981,180,64,312,290,Players.asp?Tourn=WGP2011&Team=ARG&No=113395
+11,Antonella Bortolozzi,22/01/1986,182,72,298,278,Players.asp?Tourn=WGP2011&Team=ARG&No=117251
+12,Leticia Boscacci,8/11/1985,186,70,302,284,Players.asp?Tourn=WGP2011&Team=ARG&No=117250
+13,Florencia Carlotto,14/10/1988,183,72,302,291,Players.asp?Tourn=WGP2011&Team=ARG&No=123034
+14,Julieta Constanza Lazcano,25/07/1989,190,76,312,293,Players.asp?Tourn=WGP2011&Team=ARG&No=122487
+15,Florencia Natasha Busquets Reyes,27/06/1989,192,68,305,290,Players.asp?Tourn=WGP2011&Team=ARG&No=122490
+16,Antonela Ayelen Curatola,23/10/1991,175,71,290,280,Players.asp?Tourn=WGP2011&Team=ARG&No=135505
+17,Yael Castiglione,27/09/1985,184,75,295,281,Players.asp?Tourn=WGP2011&Team=ARG&No=112619
+18,Clarisa Sagardia,29/06/1989,174,67,290,280,Players.asp?Tourn=WGP2011&Team=ARG&No=135504
+19,Juciely Cristina Barreto,18/12/1980,184,71,289,285,Players.asp?Tourn=WGP2011&Team=BRA&No=132589
+20,Danielle Lins,5/01/1985,181,68,290,276,Players.asp?Tourn=WGP2011&Team=BRA&No=112625
+21,Paula Pequeno,22/01/1982,184,74,302,285,Players.asp?Tourn=WGP2011&Team=BRA&No=112357
+22,Adenizia Da Silva,18/12/1986,185,63,312,290,Players.asp?Tourn=WGP2011&Team=BRA&No=113955
+23,Thaisa Daher de Menezes,15/05/1987,196,79,316,301,Players.asp?Tourn=WGP2011&Team=BRA&No=113963
+24,Marianne Steinbrecher,23/08/1983,188,70,310,290,Players.asp?Tourn=WGP2011&Team=BRA&No=114276
+25,Jaqueline Pereira De Carvalho Endres,31/12/1983,186,70,302,286,Players.asp?Tourn=WGP2011&Team=BRA&No=112365
+26,Juliana de Souza Nogueira,4/08/1988,190,71,307,301,Players.asp?Tourn=WGP2011&Team=BRA&No=136459
+27,Welissa Gonzaga,9/09/1982,179,76,300,287,Players.asp?Tourn=WGP2011&Team=BRA&No=112363
+28,Joyce Silva,13/06/1984,190,67,311,294,Players.asp?Tourn=WGP2011&Team=BRA&No=112634
+29,Natalia Pereira,4/04/1989,186,83,311,295,Players.asp?Tourn=WGP2011&Team=BRA&No=115952
+30,Sheilla Castro De Paula Blassioli,1/07/1983,185,64,302,284,Players.asp?Tourn=WGP2011&Team=BRA&No=112366
+31,Fabiana Oliveira,7/03/1980,169,59,276,266,Players.asp?Tourn=WGP2011&Team=BRA&No=113162
+32,Ana Tiemi Takagui,26/10/1987,187,74,295,284,Players.asp?Tourn=WGP2011&Team=BRA&No=113966
+33,Fernanda Rodrigues,10/05/1986,179,74,308,288,Players.asp?Tourn=WGP2011&Team=BRA&No=112641
+34,Josefa Fabiola Almeida De Sousa Alves,3/02/1983,184,70,300,285,Players.asp?Tourn=WGP2011&Team=BRA&No=119147
+35,Camila Brait,28/10/1988,170,58,271,256,Players.asp?Tourn=WGP2011&Team=BRA&No=119241
+36,Tandara Caixeta,30/10/1988,184,87,305,297,Players.asp?Tourn=WGP2011&Team=BRA&No=115958
+37,Suelle Oliveira,29/04/1987,187,72,291,278,Players.asp?Tourn=WGP2011&Team=BRA&No=113964
+38,Ting Zhu,29/11/1994,198,78,327,300,Players.asp?Tourn=WGP2011&Team=CHN&No=133588
+39,Ning Wang,14/05/1994,189,60,312,303,Players.asp?Tourn=WGP2011&Team=CHN&No=133592
+40,Na Wang,25/02/1990,178,63,305,295,Players.asp?Tourn=WGP2011&Team=CHN&No=124133
+41,Jingsi Shen,3/05/1989,186,75,305,294,Players.asp?Tourn=WGP2011&Team=CHN&No=116422
+42,Junjing Yang,15/05/1989,190,70,308,300,Players.asp?Tourn=WGP2011&Team=CHN&No=118690
+43,Xian Zhang,16/03/1985,168,57,290,280,Players.asp?Tourn=WGP2011&Team=CHN&No=118621
+44,Chunlei Zeng,3/11/1989,187,67,315,315,Players.asp?Tourn=WGP2011&Team=CHN&No=114974
+45,Yimei Wang,11/01/1988,190,87,318,305,Players.asp?Tourn=WGP2011&Team=CHN&No=114285
+46,Danna Shan,8/10/1991,168,60,290,285,Players.asp?Tourn=WGP2011&Team=CHN&No=124138
+47,Yunli Xu,2/08/1987,195,85,325,306,Players.asp?Tourn=WGP2011&Team=CHN&No=118027
+48,Ruoqi Hui,4/03/1991,192,78,315,305,Players.asp?Tourn=WGP2011&Team=CHN&No=118694
+49,Liyi Chen,27/04/1989,184,75,302,290,Players.asp?Tourn=WGP2011&Team=CHN&No=119295
+50,Lei Zhang,11/01/1985,181,71,316,310,Players.asp?Tourn=WGP2011&Team=CHN&No=132057
+51,Xia Ding,13/01/1990,180,67,305,300,Players.asp?Tourn=WGP2011&Team=CHN&No=124130
+52,Congcong Liu,8/12/1990,189,65,310,302,Players.asp?Tourn=WGP2011&Team=CHN&No=119304
+53,Zhan Chen,11/10/1990,180,65,300,295,Players.asp?Tourn=WGP2011&Team=CHN&No=116419
+54,Yunwen Ma,19/10/1986,190,76,315,307,Players.asp?Tourn=WGP2011&Team=CHN&No=114518
+55,Dan Liu,29/08/1989,180,65,305,295,Players.asp?Tourn=WGP2011&Team=CHN&No=143365
+56,Yanelis Santos Allegne,30/03/1986,183,71,315,312,Players.asp?Tourn=WGP2011&Team=CUB&No=112021
+57,Alena Rojas Orta,9/08/1992,186,78,320,305,Players.asp?Tourn=WGP2011&Team=CUB&No=133607
+58,Yoana Palacio Mendoza,6/10/1990,184,67,313,300,Players.asp?Tourn=WGP2011&Team=CUB&No=124084
+59,Yunieska Robles Batista,21/03/1993,185,67,315,300,Players.asp?Tourn=WGP2011&Team=CUB&No=124161
+60,Daymara Lescay Cajigal,5/09/1992,184,72,308,290,Players.asp?Tourn=WGP2011&Team=CUB&No=154412
+61,Yumilka Ruiz Luaces,8/05/1978,180,63,326,305,Players.asp?Tourn=WGP2011&Team=CUB&No=118380
+62,Emily Borrell Cruz,19/02/1992,167,55,270,260,Players.asp?Tourn=WGP2011&Team=CUB&No=124091
+63,Yamila Hernandez Santas,8/11/1992,182,69,301,285,Players.asp?Tourn=WGP2011&Team=CUB&No=124162
+64,Ana Lidia Cleger Abel,27/11/1989,183,69,300,285,Players.asp?Tourn=WGP2011&Team=CUB&No=118384
+65,Liannes Castañeda Simon,18/10/1986,188,70,325,320,Players.asp?Tourn=WGP2011&Team=CUB&No=113990
+66,Dayami Sanchez Savon,14/03/1994,188,64,314,302,Players.asp?Tourn=WGP2011&Team=CUB&No=133942
+67,Rosanna Giel Ramos,10/06/1992,187,62,320,315,Players.asp?Tourn=WGP2011&Team=CUB&No=124087
+68,Kenia Carcaces Opón,23/01/1986,190,78,322,300,Players.asp?Tourn=WGP2011&Team=CUB&No=118396
+69,Yusidey Silie Frómeta,11/11/1984,184,77,316,300,Players.asp?Tourn=WGP2011&Team=CUB&No=118397
+70,Heydi Rodríguez López,24/06/1993,184,74,310,305,Players.asp?Tourn=WGP2011&Team=CUB&No=136265
+71,Gyselle de la Caridad Silva Franco,29/10/1991,184,70,302,295,Players.asp?Tourn=WGP2011&Team=CUB&No=118398
+72,Zoila Barros Fernández,16/08/1976,188,72,328,307,Players.asp?Tourn=WGP2011&Team=CUB&No=118400
+73,Jennifer Yanet Alvarez Hernandez,19/11/1993,184,72,310,294,Players.asp?Tourn=WGP2011&Team=CUB&No=124163
+74,Sulian Matienzo Linares,14/12/1994,178,67,318,314,Players.asp?Tourn=WGP2011&Team=CUB&No=133943
+75,Rossy Dahiana Burgos Herrera,7/04/1985,184,70,305,300,Players.asp?Tourn=WGP2011&Team=DOM&No=114295
+76,Lisvel Elisa Eve Mejia,10/09/1991,194,90,325,315,Players.asp?Tourn=WGP2011&Team=DOM&No=119591
+77,Marianne Fersola Norberto,16/01/1992,191,60,315,310,Players.asp?Tourn=WGP2011&Team=DOM&No=119544
+78,Brenda Castillo,5/06/1992,167,55,245,230,Players.asp?Tourn=WGP2011&Team=DOM&No=119039
+79,Carmen Rosa Caso Sierra,29/11/1981,168,59,240,230,Players.asp?Tourn=WGP2011&Team=DOM&No=112460
+80,Niverka Dharlenis Marte Frica,19/10/1990,178,71,295,283,Players.asp?Tourn=WGP2011&Team=DOM&No=119585
+81,Candida Estefany Arias Perez,11/03/1992,194,68,320,315,Players.asp?Tourn=WGP2011&Team=DOM&No=119224
+82,Sidarka De Los Milagros Nuñez,25/06/1984,185,62,330,320,Players.asp?Tourn=WGP2011&Team=DOM&No=114679
+83,Milagros Cabral de la Cruz,17/10/1978,182,63,325,320,Players.asp?Tourn=WGP2011&Team=DOM&No=113445
+84,Jeoselyna Rodriguez Santos,9/12/1991,187,63,325,315,Players.asp?Tourn=WGP2011&Team=DOM&No=119587
+85,Karla Miguelina Echenique Medina,16/05/1986,180,65,300,290,Players.asp?Tourn=WGP2011&Team=DOM&No=112464
+86,Cindy Carolina Rondon Martinez,12/11/1987,186,61,320,315,Players.asp?Tourn=WGP2011&Team=DOM&No=114085
+87,Prisilla Rivera Brens,29/12/1984,183,67,309,305,Players.asp?Tourn=WGP2011&Team=DOM&No=112468
+88,Francia Jackson Cabrera,8/11/1975,168,71,245,235,Players.asp?Tourn=WGP2011&Team=DOM&No=113446
+89,Yonkaira Paola Peña Isabel,10/05/1993,190,70,320,310,Players.asp?Tourn=WGP2011&Team=DOM&No=123978
+90,Gina Altagracia Mambru Casilla,21/01/1986,182,65,330,315,Players.asp?Tourn=WGP2011&Team=DOM&No=115391
+91,Bethania De La Cruz De Peña,13/05/1987,188,70,330,320,Players.asp?Tourn=WGP2011&Team=DOM&No=114294
+92,Ana Yorkira Binet Stephens,9/02/1992,174,58,280,260,Players.asp?Tourn=WGP2011&Team=DOM&No=119229
+93,Brayelin Elizabeth Martinez,11/09/1996,201,83,330,320,Players.asp?Tourn=WGP2011&Team=DOM&No=123982
+94,Kathleen Weiß,2/02/1984,173,64,290,273,Players.asp?Tourn=WGP2011&Team=GER&No=113902
+95,Denise Hanke,31/08/1989,183,73,297,284,Players.asp?Tourn=WGP2011&Team=GER&No=119105
+96,Kerstin Tzscherlich,15/02/1978,179,72,295,282,Players.asp?Tourn=WGP2011&Team=GER&No=111003
+97,Friederike Thieme,16/04/1987,187,73,302,292,Players.asp?Tourn=WGP2011&Team=GER&No=135872
+98,Kathy Radzuweit,2/03/1982,196,76,319,300,Players.asp?Tourn=WGP2011&Team=GER&No=112051
+99,Patricia Grohmann,27/01/1990,186,80,303,289,Players.asp?Tourn=WGP2011&Team=GER&No=118952
+100,Berit Kauffeldt,8/07/1990,190,75,311,294,Players.asp?Tourn=WGP2011&Team=GER&No=118959
+101,Corina Ssuschke-Voigt,9/05/1983,189,75,310,298,Players.asp?Tourn=WGP2011&Team=GER&No=112479
+102,Anne Matthes,30/04/1985,182,66,312,295,Players.asp?Tourn=WGP2011&Team=GER&No=120334
+103,Christiane Fürst,29/03/1985,193,80,323,307,Players.asp?Tourn=WGP2011&Team=GER&No=112473
+104,Heike Beier,9/12/1983,184,73,305,293,Players.asp?Tourn=WGP2011&Team=GER&No=112477
+105,Saskia Hippe,16/01/1991,185,67,315,292,Players.asp?Tourn=WGP2011&Team=GER&No=118954
+106,Margareta Kozuch,30/10/1986,187,70,309,297,Players.asp?Tourn=WGP2011&Team=GER&No=116179
+107,Maren Fromm,10/07/1986,184,68,303,295,Players.asp?Tourn=WGP2011&Team=GER&No=120333
+108,Lisa Thomsen,20/08/1985,172,68,290,285,Players.asp?Tourn=WGP2011&Team=GER&No=123175
+109,Lena Möllers,6/01/1990,188,74,312,297,Players.asp?Tourn=WGP2011&Team=GER&No=118946
+110,Nadja Schaus,8/11/1984,187,66,305,295,Players.asp?Tourn=WGP2011&Team=GER&No=123177
+111,Regina Burchardt,1/07/1983,186,77,302,294,Players.asp?Tourn=WGP2011&Team=GER&No=112480
+112,Mareen Von Römer,26/03/1987,183,73,295,284,Players.asp?Tourn=WGP2011&Team=GER&No=114525
+113,Cristina Barcellini,20/11/1986,183,78,307,292,Players.asp?Tourn=WGP2011&Team=ITA&No=124171
+114,Ilaria Garzaro,29/09/1986,189,70,312,292,Players.asp?Tourn=WGP2011&Team=ITA&No=113995
+115,Lucia Crisanti,16/03/1986,186,70,312,292,Players.asp?Tourn=WGP2011&Team=ITA&No=113996
+116,Giulia Rondon,16/10/1987,189,74,304,280,Players.asp?Tourn=WGP2011&Team=ITA&No=114533
+117,Enrica Merlo,28/12/1988,170,60,281,262,Players.asp?Tourn=WGP2011&Team=ITA&No=119188
+118,Martina Guiggi,1/05/1984,187,80,317,240,Players.asp?Tourn=WGP2011&Team=ITA&No=112516
+119,Carolina del Pilar Costagrande,15/10/1980,188,80,312,291,Players.asp?Tourn=WGP2011&Team=ITA&No=134088
+120,Chiara Di Iulio,5/05/1985,184,65,291,278,Players.asp?Tourn=WGP2011&Team=ITA&No=112734
+121,Paola Cardullo,18/03/1982,159,56,275,268,Players.asp?Tourn=WGP2011&Team=ITA&No=112515
+122,Serena Ortolani,7/01/1987,187,63,320,240,Players.asp?Tourn=WGP2011&Team=ITA&No=113993
+123,Francesca Piccinini,10/01/1979,184,71,304,279,Players.asp?Tourn=WGP2011&Team=ITA&No=113626
+124,Valentina Arrighetti,26/01/1985,185,72,318,310,Players.asp?Tourn=WGP2011&Team=ITA&No=112728
+125,Eleonora Lo Bianco,22/12/1979,171,67,287,273,Players.asp?Tourn=WGP2011&Team=ITA&No=113627
+126,Antonella Del Core,5/11/1980,180,70,296,279,Players.asp?Tourn=WGP2011&Team=ITA&No=114249
+127,Lucia Bosetti,9/07/1989,178,63,310,292,Players.asp?Tourn=WGP2011&Team=ITA&No=115816
+128,Simona Gioli,17/09/1977,185,70,307,283,Players.asp?Tourn=WGP2011&Team=ITA&No=113905
+129,Marta Bechis,4/09/1989,181,59,290,273,Players.asp?Tourn=WGP2011&Team=ITA&No=132038
+130,Giulia Leonardi,1/12/1987,165,57,280,261,Players.asp?Tourn=WGP2011&Team=ITA&No=135581
+131,Francesca Ferretti,15/02/1984,180,70,296,280,Players.asp?Tourn=WGP2011&Team=ITA&No=112509
+132,Hitomi Nakamichi,18/09/1985,159,53,270,256,Players.asp?Tourn=WGP2011&Team=JPN&No=134030
+133,Yoshie Takeshita,18/03/1978,159,53,280,270,Players.asp?Tourn=WGP2011&Team=JPN&No=111715
+134,Yuki Ishikawa,26/04/1987,181,68,302,286,Players.asp?Tourn=WGP2011&Team=JPN&No=115538
+135,Ai Yamamoto,24/03/1982,184,68,312,305,Players.asp?Tourn=WGP2011&Team=JPN&No=112041
+136,Yuko Sano,26/07/1979,159,54,260,250,Players.asp?Tourn=WGP2011&Team=JPN&No=113311
+137,Mai Yamaguchi,3/07/1983,176,62,304,292,Players.asp?Tourn=WGP2011&Team=JPN&No=122617
+138,Makoto Matsuura,9/09/1986,173,69,282,265,Players.asp?Tourn=WGP2011&Team=JPN&No=135409
+139,Mizuho Ishida,22/01/1988,174,65,301,286,Players.asp?Tourn=WGP2011&Team=JPN&No=119191
+140,Nana Iwasaka,3/07/1990,187,76,298,293,Players.asp?Tourn=WGP2011&Team=JPN&No=135410
+141,Erika Shinomiya,3/08/1984,186,78,305,297,Players.asp?Tourn=WGP2011&Team=JPN&No=112717
+142,Saori Kimura,19/08/1986,185,65,304,293,Players.asp?Tourn=WGP2011&Team=JPN&No=114038
+143,Risa Shinnabe,11/07/1990,175,64,293,285,Players.asp?Tourn=WGP2011&Team=JPN&No=135411
+144,Yukiko Ebata,7/11/1989,176,67,305,298,Players.asp?Tourn=WGP2011&Team=JPN&No=132056
+145,Maiko Kano,15/07/1988,185,72,303,285,Players.asp?Tourn=WGP2011&Team=JPN&No=122614
+146,Saori Sakoda,18/12/1987,175,63,305,279,Players.asp?Tourn=WGP2011&Team=JPN&No=132053
+147,Akiko Ino,28/09/1986,168,59,270,260,Players.asp?Tourn=WGP2011&Team=JPN&No=115532
+148,Yuki Ishii,8/05/1991,180,67,305,287,Players.asp?Tourn=WGP2011&Team=JPN&No=135416
+149,Kanari Hamaguchi,29/08/1985,167,60,283,269,Players.asp?Tourn=WGP2011&Team=JPN&No=122618
+150,Ayano Nakaoji,24/07/1991,167,61,290,275,Players.asp?Tourn=WGP2011&Team=JPN&No=135408
+151,Tatyana Pyurova,5/04/1982,180,66,298,294,Players.asp?Tourn=WGP2011&Team=KAZ&No=118345
+152,Sana Anarkulova,21/07/1989,188,77,300,280,Players.asp?Tourn=WGP2011&Team=KAZ&No=120296
+153,Antonina Rubtsova,30/12/1984,184,67,302,275,Players.asp?Tourn=WGP2011&Team=KAZ&No=136446
+154,Olga Danchenko,28/12/1982,190,75,305,295,Players.asp?Tourn=WGP2011&Team=KAZ&No=115906
+155,Kristina Trubina,5/11/1986,178,64,295,270,Players.asp?Tourn=WGP2011&Team=KAZ&No=136326
+156,Alena Ivanova,19/06/1989,195,78,310,300,Players.asp?Tourn=WGP2011&Team=KAZ&No=123607
+157,Korinna Ishimtseva,8/02/1984,187,69,300,290,Players.asp?Tourn=WGP2011&Team=KAZ&No=115908
+158,Irina Lukomskaya,19/03/1991,176,66,280,270,Players.asp?Tourn=WGP2011&Team=KAZ&No=133662
+159,Yelena Ezau,9/03/1983,174,57,265,260,Players.asp?Tourn=WGP2011&Team=KAZ&No=115910
+160,Marina Storozhenko,6/06/1985,175,57,290,280,Players.asp?Tourn=WGP2011&Team=KAZ&No=123710
+161,Yekaterina Zhdanova,28/05/1992,183,65,280,270,Players.asp?Tourn=WGP2011&Team=KAZ&No=133090
+162,Radmila Beresneva,6/06/1983,185,70,300,295,Players.asp?Tourn=WGP2011&Team=KAZ&No=135458
+163,Zarina Sitkazinova,20/03/1993,182,70,295,280,Players.asp?Tourn=WGP2011&Team=KAZ&No=133092
+164,Irina Kenzhebaeva,20/02/1992,180,73,290,280,Players.asp?Tourn=WGP2011&Team=KAZ&No=133089
+165,Inna Matveyeva,12/10/1978,186,70,303,294,Players.asp?Tourn=WGP2011&Team=KAZ&No=115915
+166,Olga Drobyshevskaya,22/09/1985,185,75,305,293,Players.asp?Tourn=WGP2011&Team=KAZ&No=118344
+167,Natalya Akilova,31/05/1993,183,62,295,275,Players.asp?Tourn=WGP2011&Team=KAZ&No=133093
+168,Natalya Kulinich,19/07/1988,173,66,280,275,Players.asp?Tourn=WGP2011&Team=KAZ&No=135459
+169,Inna Shkurina,20/10/1993,178,65,276,266,Players.asp?Tourn=WGP2011&Team=KAZ&No=133091
+170,Seul-Gi Park,25/02/1991,178,65,290,284,Players.asp?Tourn=WGP2011&Team=KOR&No=119476
+171,Sooji Han,1/02/1989,182,72,285,275,Players.asp?Tourn=WGP2011&Team=KOR&No=116433
+172,Youn Joo Hwang,13/08/1986,177,64,285,265,Players.asp?Tourn=WGP2011&Team=KOR&No=114880
+173,Hae Ran Kim,16/03/1984,168,60,270,250,Players.asp?Tourn=WGP2011&Team=KOR&No=112775
+174,So-Jin Lee,28/08/1987,178,63,280,265,Players.asp?Tourn=WGP2011&Team=KOR&No=136445
+175,Hye-Suk Yoon,19/06/1983,174,60,293,283,Players.asp?Tourn=WGP2011&Team=KOR&No=114879
+176,Jie Youn Nam,25/05/1983,170,61,285,273,Players.asp?Tourn=WGP2011&Team=KOR&No=112496
+177,Myungok Yim,5/05/1986,175,62,273,253,Players.asp?Tourn=WGP2011&Team=KOR&No=118028
+178,Yeon Koung Kim,26/02/1988,192,73,330,320,Players.asp?Tourn=WGP2011&Team=KOR&No=116439
+179,Young-Eun Jang,30/10/1993,182,68,290,270,Players.asp?Tourn=WGP2011&Team=KOR&No=133087
+180,Songyi Han,5/09/1984,186,65,305,298,Players.asp?Tourn=WGP2011&Team=KOR&No=112772
+181,Bo-Lam Lee,8/08/1988,185,75,283,274,Players.asp?Tourn=WGP2011&Team=KOR&No=116441
+182,Hea-Won La,28/06/1986,184,73,302,294,Players.asp?Tourn=WGP2011&Team=KOR&No=114073
+183,Se Young Kim,4/06/1981,72,294,284,Heungkuk Life,Players.asp?Tourn=WGP2011&Team=KOR&No=113906
+184,Yoo Na Bae,30/11/1989,182,68,285,275,Players.asp?Tourn=WGP2011&Team=KOR&No=116431
+185,Hyejin Kim,17/02/1989,180,62,284,274,Players.asp?Tourn=WGP2011&Team=KOR&No=116436
+186,Heejin Kim,29/04/1991,185,75,305,295,Players.asp?Tourn=WGP2011&Team=KOR&No=119484
+187,Minkyoung Hwang,2/06/1990,174,64,290,282,Players.asp?Tourn=WGP2011&Team=KOR&No=119479
+188,Sook-Ja Lee,17/06/1980,175,58,286,264,Players.asp?Tourn=WGP2011&Team=KOR&No=113908
+189,Mirtha Uribe,12/03/1985,184,67,297,286,Players.asp?Tourn=WGP2011&Team=PER&No=117293
+190,Paola Garcia,25/08/1987,186,75,300,298,Players.asp?Tourn=WGP2011&Team=PER&No=117310
+191,Patricia Soto,10/02/1980,179,67,300,295,Players.asp?Tourn=WGP2011&Team=PER&No=117295
+192,Vanessa Palacios,3/07/1984,170,60,275,260,Players.asp?Tourn=WGP2011&Team=PER&No=117302
+193,Jessenia Uceda,14/08/1981,178,69,304,294,Players.asp?Tourn=WGP2011&Team=PER&No=117316
+194,Yulissa Zamudio Ore,24/03/1976,184,61,315,300,Players.asp?Tourn=WGP2011&Team=PER&No=118403
+195,Milagros Moy,17/10/1975,175,66,296,285,Players.asp?Tourn=WGP2011&Team=PER&No=135627
+196,Raffaella Camet,14/09/1992,184,67,289,285,Players.asp?Tourn=WGP2011&Team=PER&No=118784
+197,Luren Baylon Francis,14/08/1977,180,68,310,305,Players.asp?Tourn=WGP2011&Team=PER&No=118401
+198,Clarivett Yllescas,11/08/1993,184,72,305,295,Players.asp?Tourn=WGP2011&Team=PER&No=132747
+199,Carla Rueda Cotito,19/04/1990,184,70,312,306,Players.asp?Tourn=WGP2011&Team=PER&No=118410
+200,Zoila La Rosa,31/05/1990,174,62,285,280,Players.asp?Tourn=WGP2011&Team=PER&No=118791
+201,Elena Keldibekova,23/06/1974,177,72,289,280,Players.asp?Tourn=WGP2011&Team=PER&No=117303
+202,Karla Ortiz,20/10/1991,182,60,300,290,Players.asp?Tourn=WGP2011&Team=PER&No=118786
+203,Alexandra Muñoz,16/08/1992,177,63,287,281,Players.asp?Tourn=WGP2011&Team=PER&No=132741
+204,Brenda Daniela Uribe,11/12/1993,183,63,297,282,Players.asp?Tourn=WGP2011&Team=PER&No=132740
+205,Carla Tristan,29/01/1988,180,67,297,295,Players.asp?Tourn=WGP2011&Team=PER&No=117324
+206,Gisella Duarte,21/11/1977,191,78,297,292,Players.asp?Tourn=WGP2011&Team=PER&No=136687
+207,Sandra Guibert,11/06/1989,177,65,295,287,Players.asp?Tourn=WGP2011&Team=PER&No=136688
+208,Katarzyna Konieczna,22/03/1985,184,75,304,288,Players.asp?Tourn=WGP2011&Team=POL&No=112694
+209,Karolina Rozycka,28/06/1985,183,68,305,284,Players.asp?Tourn=WGP2011&Team=POL&No=132060
+210,Izabela Belcik,29/11/1980,185,65,304,292,Players.asp?Tourn=WGP2011&Team=POL&No=113513
+211,Berenika Tomsia,18/03/1988,188,72,310,302,Players.asp?Tourn=WGP2011&Team=POL&No=114293
+212,Magdalena Saad,14/05/1985,168,55,277,261,Players.asp?Tourn=WGP2011&Team=POL&No=118029
+213,Kinga Kasprzak,12/06/1987,188,76,310,295,Players.asp?Tourn=WGP2011&Team=POL&No=132064
+214,Klaudia Kaczorowska,20/12/1988,184,68,303,281,Players.asp?Tourn=WGP2011&Team=POL&No=119139
+215,Joanna Kapturska,4/07/1986,185,67,307,293,Players.asp?Tourn=WGP2011&Team=POL&No=119133
+216,Sylwia Pelc,30/11/1990,189,85,312,293,Players.asp?Tourn=WGP2011&Team=POL&No=118594
+217,Anna Werblinska,14/05/1984,178,66,308,292,Players.asp?Tourn=WGP2011&Team=POL&No=112544
+218,Milena Radecka,18/10/1984,177,65,302,295,Players.asp?Tourn=WGP2011&Team=POL&No=119136
+219,Paulina Maj-Erwardt,22/03/1987,166,58,277,255,Players.asp?Tourn=WGP2011&Team=POL&No=118379
+220,Joanna Wolosz,7/04/1990,181,71,303,281,Players.asp?Tourn=WGP2011&Team=POL&No=118591
+221,Katarzyna Gajgal,21/09/1981,190,85,300,287,Players.asp?Tourn=WGP2011&Team=POL&No=120320
+222,Zuzanna Efimienko-Mlotkowska,8/08/1989,197,72,318,303,Players.asp?Tourn=WGP2011&Team=POL&No=119138
+223,Joanna Kaczor,16/09/1984,191,64,305,290,Players.asp?Tourn=WGP2011&Team=POL&No=112557
+224,Aleksandra Kruk,29/10/1984,181,76,298,285,Players.asp?Tourn=WGP2011&Team=POL&No=136457
+225,Maja Tokarska,22/02/1991,193,72,325,293,Players.asp?Tourn=WGP2011&Team=POL&No=118590
+226,Anita Kwiatkowska,5/03/1985,182,59,291,277,Players.asp?Tourn=WGP2011&Team=POL&No=112700
+227,Lesya Makhno,4/09/1981,188,73,310,305,Players.asp?Tourn=WGP2011&Team=RUS&No=118016
+228,Maria Perepelkina,9/03/1984,187,72,304,300,Players.asp?Tourn=WGP2011&Team=RUS&No=132070
+229,Ekaterina Osichkina,2/04/1986,190,80,307,300,Players.asp?Tourn=WGP2011&Team=RUS&No=115148
+230,Victoria Kuzyakina,1/06/1985,175,70,290,287,Players.asp?Tourn=WGP2011&Team=RUS&No=136924
+231,Olga Bukreeva,15/02/1987,187,70,302,298,Players.asp?Tourn=WGP2011&Team=RUS&No=136456
+232,Svetlana Kryuchkova,21/02/1985,174,63,290,286,Players.asp?Tourn=WGP2011&Team=RUS&No=118013
+233,Nataliya Goncharova,1/06/1989,194,75,315,306,Players.asp?Tourn=WGP2011&Team=RUS&No=132071
+234,Olga Fateeva,4/05/1984,190,72,310,303,Players.asp?Tourn=WGP2011&Team=RUS&No=111580
+235,Iuliia Morozova,8/01/1985,192,79,305,301,Players.asp?Tourn=WGP2011&Team=RUS&No=120593
+236,Ekaterina Gamova,17/10/1980,202,80,321,310,Players.asp?Tourn=WGP2011&Team=RUS&No=111379
+237,Vera Vetrova (Ulyakina),21/08/1986,180,73,298,293,Players.asp?Tourn=WGP2011&Team=RUS&No=115157
+238,Evgeniya Startseva,12/02/1989,185,68,294,290,Players.asp?Tourn=WGP2011&Team=RUS&No=119097
+239,Ekaterina Ulanova,5/08/1986,172,61,298,290,Players.asp?Tourn=WGP2011&Team=RUS&No=118119
+240,Tatyana Kosheleva,23/12/1988,191,67,315,305,Players.asp?Tourn=WGP2011&Team=RUS&No=119677
+241,Iuliia Merkulova,17/02/1984,202,75,317,308,Players.asp?Tourn=WGP2011&Team=RUS&No=112785
+242,Ekaterina Chernova,26/01/1986,178,68,292,290,Players.asp?Tourn=WGP2011&Team=RUS&No=115160
+243,Ekaterina Kosianenko,2/02/1990,178,64,290,285,Players.asp?Tourn=WGP2011&Team=RUS&No=116885
+244,Irina Uraleva,14/06/1990,170,65,285,275,Players.asp?Tourn=WGP2011&Team=RUS&No=119374
+245,Anna Matienko,12/07/1981,182,68,298,292,Players.asp?Tourn=WGP2011&Team=RUS&No=136455
+246,Jovana Brakocevic,5/03/1988,196,82,309,295,Players.asp?Tourn=WGP2011&Team=SRB&No=116208
+247,Sanja Malagurski,8/06/1990,193,74,305,295,Players.asp?Tourn=WGP2011&Team=SRB&No=119522
+248,Bojana Drca,29/03/1988,186,70,298,283,Players.asp?Tourn=WGP2011&Team=SRB&No=120326
+249,Natasa Krsmanovic,19/06/1985,188,73,305,285,Players.asp?Tourn=WGP2011&Team=SRB&No=116211
+250,Tijana Malesevic,18/03/1991,185,78,300,286,Players.asp?Tourn=WGP2011&Team=SRB&No=134068
+251,Brizitka Molnar,28/07/1985,182,69,304,290,Players.asp?Tourn=WGP2011&Team=SRB&No=116225
+252,Ana Antonijevic,26/08/1987,185,71,282,269,Players.asp?Tourn=WGP2011&Team=SRB&No=116214
+253,Jovana Vesovic,21/06/1987,182,68,283,268,Players.asp?Tourn=WGP2011&Team=SRB&No=116300
+254,Maja Ognjenovic,6/08/1984,183,67,300,293,Players.asp?Tourn=WGP2011&Team=SRB&No=116216
+255,Vesna Djurisic,3/02/1979,187,75,305,300,Players.asp?Tourn=WGP2011&Team=SRB&No=131608
+256,Jelena Nikolic,13/04/1982,194,79,315,300,Players.asp?Tourn=WGP2011&Team=SRB&No=116221
+257,Ana Bjelica,3/04/1992,190,78,310,305,Players.asp?Tourn=WGP2011&Team=SRB&No=123694
+258,Nadja Ninkovic,1/11/1991,193,77,307,298,Players.asp?Tourn=WGP2011&Team=SRB&No=119532
+259,Jovana Stevanovic,30/06/1992,192,72,308,295,Players.asp?Tourn=WGP2011&Team=SRB&No=123700
+260,Milena Rasic,25/10/1990,193,72,315,310,Players.asp?Tourn=WGP2011&Team=SRB&No=119535
+261,Stefana Veljkovic,9/01/1990,190,76,325,310,Players.asp?Tourn=WGP2011&Team=SRB&No=119521
+262,Suzana Cebic,9/11/1984,167,60,279,255,Players.asp?Tourn=WGP2011&Team=SRB&No=116224
+263,Silvija Popovic,15/03/1986,178,65,286,276,Players.asp?Tourn=WGP2011&Team=SRB&No=116298
+264,Nina Rosic,5/05/1990,172,61,277,261,Players.asp?Tourn=WGP2011&Team=SRB&No=119518
+265,Piyanut Pannoy,10/11/1989,171,62,280,275,Players.asp?Tourn=WGP2011&Team=THA&No=131866
+266,Rasamee Supamool,10/01/1992,178,68,285,276,Players.asp?Tourn=WGP2011&Team=THA&No=132545
+267,Hattaya Bamrungsuk,12/08/1993,178,62,289,275,Players.asp?Tourn=WGP2011&Team=THA&No=123015
+268,Pleumjit Thinkaow,9/11/1983,180,67,303,283,Players.asp?Tourn=WGP2011&Team=THA&No=113352
+269,Onuma Sittirak,13/06/1986,175,72,304,285,Players.asp?Tourn=WGP2011&Team=THA&No=114638
+270,Patcharee Deesamer,3/02/1989,180,74,306,293,Players.asp?Tourn=WGP2011&Team=THA&No=118997
+271,Utaiwan Kaensing,7/09/1988,189,86,310,295,Players.asp?Tourn=WGP2011&Team=THA&No=119005
+272,Wanitchaya Luangtonglang,8/10/1992,175,51,295,280,Players.asp?Tourn=WGP2011&Team=THA&No=122864
+273,Wilavan Apinyapong,6/06/1984,174,70,294,282,Players.asp?Tourn=WGP2011&Team=THA&No=113916
+274,Amporn Hyapha,19/05/1985,180,70,301,290,Players.asp?Tourn=WGP2011&Team=THA&No=113358
+275,Tapaphaipun Chaisri,29/11/1989,168,70,295,276,Players.asp?Tourn=WGP2011&Team=THA&No=118998
+276,Nootsara Tomkom,7/07/1985,169,57,289,278,Players.asp?Tourn=WGP2011&Team=THA&No=113917
+277,Ajcharaporn Kongyot,18/06/1995,178,65,298,287,Players.asp?Tourn=WGP2011&Team=THA&No=133511
+278,Malika Kanthong,8/01/1987,178,65,292,278,Players.asp?Tourn=WGP2011&Team=THA&No=114283
+279,Pornpun Guedpard,5/05/1993,170,63,288,279,Players.asp?Tourn=WGP2011&Team=THA&No=123019
+280,Kamonporn Sukmak,29/02/1988,174,63,285,275,Players.asp?Tourn=WGP2011&Team=THA&No=114583
+281,Em-orn Phanusit,25/03/1988,179,70,302,291,Players.asp?Tourn=WGP2011&Team=THA&No=119012
+282,Soraya Phomla,6/08/1992,169,59,290,280,Players.asp?Tourn=WGP2011&Team=THA&No=124265
+283,Danielle Scott-Arruda,1/10/1972,188,84,325,302,Players.asp?Tourn=WGP2011&Team=USA&No=113366
+284,Tayyiba Haneef-Park,23/03/1979,200,82,328,312,Players.asp?Tourn=WGP2011&Team=USA&No=113377
+285,Lindsey Berg,16/07/1980,173,75,287,274,Players.asp?Tourn=WGP2011&Team=USA&No=117611
+286,Tamari Miyashiro,8/07/1987,170,70,284,266,Players.asp?Tourn=WGP2011&Team=USA&No=132048
+287,Nicole Davis,24/04/1982,167,73,284,266,Players.asp?Tourn=WGP2011&Team=USA&No=112581
+288,Heather Bown,29/11/1978,188,90,301,290,Players.asp?Tourn=WGP2011&Team=USA&No=113369
+289,Alisha Glass,5/04/1988,184,72,305,300,Players.asp?Tourn=WGP2011&Team=USA&No=132576
+290,Jennifer Tamas,23/11/1982,191,82,315,301,Players.asp?Tourn=WGP2011&Team=USA&No=114061
+291,Kimberly Glass,18/08/1984,190,75,314,299,Players.asp?Tourn=WGP2011&Team=USA&No=112584
+292,Jordan Larson,16/10/1986,188,75,302,295,Players.asp?Tourn=WGP2011&Team=USA&No=114051
+293,Nancy Metcalf,12/11/1978,186,73,314,292,Players.asp?Tourn=WGP2011&Team=USA&No=113376
+294,Christa Harmotto Dietzen,12/10/1986,188,79,322,300,Players.asp?Tourn=WGP2011&Team=USA&No=115496
+295,Nicole Fawcett,16/12/1986,191,82,310,291,Players.asp?Tourn=WGP2011&Team=USA&No=114059
+296,Logan Tom,25/05/1981,186,80,306,297,Players.asp?Tourn=WGP2011&Team=USA&No=113373
+297,Foluke Akinradewo,5/10/1987,191,79,331,300,Players.asp?Tourn=WGP2011&Team=USA&No=115495
+298,Mary Spicer,3/07/1987,175,65,292,280,Players.asp?Tourn=WGP2011&Team=USA&No=115500
+299,Megan Easy,15/10/1988,191,80,320,297,Players.asp?Tourn=WGP2011&Team=USA&No=115857
+300,Destinee Hooker,7/09/1987,193,73,320,304,Players.asp?Tourn=WGP2011&Team=USA&No=132049
+301,Angela Forsett,6/06/1986,173,74,320,315,Players.asp?Tourn=WGP2011&Team=USA&No=124095

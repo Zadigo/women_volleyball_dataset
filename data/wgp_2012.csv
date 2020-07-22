@@ -1,0 +1,317 @@
+id,name,date_of_birth,height,weight,spike,block,link
+1,Lucia, Gaido,19/01/1988,164,53,245,Players.asp?Tourn=WGP2012&Team=ARG&No=124662
+2,Josefina, Fernandez,17/08/1991,180,69,300,Players.asp?Tourn=WGP2012&Team=ARG&No=122488
+3,Paula Yamila, Nizetich,27/01/1989,181,74,305,Players.asp?Tourn=WGP2012&Team=ARG&No=122486
+4,Clarisa, Sagardia,29/06/1989,174,67,290,Players.asp?Tourn=WGP2012&Team=ARG&No=135504
+5,Lucia, Fresco,14/05/1991,195,92,304,Players.asp?Tourn=WGP2012&Team=ARG&No=124661
+6,Luisina, Yaccuzzi,12/06/1989,175,70,300,Players.asp?Tourn=WGP2012&Team=ARG&No=138786
+7,Julieta, Puntin,06/12/1989,183,71,302,Players.asp?Tourn=WGP2012&Team=ARG&No=138787
+8,Tatiana Soledad, Rizzo,30/12/1986,178,64,280,Players.asp?Tourn=WGP2012&Team=ARG&No=122484
+9,Camila, Jersonsky,30/05/1991,181,68,305,Players.asp?Tourn=WGP2012&Team=ARG&No=123035
+10,Emilce, Sosa,11/09/1987,177,72,305,Players.asp?Tourn=WGP2012&Team=ARG&No=124660
+11,Georgina, Pinedo,30/05/1981,180,64,312,Players.asp?Tourn=WGP2012&Team=ARG&No=113395
+12,Graciela, Allende,07/10/1994,167,75,270,Players.asp?Tourn=WGP2012&Team=ARG&No=135930
+13,Leticia, Boscacci,08/11/1985,186,70,302,Players.asp?Tourn=WGP2012&Team=ARG&No=117250
+14,Florencia, Carlotto,14/10/1988,183,72,302,Players.asp?Tourn=WGP2012&Team=ARG&No=123034
+15,Maria Sol, Calvete,14/09/1994,179,65,295,Players.asp?Tourn=WGP2012&Team=ARG&No=135924
+16,Florencia Natasha, Busquets,27/06/1989,192,68,305,Players.asp?Tourn=WGP2012&Team=ARG&No=122490
+17,Antonela Ayelen, Curatola,23/10/1991,175,71,290,Players.asp?Tourn=WGP2012&Team=ARG&No=135505
+18,Yael, Castiglione Y,27/09/1985,184,75,295,Players.asp?Tourn=WGP2012&Team=ARG&No=112619
+19,Mariangeles, Cossar,07/04/1990,177,70,290,Players.asp?Tourn=WGP2012&Team=ARG&No=138016
+20,Marianela, Garbari,13/11/1980,165,65,280,Players.asp?Tourn=WGP2012&Team=ARG&No=135779
+21,Yimei, Wang Y.M.,11/01/1988,190,87,318,Players.asp?Tourn=WGP2012&Team=CHN&No=114285
+22,Yang, Mi Y.,24/01/1989,180,70,305,Players.asp?Tourn=WGP2012&Team=CHN&No=119296
+23,Jie, Yang J.,01/03/1994,194,82,312,Players.asp?Tourn=WGP2012&Team=CHN&No=119302
+24,Ruoqi, Hui R.Q.,04/03/1991,189,70,312,Players.asp?Tourn=WGP2012&Team=CHN&No=123853
+25,Na, Wang N.,25/02/1990,178,63,305,Players.asp?Tourn=WGP2012&Team=CHN&No=124133
+26,Jinling, Chu J.L.,29/07/1984,190,72,310,Players.asp?Tourn=WGP2012&Team=CHN&No=123852
+27,Xian, Zhang X.,16/03/1985,168,57,290,Players.asp?Tourn=WGP2012&Team=CHN&No=118621
+28,Qiuyue, Wei Q.Y,26/09/1988,182,75,305,Players.asp?Tourn=WGP2012&Team=CHN&No=114976
+29,Junjing, Yang J.J.,15/05/1989,190,70,308,Players.asp?Tourn=WGP2012&Team=CHN&No=118690
+30,Danna, Shan D.N.,08/10/1991,168,60,290,Players.asp?Tourn=WGP2012&Team=CHN&No=124138
+31,Yunli, Xu Y.L.,02/08/1987,196,75,317,Players.asp?Tourn=WGP2012&Team=CHN&No=123864
+32,Chunlei, Zeng C.L.,03/11/1989,187,67,315,Players.asp?Tourn=WGP2012&Team=CHN&No=114974
+33,Ni, Yan N.,02/03/1987,192,74,317,Players.asp?Tourn=WGP2012&Team=CHN&No=138748
+34,Congcong, Liu C.C.,08/12/1990,188,70,310,Players.asp?Tourn=WGP2012&Team=CHN&No=138749
+35,Yunwen, Ma Y.W.,19/10/1986,190,76,315,Players.asp?Tourn=WGP2012&Team=CHN&No=114518
+36,Na, Yin N.,03/02/1988,182,65,305,Players.asp?Tourn=WGP2012&Team=CHN&No=123854
+37,Lei, Zhang L.,11/01/1985,181,71,316,Players.asp?Tourn=WGP2012&Team=CHN&No=132057
+38,Linlin, Fan L.L.,01/12/1991,190,77,316,Players.asp?Tourn=WGP2012&Team=CHN&No=116423
+39,Qian, None,14/03/1989,174,65,305,Players.asp?Tourn=WGP2012&Team=CHN&No=123857
+40,Liyi, Chen L.Y.,27/04/1989,184,75,302,Players.asp?Tourn=WGP2012&Team=CHN&No=119295
+41,Ming, Xue M.,23/02/1987,193,72,324,Players.asp?Tourn=WGP2012&Team=CHN&No=114516
+42,Zhou, Yang Z.,21/04/1992,190,78,308,Players.asp?Tourn=WGP2012&Team=CHN&No=133590
+43,Yanan, Qiu Y.N.,16/01/1989,183,62,295,Players.asp?Tourn=WGP2012&Team=CHN&No=135415
+44,Jingsi, Sheng J.S.,03/05/1989,185,78,305,Players.asp?Tourn=WGP2012&Team=CHN&No=123862
+45,Wilma, Salas,09/03/1991,188,66,313,Players.asp?Tourn=WGP2012&Team=CUB&No=124086
+46,Yanelis, Santos,30/03/1986,181,69,324,Players.asp?Tourn=WGP2012&Team=CUB&No=118381
+47,Alena, Orta,09/08/1992,186,76,320,Players.asp?Tourn=WGP2012&Team=CUB&No=138784
+48,Yoana, Palacios,06/10/1990,184,67,313,Players.asp?Tourn=WGP2012&Team=CUB&No=124084
+49,Yunieska, Robles,21/03/1993,185,67,308,Players.asp?Tourn=WGP2012&Team=CUB&No=124161
+50,Daymara, Lescay,05/09/1992,184,72,308,Players.asp?Tourn=WGP2012&Team=CUB&No=154412
+51,Yamila, Santas,08/11/1992,182,69,301,Players.asp?Tourn=WGP2012&Team=CUB&No=124162
+52,Emily, Borrell,19/02/1992,167,55,270,Players.asp?Tourn=WGP2012&Team=CUB&No=124091
+53,Rachel, Sanchez,09/01/1989,190,86,316,Players.asp?Tourn=WGP2012&Team=CUB&No=118391
+54,Ana Lidia, Cleger,27/11/1989,183,69,300,Players.asp?Tourn=WGP2012&Team=CUB&No=118386
+55,Liannes, Simon,18/10/1986,188,70,325,Players.asp?Tourn=WGP2012&Team=CUB&No=113990
+56,Dairilys Margarita, Cruz,12/09/1990,183,65,310,Players.asp?Tourn=WGP2012&Team=CUB&No=124085
+57,Rosanna, Giel,10/06/1992,187,62,320,Players.asp?Tourn=WGP2012&Team=CUB&No=124087
+58,Dayami, Sanchez,14/03/1994,188,64,314,Players.asp?Tourn=WGP2012&Team=CUB&No=133942
+59,Yusidey, Silie,11/11/1984,184,77,316,Players.asp?Tourn=WGP2012&Team=CUB&No=118397
+60,Yaremis de la Caridad, Mendaro,21/04/1994,188,72,310,Players.asp?Tourn=WGP2012&Team=CUB&No=135957
+61,Gyselle de la Caridad, Silva,29/10/1991,184,70,302,Players.asp?Tourn=WGP2012&Team=CUB&No=118398
+62,Sulian, Matienzo,14/12/1994,178,67,318,Players.asp?Tourn=WGP2012&Team=CUB&No=133943
+63,Jennifer Yanet, Alvarez,19/11/1993,184,72,310,Players.asp?Tourn=WGP2012&Team=CUB&No=124163
+64,Heydi, Rodriguez,24/06/1993,184,74,310,Players.asp?Tourn=WGP2012&Team=CUB&No=136265
+65,Annerys Victoria, Valdez,07/08/1981,196,70,327,Players.asp?Tourn=WGP2012&Team=DOM&No=113454
+66,Winifer Maria, Fernandez,06/01/1995,169,62,270,Players.asp?Tourn=WGP2012&Team=DOM&No=131956
+67,Lisvel Elisa, Eve,10/09/1991,194,90,325,Players.asp?Tourn=WGP2012&Team=DOM&No=119591
+68,Marianne, Fersola,16/01/1992,191,60,315,Players.asp?Tourn=WGP2012&Team=DOM&No=119544
+69,Brenda, Castillo,05/06/1992,167,55,245,Players.asp?Tourn=WGP2012&Team=DOM&No=119039
+70,Carmen Rosa, Caso,29/11/1981,168,59,240,Players.asp?Tourn=WGP2012&Team=DOM&No=112460
+71,Niverka Dharlenis, Marte,19/10/1990,178,71,295,Players.asp?Tourn=WGP2012&Team=DOM&No=119585
+72,Candida Estefany, Arias,11/03/1992,194,68,320,Players.asp?Tourn=WGP2012&Team=DOM&No=119224
+73,Sidarka De Los Milagros, Nuñez,25/06/1984,185,62,330,Players.asp?Tourn=WGP2012&Team=DOM&No=114679
+74,Milagros, Cabral,17/10/1978,182,63,325,Players.asp?Tourn=WGP2012&Team=DOM&No=113445
+75,Jeoselyna, Rodriguez,09/12/1991,187,63,325,Players.asp?Tourn=WGP2012&Team=DOM&No=119587
+76,Karla Miguelina, Echenique,16/05/1986,180,65,300,Players.asp?Tourn=WGP2012&Team=DOM&No=112464
+77,Cindy Carolina, Rondon,12/11/1987,186,61,320,Players.asp?Tourn=WGP2012&Team=DOM&No=114085
+78,Prisilla, Rivera,29/12/1984,183,67,309,Players.asp?Tourn=WGP2012&Team=DOM&No=112468
+79,Celenia, Toribio,17/07/1994,181,69,290,Players.asp?Tourn=WGP2012&Team=DOM&No=131957
+80,Yonkaira Paola, Peña Isabel,10/05/1993,190,70,320,Players.asp?Tourn=WGP2012&Team=DOM&No=123978
+81,Gina Altagracia, Mambru,21/01/1986,182,65,330,Players.asp?Tourn=WGP2012&Team=DOM&No=115391
+82,Bethania, De La Cruz,13/05/1987,188,70,330,Players.asp?Tourn=WGP2012&Team=DOM&No=114294
+83,Yeniffer Cristina, Ramirez,17/03/1993,183,67,285,Players.asp?Tourn=WGP2012&Team=DOM&No=119222
+84,Brayelin Elizabeth, Martinez,11/09/1996,201,83,330,Players.asp?Tourn=WGP2012&Team=DOM&No=123982
+85,Lenka, Dürr,10/12/1990,171,59,280,Players.asp?Tourn=WGP2012&Team=GER&No=119315
+86,Kathleen, Weiss,02/02/1984,173,64,290,Players.asp?Tourn=WGP2012&Team=GER&No=113902
+87,Denise, Hanke,31/08/1989,183,73,297,Players.asp?Tourn=WGP2012&Team=GER&No=119105
+88,Kerstin, Tzscherlich,15/02/1978,179,72,295,Players.asp?Tourn=WGP2012&Team=GER&No=111003
+89,Anja, Brandt,15/02/1990,195,77,310,Players.asp?Tourn=WGP2012&Team=GER&No=119318
+90,Kathy, Radzuweit,02/03/1982,196,76,319,Players.asp?Tourn=WGP2012&Team=GER&No=112051
+91,Angelina, Hübner,02/12/1979,185,74,309,Players.asp?Tourn=WGP2012&Team=GER&No=111007
+92,Berit, Kauffeldt,08/07/1990,190,75,311,Players.asp?Tourn=WGP2012&Team=GER&No=118959
+93,Corina, Ssuschke,09/05/1983,189,75,310,Players.asp?Tourn=WGP2012&Team=GER&No=112479
+94,Anne, Matthes,30/04/1985,182,66,312,Players.asp?Tourn=WGP2012&Team=GER&No=120334
+95,Christiane, Fürst,29/03/1985,193,80,323,Players.asp?Tourn=WGP2012&Team=GER&No=112473
+96,Heike, Beier,09/12/1983,184,73,305,Players.asp?Tourn=WGP2012&Team=GER&No=112477
+97,Saskia, Hippe,16/01/1991,185,67,315,Players.asp?Tourn=WGP2012&Team=GER&No=118954
+98,Margareta, Kozuch,30/10/1986,187,70,309,Players.asp?Tourn=WGP2012&Team=GER&No=116179
+99,Maren, Fromm,10/07/1986,184,68,303,Players.asp?Tourn=WGP2012&Team=GER&No=120333
+100,Lisa, Thomsen,20/08/1985,172,68,290,Players.asp?Tourn=WGP2012&Team=GER&No=123175
+101,Lena, Möllers,06/01/1990,188,74,312,Players.asp?Tourn=WGP2012&Team=GER&No=118946
+102,Nadja, Schaus,08/11/1984,187,66,305,Players.asp?Tourn=WGP2012&Team=GER&No=123177
+103,Regina, Burchardt,01/07/1983,186,77,302,Players.asp?Tourn=WGP2012&Team=GER&No=112480
+104,Mareen, Apitz,26/03/1987,183,73,295,Players.asp?Tourn=WGP2012&Team=GER&No=114525
+105,Claudia, Steger,10/03/1990,0,0,301,Players.asp?Tourn=WGP2012&Team=GER&No=157610
+106,Friederike, Thieme,16/04/1987,187,73,302,Players.asp?Tourn=WGP2012&Team=GER&No=135872
+107,Luise, Mauersberger,02/07/1990,188,80,296,Players.asp?Tourn=WGP2012&Team=GER&No=118957
+108,Sarah, Petrausch,31/07/1990,187,85,306,Players.asp?Tourn=WGP2012&Team=GER&No=118953
+109,Megumi, Kurihara,31/07/1984,187,69,308,Players.asp?Tourn=WGP2012&Team=JPN&No=112716
+110,Hitomi, Nakamichi,18/09/1985,159,53,270,Players.asp?Tourn=WGP2012&Team=JPN&No=134030
+111,Yoshie, Takeshita,18/03/1978,159,53,280,Players.asp?Tourn=WGP2012&Team=JPN&No=111715
+112,Kaori, Inoue,21/10/1982,182,59,306,Players.asp?Tourn=WGP2012&Team=JPN&No=122612
+113,Ai, Ai,24/03/1982,184,68,312,Players.asp?Tourn=WGP2012&Team=JPN&No=138790
+114,Yuko, Sano,26/07/1979,159,54,260,Players.asp?Tourn=WGP2012&Team=JPN&No=113311
+115,Mai, Yamaguchi,03/07/1983,176,62,304,Players.asp?Tourn=WGP2012&Team=JPN&No=122617
+116,Kotoki, Zayasu,11/01/1990,159,57,270,Players.asp?Tourn=WGP2012&Team=JPN&No=135413
+117,Mizuho, Ishida,22/01/1988,174,65,301,Players.asp?Tourn=WGP2012&Team=JPN&No=119191
+118,Nana, IWASAKA,03/07/1990,187,76,298,Players.asp?Tourn=WGP2012&Team=JPN&No=135410
+119,Erika, ARAKI,03/08/1984,186,78,305,Players.asp?Tourn=WGP2012&Team=JPN&No=112717
+120,Saori, Saori,19/08/1986,185,65,304,Players.asp?Tourn=WGP2012&Team=JPN&No=114038
+121,Risa, SHINNABE,11/07/1990,175,64,293,Players.asp?Tourn=WGP2012&Team=JPN&No=135411
+122,Yukiko, Ebata,07/11/1989,176,67,305,Players.asp?Tourn=WGP2012&Team=JPN&No=132056
+123,Maiko, Kano,15/07/1988,185,72,303,Players.asp?Tourn=WGP2012&Team=JPN&No=122614
+124,Saori, Sakoda,18/12/1987,175,63,305,Players.asp?Tourn=WGP2012&Team=JPN&No=132053
+125,Kanako, Hirai,15/04/1984,183,69,309,Players.asp?Tourn=WGP2012&Team=JPN&No=138789
+126,Riho, Ohtake,23/12/1993,182,68,306,Players.asp?Tourn=WGP2012&Team=JPN&No=133107
+127,Kanari, Hamaguchi,29/08/1985,167,60,283,Players.asp?Tourn=WGP2012&Team=JPN&No=122618
+128,Haruka, MIYASHITA,01/09/1994,177,61,298,Players.asp?Tourn=WGP2012&Team=JPN&No=132100
+129,Ayumi, Nakamura,29/08/1990,176,70,294,Players.asp?Tourn=WGP2012&Team=JPN&No=138803
+130,Mai, OKUMURA,31/10/1990,177,66,297,Players.asp?Tourn=WGP2012&Team=JPN&No=138802
+131,Yuki, ISHII,08/05/1991,180,67,305,Players.asp?Tourn=WGP2012&Team=JPN&No=135416
+132,Miyu, NAGAOKA,25/07/1991,179,64,308,Players.asp?Tourn=WGP2012&Team=JPN&No=119385
+133,Rika, Nomoto,21/09/1991,180,72,308,Players.asp?Tourn=WGP2012&Team=JPN&No=138801
+134,Yoo Na, Bae Yoona,30/11/1989,182,68,285,Players.asp?Tourn=WGP2012&Team=KOR&No=116431
+135,Hye Seon, Yeum Hyeseon,03/02/1991,177,65,278,Players.asp?Tourn=WGP2012&Team=KOR&No=120148
+136,Joon-Eem, Ha Joon-Eem,26/12/1989,189,74,287,Players.asp?Tourn=WGP2012&Team=KOR&No=116449
+137,Sa Nee, Kim Sa Nee,21/06/1981,180,75,302,Players.asp?Tourn=WGP2012&Team=KOR&No=111622
+138,Hae Ran, Kim Haeran,16/03/1984,168,60,270,Players.asp?Tourn=WGP2012&Team=KOR&No=112775
+139,Su Ji, Kim Suji,11/07/1987,187,68,283,Players.asp?Tourn=WGP2012&Team=KOR&No=114072
+140,Hyo-Sook, LIM Hyo-sook,26/04/1982,177,75,278,Players.asp?Tourn=WGP2012&Team=KOR&No=112493
+141,Jie Youn, Nam Jieyoun,25/05/1983,170,61,285,Players.asp?Tourn=WGP2012&Team=KOR&No=112496
+142,Jeongah, Park Jeongah,26/03/1993,187,75,300,Players.asp?Tourn=WGP2012&Team=KOR&No=131893
+143,Yeon Koung, Kim Yeon Koung,26/02/1988,192,73,330,Players.asp?Tourn=WGP2012&Team=KOR&No=116439
+144,Yoo-Mi, HAN Yoo-mi,05/02/1982,180,65,307,Players.asp?Tourn=WGP2012&Team=KOR&No=111640
+145,Songyi, Han Songyi,05/09/1984,186,65,305,Players.asp?Tourn=WGP2012&Team=KOR&No=112772
+146,Dae-Young, JUNG Daeyoung,12/08/1981,185,73,279,Players.asp?Tourn=WGP2012&Team=KOR&No=112033
+147,Youn Joo, Hwang Younjoo,13/08/1986,177,64,285,Players.asp?Tourn=WGP2012&Team=KOR&No=114880
+148,Ji-Youn, Jung Ji-Youn,28/06/1980,178,64,295,Players.asp?Tourn=WGP2012&Team=KOR&No=113907
+149,Hye-Suk, YOON Hye-suk,19/06/1983,174,60,293,Players.asp?Tourn=WGP2012&Team=KOR&No=114879
+150,Hyo Jin, Yang Hyojin,14/12/1989,190,72,340,Players.asp?Tourn=WGP2012&Team=KOR&No=116443
+151,Hyejin, Kim Hyejin,17/02/1989,180,62,284,Players.asp?Tourn=WGP2012&Team=KOR&No=116436
+152,Heejin, Kim Heejin,29/04/1991,185,75,305,Players.asp?Tourn=WGP2012&Team=KOR&No=119484
+153,Sook-Ja, LEE Sook-ja,17/06/1980,175,58,286,Players.asp?Tourn=WGP2012&Team=KOR&No=113908
+154,Min-Ji, KIM Min-ji,25/05/1985,187,75,304,Players.asp?Tourn=WGP2012&Team=KOR&No=112774
+155,Bo-Lam, LEE Bo-lam,08/08/1988,185,75,283,Players.asp?Tourn=WGP2012&Team=KOR&No=116441
+156,Hyo Hee, LEE Hyohee,09/09/1980,173,58,272,Players.asp?Tourn=WGP2012&Team=KOR&No=117683
+157,Sooji, Han Sooji,01/02/1989,182,72,285,Players.asp?Tourn=WGP2012&Team=KOR&No=116433
+158,Myungok, Yim Myungok,05/05/1986,175,62,273,Players.asp?Tourn=WGP2012&Team=KOR&No=118028
+159,Anna, Podolec,30/10/1985,193,71,318,Players.asp?Tourn=WGP2012&Team=POL&No=112560
+160,Krystyna, Strasz,24/07/1987,165,55,0,Players.asp?Tourn=WGP2012&Team=POL&No=132063
+161,Karolina, Rozycka,28/06/1985,183,68,305,Players.asp?Tourn=WGP2012&Team=POL&No=132060
+162,Izabela, Belcik,29/11/1980,185,65,304,Players.asp?Tourn=WGP2012&Team=POL&No=113513
+163,Berenika, Tomsia,18/03/1988,188,72,310,Players.asp?Tourn=WGP2012&Team=POL&No=114293
+164,Agnieszka, Bednarek-Kasza,20/02/1986,185,71,310,Players.asp?Tourn=WGP2012&Team=POL&No=119134
+165,Joanna, Kaczor,16/09/1984,191,64,305,Players.asp?Tourn=WGP2012&Team=POL&No=112557
+166,Katarzyna, Skorupa,16/09/1984,183,69,302,Players.asp?Tourn=WGP2012&Team=POL&No=112699
+167,Ewelina, Brzezinska,26/01/1988,182,68,308,Players.asp?Tourn=WGP2012&Team=POL&No=132059
+168,Kinga, Kasprzak,12/06/1987,188,76,310,Players.asp?Tourn=WGP2012&Team=POL&No=132064
+169,Anna, Werblinska,14/05/1984,178,66,308,Players.asp?Tourn=WGP2012&Team=POL&No=112544
+170,Izabela, Kowalinska,23/02/1985,186,77,300,Players.asp?Tourn=WGP2012&Team=POL&No=112696
+171,Paulina, Maj-Erwardt,22/03/1987,166,58,277,Players.asp?Tourn=WGP2012&Team=POL&No=118379
+172,Joanna, Wołosz,07/04/1990,181,71,303,Players.asp?Tourn=WGP2012&Team=POL&No=118591
+173,Katarzyna, Gajgal,21/09/1981,190,85,300,Players.asp?Tourn=WGP2012&Team=POL&No=120320
+174,Elzbieta, Skowronska E.,06/07/1983,183,69,305,Players.asp?Tourn=WGP2012&Team=POL&No=122956
+175,Katarzyna, Skowronska K.,30/06/1983,189,75,314,Players.asp?Tourn=WGP2012&Team=POL&No=112551
+176,Maja, Tokarska,22/02/1991,193,72,325,Players.asp?Tourn=WGP2012&Team=POL&No=118590
+177,Monika, Martalek,14/05/1990,187,72,310,Players.asp?Tourn=WGP2012&Team=POL&No=118595
+178,Klaudia, Kaczorowska,20/12/1988,184,68,303,Players.asp?Tourn=WGP2012&Team=POL&No=119139
+179,Paulina, Glaz,04/01/1994,184,72,303,Players.asp?Tourn=WGP2012&Team=POL&No=136438
+180,Zuzanna, Czyznielewska,24/04/1992,186,69,300,Players.asp?Tourn=WGP2012&Team=POL&No=135804
+181,Iga, Chojnacka,21/04/1994,183,68,300,Players.asp?Tourn=WGP2012&Team=POL&No=135800
+182,Agnieszka, Kąkolewska,17/10/1994,197,75,309,Players.asp?Tourn=WGP2012&Team=POL&No=136317
+183,Dorota, Wilk,28/04/1988,178,66,290,Players.asp?Tourn=WGP2012&Team=POL&No=138827
+184,Debora, Seilhamer,04/10/1985,166,61,245,Players.asp?Tourn=WGP2012&Team=PUR&No=120323
+185,Shara, Venegas,18/09/1992,173,68,280,Players.asp?Tourn=WGP2012&Team=PUR&No=124411
+186,Vilmarie, Mojica,13/08/1985,180,63,295,Players.asp?Tourn=WGP2012&Team=PUR&No=112818
+187,Tatiana, Encarnacion,28/07/1985,182,72,300,Players.asp?Tourn=WGP2012&Team=PUR&No=112814
+188,Sarai, Alvarez,03/04/1986,183,61,295,Players.asp?Tourn=WGP2012&Team=PUR&No=115293
+189,Yarimar, Rosa,20/06/1988,178,62,295,Players.asp?Tourn=WGP2012&Team=PUR&No=115005
+190,Stephanie, Enright,15/12/1990,179,56,300,Players.asp?Tourn=WGP2012&Team=PUR&No=119141
+191,Shanon, Wingate,11/02/1981,188,85,301,Players.asp?Tourn=WGP2012&Team=PUR&No=113537
+192,Aurea, Cruz,10/01/1982,180,63,310,Players.asp?Tourn=WGP2012&Team=PUR&No=113532
+193,Genesis, Collazo,04/10/1992,185,74,301,Players.asp?Tourn=WGP2012&Team=PUR&No=133609
+194,Karina, Ocasio,01/08/1985,192,76,298,Players.asp?Tourn=WGP2012&Team=PUR&No=116900
+195,Michelle, Nogueras,05/12/1988,179,58,275,Players.asp?Tourn=WGP2012&Team=PUR&No=115998
+196,Remy June, Mcbain,27/08/1991,188,68,299,Players.asp?Tourn=WGP2012&Team=PUR&No=138687
+197,Natalia, Valentin - Anderson,12/09/1989,170,61,244,Players.asp?Tourn=WGP2012&Team=PUR&No=119146
+198,Daly, Santana,19/02/1995,185,65,300,Players.asp?Tourn=WGP2012&Team=PUR&No=132322
+199,Alexandra, Oquendo,03/02/1984,189,75,297,Players.asp?Tourn=WGP2012&Team=PUR&No=112820
+200,Lynda, Morales,20/05/1988,188,74,302,Players.asp?Tourn=WGP2012&Team=PUR&No=136037
+201,Jetzabel, Del Valle,19/12/1979,185,73,305,Players.asp?Tourn=WGP2012&Team=PUR&No=113531
+202,Amanda, Vazquez,30/03/1984,185,94,302,Players.asp?Tourn=WGP2012&Team=PUR&No=136036
+203,Jennifer, Quesada,22/02/1992,188,71,299,Players.asp?Tourn=WGP2012&Team=PUR&No=133611
+204,Jennifer, Nogueras,01/08/1991,185,88,299,Players.asp?Tourn=WGP2012&Team=PUR&No=119345
+205,Valeria, Gonzalez,15/09/1988,188,67,288,Players.asp?Tourn=WGP2012&Team=PUR&No=138815
+206,Pilar Marie, Victoria,11/10/1995,182,53,301,Players.asp?Tourn=WGP2012&Team=PUR&No=132323
+207,Diana, Reyes,29/04/1993,188,86,290,Players.asp?Tourn=WGP2012&Team=PUR&No=119343
+208,Kanisha, Jimenez,28/11/1995,185,56,295,Players.asp?Tourn=WGP2012&Team=PUR&No=132324
+209,Ana, Zivojinovic,04/07/1991,186,74,280,Players.asp?Tourn=WGP2012&Team=SRB&No=119516
+210,Jovana, Brakocevic Canzian,05/03/1988,196,82,309,Players.asp?Tourn=WGP2012&Team=SRB&No=116208
+211,Ivana, Djerisilo,08/08/1983,188,68,277,Players.asp?Tourn=WGP2012&Team=SRB&No=134074
+212,Bojana, Drca,29/03/1988,186,70,298,Players.asp?Tourn=WGP2012&Team=SRB&No=120326
+213,Natasa, Krsmanovic,19/06/1985,188,73,305,Players.asp?Tourn=WGP2012&Team=SRB&No=116211
+214,Tijana, Malesevic,18/03/1991,185,78,300,Players.asp?Tourn=WGP2012&Team=SRB&No=134068
+215,Brizitka, Molnar,28/07/1985,182,69,304,Players.asp?Tourn=WGP2012&Team=SRB&No=116225
+216,Ana, Antonijevic,26/08/1987,185,71,282,Players.asp?Tourn=WGP2012&Team=SRB&No=116214
+217,Jovana, Vesovic,21/06/1987,182,68,283,Players.asp?Tourn=WGP2012&Team=SRB&No=116300
+218,Maja, Maja,06/08/1984,183,67,300,Players.asp?Tourn=WGP2012&Team=SRB&No=116216
+219,Stefana, Veljkovic,09/01/1990,190,76,325,Players.asp?Tourn=WGP2012&Team=SRB&No=119521
+220,Jelena, Nikolic,13/04/1982,194,79,315,Players.asp?Tourn=WGP2012&Team=SRB&No=116221
+221,Ana, Bjelica,03/04/1992,190,78,310,Players.asp?Tourn=WGP2012&Team=SRB&No=123694
+222,Nadja, Ninkovic,01/11/1991,193,77,307,Players.asp?Tourn=WGP2012&Team=SRB&No=119532
+223,Jovana, Stevanovic,30/06/1992,192,72,308,Players.asp?Tourn=WGP2012&Team=SRB&No=123700
+224,Milena, Milena,25/10/1990,193,72,315,Players.asp?Tourn=WGP2012&Team=SRB&No=119535
+225,Silvija, Popovic,15/03/1986,178,65,286,Players.asp?Tourn=WGP2012&Team=SRB&No=116298
+226,Suzana, Cebic,09/11/1984,167,60,279,Players.asp?Tourn=WGP2012&Team=SRB&No=116224
+227,Sanja, Starovic,25/03/1983,194,96,315,Players.asp?Tourn=WGP2012&Team=SRB&No=116207
+228,Jelena, Blagojevic,01/12/1988,181,67,302,Players.asp?Tourn=WGP2012&Team=SRB&No=124409
+229,Brankica, Mihajlovic,13/04/1991,190,83,302,Players.asp?Tourn=WGP2012&Team=SRB&No=121593
+230,Wanna, B. Wanna,02/01/1981,172,54,292,Players.asp?Tourn=WGP2012&Team=THA&No=113348
+231,Piyanut, P.Piyanut,10/11/1989,171,62,280,Players.asp?Tourn=WGP2012&Team=THA&No=131866
+232,Surasawadee, B. Surasawadee,31/10/1991,179,72,280,Players.asp?Tourn=WGP2012&Team=THA&No=123527
+233,Hattaya, B.Hattaya,12/08/1993,178,62,289,Players.asp?Tourn=WGP2012&Team=THA&No=123015
+234,Pleumjit, T.Pleumjit,09/11/1983,180,67,303,Players.asp?Tourn=WGP2012&Team=THA&No=113352
+235,Onuma, S.Onuma,13/06/1986,175,72,304,Players.asp?Tourn=WGP2012&Team=THA&No=114638
+236,Pornpimol, K. Pornpimol,18/06/1993,178,70,268,Players.asp?Tourn=WGP2012&Team=THA&No=122841
+237,Utaiwan, K.Utaiwan,07/09/1988,189,86,310,Players.asp?Tourn=WGP2012&Team=THA&No=119005
+238,Piyamas, K.Piyamas,23/10/1978,178,67,298,Players.asp?Tourn=WGP2012&Team=THA&No=113356
+239,Wilavan, A.Wilavan,06/06/1984,174,70,294,Players.asp?Tourn=WGP2012&Team=THA&No=113916
+240,Amporn, H.Amporn,19/05/1985,180,70,301,Players.asp?Tourn=WGP2012&Team=THA&No=113358
+241,Tapaphaipun, C.Tapaphaipun,29/11/1989,168,70,295,Players.asp?Tourn=WGP2012&Team=THA&No=118998
+242,Nootsara, T.Nootsara,07/07/1985,169,57,289,Players.asp?Tourn=WGP2012&Team=THA&No=113917
+243,Jarasporn, B.Jarasporn,01/03/1993,180,66,280,Players.asp?Tourn=WGP2012&Team=THA&No=132546
+244,Malika, K.Malika,08/01/1987,178,65,292,Players.asp?Tourn=WGP2012&Team=THA&No=114283
+245,Pornpun, G.Pornpun,05/05/1993,170,63,288,Players.asp?Tourn=WGP2012&Team=THA&No=123019
+246,Kamonporn, S.Kamonporn,29/02/1988,174,63,285,Players.asp?Tourn=WGP2012&Team=THA&No=114583
+247,Ajcharaporn, K.Ajcharaporn,18/06/1995,178,65,298,Players.asp?Tourn=WGP2012&Team=THA&No=133511
+248,Sontaya, K.Sontaya,09/02/1991,177,68,290,Players.asp?Tourn=WGP2012&Team=THA&No=124062
+249,Rasamee, S.Rasamee,10/01/1992,178,68,285,Players.asp?Tourn=WGP2012&Team=THA&No=132545
+250,Tanaporn, P.Tanaporn,04/02/1994,173,68,276,Players.asp?Tourn=WGP2012&Team=THA&No=136709
+251,Kaewkalaya, K.Kaewkalaya,07/08/1994,178,72,279,Players.asp?Tourn=WGP2012&Team=THA&No=136682
+252,Chutikarn, P.Chutikarn,06/05/1994,173,56,274,Players.asp?Tourn=WGP2012&Team=THA&No=136710
+253,Yupa, S.Yupa,14/08/1991,160,60,280,Players.asp?Tourn=WGP2012&Team=THA&No=124271
+254,Em-orn, P.Em-orn,25/03/1988,179,70,302,Players.asp?Tourn=WGP2012&Team=THA&No=119012
+255,Yen Min, Teng Y.M.,09/02/1984,172,65,293,Players.asp?Tourn=WGP2012&Team=TPE&No=122657
+256,Yi Hsuan, Lee Y.H.,02/08/1992,164,59,286,Players.asp?Tourn=WGP2012&Team=TPE&No=138693
+257,Ko Jou, Wu K.J.,17/11/1985,175,75,285,Players.asp?Tourn=WGP2012&Team=TPE&No=113025
+258,Sin Ting, Wang S.T.,17/10/1992,176,61,278,Players.asp?Tourn=WGP2012&Team=TPE&No=122521
+259,Yi Ping, Lee Y.P.,08/08/1989,177,70,291,Players.asp?Tourn=WGP2012&Team=TPE&No=116505
+260,Wan Ju, Liao W.J.,19/04/1984,175,68,290,Players.asp?Tourn=WGP2012&Team=TPE&No=112378
+261,Wan Ting, Chen W.T.,25/11/1990,178,67,290,Players.asp?Tourn=WGP2012&Team=TPE&No=116506
+262,Wan Ching, Chen W.C.,16/06/1988,167,56,289,Players.asp?Tourn=WGP2012&Team=TPE&No=122655
+263,Meng Hua, Yang M.H.,15/08/1991,170,68,270,Players.asp?Tourn=WGP2012&Team=TPE&No=122514
+264,I Tzu, Wen I.T.,31/10/1991,175,64,281,Players.asp?Tourn=WGP2012&Team=TPE&No=122519
+265,Yin Feng, Tsai Y.F.,06/11/1984,181,75,291,Players.asp?Tourn=WGP2012&Team=TPE&No=113021
+266,Pei Ling, Yen  P.L.,05/01/1986,174,65,270,Players.asp?Tourn=WGP2012&Team=TPE&No=113028
+267,Güldeniz, Güldeniz,25/03/1986,183,75,296,Players.asp?Tourn=WGP2012&Team=TUR&No=115402
+268,Gülden, Gülden,05/12/1980,167,57,281,Players.asp?Tourn=WGP2012&Team=TUR&No=138771
+269,Gizem, Guresen,14/01/1987,178,70,250,Players.asp?Tourn=WGP2012&Team=TUR&No=138770
+270,Nihan, Yeldan Guneyligil,07/02/1982,170,60,280,Players.asp?Tourn=WGP2012&Team=TUR&No=138800
+271,Ergul, Ergül,24/07/1987,190,75,300,Players.asp?Tourn=WGP2012&Team=TUR&No=115398
+272,Polen, Uslupehlivan,27/08/1990,193,65,320,Players.asp?Tourn=WGP2012&Team=TUR&No=138777
+273,Ayse Gokcen, Denkel Zop,02/08/1985,193,80,320,Players.asp?Tourn=WGP2012&Team=TUR&No=138805
+274,Bahar, Toksoy,06/02/1988,190,68,315,Players.asp?Tourn=WGP2012&Team=TUR&No=138783
+275,Ozge Nur, Yurtdagülen,06/08/1993,193,67,320,Players.asp?Tourn=WGP2012&Team=TUR&No=138778
+276,Gozde, Sonsirma,26/06/1985,183,70,297,Players.asp?Tourn=WGP2012&Team=TUR&No=138772
+277,Naz, Aydemir,14/08/1990,186,68,304,Players.asp?Tourn=WGP2012&Team=TUR&No=115403
+278,Esra, Gümüs,02/10/1982,181,76,305,Players.asp?Tourn=WGP2012&Team=TUR&No=114013
+279,Neriman, Özsoy,13/07/1988,188,76,312,Players.asp?Tourn=WGP2012&Team=TUR&No=138775
+280,Eda, Erdem,22/06/1987,188,74,307,Players.asp?Tourn=WGP2012&Team=TUR&No=138782
+281,Meryem, Calik,03/02/1988,194,63,315,Players.asp?Tourn=WGP2012&Team=TUR&No=124526
+282,Nedime Elif, Oner,10/02/1984,186,72,292,Players.asp?Tourn=WGP2012&Team=TUR&No=138804
+283,Neslihan, Darnel,09/12/1983,187,72,315,Players.asp?Tourn=WGP2012&Team=TUR&No=138781
+284,Asuman, Karakoyun,16/07/1990,180,72,293,Players.asp?Tourn=WGP2012&Team=TUR&No=119697
+285,Seda, Tokatlioglu,25/06/1986,192,80,312,Players.asp?Tourn=WGP2012&Team=TUR&No=115394
+286,Büsra, Büsra,16/07/1990,188,84,297,Players.asp?Tourn=WGP2012&Team=TUR&No=119685
+287,Nilay, Nilay,24/10/1985,179,67,286,Players.asp?Tourn=WGP2012&Team=TUR&No=138774
+288,Yeliz, Basa,13/08/1987,187,75,308,Players.asp?Tourn=WGP2012&Team=TUR&No=138807
+289,Selime, Ilyasoglu,18/11/1988,183,68,310,Players.asp?Tourn=WGP2012&Team=TUR&No=138780
+290,Gizem, Gizem,26/04/1993,170,59,270,Players.asp?Tourn=WGP2012&Team=TUR&No=138773
+291,Ezgi, Dagdelenler,03/11/1993,184,69,290,Players.asp?Tourn=WGP2012&Team=TUR&No=138808
+292,Alisha, Glass,05/04/1988,184,72,305,Players.asp?Tourn=WGP2012&Team=USA&No=132576
+293,Danielle, Scott,01/10/1972,188,84,325,Players.asp?Tourn=WGP2012&Team=USA&No=113366
+294,Tayyiba, Haneef-Park,23/03/1979,200,82,328,Players.asp?Tourn=WGP2012&Team=USA&No=113377
+295,Lindsey, Berg,16/07/1980,173,75,287,Players.asp?Tourn=WGP2012&Team=USA&No=117611
+296,Stacy, Sykora,24/06/1977,176,61,305,Players.asp?Tourn=WGP2012&Team=USA&No=113367
+297,Nicole, Davis,24/04/1982,167,73,284,Players.asp?Tourn=WGP2012&Team=USA&No=112581
+298,Heather, Bown,29/11/1978,188,90,301,Players.asp?Tourn=WGP2012&Team=USA&No=113369
+299,Cynthia, Barboza,07/02/1987,183,68,311,Players.asp?Tourn=WGP2012&Team=USA&No=112592
+300,Jennifer, Tamas,23/11/1982,191,82,315,Players.asp?Tourn=WGP2012&Team=USA&No=114061
+301,Kimberly, K. Glass,18/08/1984,190,75,314,Players.asp?Tourn=WGP2012&Team=USA&No=112584
+302,Jordan, Larson,16/10/1986,188,75,302,Players.asp?Tourn=WGP2012&Team=USA&No=114051
+303,Nancy, Metcalf,12/11/1978,186,73,314,Players.asp?Tourn=WGP2012&Team=USA&No=113376
+304,Christa Harmotto, Dietzen,12/10/1986,188,79,322,Players.asp?Tourn=WGP2012&Team=USA&No=115496
+305,Nicole, Fawcett,16/12/1986,191,82,310,Players.asp?Tourn=WGP2012&Team=USA&No=114059
+306,Logan, Tom,25/05/1981,186,80,306,Players.asp?Tourn=WGP2012&Team=USA&No=113373
+307,Foluke, Akinradewo,05/10/1987,191,79,331,Players.asp?Tourn=WGP2012&Team=USA&No=115495
+308,Carli, Lloyd,06/08/1989,180,75,313,Players.asp?Tourn=WGP2012&Team=USA&No=137394
+309,Megan, Easy,15/10/1988,191,80,320,Players.asp?Tourn=WGP2012&Team=USA&No=115857
+310,Destinee, Hooker,07/09/1987,193,73,320,Players.asp?Tourn=WGP2012&Team=USA&No=132049
+311,Alexandra, Alix,30/12/1989,194,73,322,Players.asp?Tourn=WGP2012&Team=USA&No=115846
+312,Tamari, Miyashiro,08/07/1987,170,70,284,Players.asp?Tourn=WGP2012&Team=USA&No=132048
+313,Courtney, Thompson,04/11/1984,170,66,276,Players.asp?Tourn=WGP2012&Team=USA&No=119055
+314,Mary, Spicer,03/07/1987,175,65,292,Players.asp?Tourn=WGP2012&Team=USA&No=115500
+315,Kristin Lynn, Hildebrand,30/06/1985,185,68,300,Players.asp?Tourn=WGP2012&Team=USA&No=112580
+316,Lauren, Gibbemeyer,08/09/1988,187,71,307,Players.asp?Tourn=WGP2012&Team=USA&No=119170

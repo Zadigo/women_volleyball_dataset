@@ -1,0 +1,344 @@
+id,name,date_of_birth,height,weight,spike,block,link
+1,Nadira,Ait Oumghar,09.10.1994,185,77,281,Players.asp?Tourn=WGP2013&Team=ALG&No=135594
+2,Dallal Merwa,Achour,03.11.1994,176,60,275,Players.asp?Tourn=WGP2013&Team=ALG&No=135595
+3,Salima,Salima,17.01.1984,158,54,270,Players.asp?Tourn=WGP2013&Team=ALG&No=120596
+4,Fatma Zahra,Djouad,12.07.1988,180,62,295,Players.asp?Tourn=WGP2013&Team=ALG&No=120602
+5,Sara,Sara,18.09.1994,178,60,272,Players.asp?Tourn=WGP2013&Team=ALG&No=146590
+6,Silya,Magnana,16.03.1991,181,68,274,Players.asp?Tourn=WGP2013&Team=ALG&No=133380
+7,Manel,Yagoubi,25.06.1992,178,70,295,Players.asp?Tourn=WGP2013&Team=ALG&No=133397
+8,Zohra,Bensalem,05.04.1990,178,68,310,Players.asp?Tourn=WGP2013&Team=ALG&No=124111
+9,Amina,Amina,18.07.1993,173,62,295,Players.asp?Tourn=WGP2013&Team=ALG&No=138025
+10,Fatima Zahra,Mazori,18.01.1984,175,67,295,Players.asp?Tourn=WGP2013&Team=ALG&No=113937
+11,Mouni,Mouni,19.11.1985,171,60,305,Players.asp?Tourn=WGP2013&Team=ALG&No=112540
+12,Safia,Boukhima,10.01.1991,176,64,294,Players.asp?Tourn=WGP2013&Team=ALG&No=120603
+13,Nawal,Mansouri,01.08.1985,174,64,291,Players.asp?Tourn=WGP2013&Team=ALG&No=113942
+14,Kahina,Messaoudene,15.07.1992,183,56,299,Players.asp?Tourn=WGP2013&Team=ALG&No=133396
+15,Aicha,Mezemate,06.06.1991,187,75,300,Players.asp?Tourn=WGP2013&Team=ALG&No=124211
+16,Sihem,Saoud.S,18.07.1993,175,62,295,Players.asp?Tourn=WGP2013&Team=ALG&No=138026
+17,Lydia,Oulmou,02.02.1986,181,59,291,Players.asp?Tourn=WGP2013&Team=ALG&No=112531
+18,Tassadit,Sassa,19.06.1989,184,80,295,Players.asp?Tourn=WGP2013&Team=ALG&No=120601
+19,Celia,Bourihane,22.01.1995,178,56,277,Players.asp?Tourn=WGP2013&Team=ALG&No=133834
+20,Kahina,Arbouche,04.09.1993,175,60,295,Players.asp?Tourn=WGP2013&Team=ALG&No=143361
+21,Yasmine,Ousalah,04.07.1993,174,60,270,Players.asp?Tourn=WGP2013&Team=ALG&No=143375
+22,Nawel,Hammouche,25.04.1997,185,66,279,Players.asp?Tourn=WGP2013&Team=ALG&No=135763
+23,Lucia,Gaido,19.01.1988,164,53,245,Players.asp?Tourn=WGP2013&Team=ARG&No=124662
+24,Josefina,Fernandez,17.08.1991,180,69,300,Players.asp?Tourn=WGP2013&Team=ARG&No=122488
+25,Paula Yamila,Nizetich,27.01.1989,181,74,305,Players.asp?Tourn=WGP2013&Team=ARG&No=122486
+26,Sol,Piccolo,11.09.1996,184,74,294,Players.asp?Tourn=WGP2013&Team=ARG&No=135935
+27,Lucia,Fresco,14.05.1991,195,92,304,Players.asp?Tourn=WGP2013&Team=ARG&No=124661
+28,Daniela,Gildenberger,12.06.1984,180,77,300,Players.asp?Tourn=WGP2013&Team=ARG&No=135503
+29,Natalia,Aispurua,20.12.1991,192,78,310,Players.asp?Tourn=WGP2013&Team=ARG&No=138013
+30,Tanya,Acosta,11.03.1991,182,70,287,Players.asp?Tourn=WGP2013&Team=ARG&No=140381
+31,Viviana,Dominko,03.10.1982,172,68,289,Players.asp?Tourn=WGP2013&Team=ARG&No=112338
+32,Emilce,Sosa,11.09.1987,177,72,305,Players.asp?Tourn=WGP2013&Team=ARG&No=124660
+33,Georgina,Pinedo,30.05.1981,180,64,312,Players.asp?Tourn=WGP2013&Team=ARG&No=113395
+34,Tatiana Soledad,Rizzo,30.12.1986,178,64,280,Players.asp?Tourn=WGP2013&Team=ARG&No=122484
+35,Leticia,Boscacci,08.11.1985,186,70,302,Players.asp?Tourn=WGP2013&Team=ARG&No=117250
+36,Florencia,Carlotto,14.10.1988,183,72,302,Players.asp?Tourn=WGP2013&Team=ARG&No=123034
+37,Sherry,Moreno,21.10.1989,185,77,303,Players.asp?Tourn=WGP2013&Team=ARG&No=142510
+38,Florencia Natasha,Busquets,27.06.1989,192,68,305,Players.asp?Tourn=WGP2013&Team=ARG&No=122490
+39,Antonela Ayelen,Curatola,23.10.1991,175,71,290,Players.asp?Tourn=WGP2013&Team=ARG&No=135505
+40,Yael,Castiglione Y,27.09.1985,184,75,295,Players.asp?Tourn=WGP2013&Team=ARG&No=112619
+41,Elina,Rodriguez,11.02.1997,189,72,300,Players.asp?Tourn=WGP2013&Team=ARG&No=135938
+42,Mariangeles,Cossar,07.04.1990,177,70,290,Players.asp?Tourn=WGP2013&Team=ARG&No=138016
+43,Maria Sol,Calvete,14.09.1994,179,65,295,Players.asp?Tourn=WGP2013&Team=ARG&No=135924
+44,Eugenia,Nosach,31.03.1993,175,66,290,Players.asp?Tourn=WGP2013&Team=ARG&No=143179
+45,Fabiana,Fabiana,24.01.1985,193,76,314,Players.asp?Tourn=WGP2013&Team=BRA&No=112628
+46,Juciely Cristina,Juciely,18.12.1980,184,71,312,Players.asp?Tourn=WGP2013&Team=BRA&No=132589
+47,Danielle,Dani Lins,05.01.1985,181,68,290,Players.asp?Tourn=WGP2013&Team=BRA&No=112625
+48,Ellen,Ellen,12.06.1991,178,65,288,Players.asp?Tourn=WGP2013&Team=BRA&No=134625
+49,Adenizia,Adê,18.12.1986,185,63,312,Players.asp?Tourn=WGP2013&Team=BRA&No=113955
+50,Thaisa,Thaisa,15.05.1987,196,79,316,Players.asp?Tourn=WGP2013&Team=BRA&No=113963
+51,Priscila,Priscila,10.08.1988,182,74,290,Players.asp?Tourn=WGP2013&Team=BRA&No=115970
+52,Claudia,Claudia,21.09.1987,181,80,290,Players.asp?Tourn=WGP2013&Team=BRA&No=138832
+53,Michelle,Michelle,31.10.1986,178,62,295,Players.asp?Tourn=WGP2013&Team=BRA&No=115522
+54,Gabriela,Gabi,19.05.1994,180,65,305,Players.asp?Tourn=WGP2013&Team=BRA&No=136896
+55,Tandara,Tandara,30.10.1988,184,87,305,Players.asp?Tourn=WGP2013&Team=BRA&No=115958
+56,Natalia,Natália,04.04.1989,186,83,311,Players.asp?Tourn=WGP2013&Team=BRA&No=115952
+57,Sheilla,Sheilla,01.07.1983,185,64,302,Players.asp?Tourn=WGP2013&Team=BRA&No=112366
+58,Fabiana,Fabí,07.03.1980,169,59,276,Players.asp?Tourn=WGP2013&Team=BRA&No=113162
+59,Monique,Monique,31.10.1986,178,67,294,Players.asp?Tourn=WGP2013&Team=BRA&No=141870
+60,Fernanda,Fe Garay,10.05.1986,179,74,308,Players.asp?Tourn=WGP2013&Team=BRA&No=112641
+61,Josefa Fabiola,Fabiola,03.02.1983,184,70,300,Players.asp?Tourn=WGP2013&Team=BRA&No=119147
+62,Camila,C. Brait,28.10.1988,170,58,271,Players.asp?Tourn=WGP2013&Team=BRA&No=119241
+63,Leticia Magnani,Leticia,09.09.1990,187,83,301,Players.asp?Tourn=WGP2013&Team=BRA&No=124053
+64,Ana Beatriz,Ana Beatriz,07.02.1992,187,70,298,Players.asp?Tourn=WGP2013&Team=BRA&No=119566
+65,Ivna,Ivna,25.01.1990,185,76,305,Players.asp?Tourn=WGP2013&Team=BRA&No=119546
+66,Suelen,Suelen,04.10.1987,166,81,256,Players.asp?Tourn=WGP2013&Team=BRA&No=115518
+67,Diana,Puleva,16.04.1985,178,70,294,Players.asp?Tourn=WGP2013&Team=BUL&No=122455
+68,Desislava,Nikolova D.,21.12.1991,184,65,290,Players.asp?Tourn=WGP2013&Team=BUL&No=122631
+69,Kremena,Kamenova,21.05.1988,185,64,304,Players.asp?Tourn=WGP2013&Team=BUL&No=124574
+70,Lora,Kitipova,19.05.1991,184,66,290,Players.asp?Tourn=WGP2013&Team=BUL&No=138283
+71,Dobriana,Rabadzhieva,14.06.1991,190,77,305,Players.asp?Tourn=WGP2013&Team=BUL&No=122542
+72,Tsvetelina,Zarkova,18.12.1986,187,69,298,Players.asp?Tourn=WGP2013&Team=BUL&No=122458
+73,Gabriela,Koeva,25.07.1989,187,72,306,Players.asp?Tourn=WGP2013&Team=BUL&No=122459
+74,Simona,Dimitrova S.,17.07.1994,185,82,290,Players.asp?Tourn=WGP2013&Team=BUL&No=142345
+75,Petya,Barakova,18.06.1994,180,76,283,Players.asp?Tourn=WGP2013&Team=BUL&No=142348
+76,Gergana,Dimitrova,28.02.1996,184,71,305,Players.asp?Tourn=WGP2013&Team=BUL&No=142341
+77,Hristina,Ruseva,01.10.1991,190,77,305,Players.asp?Tourn=WGP2013&Team=BUL&No=124201
+78,Mariya,Karakasheva,27.10.1988,182,68,295,Players.asp?Tourn=WGP2013&Team=BUL&No=122461
+79,Mariya,Filipova,10.09.1982,178,68,295,Players.asp?Tourn=WGP2013&Team=BUL&No=113555
+80,Slavina,Koleva,22.11.1986,184,57,302,Players.asp?Tourn=WGP2013&Team=BUL&No=143366
+81,Silvana,Chausheva,19.05.1995,188,75,305,Players.asp?Tourn=WGP2013&Team=BUL&No=142333
+82,Elitsa,Vasileva,13.05.1990,190,73,302,Players.asp?Tourn=WGP2013&Team=BUL&No=122541
+83,Strashimira Strashimirova,Simeonova,18.08.1985,195,78,307,Players.asp?Tourn=WGP2013&Team=BUL&No=122462
+84,Emiliya,Dimitrova,26.12.1991,185,59,302,Players.asp?Tourn=WGP2013&Team=BUL&No=134954
+85,Mira,Todorova M.,12.04.1994,187,73,312,Players.asp?Tourn=WGP2013&Team=BUL&No=142337
+86,Zhana,Todorova,06.01.1997,170,56,271,Players.asp?Tourn=WGP2013&Team=BUL&No=142351
+108,Melissa Teresa,Vargas,16.10.1999,184,78,244,Players.asp?Tourn=WGP2013&Team=CUB&No=143339
+109,Lilianny,Marsillan,05.10.1991,181,65,300,Players.asp?Tourn=WGP2013&Team=CUB&No=124090
+110,Alena,Orta,09.08.1992,186,76,320,Players.asp?Tourn=WGP2013&Team=CUB&No=138784
+111,Yoana,Palacio,06.10.1990,184,67,313,Players.asp?Tourn=WGP2013&Team=CUB&No=143357
+112,Heidy,Casanova,06.11.1998,184,78,244,Players.asp?Tourn=WGP2013&Team=CUB&No=143340
+113,Daymara,Lescay,05.09.1992,184,72,308,Players.asp?Tourn=WGP2013&Team=CUB&No=154412
+114,Claudia,Hernandez,09.01.1997,181,78,225,Players.asp?Tourn=WGP2013&Team=CUB&No=140012
+115,Emily,Borrell,19.02.1992,167,55,270,Players.asp?Tourn=WGP2013&Team=CUB&No=124091
+116,Dayessi,Luis,23.10.1996,170,60,288,Players.asp?Tourn=WGP2013&Team=CUB&No=143341
+117,Ana Yilian,Cleger,27.11.1989,183,69,300,Players.asp?Tourn=WGP2013&Team=CUB&No=143342
+118,Gretell Elena,Moreno,30.01.1998,183,68,287,Players.asp?Tourn=WGP2013&Team=CUB&No=143404
+119,Dairilys Margarita,Cruz,12.09.1990,183,65,310,Players.asp?Tourn=WGP2013&Team=CUB&No=143343
+120,Rosanna,Giel,10.06.1992,187,62,320,Players.asp?Tourn=WGP2013&Team=CUB&No=124087
+121,Dayami,Sanchez,14.03.1994,188,64,314,Players.asp?Tourn=WGP2013&Team=CUB&No=133942
+122,Beatriz,Vilches,29.01.1995,182,68,288,Players.asp?Tourn=WGP2013&Team=CUB&No=143369
+123,Anet,Alfonso,26.06.1996,172,54,225,Players.asp?Tourn=WGP2013&Team=CUB&No=140009
+124,Yelennis,Cairo,14.10.1995,189,71,300,Players.asp?Tourn=WGP2013&Team=CUB&No=143345
+125,Sulian Caridad,Matienzo,14.12.1994,178,75,232,Players.asp?Tourn=WGP2013&Team=CUB&No=140017
+126,Jennifer Yanet,Alvarez,19.11.1993,184,72,310,Players.asp?Tourn=WGP2013&Team=CUB&No=124163
+127,Heidy Margarita,Rodriguez,24.06.1993,187,66,312,Players.asp?Tourn=WGP2013&Team=CUB&No=143347
+128,Andrea,Kossanyiova,06.08.1993,186,72,310,Players.asp?Tourn=WGP2013&Team=CZE&No=124232
+129,Eva,Hodanova,18.12.1993,189,75,306,Players.asp?Tourn=WGP2013&Team=CZE&No=143418
+130,Kristyna,BOULOVA (Pastulova),22.10.1985,197,84,315,Players.asp?Tourn=WGP2013&Team=CZE&No=112667
+131,Aneta,Havlickova,03.07.1987,190,96,316,Players.asp?Tourn=WGP2013&Team=CZE&No=115550
+132,Julie,Kovarova,14.09.1987,179,62,295,Players.asp?Tourn=WGP2013&Team=CZE&No=122390
+133,Lucie,Smutna,14.04.1991,180,75,307,Players.asp?Tourn=WGP2013&Team=CZE&No=124235
+134,Sarka,Kubinova,19.04.1988,178,63,303,Players.asp?Tourn=WGP2013&Team=CZE&No=122389
+135,Tereza,Rossi,03.12.1982,191,81,310,Players.asp?Tourn=WGP2013&Team=CZE&No=113430
+136,Michaela,Monzoni,18.04.1984,193,75,310,Players.asp?Tourn=WGP2013&Team=CZE&No=115554
+137,Petra,Kojdova,23.09.1993,183,68,304,Players.asp?Tourn=WGP2013&Team=CZE&No=143419
+138,Veronika,Dostalova,07.04.1992,170,66,278,Players.asp?Tourn=WGP2013&Team=CZE&No=143420
+139,Karolína,Bednarova,20.07.1986,183,67,304,Players.asp?Tourn=WGP2013&Team=CZE&No=120584
+140,Tereza,Vanzurova,04.04.1991,186,83,300,Players.asp?Tourn=WGP2013&Team=CZE&No=124228
+141,Lucie,Muhlsteinova,15.10.1984,180,72,296,Players.asp?Tourn=WGP2013&Team=CZE&No=112665
+142,Ivona,Svobodnikova,01.04.1991,190,77,300,Players.asp?Tourn=WGP2013&Team=CZE&No=124227
+143,Helena,Havelkova,25.07.1988,186,70,320,Players.asp?Tourn=WGP2013&Team=CZE&No=122391
+144,Ivana,Plchotova,28.10.1982,192,76,310,Players.asp?Tourn=WGP2013&Team=CZE&No=112450
+145,Pavla,Vincourova,12.11.1992,180,68,297,Players.asp?Tourn=WGP2013&Team=CZE&No=124230
+146,Nikol,Sajdova,20.07.1988,185,79,298,Players.asp?Tourn=WGP2013&Team=CZE&No=137586
+147,Lucie,Herbockova,02.01.1994,183,67,299,Players.asp?Tourn=WGP2013&Team=CZE&No=142292
+148,Michaela,Mlejnkova,26.07.1996,185,75,305,Players.asp?Tourn=WGP2013&Team=CZE&No=142297
+149,Annerys Victoria,Valdez,07.08.1981,196,70,327,Players.asp?Tourn=WGP2013&Team=DOM&No=113454
+150,Winifer Maria,Fernandez,06.01.1995,169,62,270,Players.asp?Tourn=WGP2013&Team=DOM&No=131956
+151,Lisvel Elisa,Eve,10.09.1991,194,90,325,Players.asp?Tourn=WGP2013&Team=DOM&No=119591
+152,Marianne,Fersola,16.01.1992,191,60,315,Players.asp?Tourn=WGP2013&Team=DOM&No=119544
+153,Brenda,Castillo,05.06.1992,167,55,245,Players.asp?Tourn=WGP2013&Team=DOM&No=119039
+154,Marifranchi,Rodriguez,29.08.1990,184,68,310,Players.asp?Tourn=WGP2013&Team=DOM&No=115386
+155,Niverka Dharlenis,Marte,19.10.1990,178,71,295,Players.asp?Tourn=WGP2013&Team=DOM&No=119585
+156,Candida Estefany,Arias,11.03.1992,194,68,320,Players.asp?Tourn=WGP2013&Team=DOM&No=119224
+157,Sidarka De Los Milagros,Nuñez,25.06.1984,185,62,330,Players.asp?Tourn=WGP2013&Team=DOM&No=114679
+158,Pamela Marie,Soriano,30.06.1995,175,64,290,Players.asp?Tourn=WGP2013&Team=DOM&No=131958
+159,Jeoselyna,Rodriguez,09.12.1991,187,63,325,Players.asp?Tourn=WGP2013&Team=DOM&No=119587
+160,Karla Miguelina,Echenique,16.05.1986,180,65,300,Players.asp?Tourn=WGP2013&Team=DOM&No=112464
+161,Jineiry,Martinez,03.12.1997,190,68,305,Players.asp?Tourn=WGP2013&Team=DOM&No=139910
+162,Prisilla,Rivera,29.12.1984,183,67,309,Players.asp?Tourn=WGP2013&Team=DOM&No=112468
+163,Celenia,Toribio,17.07.1994,181,69,290,Players.asp?Tourn=WGP2013&Team=DOM&No=131957
+164,Yonkaira Paola,Peña Isabel,10.05.1993,190,70,320,Players.asp?Tourn=WGP2013&Team=DOM&No=123978
+165,Gina Altagracia,Mambru,21.01.1986,182,65,330,Players.asp?Tourn=WGP2013&Team=DOM&No=115391
+166,Bethania,De La Cruz,13.05.1987,188,70,330,Players.asp?Tourn=WGP2013&Team=DOM&No=114294
+167,Ana Yorkira,Binet,09.02.1992,174,58,280,Players.asp?Tourn=WGP2013&Team=DOM&No=119229
+168,Brayelin Elizabeth,Martinez,11.09.1996,201,83,330,Players.asp?Tourn=WGP2013&Team=DOM&No=123982
+169,Erasma,Moreno,25.11.1991,183,75,304,Players.asp?Tourn=WGP2013&Team=DOM&No=124158
+170,Gaila Ceneida,Gonzalez,25.06.1997,188,73,304,Players.asp?Tourn=WGP2013&Team=DOM&No=139927
+171,Kathleen WeiÃŸ,02.02.1984,173,64,290,273,Players.asp?Tourn=WGP2013&Team=GER&No=113902
+172,Denise Hanke,31.08.1989,183,73,297,284,Players.asp?Tourn=WGP2013&Team=GER&No=119105
+173,Maren Fromm,10.07.1986,184,68,303,295,Players.asp?Tourn=WGP2013&Team=GER&No=120333
+174,Anja Brandt,15.02.1990,195,77,310,295,Players.asp?Tourn=WGP2013&Team=GER&No=119318
+175,Kathy Radzuweit,02.03.1982,196,76,319,300,Players.asp?Tourn=WGP2013&Team=GER&No=112051
+176,Jana Franziska Poll,07.05.1988,185,69,310,290,Players.asp?Tourn=WGP2013&Team=GER&No=141676
+177,Berit Kauffeldt,08.07.1990,190,75,311,294,Players.asp?Tourn=WGP2013&Team=GER&No=118959
+178,Corina Ssuschke-Voigt,09.05.1983,189,75,310,298,Players.asp?Tourn=WGP2013&Team=GER&No=112479
+179,Anne Matthes,30.04.1985,182,66,312,295,Players.asp?Tourn=WGP2013&Team=GER&No=120334
+180,Christiane FÃ¼rst,29.03.1985,193,80,323,307,Players.asp?Tourn=WGP2013&Team=GER&No=112473
+181,Heike Beier,09.12.1983,184,73,305,293,Players.asp?Tourn=WGP2013&Team=GER&No=112477
+182,Saskia Hippe,16.01.1991,185,67,315,292,Players.asp?Tourn=WGP2013&Team=GER&No=118954
+183,Margareta Kozuch,30.10.1986,187,70,309,297,Players.asp?Tourn=WGP2013&Team=GER&No=116179
+184,Lisa Thomsen,20.08.1985,172,68,290,285,Players.asp?Tourn=WGP2013&Team=GER&No=123175
+185,Lena MÃ¶llers,06.01.1990,188,74,312,297,Players.asp?Tourn=WGP2013&Team=GER&No=118946
+186,Carina Aulenbrock,22.09.1994,0,0,310,291,Players.asp?Tourn=WGP2013&Team=GER&No=143759
+187,Regina Burchardt,01.07.1983,186,77,302,294,Players.asp?Tourn=WGP2013&Team=GER&No=112480
+188,Svenja Engelhardt,20.04.1988,182,71,304,288,Players.asp?Tourn=WGP2013&Team=GER&No=118275
+189,Mareen Von RÃ¶mer,26.03.1987,183,73,295,284,Players.asp?Tourn=WGP2013&Team=GER&No=114525
+190,Jennifer Geerties,05.04.1994,184,58,298,288,Players.asp?Tourn=WGP2013&Team=GER&No=123911
+191,Lisa Izquierdo,29.08.1994,178,73,309,294,Players.asp?Tourn=WGP2013&Team=GER&No=136676
+192,Indre,Sorokaite,02.07.1988,188,80,303,Players.asp?Tourn=WGP2013&Team=ITA&No=141237
+193,Cristina,Barcellini,20.11.1986,183,78,307,Players.asp?Tourn=WGP2013&Team=ITA&No=124171
+194,Immacolata,Sirressi,19.05.1990,175,62,290,Players.asp?Tourn=WGP2013&Team=ITA&No=118763
+195,Letizia,Camera,01.10.1992,175,62,285,Players.asp?Tourn=WGP2013&Team=ITA&No=123738
+196,Enrica,Merlo,28.12.1988,170,60,281,Players.asp?Tourn=WGP2013&Team=ITA&No=119188
+197,Monica,De Gennaro,08.01.1987,174,67,292,Players.asp?Tourn=WGP2013&Team=ITA&No=115478
+198,Martina,Guiggi,01.05.1984,187,80,317,Players.asp?Tourn=WGP2013&Team=ITA&No=112516
+199,Noemi,Signorile,15.02.1990,183,72,294,Players.asp?Tourn=WGP2013&Team=ITA&No=132039
+200,Caterina,Bosetti C,02.02.1994,179,59,299,Players.asp?Tourn=WGP2013&Team=ITA&No=123744
+201,Cristina,Chirichella,10.02.1994,194,79,322,Players.asp?Tourn=WGP2013&Team=ITA&No=136690
+202,Chiara,Di Iulio,05.05.1985,184,65,291,Players.asp?Tourn=WGP2013&Team=ITA&No=112734
+203,Valentina,Zago,21.02.1990,186,77,305,Players.asp?Tourn=WGP2013&Team=ITA&No=118768
+204,Valentina,Arrighetti,26.01.1985,185,72,318,Players.asp?Tourn=WGP2013&Team=ITA&No=112728
+205,Valeria,Caracuta,14.12.1987,173,65,285,Players.asp?Tourn=WGP2013&Team=ITA&No=141714
+206,Floriana,Bertone,19.11.1992,202,80,316,Players.asp?Tourn=WGP2013&Team=ITA&No=123737
+207,Lucia,Bosetti L,09.07.1989,178,63,310,Players.asp?Tourn=WGP2013&Team=ITA&No=115816
+208,Valentina,Diouf,10.01.1993,202,94,330,Players.asp?Tourn=WGP2013&Team=ITA&No=123746
+209,Carolina Del Pilar,Costagrande,15.10.1980,187,90,320,Players.asp?Tourn=WGP2013&Team=ITA&No=133728
+210,Raphaela,Folie,07.03.1991,187,73,324,Players.asp?Tourn=WGP2013&Team=ITA&No=135582
+211,Alessia,Gennari,03.11.1991,184,68,305,Players.asp?Tourn=WGP2013&Team=ITA&No=118764
+212,Valentina,Fiorin,09.10.1984,184,82,320,Players.asp?Tourn=WGP2013&Team=ITA&No=138093
+213,Valentina,Tirozzi,26.03.1986,181,69,304,Players.asp?Tourn=WGP2013&Team=ITA&No=115476
+214,Miyu,NAGAOKA,25.07.1991,179,64,308,Players.asp?Tourn=WGP2013&Team=JPN&No=119385
+215,Arisa,Sato,18.07.1989,166,53,275,Players.asp?Tourn=WGP2013&Team=JPN&No=143379
+216,Saori,Saori,19.08.1986,185,65,304,Players.asp?Tourn=WGP2013&Team=JPN&No=114038
+217,Kanako,Hirai,15.04.1984,183,69,309,Players.asp?Tourn=WGP2013&Team=JPN&No=138789
+218,Naoko,Hashimoto,11.07.1984,172,68,288,Players.asp?Tourn=WGP2013&Team=JPN&No=143380
+219,Haruka,MIYASHITA,01.09.1994,177,61,298,Players.asp?Tourn=WGP2013&Team=JPN&No=132100
+220,Mami,Yoshida,05.06.1986,158,57,272,Players.asp?Tourn=WGP2013&Team=JPN&No=141954
+221,Kotoki,Zayasu,11.01.1990,159,57,270,Players.asp?Tourn=WGP2013&Team=JPN&No=135413
+222,Mizuho,Ishida,22.01.1988,174,65,301,Players.asp?Tourn=WGP2013&Team=JPN&No=119191
+223,Nana,IWASAKA,03.07.1990,187,76,298,Players.asp?Tourn=WGP2013&Team=JPN&No=135410
+224,Makoto,Matsuura,09.09.1986,173,69,282,Players.asp?Tourn=WGP2013&Team=JPN&No=135409
+225,Yuki,ISHII,08.05.1991,180,67,305,Players.asp?Tourn=WGP2013&Team=JPN&No=135416
+226,Risa,SHINNABE,11.07.1990,175,64,293,Players.asp?Tourn=WGP2013&Team=JPN&No=135411
+227,Yukiko,Ebata,07.11.1989,176,67,305,Players.asp?Tourn=WGP2013&Team=JPN&No=132056
+228,Haruyo,Shimamura,04.03.1992,182,78,297,Players.asp?Tourn=WGP2013&Team=JPN&No=141953
+229,Saori,Sakoda,18.12.1987,175,63,305,Players.asp?Tourn=WGP2013&Team=JPN&No=132053
+230,Akari,Oumi,10.11.1989,171,64,297,Players.asp?Tourn=WGP2013&Team=JPN&No=141955
+231,Saori,Takahashi,09.12.1992,177,66,307,Players.asp?Tourn=WGP2013&Team=JPN&No=142154
+232,Riho,Ohtake,23.12.1993,182,68,306,Players.asp?Tourn=WGP2013&Team=JPN&No=133107
+233,Aimi,Kawashima,15.04.1990,182,67,298,Players.asp?Tourn=WGP2013&Team=JPN&No=143378
+234,Kanami,TASHIRO,25.03.1991,173,68,289,Players.asp?Tourn=WGP2013&Team=JPN&No=143376
+235,Fumika,Moriya,07.04.1992,180,75,302,Players.asp?Tourn=WGP2013&Team=JPN&No=135454
+236,Tatyana,Mudritskaya,17.01.1985,195,77,310,Players.asp?Tourn=WGP2013&Team=KAZ&No=138017
+237,Lyudmila,Issayeva,26.09.1989,184,70,295,Players.asp?Tourn=WGP2013&Team=KAZ&No=143351
+238,Sana,Anarkulova,21.07.1989,188,77,300,Players.asp?Tourn=WGP2013&Team=KAZ&No=120296
+239,Lyudmila,Anarbayeva,12.11.1983,192,72,305,Players.asp?Tourn=WGP2013&Team=KAZ&No=115914
+240,Olga,Danchenko,28.12.1982,190,75,305,Players.asp?Tourn=WGP2013&Team=KAZ&No=115906
+241,Natalya,Akilova,31.05.1993,183,62,295,Players.asp?Tourn=WGP2013&Team=KAZ&No=133093
+242,Alena,Ivanova,19.06.1989,195,78,310,Players.asp?Tourn=WGP2013&Team=KAZ&No=123607
+243,Korinna,Ishimtseva,08.02.1984,187,69,300,Players.asp?Tourn=WGP2013&Team=KAZ&No=115908
+244,Irina,Lukomskaya,19.03.1991,176,66,280,Players.asp?Tourn=WGP2013&Team=KAZ&No=133662
+245,Irina,Shenberger,20.02.1992,180,73,290,Players.asp?Tourn=WGP2013&Team=KAZ&No=133089
+246,Marina,Storozhenko,06.06.1985,175,57,290,Players.asp?Tourn=WGP2013&Team=KAZ&No=123710
+247,Yekaterina,Zhdanova,28.05.1992,183,65,280,Players.asp?Tourn=WGP2013&Team=KAZ&No=133090
+248,Yana,Yagodina,24.01.1993,182,69,300,Players.asp?Tourn=WGP2013&Team=KAZ&No=133491
+249,Alessya,Safronova,10.02.1986,192,70,290,Players.asp?Tourn=WGP2013&Team=KAZ&No=123555
+250,Anastassiya,Rostovchshikova,17.04.1994,180,64,280,Players.asp?Tourn=WGP2013&Team=KAZ&No=143390
+251,Inna,Matveyeva,12.10.1978,186,70,303,Players.asp?Tourn=WGP2013&Team=KAZ&No=115915
+252,Yekaterina,Razorenkova,03.06.1993,185,69,283,Players.asp?Tourn=WGP2013&Team=KAZ&No=135476
+253,Yelena,Gordeyeva,23.11.1988,178,72,280,Players.asp?Tourn=WGP2013&Team=KAZ&No=125461
+254,Zarina,Sitkazinova,20.03.1993,182,70,295,Players.asp?Tourn=WGP2013&Team=KAZ&No=133092
+255,Tatyana,Fendrikova,23.02.1990,169,55,280,Players.asp?Tourn=WGP2013&Team=KAZ&No=143348
+256,Femke Stoltenborg,30.07.1991,189,81,303,299,Players.asp?Tourn=WGP2013&Team=NED&No=124076
+257,Yvon Belien,28.12.1993,188,73,307,303,Players.asp?Tourn=WGP2013&Team=NED&No=141273
+258,Celeste Plak,26.10.1995,190,87,314,302,Players.asp?Tourn=WGP2013&Team=NED&No=142880
+259,Robin De Kruijf,05.05.1991,192,81,313,300,Players.asp?Tourn=WGP2013&Team=NED&No=120504
+260,Maret Balkestein-Grothues,16.09.1988,180,68,304,285,Players.asp?Tourn=WGP2013&Team=NED&No=120501
+261,Quinta Steenbergen,02.04.1985,189,75,309,300,Players.asp?Tourn=WGP2013&Team=NED&No=120500
+262,Judith Pietersen,03.07.1989,188,73,306,296,Players.asp?Tourn=WGP2013&Team=NED&No=119044
+263,Myrthe Schoot,29.08.1988,182,70,298,286,Players.asp?Tourn=WGP2013&Team=NED&No=123468
+264,Lonneke SlÃ¶etjes,15.11.1990,191,76,322,315,Players.asp?Tourn=WGP2013&Team=NED&No=120498
+265,Anne Buijs,02.12.1991,191,73,317,299,Players.asp?Tourn=WGP2013&Team=NED&No=120503
+266,Manon Nummerdor-Flier,08.02.1984,192,71,315,301,Players.asp?Tourn=WGP2013&Team=NED&No=113642
+267,Flore Gravesteijn,26.04.1987,189,68,303,291,Players.asp?Tourn=WGP2013&Team=NED&No=123469
+268,Laura Dijkema,18.02.1990,184,70,293,279,Players.asp?Tourn=WGP2013&Team=NED&No=124070
+269,Kim Renkema,28.06.1987,179,67,295,282,Players.asp?Tourn=WGP2013&Team=NED&No=116959
+270,Moniek Jansen,26.08.1992,192,86,298,285,Players.asp?Tourn=WGP2013&Team=NED&No=142881
+271,Lynn Thijssen,22.08.1992,187,73,298,284,Players.asp?Tourn=WGP2013&Team=NED&No=124082
+272,Kirsten Knip,14.09.1992,175,70,281,275,Players.asp?Tourn=WGP2013&Team=NED&No=124071
+273,Quirine Oosterveld,05.03.1990,181,70,296,288,Players.asp?Tourn=WGP2013&Team=NED&No=124073
+274,Esther Van Berkel,31.08.1990,176,68,301,287,Players.asp?Tourn=WGP2013&Team=NED&No=124066
+275,Inge Molendijk,09.12.1992,186,76,287,284,Players.asp?Tourn=WGP2013&Team=NED&No=142896
+276,Klaske Sikkes,07.04.1993,188,74,299,286,Players.asp?Tourn=WGP2013&Team=NED&No=143212
+320,Maria,Borodakova,08.03.1986,190,88,301,Players.asp?Tourn=WGP2013&Team=RUS&No=143405
+321,Anastasia,Salina,30.12.1988,181,67,295,Players.asp?Tourn=WGP2013&Team=RUS&No=141838
+322,Daria,Isaeva,29.03.1990,186,75,310,Players.asp?Tourn=WGP2013&Team=RUS&No=139710
+323,Irina,Koroleva,04.10.1991,196,78,305,Players.asp?Tourn=WGP2013&Team=RUS&No=119373
+324,Alexandra,Pasynkova,14.04.1987,190,75,313,Players.asp?Tourn=WGP2013&Team=RUS&No=114288
+325,Anna,Matienko,12.07.1981,182,68,298,Players.asp?Tourn=WGP2013&Team=RUS&No=136455
+326,Svetlana,Kryuchkova,21.02.1985,174,63,290,Players.asp?Tourn=WGP2013&Team=RUS&No=118013
+327,Nataliya,Goncharova,01.06.1989,194,75,315,Players.asp?Tourn=WGP2013&Team=RUS&No=132071
+328,Kseniia,Bondar,01.02.1990,190,73,305,Players.asp?Tourn=WGP2013&Team=RUS&No=139709
+329,Ekaterina,Pankova,02.02.1990,178,64,290,Players.asp?Tourn=WGP2013&Team=RUS&No=116885
+330,Victoriia,Chaplina,23.10.1988,188,77,301,Players.asp?Tourn=WGP2013&Team=RUS&No=138953
+331,Ekaterina,Orlova,21.10.1987,193,77,307,Players.asp?Tourn=WGP2013&Team=RUS&No=115154
+332,Evgeniya,Startseva,12.02.1989,185,68,294,Players.asp?Tourn=WGP2013&Team=RUS&No=119097
+333,Natalia,Dianskaia,07.03.1989,185,69,297,Players.asp?Tourn=WGP2013&Team=RUS&No=141840
+334,Tatyana,Kosheleva,23.12.1988,191,67,315,Players.asp?Tourn=WGP2013&Team=RUS&No=119677
+335,Regina,Moroz,14.01.1987,188,70,310,Players.asp?Tourn=WGP2013&Team=RUS&No=124281
+336,Natalia,Malykh,08.12.1993,187,65,308,Players.asp?Tourn=WGP2013&Team=RUS&No=136057
+337,Alexandra,Vinogradova,11.04.1988,175,72,295,Players.asp?Tourn=WGP2013&Team=RUS&No=116883
+338,Anna,Podkopaeva,16.04.1990,175,59,290,Players.asp?Tourn=WGP2013&Team=RUS&No=173153
+339,Anastasia,Shlyakhovaya,05.10.1990,192,69,313,Players.asp?Tourn=WGP2013&Team=RUS&No=141839
+340,Valeriya,Goncharova,03.01.1988,188,70,308,Players.asp?Tourn=WGP2013&Team=RUS&No=141841
+341,Elena,Novik,23.03.1994,180,66,295,Players.asp?Tourn=WGP2013&Team=RUS&No=136532
+342,Ana,Zivojinovic,04.07.1991,186,74,280,Players.asp?Tourn=WGP2013&Team=SRB&No=119516
+343,Jovana,Brakocevic Canzian,05.03.1988,196,82,309,Players.asp?Tourn=WGP2013&Team=SRB&No=116208
+344,Sanja,Malagurski,08.06.1990,193,74,305,Players.asp?Tourn=WGP2013&Team=SRB&No=119522
+345,Bojana,Drca,29.03.1988,186,70,298,Players.asp?Tourn=WGP2013&Team=SRB&No=120326
+346,Natasa,Krsmanovic,19.06.1985,188,73,305,Players.asp?Tourn=WGP2013&Team=SRB&No=116211
+347,Tijana,Malesevic,18.03.1991,184,73,289,Players.asp?Tourn=WGP2013&Team=SRB&No=119533
+348,Brizitka,Molnar,28.07.1985,182,69,304,Players.asp?Tourn=WGP2013&Team=SRB&No=116225
+349,Olga,Raonic,31.12.1986,184,70,294,Players.asp?Tourn=WGP2013&Team=SRB&No=134762
+350,Brankica,Mihajlovic,13.04.1991,190,83,302,Players.asp?Tourn=WGP2013&Team=SRB&No=121593
+351,Maja,Maja,06.08.1984,183,67,300,Players.asp?Tourn=WGP2013&Team=SRB&No=116216
+352,Stefana,Veljkovic,09.01.1990,190,76,325,Players.asp?Tourn=WGP2013&Team=SRB&No=119521
+353,Jelena,Nikolic,13.04.1982,194,79,315,Players.asp?Tourn=WGP2013&Team=SRB&No=116221
+354,Ana,Bjelica,03.04.1992,190,78,310,Players.asp?Tourn=WGP2013&Team=SRB&No=123694
+355,Nadja,Ninkovic,01.11.1991,193,77,307,Players.asp?Tourn=WGP2013&Team=SRB&No=119532
+356,Jovana,Stevanovic,30.06.1992,192,72,308,Players.asp?Tourn=WGP2013&Team=SRB&No=123700
+357,Milena,Milena,25.10.1990,193,72,315,Players.asp?Tourn=WGP2013&Team=SRB&No=119535
+358,Silvija,Popovic,15.03.1986,178,65,286,Players.asp?Tourn=WGP2013&Team=SRB&No=116298
+359,Suzana,Cebic,09.11.1984,167,60,279,Players.asp?Tourn=WGP2013&Team=SRB&No=116224
+360,Jasna,Majstorovic,23.04.1984,181,64,300,Players.asp?Tourn=WGP2013&Team=SRB&No=120160
+361,Sladjana,Mirkovic,07.10.1995,185,78,293,Players.asp?Tourn=WGP2013&Team=SRB&No=136812
+362,Bianka,Busa,25.07.1994,187,74,312,Players.asp?Tourn=WGP2013&Team=SRB&No=136024
+363,Tijana,Boskovic,08.03.1997,193,82,315,Players.asp?Tourn=WGP2013&Team=SRB&No=137941
+364,Wanna,B. Wanna,02.01.1981,172,54,292,Players.asp?Tourn=WGP2013&Team=THA&No=113348
+365,Piyanut,P.Piyanut,10.11.1989,171,62,280,Players.asp?Tourn=WGP2013&Team=THA&No=131866
+366,Em-Orn,P Em-Orn,25.03.1988,177,70,302,Players.asp?Tourn=WGP2013&Team=THA&No=143000
+367,Thatdao,N.Thatdao,03.02.1994,184,72,308,Players.asp?Tourn=WGP2013&Team=THA&No=142172
+368,Pleumjit,T.Pleumjit,09.11.1983,180,67,303,Players.asp?Tourn=WGP2013&Team=THA&No=113352
+369,Onuma,S.Onuma,13.06.1986,175,72,304,Players.asp?Tourn=WGP2013&Team=THA&No=114638
+370,Kamonporn,S Kamonporn,29.02.1988,174,63,285,Players.asp?Tourn=WGP2013&Team=THA&No=143015
+371,Utaiwan,K Utaiwan,09.07.1988,189,86,310,Players.asp?Tourn=WGP2013&Team=THA&No=143003
+372,Wanitchaya,L.Wanitchaya,08.10.1992,177,60,300,Players.asp?Tourn=WGP2013&Team=THA&No=143001
+373,Wilavan,A.Wilavan,06.06.1984,174,70,294,Players.asp?Tourn=WGP2013&Team=THA&No=113916
+374,Amporn,H.Amporn,19.05.1985,180,70,301,Players.asp?Tourn=WGP2013&Team=THA&No=113358
+375,Tapaphaipun,C.Tapaphaipun,29.11.1989,168,70,295,Players.asp?Tourn=WGP2013&Team=THA&No=118998
+376,Nootsara,T.Nootsara,07.07.1985,169,57,289,Players.asp?Tourn=WGP2013&Team=THA&No=113917
+377,Jarasporn,B Jarasporn,01.03.1993,181,65,291,Players.asp?Tourn=WGP2013&Team=THA&No=143002
+378,Malika,K.Malika,08.01.1987,178,65,292,Players.asp?Tourn=WGP2013&Team=THA&No=114283
+379,Pornpun,G.Pornpun,05.05.1993,170,63,288,Players.asp?Tourn=WGP2013&Team=THA&No=123019
+380,Kaewkalaya,K.Kaewkalaya,07.08.1994,178,66,298,Players.asp?Tourn=WGP2013&Team=THA&No=142185
+381,Ajcharaporn,K.Ajcharaporn,18.06.1995,178,65,298,Players.asp?Tourn=WGP2013&Team=THA&No=133511
+382,Sontaya,K.Sontaya,09.02.1991,177,68,290,Players.asp?Tourn=WGP2013&Team=THA&No=124062
+383,Kuttika,K. Kuttika,16.08.1994,168,56,285,Players.asp?Tourn=WGP2013&Team=THA&No=142174
+384,Parinya,Parinya,27.12.1995,170,59,281,Players.asp?Tourn=WGP2013&Team=THA&No=142184
+385,Sineenat,P. Sineenat,19.05.1995,173,53,287,Players.asp?Tourn=WGP2013&Team=THA&No=142182
+386,Güldeniz,Güldeniz,25.03.1986,183,75,296,Players.asp?Tourn=WGP2013&Team=TUR&No=115402
+387,Gülden,Gülden,05.12.1980,167,57,281,Players.asp?Tourn=WGP2013&Team=TUR&No=138771
+388,Gizem,Gizem,14.01.1987,178,60,290,Players.asp?Tourn=WGP2013&Team=TUR&No=143384
+389,Birgül,Guler,02.05.1990,178,68,305,Players.asp?Tourn=WGP2013&Team=TUR&No=143382
+390,Ergul,Ergül,24.07.1987,190,75,300,Players.asp?Tourn=WGP2013&Team=TUR&No=115398
+391,Polen,Uslupehlivan,27.08.1990,193,65,320,Players.asp?Tourn=WGP2013&Team=TUR&No=138777
+392,Seda,Tokatlioglu,25.06.1986,192,80,312,Players.asp?Tourn=WGP2013&Team=TUR&No=115394
+393,Bahar,Toksoy,06.02.1988,190,68,315,Players.asp?Tourn=WGP2013&Team=TUR&No=138783
+394,Özge,Cemberci,26.06.1985,183,68,310,Players.asp?Tourn=WGP2013&Team=TUR&No=124522
+395,Gözde,Sonsirma,26.06.1985,183,70,297,Players.asp?Tourn=WGP2013&Team=TUR&No=143385
+396,Naz,Aydemir,14.08.1990,186,68,304,Players.asp?Tourn=WGP2013&Team=TUR&No=115403
+397,Esra,Esra,02.10.1982,181,76,305,Players.asp?Tourn=WGP2013&Team=TUR&No=143383
+398,Neriman,Özsoy,13.07.1988,188,76,312,Players.asp?Tourn=WGP2013&Team=TUR&No=138775
+399,Gözde,Gözde,09.09.1991,194,79,316,Players.asp?Tourn=WGP2013&Team=TUR&No=119686
+400,Ezgi,Guc,23.03.1992,181,59,280,Players.asp?Tourn=WGP2013&Team=TUR&No=123800
+401,Büsra,Büsra,16.07.1990,188,84,297,Players.asp?Tourn=WGP2013&Team=TUR&No=119685
+402,Neslihan,Darnel,09.12.1983,187,72,315,Players.asp?Tourn=WGP2013&Team=TUR&No=138781
+403,Asuman,Karakoyun,16.07.1990,180,72,293,Players.asp?Tourn=WGP2013&Team=TUR&No=119697
+404,Ayse Melis,Melis,20.04.1990,183,68,300,Players.asp?Tourn=WGP2013&Team=TUR&No=119693
+405,Kubra,Kübra,13.10.1994,198,86,310,Players.asp?Tourn=WGP2013&Team=TUR&No=137086
+406,Asli,Kalaç,13.12.1995,185,73,306,Players.asp?Tourn=WGP2013&Team=TUR&No=137087
+407,Dilara,Bagci,02.02.1994,165,62,270,Players.asp?Tourn=WGP2013&Team=TUR&No=137093

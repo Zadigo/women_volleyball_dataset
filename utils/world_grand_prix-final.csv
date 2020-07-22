@@ -1,0 +1,1376 @@
+id,name,date_of_birth,height,weight,spike,block
+1,Fabiana Claudino,24/01/1985,193,76,314,293
+2, Ana Tiemi Takagui,26/10/1987,187,74,295,284
+3,Danielle Lins,5/01/1985,181,68,290,276
+4, Paula Pequeno,22/01/1982,184,74,302,285
+5,Caroline De Oliveira Saad Gattaz,27/07/1981,192,78,315,299
+6, Thaisa Daher de Menezes,15/05/1987,196,79,316,301
+7,Marianne Steinbrecher,23/08/1983,188,70,310,290
+8, Adenizia Da Silva,18/12/1986,185,63,312,290
+9,Natalia Pereira,4/04/1989,186,83,311,295
+10, Welissa Gonzaga,9/09/1982,179,76,300,287
+11,Joyce Silva,13/06/1984,190,67,311,294
+12, Jaqueline Pereira De Carvalho Endres,31/12/1983,186,70,302,286
+13,Sheilla Castro De Paula Blassioli,1/07/1983,185,64,302,284
+14, Fabiana Oliveira,7/03/1980,169,59,276,266
+15,Regiane Bidias,2/10/1986,189,74,304,286
+16, Fernanda Ferreira,10/01/1980,173,64,283,264
+17,Josefa Fabiola Almeida De Sousa Alves,3/02/1983,184,70,300,285
+18, Camila Brait,28/10/1988,170,58,271,256
+19,Fernanda Rodrigues,10/05/1986,179,74,308,288
+20,Juan Li,15/05/1981,187,72,315,305
+21,Ming Xue,23/02/1987,193,72,324,315
+22,Yu Luo,27/02/1987,190,75,310,300
+23,Yunli Xu,2/08/1987,196,75,317,315
+24,Yunwen Ma,19/10/1986,189,76,315,312
+25,Jinling Chu,29/07/1984,190,72,310,302
+26,Xian Zhang,16/03/1985,168,57,290,280
+27,Ruoqi Hui,4/03/1991,189,70,312,305
+28,Yanni Zhao,23/10/1988,187,70,310,305
+29,Yimei Wang,11/01/1988,190,87,318,305
+30,Qiuyue Wei,26/09/1988,182,75,305,300
+31,Na Yin,3/02/1988,182,65,305,300
+32,Xuan Huo,27/01/1988,190,68,312,305
+33,Chen Wang,29/10/1990,182,70,312,302
+34,Meng Yin,11/01/1984,190,76,320,318
+35,Qian Wang,14/03/1989,174,65,305,295
+36,Chunlei Zeng,3/11/1989,187,67,315,315
+37,Jingsi Shen,3/05/1989,185,78,305,300
+38,Annerys Victoria Vargas Valdez,7/08/1981,196,70,327,320
+39,Rossy Dahiana Burgos Herrera,7/04/1985,184,70,305,300
+40,Lisvel Elisa Eve Mejia,10/09/1991,194,90,325,315
+41,Marianne Fersola Norberto,16/01/1992,191,60,315,310
+42,Brenda Castillo,5/06/1992,167,55,245,230
+43,Carmen Rosa Caso Sierra,29/11/1981,168,59,240,230
+44,Niverka Dharlenis Marte Frica,19/10/1990,178,71,295,283
+45,Candida Estefany Arias Perez,11/03/1992,194,68,320,315
+46,Nuris Arias  DoÃ±e,20/05/1973,190,78,315,306
+47,Milagros Cabral de la Cruz,17/10/1978,182,63,325,320
+48,Jeoselyna Rodriguez Santos,9/12/1991,187,63,325,315
+49,Karla Miguelina Echenique Medina,16/05/1986,180,65,279,300
+50,Cindy Carolina Rondon Martinez,12/11/1987,186,61,320,315
+51,Prisilla Rivera Brens,29/12/1984,183,67,309,305
+52,Camil Inmaculada Dominguez Martinez,7/12/1991,176,75,285,270
+53,Marifranchi Rodriguez,29/08/1990,184,68,310,300
+54,Gina Altagracia Mambru Casilla,21/01/1986,182,65,330,315
+55,Bethania De La Cruz De PeÃ±a,13/05/1987,188,70,330,320
+56,Ana Yorkira Binet Stephens,9/02/1992,174,58,280,260
+57,Lenka DÃ¼rr,10/12/1990,171,59,280,270
+58,Kathleen WeiÃŸ,2/02/1984,173,64,290,273
+59,Denise Hanke,31/08/1989,183,73,297,284
+60,Kerstin Tzscherlich,15/02/1978,179,72,295,282
+61,Lisa Thomsen,20/08/1985,172,68,290,285
+62,Saskia Hippe,16/01/1991,185,67,315,292
+63,Heike Beier,9/12/1983,184,73,305,293
+64,Nadja Schaus,8/11/1984,187,66,305,295
+65,Berit Kauffeldt,8/07/1990,190,75,311,294
+66,Anne Matthes,30/04/1985,182,66,312,295
+67,Christiane FÃ¼rst,29/03/1985,193,80,323,307
+68,Lena MÃ¶llers,6/01/1990,188,74,312,297
+69,Sarah Petrausch,31/07/1990,187,85,306,295
+70,Sabrina RoÃŸ,11/04/1980,185,68,300,288
+71,Maren Fromm,10/07/1986,184,68,303,295
+72,Margareta Kozuch,30/10/1986,187,70,309,297
+73,Anja Brandt,15/02/1990,195,77,310,295
+74,Corina Ssuschke-Voigt,9/05/1983,189,75,310,298
+75,Anke Borowikow,13/12/1986,186,70,305,295
+76,Megumi Kurihara,31/07/1984,187,69,308,295
+77,Yuki Kawai,22/01/1990,169,63,280,275
+78,Yoshie Takeshita,18/03/1978,159,53,280,270
+79,Kaori Inoue,21/10/1982,182,59,306,300
+80,Kazuyo Mori,21/06/1976,175,64,303,291
+81,Yuko Sano,26/07/1979,159,54,260,250
+82,Hiroko Okano,25/05/1976,167,58,280,276
+83,Yuki Ishikawa,26/04/1987,181,68,302,286
+84,Mizuho Ishida,22/01/1988,174,65,301,286
+85,Yuki Shoji,19/11/1981,182,67,315,296
+86,Erika Shinomiya,3/08/1984,186,78,305,297
+87,Saori Kimura,19/08/1986,185,65,304,293
+88,Maiko Kano,15/07/1988,184,68,305,290
+89,Masami Taniguchi,17/09/1976,177,62,302,292
+90,Koyomi Iwasaki,1/05/1989,175,68,295,280
+91,Kotoe Inoue,15/02/1990,163,57,288,275
+92,Mai Yamaguchi,3/07/1983,176,62,304,292
+93,Maiko Sakashita,25/02/1985,180,74,302,296
+94,Kanari Hamaguchi,29/08/1985,167,60,283,269
+95,Min-Ji Kim,25/05/1985,187,75,304,296
+96,Hye Seon Yeum,3/02/1991,177,65,278,263
+97,So-La Lee,1/09/1987,177,62,295,285
+98,Sa Nee Kim,21/06/1981,180,75,302,292
+99,Hae Ran Kim,16/03/1984,168,60,270,250
+100,Hyun-Mi Oh,15/03/1986,175,62,270,265
+101,Hye-Suk Yoon,19/06/1983,174,60,293,283
+102,Hyejin Kim,17/02/1989,180,62,284,274
+103,Hea-Won La,28/06/1986,184,73,302,294
+104,Yeon Koung Kim,26/02/1988,192,73,330,320
+105,Jung-Hee Ji,18/03/1985,180,65,305,296
+106,Songyi Han,5/09/1984,186,65,305,298
+107,Yeon-Ju Lee,1/03/1990,180,71,282,270
+108,Hyo Jin Yang,14/12/1989,190,72,340,338
+109,Se Young Kim,4/06/1981,190,72,294,284
+110,Yoo Na Bae,30/11/1989,182,68,285,275
+111,Bo-Lam Lee,8/08/1988,185,75,283,274
+112,Hyun Jung Na,10/03/1990,163,54,257,250
+113,Heejin Kim,29/04/1991,185,75,305,295
+114,Kim Staelens,7/01/1982,182,78,305,301
+115,Monique Wismeijer,21/10/1978,176,77,0,0
+116,Francien Huurman,18/04/1975,192,80,313,292
+117,ChaÃ¯ne Staelens,7/11/1980,194,79,316,299
+118,Robin De Kruijf,5/05/1991,192,81,313,300
+119,Maret Balkestein-Grothues,16/09/1988,180,68,304,285
+120,Elke Wijnhoven,3/01/1981,169,64,300,282
+121,Alice Blom,7/04/1980,178,64,305,280
+122,Myrthe Schoot,29/08/1988,182,70,298,286
+123,Janneke van Tienen,29/05/1979,177,73,294,273
+124,Caroline Wensink,4/08/1984,186,80,309,305
+125,Manon Nummerdor-Flier,8/02/1984,192,71,315,301
+126,Anne Buijs,2/12/1991,191,73,317,299
+127,Floortje Meijners,16/01/1987,190,75,311,283
+128,Ingrid Visser,4/06/1977,190,74,314,298
+129,Debby Stam-Pilon,24/07/1984,184,69,303,281
+130,Deborah van Daelen,24/03/1989,188,70,309,287
+131,Sharon Zuidema,13/08/1990,185,72,0,0
+132,Leonarda Sgroot,26/02/1986,180,64,0,0
+133,Katarzyna Skowronska-Dolata,30/06/1983,189,75,314,296
+134,Mariola Zenik,3/07/1982,175,65,300,295
+135,Anna Wozniakowska,2/03/1982,182,74,310,289
+136,Dorota Pykosz,22/10/1978,182,70,310,290
+137,Maja Tokarska,22/02/1991,194,79,317,293
+138,Agnieszka Bednarek-Kasza,20/02/1986,185,71,310,295
+139,Izabela Belcik,29/11/1980,185,65,304,292
+140,Dorota Swieniewicz,27/07/1972,180,64,315,305
+141,Agata Sawicka,17/01/1985,180,64,295,277
+142,Klaudia Kaczorowska,20/12/1988,184,68,303,281
+143,Anna Werblinska,14/05/1984,178,66,308,292
+144,Milena Radecka,18/10/1984,177,65,302,295
+145,Paulina Maj-Erwardt,22/03/1987,166,58,277,255
+146,Eleonora Dziekiewicz,25/10/1978,185,75,307,295
+147,Katarzyna Gajgal,21/09/1981,190,85,300,287
+148,Aleksandra Jagielo,2/06/1980,180,70,308,291
+149,Joanna Kaczor,16/09/1984,191,64,305,290
+150,Berenika Tomsia,18/03/1988,188,72,310,302
+151,Joanna Wolosz,7/04/1990,181,71,303,281
+152,Debora Seilhamer,4/10/1985,166,61,245,240
+153,Shara Venegas,18/09/1992,173,68,280,272
+154,Vilmarie Mojica,13/08/1985,180,63,295,288
+155,Tatiana EncarnaciÃ³n,28/07/1985,182,72,300,279
+156,Sarai Alvarez,3/04/1986,183,61,295,286
+157,Yarimar Rosa,20/06/1988,178,62,295,285
+158,Stephanie Enright,15/12/1990,179,56,300,292
+159,Eva Cruz,22/01/1974,182,72,305,290
+160,Aurea Cruz,10/01/1982,180,63,310,290
+161,Roselly Perez,5/01/1988,185,58,290,283
+162,Karina Ocasio,1/08/1985,192,76,298,288
+163,Ania Ruiz,11/07/1982,182,68,305,284
+164,Yamileska Yantin Luberza,9/04/1984,187,68,299,288
+165,Raimariely Santos,13/04/1992,180,68,284,280
+166,Jessica Candelario,2/11/1987,180,76,302,295
+167,Alexandra Oquendo,3/02/1984,189,75,297,284
+168,Sheila Ocasio,17/11/1982,195,74,310,292
+169,Wilnelia GonzÃ¡lez,2/04/1985,183,65,302,294
+170,Laudevis Marrero,3/08/1987,179,75,295,285
+171,Maria Borisenko,8/03/1986,190,80,301,297
+172,Anna Makarova,2/04/1984,194,86,306,302
+173,Maria Zhadan,6/02/1983,178,70,283,280
+174,Elena Murtazaeva,25/08/1981,190,73,309,304
+175,Alexandra Pasynkova,14/04/1987,190,75,313,305
+176,Ksenia Naumova,1/02/1990,190,73,305,300
+177,Natalya Safronova,6/02/1979,190,77,312,305
+178,Iuliia Merkulova,17/02/1984,202,75,317,308
+179,Olga Fateeva,4/05/1984,190,72,310,303
+180,Iuliia Morozova,8/01/1985,192,79,305,301
+181,Ekaterina Gamova,17/10/1980,202,80,321,310
+182,Marina Babeshina,26/06/1985,181,62,291,289
+183,Evgeniya Startseva,12/02/1989,185,68,294,290
+184,Ekaterina Ulanova,5/08/1986,172,61,298,290
+185,Tatyana Kosheleva,23/12/1988,191,67,315,305
+186,Olga Sazhina,19/02/1986,188,71,297,292
+187,Yana Shcherban,6/09/1989,185,71,298,294
+188,Ekaterina Starodubova,19/10/1984,176,65,301,292
+189,Victoria Rusakova,23/10/1988,188,72,310,305
+190,Wanna Buakaew,2/01/1981,172,54,292,277
+191,Piyatida Lasungnern,23/10/1990,174,67,290,280
+192,Sontaya Keawbundit,9/02/1991,177,68,290,280
+193,Siriporn Sooksen,9/02/1988,180,66,308,292
+194,Pleumjit Thinkaow,9/11/1983,180,67,303,283
+195,Onuma Sittirak,13/06/1986,175,72,304,285
+196,Narumon Khanan,26/01/1983,180,66,311,289
+197,Utaiwan Kaensing,7/09/1988,189,86,310,295
+198,Pornthip Santrong,11/08/1988,178,60,314,295
+199,Wilavan Apinyapong,6/06/1984,174,70,294,282
+200,Amporn Hyapha,19/05/1985,180,70,301,290
+201,Kamonporn Sukmak,29/02/1988,174,63,285,275
+202,Nootsara Tomkom,7/07/1985,169,57,289,278
+203,Kittiyakorn Phansamdaeng,4/01/1988,175,63,294,280
+204,Malika Kanthong,8/01/1987,178,65,292,278
+205,Patcharee Deesamer,3/02/1989,180,74,306,293
+206,Somruk Sungpokeaw,22/02/1985,175,64,275,269
+207,Em-orn Phanusit,25/03/1988,179,70,302,291
+208,Tapaphaipun Chaisri,29/11/1989,168,70,295,276
+1,Caroline De Oliveira Saad Gattaz,27/07/1981,192,78,315,299
+2,Danielle Lins,5/01/1985,181,68,290,276
+3,Paula Pequeno,22/01/1982,184,74,302,285
+4,Adenizia Da Silva,18/12/1986,185,63,312,290
+5,Thaisa Daher de Menezes,15/05/1987,196,79,316,301
+6,Marianne Steinbrecher,23/08/1983,188,70,310,290
+7,Jaqueline Pereira De Carvalho Endres,31/12/1983,186,70,302,286
+8,Natalia Martins,11/12/1984,185,69,300,286
+9,Welissa Gonzaga,9/09/1982,179,76,300,287
+10,Joyce Silva,13/06/1984,190,67,311,294
+11,Natalia Pereira,4/04/1989,186,83,311,295
+12,Sheilla Castro De Paula Blassioli,1/07/1983,185,64,302,284
+13,Fabiana Oliveira,7/03/1980,169,59,276,266
+14,Ana Tiemi Takagui,26/10/1987,187,74,295,284
+15,Fernanda Rodrigues,10/05/1986,179,74,308,288
+16,Josefa Fabiola Almeida De Sousa Alves,3/02/1983,184,70,300,285
+17,Camila Brait,28/10/1988,170,58,271,256
+18,Juciely Cristina Barreto,18/12/1980,184,71,289,285
+19,Lei Zhang,11/01/1985,181,71,316,310
+20,Jie Yang,1/03/1994,194,82,312,300
+21,Ruoqi Hui,4/03/1991,189,70,312,305
+22,Yu Luo,27/02/1987,190,75,310,300
+23,Nan Wang,13/08/1984,181,67,305,295
+24,Xian Zhang,16/03/1985,168,57,290,280
+25,Qiuyue Wei,26/09/1988,182,75,305,300
+26,Qian Wang,14/03/1989,174,65,305,295
+27,Juan Li,15/05/1981,187,72,315,305
+28,Yunli Xu,2/08/1987,196,75,317,315
+29,Ming Xue,23/02/1987,193,72,324,315
+30,Na Yin,3/02/1988,182,65,305,300
+31,Liyi Chen,27/04/1989,184,75,302,290
+32,Yunwen Ma,19/10/1986,190,76,315,307
+33,Yuqian Bian,14/06/1990,180,70,300,292
+34,Yao Chen,25/09/1988,191,74,315,305
+35,Linlin Fan,1/12/1991,190,77,316,301
+36,Rossy Dahiana Burgos Herrera,7/04/1985,184,70,305,300
+37,Lisvel Elisa Eve Mejia,10/09/1991,194,90,325,315
+38,Marianne Fersola Norberto,16/01/1992,191,60,315,310
+39,Brenda Castillo,5/06/1992,167,55,245,230
+40,Carmen Rosa Caso Sierra,29/11/1981,168,59,240,230
+41,Niverka Dharlenis Marte Frica,19/10/1990,178,71,295,283
+42,Candida Estefany Arias Perez,11/03/1992,194,68,320,315
+43,Sidarka De Los Milagros NuÃ±ez,25/06/1984,185,62,330,320
+44,Milagros Cabral de la Cruz,17/10/1978,182,63,325,320
+45,Jeoselyna Rodriguez Santos,9/12/1991,187,63,325,315
+46,Karla Miguelina Echenique Medina,16/05/1986,180,65,279,300
+47,Cindy Carolina Rondon Martinez,12/11/1987,186,61,320,315
+48,Prisilla Rivera Brens,29/12/1984,183,67,309,305
+49,Cosiri Rodriguez Andino,30/08/1977,191,72,313,305
+50,Gabriela Alexandra Reyes Hinojosa,6/11/1992,175,77,265,268
+51,Gina Altagracia Mambru Casilla,21/01/1986,182,65,330,315
+52,Bethania De La Cruz De PeÃ±a,13/05/1987,188,70,330,320
+53,Ana Yorkira Binet Stephens,9/02/1992,174,58,280,260
+54,Kathleen Weiß,2/02/1984,173,64,290,273
+55,Denise Hanke,31/08/1989,183,73,297,284
+56,Kerstin Tzscherlich,15/02/1978,179,72,295,282
+57,Lena Möllers,6/01/1990,188,74,312,297
+58,Saskia Hippe,16/01/1991,185,67,315,292
+59,Imke Wedekind,23/06/1984,195,78,307,295
+60,Berit Kauffeldt,8/07/1990,190,75,311,294
+61,Corina Ssuschke-Voigt,9/05/1983,189,75,310,298
+62,Anne Matthes,30/04/1985,182,66,312,295
+63,Janine Völker,19/09/1991,0,0,301,290
+64,Heike Beier,9/12/1983,184,73,305,293
+65,Sarah Petrausch,31/07/1990,187,85,306,295
+66,Margareta Kozuch,30/10/1986,187,70,309,297
+67,Maren Fromm,10/07/1986,184,68,303,295
+68,Anja Brandt,15/02/1990,195,77,310,295
+69,Patricia Grohmann,27/01/1990,186,80,303,289
+70,Nadja Schaus,8/11/1984,187,66,305,295
+71,Tatjana Zautys,4/05/1980,0,0,308,293
+72,Cristina Barcellini,20/11/1986,183,78,307,292
+73,Ilaria Garzaro,29/09/1986,189,70,312,292
+74,Lucia Crisanti,16/03/1986,186,70,312,292
+75,Giulia Rondon,16/10/1987,189,74,304,280
+76,Enrica Merlo,28/12/1988,170,60,281,262
+77,Annamaria Quaranta,19/10/1981,184,67,305,280
+78,Jenny Barazza,24/07/1981,188,77,300,285
+79,Francesca Marcon,9/07/1983,180,65,301,282
+80,Paola Cardullo,18/03/1982,159,56,275,268
+81,Serena Ortolani,7/01/1987,187,63,320,240
+82,Francesca Piccinini,10/01/1979,184,71,304,279
+83,Valentina Arrighetti,26/01/1985,185,72,318,310
+84,Eleonora Lo Bianco,22/12/1979,171,67,287,273
+85,Antonella Del Core,5/11/1980,180,70,296,279
+86,Lucia Bosetti,9/07/1989,178,63,310,292
+87,Simona Gioli,17/09/1977,185,70,307,283
+88,Marta Bechis,4/09/1989,181,59,290,273
+89,Saori Arita,10/07/1984,180,71,305,296
+90,Yoshie Takeshita,18/03/1978,159,53,280,270
+91,Kaori Inoue,21/10/1982,182,59,306,300
+92,Ai Yamamoto,24/03/1982,184,68,312,305
+93,Yuko Sano,26/07/1979,159,54,260,250
+94,Mai Yamaguchi,3/07/1983,176,62,304,292
+95,Chie Yoshizawa,9/07/1983,172,66,294,288
+96,Mizuho Ishida,22/01/1988,174,65,301,286
+97,Yuki Shoji,19/11/1981,182,67,315,296
+98,Erika Shinomiya,3/08/1984,186,78,305,297
+99,Saori Kimura,19/08/1986,185,65,304,293
+100,Mai Fukuda,30/01/1984,176,65,298,280
+101,Yukiko Ebata,7/11/1989,176,67,305,298
+102,Koyomi Iwasaki,1/05/1989,175,68,295,280
+103,Saori Sakoda,18/12/1987,175,63,305,279
+104,Akiko Ino,28/09/1986,168,59,270,260
+105,Maiko Sakashita,25/02/1985,180,74,302,296
+106,Kanari Hamaguchi,29/08/1985,167,60,283,269
+107,Francien Huurman,18/04/1975,192,80,313,292
+108,ChaÃ¯ne Staelens,7/11/1980,194,79,316,299
+109,Robin De Kruijf,5/05/1991,192,81,313,300
+110,Maret Balkestein-Grothues,16/09/1988,180,68,304,285
+111,Quinta Steenbergen,2/04/1985,189,75,309,300
+112,Alice Blom,7/04/1980,178,64,305,280
+113,Myrthe Schoot,29/08/1988,182,70,298,286
+114,Janneke van Tienen,29/05/1979,177,73,294,273
+115,Caroline Wensink,4/08/1984,186,80,309,305
+116,Manon Nummerdor-Flier,8/02/1984,192,71,315,301
+117,Anne Buijs,2/12/1991,191,73,317,299
+118,Laura Dijkema,18/02/1990,184,70,293,279
+119,Ingrid Visser,4/06/1977,190,74,314,298
+120,Debby Stam-Pilon,24/07/1984,184,69,303,281
+121,Nicole Koolhaas,31/01/1991,198,77,310,300
+122,Judith Blansjaar,23/05/1990,177,73,286,272
+123,Lonneke SlÃ¶etjes,15/11/1990,191,76,322,315
+124,Mariola Zenik,3/07/1982,175,65,300,295
+125,Karolina Rozycka,28/06/1985,183,68,305,284
+126,Katarzyna Konieczna,22/03/1985,184,75,304,288
+127,Katarzyna Skorupa,16/09/1984,183,69,302,296
+128,Agnieszka Bednarek-Kasza,20/02/1986,185,71,310,295
+129,Berenika Tomsia,18/03/1988,188,72,310,302
+130,Katarzyna Agnieszka Zaroslinska-Krol,3/02/1987,187,72,312,290
+131,Joanna Staniucha-Szczurek,5/12/1981,184,76,303,290
+132,Klaudia Kaczorowska,20/12/1988,184,68,303,281
+133,Anna Werblinska,14/05/1984,178,66,308,292
+134,Milena Radecka,18/10/1984,177,65,302,295
+135,Paulina Maj-Erwardt,22/03/1987,166,58,277,255
+136,Ewelina Brzezinska,26/01/1988,182,68,308,280
+137,Katarzyna Gajgal,21/09/1981,190,85,300,287
+138,Joanna Wolosz,7/04/1990,181,71,303,281
+139,Joanna Kaczor,16/09/1984,191,64,305,290
+140,Zuzanna Efimienko-Mlotkowska,8/08/1989,197,72,318,303
+141,Maja Tokarska,22/02/1991,193,72,325,293
+142,Xaimara Colon,11/09/1988,176,62,255,246
+143,Vilmarie Mojica,13/08/1985,180,63,295,288
+144,Tatiana Encarnación,28/07/1985,182,72,300,279
+145,Sarai Alvarez,3/04/1986,183,61,295,286
+146,Yarimar Rosa,20/06/1988,178,62,295,285
+147,Stephanie Enright,15/12/1990,179,56,300,292
+148,Shirley Ferrer,23/06/1991,180,63,290,293
+149,Aurea Cruz,10/01/1982,180,63,310,290
+150,Shanon Torregrosa,11/02/1981,188,85,301,297
+151,Karina Ocasio,1/08/1985,192,76,298,288
+152,Michelle Nogueras,5/12/1988,179,58,275,262
+153,Raimariely Santos,13/04/1992,180,68,284,280
+154,Glorimar Ortega,21/11/1983,179,70,297,285
+155,Shara Venegas,18/09/1992,173,68,280,272
+156,Alexandra Oquendo,3/02/1984,189,75,297,284
+157,Sheila Ocasio,17/11/1982,195,74,310,292
+158,Jetzabel Del Valle,19/12/1979,185,73,305,292
+159,Diana Reyes,29/04/1993,188,86,290,285
+160,Rasamee Supamool,10/01/1992,178,68,285,276
+161,Hattaya Bamrungsuk,12/08/1993,178,62,289,275
+162,Pleumjit Thinkaow,9/11/1983,180,67,303,283
+163,Onuma Sittirak,13/06/1986,175,72,304,285
+164,Patcharee Deesamer,3/02/1989,180,74,306,293
+165,Utaiwan Kaensing,7/09/1988,189,86,310,295
+166,Jurairat Ponleka,6/10/1991,181,65,290,280
+167,Wilavan Apinyapong,6/06/1984,174,70,294,282
+168,Amporn Hyapha,19/05/1985,180,70,301,290
+169,Kamonporn Sukmak,29/02/1988,174,63,285,275
+170,Nootsara Tomkom,7/07/1985,169,57,289,278
+171,Jarasporn Bundasak,1/03/1993,180,66,280,290
+172,Malika Kanthong,8/01/1987,178,65,292,278
+173,Sontaya Keawbundit,9/02/1991,177,68,290,280
+174,Wanitchaya Luangtonglang,8/10/1992,175,51,295,280
+175,Em-orn Phanusit,25/03/1988,179,70,302,291
+176,Tapaphaipun Chaisri,29/11/1989,168,70,295,276
+177,Yin Feng Tsai,6/11/1984,181,75,291,280
+178,Wan Ting Chen,25/11/1990,178,67,290,280
+179,Wan Ju Liao,19/04/1984,175,68,290,275
+180,Ko Jou Wu,17/11/1985,175,75,285,275
+181,Pei Ling Yen,5/01/1986,174,65,270,268
+182,Yi Ting Hsieh,7/10/1987,166,62,265,250
+183,Yen Chih Ho,26/11/1987,171,63,280,270
+184,Szu Chi Huang,31/03/1988,180,69,285,275
+185,Shu Fen Wu,7/04/1989,175,68,281,272
+186,Ya Chu Yang,8/07/1991,173,62,278,268
+187,Meng Hua Yang,15/08/1991,170,68,270,262
+188,I Tzu Wen,31/10/1991,175,64,281,273
+189,Alisha Glass,5/04/1988,184,72,305,300
+190,Christa Harmotto Dietzen,12/10/1986,188,79,322,300
+191,Angela Forsett,6/06/1986,173,74,320,315
+192,Stacy Sykora,24/06/1977,176,61,305,295
+193,Nicole Davis,24/04/1982,167,73,284,266
+194,Heather Bown,29/11/1978,188,90,301,290
+195,Cynthia Barboza,7/02/1987,183,68,311,301
+196,Jennifer Tamas,23/11/1982,191,82,315,301
+197,Courtney Thompson,4/11/1984,170,66,276,263
+198,Jordan Larson,16/10/1986,188,75,302,295
+199,Nancy Metcalf,12/11/1978,186,73,314,292
+200,Lauren Paolini,22/08/1987,193,73,317,299
+201,Nicole Fawcett,16/12/1986,191,82,310,291
+202,Logan Tom,25/05/1981,186,80,306,297
+203,Foluke Akinradewo,5/10/1987,191,79,331,300
+204,Mary Spicer,3/07/1987,175,65,292,280
+205,Megan Easy,15/10/1988,191,80,320,297
+206,Destinee Hooker,7/09/1987,193,73,320,304
+0,name,date_of_birth,height,weight,spike,block
+1,Marianela Garbari,13/11/1980,165,65,280,270
+2,Paula Yamila Nizetich,27/01/1989,181,74,305,295
+3,Aylin Pereyra,2/07/1988,180,68,300,292
+4,Lucia Fresco,14/05/1991,195,92,304,290
+5,Daniela Gildenberger,12/06/1984,180,77,300,290
+6,Ileana Leyendeker,14/10/1986,189,84,301,293
+7,Tatiana Soledad Rizzo,30/12/1986,178,64,280,268
+8,Camila Jersonsky,30/05/1991,181,68,305,289
+9,Emilce Sosa,11/09/1987,177,72,305,295
+10,Georgina Pinedo,30/05/1981,180,64,312,290
+11,Antonella Bortolozzi,22/01/1986,182,72,298,278
+12,Leticia Boscacci,8/11/1985,186,70,302,284
+13,Florencia Carlotto,14/10/1988,183,72,302,291
+14,Julieta Constanza Lazcano,25/07/1989,190,76,312,293
+15,Florencia Natasha Busquets Reyes,27/06/1989,192,68,305,290
+16,Antonela Ayelen Curatola,23/10/1991,175,71,290,280
+17,Yael Castiglione,27/09/1985,184,75,295,281
+18,Clarisa Sagardia,29/06/1989,174,67,290,280
+19,Juciely Cristina Barreto,18/12/1980,184,71,289,285
+20,Danielle Lins,5/01/1985,181,68,290,276
+21,Paula Pequeno,22/01/1982,184,74,302,285
+22,Adenizia Da Silva,18/12/1986,185,63,312,290
+23,Thaisa Daher de Menezes,15/05/1987,196,79,316,301
+24,Marianne Steinbrecher,23/08/1983,188,70,310,290
+25,Jaqueline Pereira De Carvalho Endres,31/12/1983,186,70,302,286
+26,Juliana de Souza Nogueira,4/08/1988,190,71,307,301
+27,Welissa Gonzaga,9/09/1982,179,76,300,287
+28,Joyce Silva,13/06/1984,190,67,311,294
+29,Natalia Pereira,4/04/1989,186,83,311,295
+30,Sheilla Castro De Paula Blassioli,1/07/1983,185,64,302,284
+31,Fabiana Oliveira,7/03/1980,169,59,276,266
+32,Ana Tiemi Takagui,26/10/1987,187,74,295,284
+33,Fernanda Rodrigues,10/05/1986,179,74,308,288
+34,Josefa Fabiola Almeida De Sousa Alves,3/02/1983,184,70,300,285
+35,Camila Brait,28/10/1988,170,58,271,256
+36,Tandara Caixeta,30/10/1988,184,87,305,297
+37,Suelle Oliveira,29/04/1987,187,72,291,278
+38,Ting Zhu,29/11/1994,198,78,327,300
+39,Ning Wang,14/05/1994,189,60,312,303
+40,Na Wang,25/02/1990,178,63,305,295
+41,Jingsi Shen,3/05/1989,186,75,305,294
+42,Junjing Yang,15/05/1989,190,70,308,300
+43,Xian Zhang,16/03/1985,168,57,290,280
+44,Chunlei Zeng,3/11/1989,187,67,315,315
+45,Yimei Wang,11/01/1988,190,87,318,305
+46,Danna Shan,8/10/1991,168,60,290,285
+47,Yunli Xu,2/08/1987,195,85,325,306
+48,Ruoqi Hui,4/03/1991,192,78,315,305
+49,Liyi Chen,27/04/1989,184,75,302,290
+50,Lei Zhang,11/01/1985,181,71,316,310
+51,Xia Ding,13/01/1990,180,67,305,300
+52,Congcong Liu,8/12/1990,189,65,310,302
+53,Zhan Chen,11/10/1990,180,65,300,295
+54,Yunwen Ma,19/10/1986,190,76,315,307
+55,Dan Liu,29/08/1989,180,65,305,295
+56,Yanelis Santos Allegne,30/03/1986,183,71,315,312
+57,Alena Rojas Orta,9/08/1992,186,78,320,305
+58,Yoana Palacio Mendoza,6/10/1990,184,67,313,300
+59,Yunieska Robles Batista,21/03/1993,185,67,315,300
+60,Daymara Lescay Cajigal,5/09/1992,184,72,308,290
+61,Yumilka Ruiz Luaces,8/05/1978,180,63,326,305
+62,Emily Borrell Cruz,19/02/1992,167,55,270,260
+63,Yamila Hernandez Santas,8/11/1992,182,69,301,285
+64,Ana Lidia Cleger Abel,27/11/1989,183,69,300,285
+65,Liannes Castañeda Simon,18/10/1986,188,70,325,320
+66,Dayami Sanchez Savon,14/03/1994,188,64,314,302
+67,Rosanna Giel Ramos,10/06/1992,187,62,320,315
+68,Kenia Carcaces Opón,23/01/1986,190,78,322,300
+69,Yusidey Silie Frómeta,11/11/1984,184,77,316,300
+70,Heydi Rodríguez López,24/06/1993,184,74,310,305
+71,Gyselle de la Caridad Silva Franco,29/10/1991,184,70,302,295
+72,Zoila Barros Fernández,16/08/1976,188,72,328,307
+73,Jennifer Yanet Alvarez Hernandez,19/11/1993,184,72,310,294
+74,Sulian Matienzo Linares,14/12/1994,178,67,318,314
+75,Rossy Dahiana Burgos Herrera,7/04/1985,184,70,305,300
+76,Lisvel Elisa Eve Mejia,10/09/1991,194,90,325,315
+77,Marianne Fersola Norberto,16/01/1992,191,60,315,310
+78,Brenda Castillo,5/06/1992,167,55,245,230
+79,Carmen Rosa Caso Sierra,29/11/1981,168,59,240,230
+80,Niverka Dharlenis Marte Frica,19/10/1990,178,71,295,283
+81,Candida Estefany Arias Perez,11/03/1992,194,68,320,315
+82,Sidarka De Los Milagros Nuñez,25/06/1984,185,62,330,320
+83,Milagros Cabral de la Cruz,17/10/1978,182,63,325,320
+84,Jeoselyna Rodriguez Santos,9/12/1991,187,63,325,315
+85,Karla Miguelina Echenique Medina,16/05/1986,180,65,300,290
+86,Cindy Carolina Rondon Martinez,12/11/1987,186,61,320,315
+87,Prisilla Rivera Brens,29/12/1984,183,67,309,305
+88,Francia Jackson Cabrera,8/11/1975,168,71,245,235
+89,Yonkaira Paola Peña Isabel,10/05/1993,190,70,320,310
+90,Gina Altagracia Mambru Casilla,21/01/1986,182,65,330,315
+91,Bethania De La Cruz De Peña,13/05/1987,188,70,330,320
+92,Ana Yorkira Binet Stephens,9/02/1992,174,58,280,260
+93,Brayelin Elizabeth Martinez,11/09/1996,201,83,330,320
+94,Kathleen Weiß,2/02/1984,173,64,290,273
+95,Denise Hanke,31/08/1989,183,73,297,284
+96,Kerstin Tzscherlich,15/02/1978,179,72,295,282
+97,Friederike Thieme,16/04/1987,187,73,302,292
+98,Kathy Radzuweit,2/03/1982,196,76,319,300
+99,Patricia Grohmann,27/01/1990,186,80,303,289
+100,Berit Kauffeldt,8/07/1990,190,75,311,294
+101,Corina Ssuschke-Voigt,9/05/1983,189,75,310,298
+102,Anne Matthes,30/04/1985,182,66,312,295
+103,Christiane Fürst,29/03/1985,193,80,323,307
+104,Heike Beier,9/12/1983,184,73,305,293
+105,Saskia Hippe,16/01/1991,185,67,315,292
+106,Margareta Kozuch,30/10/1986,187,70,309,297
+107,Maren Fromm,10/07/1986,184,68,303,295
+108,Lisa Thomsen,20/08/1985,172,68,290,285
+109,Lena Möllers,6/01/1990,188,74,312,297
+110,Nadja Schaus,8/11/1984,187,66,305,295
+111,Regina Burchardt,1/07/1983,186,77,302,294
+112,Mareen Von Römer,26/03/1987,183,73,295,284
+113,Cristina Barcellini,20/11/1986,183,78,307,292
+114,Ilaria Garzaro,29/09/1986,189,70,312,292
+115,Lucia Crisanti,16/03/1986,186,70,312,292
+116,Giulia Rondon,16/10/1987,189,74,304,280
+117,Enrica Merlo,28/12/1988,170,60,281,262
+118,Martina Guiggi,1/05/1984,187,80,317,240
+119,Carolina del Pilar Costagrande,15/10/1980,188,80,312,291
+120,Chiara Di Iulio,5/05/1985,184,65,291,278
+121,Paola Cardullo,18/03/1982,159,56,275,268
+122,Serena Ortolani,7/01/1987,187,63,320,240
+123,Francesca Piccinini,10/01/1979,184,71,304,279
+124,Valentina Arrighetti,26/01/1985,185,72,318,310
+125,Eleonora Lo Bianco,22/12/1979,171,67,287,273
+126,Antonella Del Core,5/11/1980,180,70,296,279
+127,Lucia Bosetti,9/07/1989,178,63,310,292
+128,Simona Gioli,17/09/1977,185,70,307,283
+129,Marta Bechis,4/09/1989,181,59,290,273
+130,Giulia Leonardi,1/12/1987,165,57,280,261
+131,Francesca Ferretti,15/02/1984,180,70,296,280
+132,Hitomi Nakamichi,18/09/1985,159,53,270,256
+133,Yoshie Takeshita,18/03/1978,159,53,280,270
+134,Yuki Ishikawa,26/04/1987,181,68,302,286
+135,Ai Yamamoto,24/03/1982,184,68,312,305
+136,Yuko Sano,26/07/1979,159,54,260,250
+137,Mai Yamaguchi,3/07/1983,176,62,304,292
+138,Makoto Matsuura,9/09/1986,173,69,282,265
+139,Mizuho Ishida,22/01/1988,174,65,301,286
+140,Nana Iwasaka,3/07/1990,187,76,298,293
+141,Erika Shinomiya,3/08/1984,186,78,305,297
+142,Saori Kimura,19/08/1986,185,65,304,293
+143,Risa Shinnabe,11/07/1990,175,64,293,285
+144,Yukiko Ebata,7/11/1989,176,67,305,298
+145,Maiko Kano,15/07/1988,185,72,303,285
+146,Saori Sakoda,18/12/1987,175,63,305,279
+147,Akiko Ino,28/09/1986,168,59,270,260
+148,Yuki Ishii,8/05/1991,180,67,305,287
+149,Kanari Hamaguchi,29/08/1985,167,60,283,269
+150,Ayano Nakaoji,24/07/1991,167,61,290,275
+151,Tatyana Pyurova,5/04/1982,180,66,298,294
+152,Sana Anarkulova,21/07/1989,188,77,300,280
+153,Antonina Rubtsova,30/12/1984,184,67,302,275
+154,Olga Danchenko,28/12/1982,190,75,305,295
+155,Kristina Trubina,5/11/1986,178,64,295,270
+156,Alena Ivanova,19/06/1989,195,78,310,300
+157,Korinna Ishimtseva,8/02/1984,187,69,300,290
+158,Irina Lukomskaya,19/03/1991,176,66,280,270
+159,Yelena Ezau,9/03/1983,174,57,265,260
+160,Marina Storozhenko,6/06/1985,175,57,290,280
+161,Yekaterina Zhdanova,28/05/1992,183,65,280,270
+162,Radmila Beresneva,6/06/1983,185,70,300,295
+163,Zarina Sitkazinova,20/03/1993,182,70,295,280
+164,Irina Kenzhebaeva,20/02/1992,180,73,290,280
+165,Inna Matveyeva,12/10/1978,186,70,303,294
+166,Olga Drobyshevskaya,22/09/1985,185,75,305,293
+167,Natalya Akilova,31/05/1993,183,62,295,275
+168,Natalya Kulinich,19/07/1988,173,66,280,275
+169,Inna Shkurina,20/10/1993,178,65,276,266
+170,Seul-Gi Park,25/02/1991,178,65,290,284
+171,Sooji Han,1/02/1989,182,72,285,275
+172,Youn Joo Hwang,13/08/1986,177,64,285,265
+173,Hae Ran Kim,16/03/1984,168,60,270,250
+174,So-Jin Lee,28/08/1987,178,63,280,265
+175,Hye-Suk Yoon,19/06/1983,174,60,293,283
+176,Jie Youn Nam,25/05/1983,170,61,285,273
+177,Myungok Yim,5/05/1986,175,62,273,253
+178,Yeon Koung Kim,26/02/1988,192,73,330,320
+179,Young-Eun Jang,30/10/1993,182,68,290,270
+180,Songyi Han,5/09/1984,186,65,305,298
+181,Bo-Lam Lee,8/08/1988,185,75,283,274
+182,Hea-Won La,28/06/1986,184,73,302,294
+183,Se Young Kim,4/06/1981,72,294,284,Heungkuk Life
+184,Yoo Na Bae,30/11/1989,182,68,285,275
+185,Hyejin Kim,17/02/1989,180,62,284,274
+186,Heejin Kim,29/04/1991,185,75,305,295
+187,Minkyoung Hwang,2/06/1990,174,64,290,282
+188,Sook-Ja Lee,17/06/1980,175,58,286,264
+189,Mirtha Uribe,12/03/1985,184,67,297,286
+190,Paola Garcia,25/08/1987,186,75,300,298
+191,Patricia Soto,10/02/1980,179,67,300,295
+192,Vanessa Palacios,3/07/1984,170,60,275,260
+193,Jessenia Uceda,14/08/1981,178,69,304,294
+194,Yulissa Zamudio Ore,24/03/1976,184,61,315,300
+195,Milagros Moy,17/10/1975,175,66,296,285
+196,Raffaella Camet,14/09/1992,184,67,289,285
+197,Luren Baylon Francis,14/08/1977,180,68,310,305
+198,Clarivett Yllescas,11/08/1993,184,72,305,295
+199,Carla Rueda Cotito,19/04/1990,184,70,312,306
+200,Zoila La Rosa,31/05/1990,174,62,285,280
+201,Elena Keldibekova,23/06/1974,177,72,289,280
+202,Karla Ortiz,20/10/1991,182,60,300,290
+203,Alexandra Muñoz,16/08/1992,177,63,287,281
+204,Brenda Daniela Uribe,11/12/1993,183,63,297,282
+205,Carla Tristan,29/01/1988,180,67,297,295
+206,Gisella Duarte,21/11/1977,191,78,297,292
+207,Sandra Guibert,11/06/1989,177,65,295,287
+208,Katarzyna Konieczna,22/03/1985,184,75,304,288
+209,Karolina Rozycka,28/06/1985,183,68,305,284
+210,Izabela Belcik,29/11/1980,185,65,304,292
+211,Berenika Tomsia,18/03/1988,188,72,310,302
+212,Magdalena Saad,14/05/1985,168,55,277,261
+213,Kinga Kasprzak,12/06/1987,188,76,310,295
+214,Klaudia Kaczorowska,20/12/1988,184,68,303,281
+215,Joanna Kapturska,4/07/1986,185,67,307,293
+216,Sylwia Pelc,30/11/1990,189,85,312,293
+217,Anna Werblinska,14/05/1984,178,66,308,292
+218,Milena Radecka,18/10/1984,177,65,302,295
+219,Paulina Maj-Erwardt,22/03/1987,166,58,277,255
+220,Joanna Wolosz,7/04/1990,181,71,303,281
+221,Katarzyna Gajgal,21/09/1981,190,85,300,287
+222,Zuzanna Efimienko-Mlotkowska,8/08/1989,197,72,318,303
+223,Joanna Kaczor,16/09/1984,191,64,305,290
+224,Aleksandra Kruk,29/10/1984,181,76,298,285
+225,Maja Tokarska,22/02/1991,193,72,325,293
+226,Anita Kwiatkowska,5/03/1985,182,59,291,277
+227,Lesya Makhno,4/09/1981,188,73,310,305
+228,Maria Perepelkina,9/03/1984,187,72,304,300
+229,Ekaterina Osichkina,2/04/1986,190,80,307,300
+230,Victoria Kuzyakina,1/06/1985,175,70,290,287
+231,Olga Bukreeva,15/02/1987,187,70,302,298
+232,Svetlana Kryuchkova,21/02/1985,174,63,290,286
+233,Nataliya Goncharova,1/06/1989,194,75,315,306
+234,Olga Fateeva,4/05/1984,190,72,310,303
+235,Iuliia Morozova,8/01/1985,192,79,305,301
+236,Ekaterina Gamova,17/10/1980,202,80,321,310
+237,Vera Vetrova (Ulyakina),21/08/1986,180,73,298,293
+238,Evgeniya Startseva,12/02/1989,185,68,294,290
+239,Ekaterina Ulanova,5/08/1986,172,61,298,290
+240,Tatyana Kosheleva,23/12/1988,191,67,315,305
+241,Iuliia Merkulova,17/02/1984,202,75,317,308
+242,Ekaterina Chernova,26/01/1986,178,68,292,290
+243,Ekaterina Kosianenko,2/02/1990,178,64,290,285
+244,Irina Uraleva,14/06/1990,170,65,285,275
+245,Anna Matienko,12/07/1981,182,68,298,292
+246,Jovana Brakocevic,5/03/1988,196,82,309,295
+247,Sanja Malagurski,8/06/1990,193,74,305,295
+248,Bojana Drca,29/03/1988,186,70,298,283
+249,Natasa Krsmanovic,19/06/1985,188,73,305,285
+250,Tijana Malesevic,18/03/1991,185,78,300,286
+251,Brizitka Molnar,28/07/1985,182,69,304,290
+252,Ana Antonijevic,26/08/1987,185,71,282,269
+253,Jovana Vesovic,21/06/1987,182,68,283,268
+254,Maja Ognjenovic,6/08/1984,183,67,300,293
+255,Vesna Djurisic,3/02/1979,187,75,305,300
+256,Jelena Nikolic,13/04/1982,194,79,315,300
+257,Ana Bjelica,3/04/1992,190,78,310,305
+258,Nadja Ninkovic,1/11/1991,193,77,307,298
+259,Jovana Stevanovic,30/06/1992,192,72,308,295
+260,Milena Rasic,25/10/1990,193,72,315,310
+261,Stefana Veljkovic,9/01/1990,190,76,325,310
+262,Suzana Cebic,9/11/1984,167,60,279,255
+263,Silvija Popovic,15/03/1986,178,65,286,276
+264,Nina Rosic,5/05/1990,172,61,277,261
+265,Piyanut Pannoy,10/11/1989,171,62,280,275
+266,Rasamee Supamool,10/01/1992,178,68,285,276
+267,Hattaya Bamrungsuk,12/08/1993,178,62,289,275
+268,Pleumjit Thinkaow,9/11/1983,180,67,303,283
+269,Onuma Sittirak,13/06/1986,175,72,304,285
+270,Patcharee Deesamer,3/02/1989,180,74,306,293
+271,Utaiwan Kaensing,7/09/1988,189,86,310,295
+272,Wanitchaya Luangtonglang,8/10/1992,175,51,295,280
+273,Wilavan Apinyapong,6/06/1984,174,70,294,282
+274,Amporn Hyapha,19/05/1985,180,70,301,290
+275,Tapaphaipun Chaisri,29/11/1989,168,70,295,276
+276,Nootsara Tomkom,7/07/1985,169,57,289,278
+277,Ajcharaporn Kongyot,18/06/1995,178,65,298,287
+278,Malika Kanthong,8/01/1987,178,65,292,278
+279,Pornpun Guedpard,5/05/1993,170,63,288,279
+280,Kamonporn Sukmak,29/02/1988,174,63,285,275
+281,Em-orn Phanusit,25/03/1988,179,70,302,291
+282,Soraya Phomla,6/08/1992,169,59,290,280
+283,Danielle Scott-Arruda,1/10/1972,188,84,325,302
+284,Tayyiba Haneef-Park,23/03/1979,200,82,328,312
+285,Lindsey Berg,16/07/1980,173,75,287,274
+286,Tamari Miyashiro,8/07/1987,170,70,284,266
+287,Nicole Davis,24/04/1982,167,73,284,266
+288,Heather Bown,29/11/1978,188,90,301,290
+289,Alisha Glass,5/04/1988,184,72,305,300
+290,Jennifer Tamas,23/11/1982,191,82,315,301
+291,Kimberly Glass,18/08/1984,190,75,314,299
+292,Jordan Larson,16/10/1986,188,75,302,295
+293,Nancy Metcalf,12/11/1978,186,73,314,292
+294,Christa Harmotto Dietzen,12/10/1986,188,79,322,300
+295,Nicole Fawcett,16/12/1986,191,82,310,291
+296,Logan Tom,25/05/1981,186,80,306,297
+297,Foluke Akinradewo,5/10/1987,191,79,331,300
+298,Mary Spicer,3/07/1987,175,65,292,280
+299,Megan Easy,15/10/1988,191,80,320,297
+300,Destinee Hooker,7/09/1987,193,73,320,304
+301,Angela Forsett,6/06/1986,173,74,320,315
+1,Lucia, Gaido,19/01/1988,164,53,245
+2,Josefina, Fernandez,17/08/1991,180,69,300
+3,Paula Yamila, Nizetich,27/01/1989,181,74,305
+4,Clarisa, Sagardia,29/06/1989,174,67,290
+5,Lucia, Fresco,14/05/1991,195,92,304
+6,Luisina, Yaccuzzi,12/06/1989,175,70,300
+7,Julieta, Puntin,06/12/1989,183,71,302
+8,Tatiana Soledad, Rizzo,30/12/1986,178,64,280
+9,Camila, Jersonsky,30/05/1991,181,68,305
+10,Emilce, Sosa,11/09/1987,177,72,305
+11,Georgina, Pinedo,30/05/1981,180,64,312
+12,Graciela, Allende,07/10/1994,167,75,270
+13,Leticia, Boscacci,08/11/1985,186,70,302
+14,Florencia, Carlotto,14/10/1988,183,72,302
+15,Maria Sol, Calvete,14/09/1994,179,65,295
+16,Florencia Natasha, Busquets,27/06/1989,192,68,305
+17,Antonela Ayelen, Curatola,23/10/1991,175,71,290
+18,Yael, Castiglione Y,27/09/1985,184,75,295
+19,Mariangeles, Cossar,07/04/1990,177,70,290
+20,Marianela, Garbari,13/11/1980,165,65,280
+21,Yimei, Wang Y.M.,11/01/1988,190,87,318
+22,Yang, Mi Y.,24/01/1989,180,70,305
+23,Jie, Yang J.,01/03/1994,194,82,312
+24,Ruoqi, Hui R.Q.,04/03/1991,189,70,312
+25,Na, Wang N.,25/02/1990,178,63,305
+26,Jinling, Chu J.L.,29/07/1984,190,72,310
+27,Xian, Zhang X.,16/03/1985,168,57,290
+28,Qiuyue, Wei Q.Y,26/09/1988,182,75,305
+29,Junjing, Yang J.J.,15/05/1989,190,70,308
+30,Danna, Shan D.N.,08/10/1991,168,60,290
+31,Yunli, Xu Y.L.,02/08/1987,196,75,317
+32,Chunlei, Zeng C.L.,03/11/1989,187,67,315
+33,Ni, Yan N.,02/03/1987,192,74,317
+34,Congcong, Liu C.C.,08/12/1990,188,70,310
+35,Yunwen, Ma Y.W.,19/10/1986,190,76,315
+36,Na, Yin N.,03/02/1988,182,65,305
+37,Lei, Zhang L.,11/01/1985,181,71,316
+38,Linlin, Fan L.L.,01/12/1991,190,77,316
+39,Qian, None,14/03/1989,174,65,305
+40,Liyi, Chen L.Y.,27/04/1989,184,75,302
+41,Ming, Xue M.,23/02/1987,193,72,324
+42,Zhou, Yang Z.,21/04/1992,190,78,308
+43,Yanan, Qiu Y.N.,16/01/1989,183,62,295
+44,Jingsi, Sheng J.S.,03/05/1989,185,78,305
+45,Wilma, Salas,09/03/1991,188,66,313
+46,Yanelis, Santos,30/03/1986,181,69,324
+47,Alena, Orta,09/08/1992,186,76,320
+48,Yoana, Palacios,06/10/1990,184,67,313
+49,Yunieska, Robles,21/03/1993,185,67,308
+50,Daymara, Lescay,05/09/1992,184,72,308
+51,Yamila, Santas,08/11/1992,182,69,301
+52,Emily, Borrell,19/02/1992,167,55,270
+53,Rachel, Sanchez,09/01/1989,190,86,316
+54,Ana Lidia, Cleger,27/11/1989,183,69,300
+55,Liannes, Simon,18/10/1986,188,70,325
+56,Dairilys Margarita, Cruz,12/09/1990,183,65,310
+57,Rosanna, Giel,10/06/1992,187,62,320
+58,Dayami, Sanchez,14/03/1994,188,64,314
+59,Yusidey, Silie,11/11/1984,184,77,316
+60,Yaremis de la Caridad, Mendaro,21/04/1994,188,72,310
+61,Gyselle de la Caridad, Silva,29/10/1991,184,70,302
+62,Sulian, Matienzo,14/12/1994,178,67,318
+63,Jennifer Yanet, Alvarez,19/11/1993,184,72,310
+64,Heydi, Rodriguez,24/06/1993,184,74,310
+65,Annerys Victoria, Valdez,07/08/1981,196,70,327
+66,Winifer Maria, Fernandez,06/01/1995,169,62,270
+67,Lisvel Elisa, Eve,10/09/1991,194,90,325
+68,Marianne, Fersola,16/01/1992,191,60,315
+69,Brenda, Castillo,05/06/1992,167,55,245
+70,Carmen Rosa, Caso,29/11/1981,168,59,240
+71,Niverka Dharlenis, Marte,19/10/1990,178,71,295
+72,Candida Estefany, Arias,11/03/1992,194,68,320
+73,Sidarka De Los Milagros, Nuñez,25/06/1984,185,62,330
+74,Milagros, Cabral,17/10/1978,182,63,325
+75,Jeoselyna, Rodriguez,09/12/1991,187,63,325
+76,Karla Miguelina, Echenique,16/05/1986,180,65,300
+77,Cindy Carolina, Rondon,12/11/1987,186,61,320
+78,Prisilla, Rivera,29/12/1984,183,67,309
+79,Celenia, Toribio,17/07/1994,181,69,290
+80,Yonkaira Paola, Peña Isabel,10/05/1993,190,70,320
+81,Gina Altagracia, Mambru,21/01/1986,182,65,330
+82,Bethania, De La Cruz,13/05/1987,188,70,330
+83,Yeniffer Cristina, Ramirez,17/03/1993,183,67,285
+84,Brayelin Elizabeth, Martinez,11/09/1996,201,83,330
+85,Lenka, Dürr,10/12/1990,171,59,280
+86,Kathleen, Weiss,02/02/1984,173,64,290
+87,Denise, Hanke,31/08/1989,183,73,297
+88,Kerstin, Tzscherlich,15/02/1978,179,72,295
+89,Anja, Brandt,15/02/1990,195,77,310
+90,Kathy, Radzuweit,02/03/1982,196,76,319
+91,Angelina, Hübner,02/12/1979,185,74,309
+92,Berit, Kauffeldt,08/07/1990,190,75,311
+93,Corina, Ssuschke,09/05/1983,189,75,310
+94,Anne, Matthes,30/04/1985,182,66,312
+95,Christiane, Fürst,29/03/1985,193,80,323
+96,Heike, Beier,09/12/1983,184,73,305
+97,Saskia, Hippe,16/01/1991,185,67,315
+98,Margareta, Kozuch,30/10/1986,187,70,309
+99,Maren, Fromm,10/07/1986,184,68,303
+100,Lisa, Thomsen,20/08/1985,172,68,290
+101,Lena, Möllers,06/01/1990,188,74,312
+102,Nadja, Schaus,08/11/1984,187,66,305
+103,Regina, Burchardt,01/07/1983,186,77,302
+104,Mareen, Apitz,26/03/1987,183,73,295
+105,Claudia, Steger,10/03/1990,0,0,301
+106,Friederike, Thieme,16/04/1987,187,73,302
+107,Luise, Mauersberger,02/07/1990,188,80,296
+108,Sarah, Petrausch,31/07/1990,187,85,306
+109,Megumi, Kurihara,31/07/1984,187,69,308
+110,Hitomi, Nakamichi,18/09/1985,159,53,270
+111,Yoshie, Takeshita,18/03/1978,159,53,280
+112,Kaori, Inoue,21/10/1982,182,59,306
+113,Ai, Ai,24/03/1982,184,68,312
+114,Yuko, Sano,26/07/1979,159,54,260
+115,Mai, Yamaguchi,03/07/1983,176,62,304
+116,Kotoki, Zayasu,11/01/1990,159,57,270
+117,Mizuho, Ishida,22/01/1988,174,65,301
+118,Nana, IWASAKA,03/07/1990,187,76,298
+119,Erika, ARAKI,03/08/1984,186,78,305
+120,Saori, Saori,19/08/1986,185,65,304
+121,Risa, SHINNABE,11/07/1990,175,64,293
+122,Yukiko, Ebata,07/11/1989,176,67,305
+123,Maiko, Kano,15/07/1988,185,72,303
+124,Saori, Sakoda,18/12/1987,175,63,305
+125,Kanako, Hirai,15/04/1984,183,69,309
+126,Riho, Ohtake,23/12/1993,182,68,306
+127,Kanari, Hamaguchi,29/08/1985,167,60,283
+128,Haruka, MIYASHITA,01/09/1994,177,61,298
+129,Ayumi, Nakamura,29/08/1990,176,70,294
+130,Mai, OKUMURA,31/10/1990,177,66,297
+131,Yuki, ISHII,08/05/1991,180,67,305
+132,Miyu, NAGAOKA,25/07/1991,179,64,308
+133,Rika, Nomoto,21/09/1991,180,72,308
+134,Yoo Na, Bae Yoona,30/11/1989,182,68,285
+135,Hye Seon, Yeum Hyeseon,03/02/1991,177,65,278
+136,Joon-Eem, Ha Joon-Eem,26/12/1989,189,74,287
+137,Sa Nee, Kim Sa Nee,21/06/1981,180,75,302
+138,Hae Ran, Kim Haeran,16/03/1984,168,60,270
+139,Su Ji, Kim Suji,11/07/1987,187,68,283
+140,Hyo-Sook, LIM Hyo-sook,26/04/1982,177,75,278
+141,Jie Youn, Nam Jieyoun,25/05/1983,170,61,285
+142,Jeongah, Park Jeongah,26/03/1993,187,75,300
+143,Yeon Koung, Kim Yeon Koung,26/02/1988,192,73,330
+144,Yoo-Mi, HAN Yoo-mi,05/02/1982,180,65,307
+145,Songyi, Han Songyi,05/09/1984,186,65,305
+146,Dae-Young, JUNG Daeyoung,12/08/1981,185,73,279
+147,Youn Joo, Hwang Younjoo,13/08/1986,177,64,285
+148,Ji-Youn, Jung Ji-Youn,28/06/1980,178,64,295
+149,Hye-Suk, YOON Hye-suk,19/06/1983,174,60,293
+150,Hyo Jin, Yang Hyojin,14/12/1989,190,72,340
+151,Hyejin, Kim Hyejin,17/02/1989,180,62,284
+152,Heejin, Kim Heejin,29/04/1991,185,75,305
+153,Sook-Ja, LEE Sook-ja,17/06/1980,175,58,286
+154,Min-Ji, KIM Min-ji,25/05/1985,187,75,304
+155,Bo-Lam, LEE Bo-lam,08/08/1988,185,75,283
+156,Hyo Hee, LEE Hyohee,09/09/1980,173,58,272
+157,Sooji, Han Sooji,01/02/1989,182,72,285
+158,Myungok, Yim Myungok,05/05/1986,175,62,273
+159,Anna, Podolec,30/10/1985,193,71,318
+160,Krystyna, Strasz,24/07/1987,165,55,0
+161,Karolina, Rozycka,28/06/1985,183,68,305
+162,Izabela, Belcik,29/11/1980,185,65,304
+163,Berenika, Tomsia,18/03/1988,188,72,310
+164,Agnieszka, Bednarek-Kasza,20/02/1986,185,71,310
+165,Joanna, Kaczor,16/09/1984,191,64,305
+166,Katarzyna, Skorupa,16/09/1984,183,69,302
+167,Ewelina, Brzezinska,26/01/1988,182,68,308
+168,Kinga, Kasprzak,12/06/1987,188,76,310
+169,Anna, Werblinska,14/05/1984,178,66,308
+170,Izabela, Kowalinska,23/02/1985,186,77,300
+171,Paulina, Maj-Erwardt,22/03/1987,166,58,277
+172,Joanna, Wołosz,07/04/1990,181,71,303
+173,Katarzyna, Gajgal,21/09/1981,190,85,300
+174,Elzbieta, Skowronska E.,06/07/1983,183,69,305
+175,Katarzyna, Skowronska K.,30/06/1983,189,75,314
+176,Maja, Tokarska,22/02/1991,193,72,325
+177,Monika, Martalek,14/05/1990,187,72,310
+178,Klaudia, Kaczorowska,20/12/1988,184,68,303
+179,Paulina, Glaz,04/01/1994,184,72,303
+180,Zuzanna, Czyznielewska,24/04/1992,186,69,300
+181,Iga, Chojnacka,21/04/1994,183,68,300
+182,Agnieszka, Kąkolewska,17/10/1994,197,75,309
+183,Dorota, Wilk,28/04/1988,178,66,290
+184,Debora, Seilhamer,04/10/1985,166,61,245
+185,Shara, Venegas,18/09/1992,173,68,280
+186,Vilmarie, Mojica,13/08/1985,180,63,295
+187,Tatiana, Encarnacion,28/07/1985,182,72,300
+188,Sarai, Alvarez,03/04/1986,183,61,295
+189,Yarimar, Rosa,20/06/1988,178,62,295
+190,Stephanie, Enright,15/12/1990,179,56,300
+191,Shanon, Wingate,11/02/1981,188,85,301
+192,Aurea, Cruz,10/01/1982,180,63,310
+193,Genesis, Collazo,04/10/1992,185,74,301
+194,Karina, Ocasio,01/08/1985,192,76,298
+195,Michelle, Nogueras,05/12/1988,179,58,275
+196,Remy June, Mcbain,27/08/1991,188,68,299
+197,Natalia, Valentin - Anderson,12/09/1989,170,61,244
+198,Daly, Santana,19/02/1995,185,65,300
+199,Alexandra, Oquendo,03/02/1984,189,75,297
+200,Lynda, Morales,20/05/1988,188,74,302
+201,Jetzabel, Del Valle,19/12/1979,185,73,305
+202,Amanda, Vazquez,30/03/1984,185,94,302
+203,Jennifer, Quesada,22/02/1992,188,71,299
+204,Jennifer, Nogueras,01/08/1991,185,88,299
+205,Valeria, Gonzalez,15/09/1988,188,67,288
+206,Pilar Marie, Victoria,11/10/1995,182,53,301
+207,Diana, Reyes,29/04/1993,188,86,290
+208,Kanisha, Jimenez,28/11/1995,185,56,295
+209,Ana, Zivojinovic,04/07/1991,186,74,280
+210,Jovana, Brakocevic Canzian,05/03/1988,196,82,309
+211,Ivana, Djerisilo,08/08/1983,188,68,277
+212,Bojana, Drca,29/03/1988,186,70,298
+213,Natasa, Krsmanovic,19/06/1985,188,73,305
+214,Tijana, Malesevic,18/03/1991,185,78,300
+215,Brizitka, Molnar,28/07/1985,182,69,304
+216,Ana, Antonijevic,26/08/1987,185,71,282
+217,Jovana, Vesovic,21/06/1987,182,68,283
+218,Maja, Maja,06/08/1984,183,67,300
+219,Stefana, Veljkovic,09/01/1990,190,76,325
+220,Jelena, Nikolic,13/04/1982,194,79,315
+221,Ana, Bjelica,03/04/1992,190,78,310
+222,Nadja, Ninkovic,01/11/1991,193,77,307
+223,Jovana, Stevanovic,30/06/1992,192,72,308
+224,Milena, Milena,25/10/1990,193,72,315
+225,Silvija, Popovic,15/03/1986,178,65,286
+226,Suzana, Cebic,09/11/1984,167,60,279
+227,Sanja, Starovic,25/03/1983,194,96,315
+228,Jelena, Blagojevic,01/12/1988,181,67,302
+229,Brankica, Mihajlovic,13/04/1991,190,83,302
+230,Wanna, B. Wanna,02/01/1981,172,54,292
+231,Piyanut, P.Piyanut,10/11/1989,171,62,280
+232,Surasawadee, B. Surasawadee,31/10/1991,179,72,280
+233,Hattaya, B.Hattaya,12/08/1993,178,62,289
+234,Pleumjit, T.Pleumjit,09/11/1983,180,67,303
+235,Onuma, S.Onuma,13/06/1986,175,72,304
+236,Pornpimol, K. Pornpimol,18/06/1993,178,70,268
+237,Utaiwan, K.Utaiwan,07/09/1988,189,86,310
+238,Piyamas, K.Piyamas,23/10/1978,178,67,298
+239,Wilavan, A.Wilavan,06/06/1984,174,70,294
+240,Amporn, H.Amporn,19/05/1985,180,70,301
+241,Tapaphaipun, C.Tapaphaipun,29/11/1989,168,70,295
+242,Nootsara, T.Nootsara,07/07/1985,169,57,289
+243,Jarasporn, B.Jarasporn,01/03/1993,180,66,280
+244,Malika, K.Malika,08/01/1987,178,65,292
+245,Pornpun, G.Pornpun,05/05/1993,170,63,288
+246,Kamonporn, S.Kamonporn,29/02/1988,174,63,285
+247,Ajcharaporn, K.Ajcharaporn,18/06/1995,178,65,298
+248,Sontaya, K.Sontaya,09/02/1991,177,68,290
+249,Rasamee, S.Rasamee,10/01/1992,178,68,285
+250,Tanaporn, P.Tanaporn,04/02/1994,173,68,276
+251,Kaewkalaya, K.Kaewkalaya,07/08/1994,178,72,279
+252,Chutikarn, P.Chutikarn,06/05/1994,173,56,274
+253,Yupa, S.Yupa,14/08/1991,160,60,280
+254,Em-orn, P.Em-orn,25/03/1988,179,70,302
+255,Yen Min, Teng Y.M.,09/02/1984,172,65,293
+256,Yi Hsuan, Lee Y.H.,02/08/1992,164,59,286
+257,Ko Jou, Wu K.J.,17/11/1985,175,75,285
+258,Sin Ting, Wang S.T.,17/10/1992,176,61,278
+259,Yi Ping, Lee Y.P.,08/08/1989,177,70,291
+260,Wan Ju, Liao W.J.,19/04/1984,175,68,290
+261,Wan Ting, Chen W.T.,25/11/1990,178,67,290
+262,Wan Ching, Chen W.C.,16/06/1988,167,56,289
+263,Meng Hua, Yang M.H.,15/08/1991,170,68,270
+264,I Tzu, Wen I.T.,31/10/1991,175,64,281
+265,Yin Feng, Tsai Y.F.,06/11/1984,181,75,291
+266,Pei Ling, Yen  P.L.,05/01/1986,174,65,270
+267,Güldeniz, Güldeniz,25/03/1986,183,75,296
+268,Gülden, Gülden,05/12/1980,167,57,281
+269,Gizem, Guresen,14/01/1987,178,70,250
+270,Nihan, Yeldan Guneyligil,07/02/1982,170,60,280
+271,Ergul, Ergül,24/07/1987,190,75,300
+272,Polen, Uslupehlivan,27/08/1990,193,65,320
+273,Ayse Gokcen, Denkel Zop,02/08/1985,193,80,320
+274,Bahar, Toksoy,06/02/1988,190,68,315
+275,Ozge Nur, Yurtdagülen,06/08/1993,193,67,320
+276,Gozde, Sonsirma,26/06/1985,183,70,297
+277,Naz, Aydemir,14/08/1990,186,68,304
+278,Esra, Gümüs,02/10/1982,181,76,305
+279,Neriman, Özsoy,13/07/1988,188,76,312
+280,Eda, Erdem,22/06/1987,188,74,307
+281,Meryem, Calik,03/02/1988,194,63,315
+282,Nedime Elif, Oner,10/02/1984,186,72,292
+283,Neslihan, Darnel,09/12/1983,187,72,315
+284,Asuman, Karakoyun,16/07/1990,180,72,293
+285,Seda, Tokatlioglu,25/06/1986,192,80,312
+286,Büsra, Büsra,16/07/1990,188,84,297
+287,Nilay, Nilay,24/10/1985,179,67,286
+288,Yeliz, Basa,13/08/1987,187,75,308
+289,Selime, Ilyasoglu,18/11/1988,183,68,310
+290,Gizem, Gizem,26/04/1993,170,59,270
+291,Ezgi, Dagdelenler,03/11/1993,184,69,290
+292,Alisha, Glass,05/04/1988,184,72,305
+293,Danielle, Scott,01/10/1972,188,84,325
+294,Tayyiba, Haneef-Park,23/03/1979,200,82,328
+295,Lindsey, Berg,16/07/1980,173,75,287
+296,Stacy, Sykora,24/06/1977,176,61,305
+297,Nicole, Davis,24/04/1982,167,73,284
+298,Heather, Bown,29/11/1978,188,90,301
+299,Cynthia, Barboza,07/02/1987,183,68,311
+300,Jennifer, Tamas,23/11/1982,191,82,315
+301,Kimberly, K. Glass,18/08/1984,190,75,314
+302,Jordan, Larson,16/10/1986,188,75,302
+303,Nancy, Metcalf,12/11/1978,186,73,314
+304,Christa Harmotto, Dietzen,12/10/1986,188,79,322
+305,Nicole, Fawcett,16/12/1986,191,82,310
+306,Logan, Tom,25/05/1981,186,80,306
+307,Foluke, Akinradewo,05/10/1987,191,79,331
+308,Carli, Lloyd,06/08/1989,180,75,313
+309,Megan, Easy,15/10/1988,191,80,320
+310,Destinee, Hooker,07/09/1987,193,73,320
+311,Alexandra, Alix,30/12/1989,194,73,322
+312,Tamari, Miyashiro,08/07/1987,170,70,284
+313,Courtney, Thompson,04/11/1984,170,66,276
+314,Mary, Spicer,03/07/1987,175,65,292
+315,Kristin Lynn, Hildebrand,30/06/1985,185,68,300
+316,Lauren, Gibbemeyer,08/09/1988,187,71,307
+1,Nadira,Ait Oumghar,09.10.1994,185,77,281
+2,Dallal Merwa,Achour,03.11.1994,176,60,275
+3,Salima,Salima,17.01.1984,158,54,270
+4,Fatma Zahra,Djouad,12.07.1988,180,62,295
+5,Sara,Sara,18.09.1994,178,60,272
+6,Silya,Magnana,16.03.1991,181,68,274
+7,Manel,Yagoubi,25.06.1992,178,70,295
+8,Zohra,Bensalem,05.04.1990,178,68,310
+9,Amina,Amina,18.07.1993,173,62,295
+10,Fatima Zahra,Mazori,18.01.1984,175,67,295
+11,Mouni,Mouni,19.11.1985,171,60,305
+12,Safia,Boukhima,10.01.1991,176,64,294
+13,Nawal,Mansouri,01.08.1985,174,64,291
+14,Kahina,Messaoudene,15.07.1992,183,56,299
+15,Aicha,Mezemate,06.06.1991,187,75,300
+16,Sihem,Saoud.S,18.07.1993,175,62,295
+17,Lydia,Oulmou,02.02.1986,181,59,291
+18,Tassadit,Sassa,19.06.1989,184,80,295
+19,Celia,Bourihane,22.01.1995,178,56,277
+20,Kahina,Arbouche,04.09.1993,175,60,295
+21,Yasmine,Ousalah,04.07.1993,174,60,270
+22,Nawel,Hammouche,25.04.1997,185,66,279
+23,Lucia,Gaido,19.01.1988,164,53,245
+24,Josefina,Fernandez,17.08.1991,180,69,300
+25,Paula Yamila,Nizetich,27.01.1989,181,74,305
+26,Sol,Piccolo,11.09.1996,184,74,294
+27,Lucia,Fresco,14.05.1991,195,92,304
+28,Daniela,Gildenberger,12.06.1984,180,77,300
+29,Natalia,Aispurua,20.12.1991,192,78,310
+30,Tanya,Acosta,11.03.1991,182,70,287
+31,Viviana,Dominko,03.10.1982,172,68,289
+32,Emilce,Sosa,11.09.1987,177,72,305
+33,Georgina,Pinedo,30.05.1981,180,64,312
+34,Tatiana Soledad,Rizzo,30.12.1986,178,64,280
+35,Leticia,Boscacci,08.11.1985,186,70,302
+36,Florencia,Carlotto,14.10.1988,183,72,302
+37,Sherry,Moreno,21.10.1989,185,77,303
+38,Florencia Natasha,Busquets,27.06.1989,192,68,305
+39,Antonela Ayelen,Curatola,23.10.1991,175,71,290
+40,Yael,Castiglione Y,27.09.1985,184,75,295
+41,Elina,Rodriguez,11.02.1997,189,72,300
+42,Mariangeles,Cossar,07.04.1990,177,70,290
+43,Maria Sol,Calvete,14.09.1994,179,65,295
+44,Eugenia,Nosach,31.03.1993,175,66,290
+45,Fabiana,Fabiana,24.01.1985,193,76,314
+46,Juciely Cristina,Juciely,18.12.1980,184,71,312
+47,Danielle,Dani Lins,05.01.1985,181,68,290
+48,Ellen,Ellen,12.06.1991,178,65,288
+49,Adenizia,Adê,18.12.1986,185,63,312
+50,Thaisa,Thaisa,15.05.1987,196,79,316
+51,Priscila,Priscila,10.08.1988,182,74,290
+52,Claudia,Claudia,21.09.1987,181,80,290
+53,Michelle,Michelle,31.10.1986,178,62,295
+54,Gabriela,Gabi,19.05.1994,180,65,305
+55,Tandara,Tandara,30.10.1988,184,87,305
+56,Natalia,Natália,04.04.1989,186,83,311
+57,Sheilla,Sheilla,01.07.1983,185,64,302
+58,Fabiana,Fabí,07.03.1980,169,59,276
+59,Monique,Monique,31.10.1986,178,67,294
+60,Fernanda,Fe Garay,10.05.1986,179,74,308
+61,Josefa Fabiola,Fabiola,03.02.1983,184,70,300
+62,Camila,C. Brait,28.10.1988,170,58,271
+63,Leticia Magnani,Leticia,09.09.1990,187,83,301
+64,Ana Beatriz,Ana Beatriz,07.02.1992,187,70,298
+65,Ivna,Ivna,25.01.1990,185,76,305
+66,Suelen,Suelen,04.10.1987,166,81,256
+67,Diana,Puleva,16.04.1985,178,70,294
+68,Desislava,Nikolova D.,21.12.1991,184,65,290
+69,Kremena,Kamenova,21.05.1988,185,64,304
+70,Lora,Kitipova,19.05.1991,184,66,290
+71,Dobriana,Rabadzhieva,14.06.1991,190,77,305
+72,Tsvetelina,Zarkova,18.12.1986,187,69,298
+73,Gabriela,Koeva,25.07.1989,187,72,306
+74,Simona,Dimitrova S.,17.07.1994,185,82,290
+75,Petya,Barakova,18.06.1994,180,76,283
+76,Gergana,Dimitrova,28.02.1996,184,71,305
+77,Hristina,Ruseva,01.10.1991,190,77,305
+78,Mariya,Karakasheva,27.10.1988,182,68,295
+79,Mariya,Filipova,10.09.1982,178,68,295
+80,Slavina,Koleva,22.11.1986,184,57,302
+81,Silvana,Chausheva,19.05.1995,188,75,305
+82,Elitsa,Vasileva,13.05.1990,190,73,302
+83,Strashimira Strashimirova,Simeonova,18.08.1985,195,78,307
+84,Emiliya,Dimitrova,26.12.1991,185,59,302
+85,Mira,Todorova M.,12.04.1994,187,73,312
+86,Zhana,Todorova,06.01.1997,170,56,271
+108,Melissa Teresa,Vargas,16.10.1999,184,78,244
+109,Lilianny,Marsillan,05.10.1991,181,65,300
+110,Alena,Orta,09.08.1992,186,76,320
+111,Yoana,Palacio,06.10.1990,184,67,313
+112,Heidy,Casanova,06.11.1998,184,78,244
+113,Daymara,Lescay,05.09.1992,184,72,308
+114,Claudia,Hernandez,09.01.1997,181,78,225
+115,Emily,Borrell,19.02.1992,167,55,270
+116,Dayessi,Luis,23.10.1996,170,60,288
+117,Ana Yilian,Cleger,27.11.1989,183,69,300
+118,Gretell Elena,Moreno,30.01.1998,183,68,287
+119,Dairilys Margarita,Cruz,12.09.1990,183,65,310
+120,Rosanna,Giel,10.06.1992,187,62,320
+121,Dayami,Sanchez,14.03.1994,188,64,314
+122,Beatriz,Vilches,29.01.1995,182,68,288
+123,Anet,Alfonso,26.06.1996,172,54,225
+124,Yelennis,Cairo,14.10.1995,189,71,300
+125,Sulian Caridad,Matienzo,14.12.1994,178,75,232
+126,Jennifer Yanet,Alvarez,19.11.1993,184,72,310
+127,Heidy Margarita,Rodriguez,24.06.1993,187,66,312
+128,Andrea,Kossanyiova,06.08.1993,186,72,310
+129,Eva,Hodanova,18.12.1993,189,75,306
+130,Kristyna,BOULOVA (Pastulova),22.10.1985,197,84,315
+131,Aneta,Havlickova,03.07.1987,190,96,316
+132,Julie,Kovarova,14.09.1987,179,62,295
+133,Lucie,Smutna,14.04.1991,180,75,307
+134,Sarka,Kubinova,19.04.1988,178,63,303
+135,Tereza,Rossi,03.12.1982,191,81,310
+136,Michaela,Monzoni,18.04.1984,193,75,310
+137,Petra,Kojdova,23.09.1993,183,68,304
+138,Veronika,Dostalova,07.04.1992,170,66,278
+139,Karolína,Bednarova,20.07.1986,183,67,304
+140,Tereza,Vanzurova,04.04.1991,186,83,300
+141,Lucie,Muhlsteinova,15.10.1984,180,72,296
+142,Ivona,Svobodnikova,01.04.1991,190,77,300
+143,Helena,Havelkova,25.07.1988,186,70,320
+144,Ivana,Plchotova,28.10.1982,192,76,310
+145,Pavla,Vincourova,12.11.1992,180,68,297
+146,Nikol,Sajdova,20.07.1988,185,79,298
+147,Lucie,Herbockova,02.01.1994,183,67,299
+148,Michaela,Mlejnkova,26.07.1996,185,75,305
+149,Annerys Victoria,Valdez,07.08.1981,196,70,327
+150,Winifer Maria,Fernandez,06.01.1995,169,62,270
+151,Lisvel Elisa,Eve,10.09.1991,194,90,325
+152,Marianne,Fersola,16.01.1992,191,60,315
+153,Brenda,Castillo,05.06.1992,167,55,245
+154,Marifranchi,Rodriguez,29.08.1990,184,68,310
+155,Niverka Dharlenis,Marte,19.10.1990,178,71,295
+156,Candida Estefany,Arias,11.03.1992,194,68,320
+157,Sidarka De Los Milagros,Nuñez,25.06.1984,185,62,330
+158,Pamela Marie,Soriano,30.06.1995,175,64,290
+159,Jeoselyna,Rodriguez,09.12.1991,187,63,325
+160,Karla Miguelina,Echenique,16.05.1986,180,65,300
+161,Jineiry,Martinez,03.12.1997,190,68,305
+162,Prisilla,Rivera,29.12.1984,183,67,309
+163,Celenia,Toribio,17.07.1994,181,69,290
+164,Yonkaira Paola,Peña Isabel,10.05.1993,190,70,320
+165,Gina Altagracia,Mambru,21.01.1986,182,65,330
+166,Bethania,De La Cruz,13.05.1987,188,70,330
+167,Ana Yorkira,Binet,09.02.1992,174,58,280
+168,Brayelin Elizabeth,Martinez,11.09.1996,201,83,330
+169,Erasma,Moreno,25.11.1991,183,75,304
+170,Gaila Ceneida,Gonzalez,25.06.1997,188,73,304
+171,Kathleen WeiÃŸ,02.02.1984,173,64,290,273
+172,Denise Hanke,31.08.1989,183,73,297,284
+173,Maren Fromm,10.07.1986,184,68,303,295
+174,Anja Brandt,15.02.1990,195,77,310,295
+175,Kathy Radzuweit,02.03.1982,196,76,319,300
+176,Jana Franziska Poll,07.05.1988,185,69,310,290
+177,Berit Kauffeldt,08.07.1990,190,75,311,294
+178,Corina Ssuschke-Voigt,09.05.1983,189,75,310,298
+179,Anne Matthes,30.04.1985,182,66,312,295
+180,Christiane FÃ¼rst,29.03.1985,193,80,323,307
+181,Heike Beier,09.12.1983,184,73,305,293
+182,Saskia Hippe,16.01.1991,185,67,315,292
+183,Margareta Kozuch,30.10.1986,187,70,309,297
+184,Lisa Thomsen,20.08.1985,172,68,290,285
+185,Lena MÃ¶llers,06.01.1990,188,74,312,297
+186,Carina Aulenbrock,22.09.1994,0,0,310,291
+187,Regina Burchardt,01.07.1983,186,77,302,294
+188,Svenja Engelhardt,20.04.1988,182,71,304,288
+189,Mareen Von RÃ¶mer,26.03.1987,183,73,295,284
+190,Jennifer Geerties,05.04.1994,184,58,298,288
+191,Lisa Izquierdo,29.08.1994,178,73,309,294
+192,Indre,Sorokaite,02.07.1988,188,80,303
+193,Cristina,Barcellini,20.11.1986,183,78,307
+194,Immacolata,Sirressi,19.05.1990,175,62,290
+195,Letizia,Camera,01.10.1992,175,62,285
+196,Enrica,Merlo,28.12.1988,170,60,281
+197,Monica,De Gennaro,08.01.1987,174,67,292
+198,Martina,Guiggi,01.05.1984,187,80,317
+199,Noemi,Signorile,15.02.1990,183,72,294
+200,Caterina,Bosetti C,02.02.1994,179,59,299
+201,Cristina,Chirichella,10.02.1994,194,79,322
+202,Chiara,Di Iulio,05.05.1985,184,65,291
+203,Valentina,Zago,21.02.1990,186,77,305
+204,Valentina,Arrighetti,26.01.1985,185,72,318
+205,Valeria,Caracuta,14.12.1987,173,65,285
+206,Floriana,Bertone,19.11.1992,202,80,316
+207,Lucia,Bosetti L,09.07.1989,178,63,310
+208,Valentina,Diouf,10.01.1993,202,94,330
+209,Carolina Del Pilar,Costagrande,15.10.1980,187,90,320
+210,Raphaela,Folie,07.03.1991,187,73,324
+211,Alessia,Gennari,03.11.1991,184,68,305
+212,Valentina,Fiorin,09.10.1984,184,82,320
+213,Valentina,Tirozzi,26.03.1986,181,69,304
+214,Miyu,NAGAOKA,25.07.1991,179,64,308
+215,Arisa,Sato,18.07.1989,166,53,275
+216,Saori,Saori,19.08.1986,185,65,304
+217,Kanako,Hirai,15.04.1984,183,69,309
+218,Naoko,Hashimoto,11.07.1984,172,68,288
+219,Haruka,MIYASHITA,01.09.1994,177,61,298
+220,Mami,Yoshida,05.06.1986,158,57,272
+221,Kotoki,Zayasu,11.01.1990,159,57,270
+222,Mizuho,Ishida,22.01.1988,174,65,301
+223,Nana,IWASAKA,03.07.1990,187,76,298
+224,Makoto,Matsuura,09.09.1986,173,69,282
+225,Yuki,ISHII,08.05.1991,180,67,305
+226,Risa,SHINNABE,11.07.1990,175,64,293
+227,Yukiko,Ebata,07.11.1989,176,67,305
+228,Haruyo,Shimamura,04.03.1992,182,78,297
+229,Saori,Sakoda,18.12.1987,175,63,305
+230,Akari,Oumi,10.11.1989,171,64,297
+231,Saori,Takahashi,09.12.1992,177,66,307
+232,Riho,Ohtake,23.12.1993,182,68,306
+233,Aimi,Kawashima,15.04.1990,182,67,298
+234,Kanami,TASHIRO,25.03.1991,173,68,289
+235,Fumika,Moriya,07.04.1992,180,75,302
+236,Tatyana,Mudritskaya,17.01.1985,195,77,310
+237,Lyudmila,Issayeva,26.09.1989,184,70,295
+238,Sana,Anarkulova,21.07.1989,188,77,300
+239,Lyudmila,Anarbayeva,12.11.1983,192,72,305
+240,Olga,Danchenko,28.12.1982,190,75,305
+241,Natalya,Akilova,31.05.1993,183,62,295
+242,Alena,Ivanova,19.06.1989,195,78,310
+243,Korinna,Ishimtseva,08.02.1984,187,69,300
+244,Irina,Lukomskaya,19.03.1991,176,66,280
+245,Irina,Shenberger,20.02.1992,180,73,290
+246,Marina,Storozhenko,06.06.1985,175,57,290
+247,Yekaterina,Zhdanova,28.05.1992,183,65,280
+248,Yana,Yagodina,24.01.1993,182,69,300
+249,Alessya,Safronova,10.02.1986,192,70,290
+250,Anastassiya,Rostovchshikova,17.04.1994,180,64,280
+251,Inna,Matveyeva,12.10.1978,186,70,303
+252,Yekaterina,Razorenkova,03.06.1993,185,69,283
+253,Yelena,Gordeyeva,23.11.1988,178,72,280
+254,Zarina,Sitkazinova,20.03.1993,182,70,295
+255,Tatyana,Fendrikova,23.02.1990,169,55,280
+256,Femke Stoltenborg,30.07.1991,189,81,303,299
+257,Yvon Belien,28.12.1993,188,73,307,303
+258,Celeste Plak,26.10.1995,190,87,314,302
+259,Robin De Kruijf,05.05.1991,192,81,313,300
+260,Maret Balkestein-Grothues,16.09.1988,180,68,304,285
+261,Quinta Steenbergen,02.04.1985,189,75,309,300
+262,Judith Pietersen,03.07.1989,188,73,306,296
+263,Myrthe Schoot,29.08.1988,182,70,298,286
+264,Lonneke SlÃ¶etjes,15.11.1990,191,76,322,315
+265,Anne Buijs,02.12.1991,191,73,317,299
+266,Manon Nummerdor-Flier,08.02.1984,192,71,315,301
+267,Flore Gravesteijn,26.04.1987,189,68,303,291
+268,Laura Dijkema,18.02.1990,184,70,293,279
+269,Kim Renkema,28.06.1987,179,67,295,282
+270,Moniek Jansen,26.08.1992,192,86,298,285
+271,Lynn Thijssen,22.08.1992,187,73,298,284
+272,Kirsten Knip,14.09.1992,175,70,281,275
+273,Quirine Oosterveld,05.03.1990,181,70,296,288
+274,Esther Van Berkel,31.08.1990,176,68,301,287
+275,Inge Molendijk,09.12.1992,186,76,287,284
+276,Klaske Sikkes,07.04.1993,188,74,299,286
+320,Maria,Borodakova,08.03.1986,190,88,301
+321,Anastasia,Salina,30.12.1988,181,67,295
+322,Daria,Isaeva,29.03.1990,186,75,310
+323,Irina,Koroleva,04.10.1991,196,78,305
+324,Alexandra,Pasynkova,14.04.1987,190,75,313
+325,Anna,Matienko,12.07.1981,182,68,298
+326,Svetlana,Kryuchkova,21.02.1985,174,63,290
+327,Nataliya,Goncharova,01.06.1989,194,75,315
+328,Kseniia,Bondar,01.02.1990,190,73,305
+329,Ekaterina,Pankova,02.02.1990,178,64,290
+330,Victoriia,Chaplina,23.10.1988,188,77,301
+331,Ekaterina,Orlova,21.10.1987,193,77,307
+332,Evgeniya,Startseva,12.02.1989,185,68,294
+333,Natalia,Dianskaia,07.03.1989,185,69,297
+334,Tatyana,Kosheleva,23.12.1988,191,67,315
+335,Regina,Moroz,14.01.1987,188,70,310
+336,Natalia,Malykh,08.12.1993,187,65,308
+337,Alexandra,Vinogradova,11.04.1988,175,72,295
+338,Anna,Podkopaeva,16.04.1990,175,59,290
+339,Anastasia,Shlyakhovaya,05.10.1990,192,69,313
+340,Valeriya,Goncharova,03.01.1988,188,70,308
+341,Elena,Novik,23.03.1994,180,66,295
+342,Ana,Zivojinovic,04.07.1991,186,74,280
+343,Jovana,Brakocevic Canzian,05.03.1988,196,82,309
+344,Sanja,Malagurski,08.06.1990,193,74,305
+345,Bojana,Drca,29.03.1988,186,70,298
+346,Natasa,Krsmanovic,19.06.1985,188,73,305
+347,Tijana,Malesevic,18.03.1991,184,73,289
+348,Brizitka,Molnar,28.07.1985,182,69,304
+349,Olga,Raonic,31.12.1986,184,70,294
+350,Brankica,Mihajlovic,13.04.1991,190,83,302
+351,Maja,Maja,06.08.1984,183,67,300
+352,Stefana,Veljkovic,09.01.1990,190,76,325
+353,Jelena,Nikolic,13.04.1982,194,79,315
+354,Ana,Bjelica,03.04.1992,190,78,310
+355,Nadja,Ninkovic,01.11.1991,193,77,307
+356,Jovana,Stevanovic,30.06.1992,192,72,308
+357,Milena,Milena,25.10.1990,193,72,315
+358,Silvija,Popovic,15.03.1986,178,65,286
+359,Suzana,Cebic,09.11.1984,167,60,279
+360,Jasna,Majstorovic,23.04.1984,181,64,300
+361,Sladjana,Mirkovic,07.10.1995,185,78,293
+362,Bianka,Busa,25.07.1994,187,74,312
+363,Tijana,Boskovic,08.03.1997,193,82,315
+364,Wanna,B. Wanna,02.01.1981,172,54,292
+365,Piyanut,P.Piyanut,10.11.1989,171,62,280
+366,Em-Orn,P Em-Orn,25.03.1988,177,70,302
+367,Thatdao,N.Thatdao,03.02.1994,184,72,308
+368,Pleumjit,T.Pleumjit,09.11.1983,180,67,303
+369,Onuma,S.Onuma,13.06.1986,175,72,304
+370,Kamonporn,S Kamonporn,29.02.1988,174,63,285
+371,Utaiwan,K Utaiwan,09.07.1988,189,86,310
+372,Wanitchaya,L.Wanitchaya,08.10.1992,177,60,300
+373,Wilavan,A.Wilavan,06.06.1984,174,70,294
+374,Amporn,H.Amporn,19.05.1985,180,70,301
+375,Tapaphaipun,C.Tapaphaipun,29.11.1989,168,70,295
+376,Nootsara,T.Nootsara,07.07.1985,169,57,289
+377,Jarasporn,B Jarasporn,01.03.1993,181,65,291
+378,Malika,K.Malika,08.01.1987,178,65,292
+379,Pornpun,G.Pornpun,05.05.1993,170,63,288
+380,Kaewkalaya,K.Kaewkalaya,07.08.1994,178,66,298
+381,Ajcharaporn,K.Ajcharaporn,18.06.1995,178,65,298
+382,Sontaya,K.Sontaya,09.02.1991,177,68,290
+383,Kuttika,K. Kuttika,16.08.1994,168,56,285
+384,Parinya,Parinya,27.12.1995,170,59,281
+385,Sineenat,P. Sineenat,19.05.1995,173,53,287
+386,Güldeniz,Güldeniz,25.03.1986,183,75,296
+387,Gülden,Gülden,05.12.1980,167,57,281
+388,Gizem,Gizem,14.01.1987,178,60,290
+389,Birgül,Guler,02.05.1990,178,68,305
+390,Ergul,Ergül,24.07.1987,190,75,300
+391,Polen,Uslupehlivan,27.08.1990,193,65,320
+392,Seda,Tokatlioglu,25.06.1986,192,80,312
+393,Bahar,Toksoy,06.02.1988,190,68,315
+394,Özge,Cemberci,26.06.1985,183,68,310
+395,Gözde,Sonsirma,26.06.1985,183,70,297
+396,Naz,Aydemir,14.08.1990,186,68,304
+397,Esra,Esra,02.10.1982,181,76,305
+398,Neriman,Özsoy,13.07.1988,188,76,312
+399,Gözde,Gözde,09.09.1991,194,79,316
+400,Ezgi,Guc,23.03.1992,181,59,280
+401,Büsra,Büsra,16.07.1990,188,84,297
+402,Neslihan,Darnel,09.12.1983,187,72,315
+403,Asuman,Karakoyun,16.07.1990,180,72,293
+404,Ayse Melis,Melis,20.04.1990,183,68,300
+405,Kubra,Kübra,13.10.1994,198,86,310
+406,Asli,Kalaç,13.12.1995,185,73,306
+407,Dilara,Bagci,02.02.1994,165,62,270

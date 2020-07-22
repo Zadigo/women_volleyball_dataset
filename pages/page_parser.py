@@ -11,7 +11,7 @@ import selenium
 from bs4 import BeautifulSoup
 from selenium.webdriver import Edge
 
-from my_machine_learning.conf import DATA_PATH, PAGES_PATH
+from volleyball.conf import DATA_PATH, PAGES_PATH
 
 PLAYERS = []
 
@@ -67,32 +67,29 @@ def table(soup, map_rows, attrs: dict={}, has_header=True, output_name=None, **k
             # the name of the player in situations
             # where it is actually embedded there
             link_tag = row.find('a')
-            link = link_tag['href']
+            if link_tag:
+                link = link_tag['href']
+            else:
+                link = None
 
             if 'full_name' in map_rows:
                 row_position = map_rows['full_name']
-                # if isinstance(position, int):
-                #     # Get the position of the
-                #     # row in order to get the
-                #     # player's name
-                #     pass
                 full_name = refixer(link_tag.text)
             else:
                 try:
-                    name = characteristics[map_rows['name']].text
+                    name = refixer(characteristics[map_rows['name']].text)
                 except:
                     name = None
 
                 try:
-                    surname = characteristics[map_rows['surname']].text
+                    surname = refixer(characteristics[map_rows['surname']].text)
                 except:
                     surname = None
 
                 full_name = refixer(f'{name} {surname}')
 
             try:
-                date_of_birth = refixer(
-                    characteristics[map_rows['date_of_birth']].text)
+                date_of_birth = refixer(characteristics[map_rows['date_of_birth']].text)
             except:
                 date_of_birth = None
             else:
@@ -100,22 +97,22 @@ def table(soup, map_rows, attrs: dict={}, has_header=True, output_name=None, **k
                     date_of_birth.replace('.', '/')
 
             try:
-                height = characteristics[map_rows['height']].text
+                height = refixer(characteristics[map_rows['height']].text)
             except:
                 height = None
 
             try:
-                weight = characteristics[map_rows['weight']].text
+                weight = refixer(characteristics[map_rows['weight']].text)
             except:
                 weight = None
 
             try:
-                spike = characteristics[map_rows['spike']].text
+                spike = refixer(characteristics[map_rows['spike']].text)
             except:
                 spike = None
 
             try:
-                block = characteristics[map_rows['block']].text
+                block = refixer(characteristics[map_rows['block']].text)
             except:
                 block = None
     
@@ -130,7 +127,7 @@ def table(soup, map_rows, attrs: dict={}, has_header=True, output_name=None, **k
 
 
 def html_page_parser(parser, map_rows:dict, table_has_header=True, 
-        target_folder=None, output_name=None, attrs: dict={}):
+        target_folder=None, output_name=None, exclude=[], attrs: dict={}):
     pages = create_paths(target_folder=target_folder)
     threads = []
 
@@ -138,22 +135,25 @@ def html_page_parser(parser, map_rows:dict, table_has_header=True,
         raise TypeError('Parser should be a callable definition.')
 
     for index, page in enumerate(pages):
-        with open(page, 'r') as f:
-            file_name = f.name
-            soup = BeautifulSoup(f.read(), 'html.parser')
-            threads.append(
-                threading.Thread(
-                    target=parser, 
-                    name=f'PAGE-{index}: {file_name}',
-                    args=[soup, map_rows], 
-                    kwargs={
-                        'output_name': output_name,
-                        'attrs': attrs,
-                        'has_header': table_has_header,
-                        'page_name': page,
-                    }
+        file_name = os.path.basename(page)
+        country, _ = file_name.split('.')
+
+        if file_name not in exclude:
+            with open(page, 'r', encoding='utf-8') as f:
+                soup = BeautifulSoup(f, 'html.parser')
+                threads.append(
+                    threading.Thread(
+                        target=parser, 
+                        name=f'PAGE-{index}: {file_name}',
+                        args=[soup, map_rows], 
+                        kwargs={
+                            'output_name': output_name,
+                            'attrs': attrs,
+                            'has_header': table_has_header,
+                            'page_name': page,
+                        }
+                    )
                 )
-            )
 
     for index, thread in enumerate(threads):
         thread.start()
@@ -169,91 +169,19 @@ def html_page_parser(parser, map_rows:dict, table_has_header=True,
     return df
 
 
-def selenium_parser(url, xpath, url_suffix=None):
-    """
-    Selenium pages by retrieving the links to each team roster
-    in the menu dropdown
-    """
-    # driver = Edge(executable_path='C:\\Users\\Pende\\Documents\\edge_driver\\msedgedriver.exe')
-    driver = Edge(executable_path=os.environ.get('EDGE_DRIVER'))
-    driver.get(url)
-
-    time.sleep(2)
-
-    nav_ul = driver.find_element_by_xpath(xpath)
-    links = nav_ul.find_elements_by_tag_name('a')
-
-    list_of_urls = []
-
-    for index, link in enumerate(links):
-        href = link.get_attribute('href')
-        if '/en/volleyball' in href:
-            is_match = re.search(r'\/teams\/(\w+)\-(.*)', href)
-            if is_match:
-                country = is_match.group(1).upper()
-            else:
-                country = f'NOCOUNTRY{index}'
-
-        if 'Teams.asp' in href \
-                or 'Team=' in href \
-                    or '/Teams/' in href:
-            is_match = re.search(r'Team\=(.*)', href)
-            if is_match:
-                country = is_match.group(1)
-            else:
-                country = f'NOCOUNTRY{index}'
-
-        if url_suffix:
-            href = f'{href}/{url_suffix}'
-        list_of_urls.append((href, country))
-
-    async def writer(output_path, html):
-        with open(output_path, 'w') as f:
-            try:
-                f.write(html)
-            except:
-                return False
-            print(f'Writing file to {output_path}')
-            # time.sleep(1)
-            asyncio.sleep(1)
-
-    async def main(output_path, html):
-        return await writer(output_path, html)            
-
-    for list_of_url in list_of_urls:
-        driver.get(list_of_url[0])
-        # We just retrieve the body for
-        # simplification instead of taking
-        # the full HTML tag
-        body = driver.find_element_by_tag_name('body')
-
-        output_path = os.path.join(PAGES_PATH, 'temp', f'{list_of_url[1]}.html')
-        html = body.get_attribute('innerHTML')
-
-        asyncio.run(main(output_path, html))
-
-
-# url = 'http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2006/Teams/Team_Roster.asp?TEAM=AZE&TRN=WGP2006&sm=53'
-# xpath = '/html/body/center/table[4]/tbody/tr[1]/td[2]/table/tbody/tr[9]/td/div[2]'
-
-# selenium_parser(url, xpath)
-
-# time.sleep(2)
-
-
 if __name__ == "__main__":
     html_page_parser(
         table,
         {
-            'name': 4,
-            'surname': 5,
-            'date_of_birth': 7,
-            'height': 8,
-            'weight': 9,
-            'spike': 10,
-            'block': 11
+            'name': 5,
+            'surname': 6,
+            # 'full_name': 1,
+            'date_of_birth': 8,
+            'height': 9,
+            'weight': 10,
+            'spike': 11,
+            'block': 12
         },
-        target_folder='u20_wc_2007',
-        output_name='u20_world_championships_2007.csv',
-        attrs={'class': 'players'},
+        target_folder='wgp_2012',
+        output_name='wgp_2012.csv',
     )
