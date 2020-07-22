@@ -1,0 +1,229 @@
+id,name,date_of_birth,height,weight,spike,block,link
+1,Nadira Ait Oumghar,09/10/1994,185,77,281,263,Players.asp?Tourn=WU202013&Team=ALG&No=135594
+2,Yasmine Abderrahim,16/04/1999,182,62,290,283,Players.asp?Tourn=WU202013&Team=ALG&No=136728
+3,Sara Belhocine,18/09/1994,178,60,272,260,Players.asp?Tourn=WU202013&Team=ALG&No=146590
+4,Louiza Bayou,25/05/1994,172,60,285,279,Players.asp?Tourn=WU202013&Team=ALG&No=135596
+5,Titem Hani,13/01/1996,161,52,258,245,Players.asp?Tourn=WU202013&Team=ALG&No=142090
+6,Sarah Akroun,05/02/1994,176,60,266,253,Players.asp?Tourn=WU202013&Team=ALG&No=133832
+7,Chanez Ayadi,08/02/1994,173,59,271,254,Players.asp?Tourn=WU202013&Team=ALG&No=133833
+8,Wissem Samia Dali,01/09/1995,174,58,266,260,Players.asp?Tourn=WU202013&Team=ALG&No=135666
+9,Nawel Hammouche,25/04/1997,185,66,279,265,Players.asp?Tourn=WU202013&Team=ALG&No=135763
+10,Dallal Merwa Achour,03/11/1994,176,60,275,262,Players.asp?Tourn=WU202013&Team=ALG&No=135595
+11,Zaidi Amel,03/03/1995,175,58,278,260,Players.asp?Tourn=WU202013&Team=ALG&No=142357
+12,Celia Bourihane,22/01/1995,178,56,277,255,Players.asp?Tourn=WU202013&Team=ALG&No=133834
+13,Naiane De Almeida Rios,29/11/1994,179,63,276,281,Players.asp?Tourn=WU202013&Team=BRA&No=136890
+14,Maira Cipriano Claro,07/03/1995,187,62,300,278,Players.asp?Tourn=WU202013&Team=BRA&No=140414
+15,Saraelen Leandro Ferreira Lima,16/04/1994,184,76,302,282,Players.asp?Tourn=WU202013&Team=BRA&No=140415
+16,Gabriela Braga Guimaraes,19/05/1994,180,65,305,289,Players.asp?Tourn=WU202013&Team=BRA&No=136896
+17,Rosamaria Montibeller,09/04/1994,185,76,291,285,Players.asp?Tourn=WU202013&Team=BRA&No=136897
+18,Giovana Gasparini,05/07/1994,172,74,281,264,Players.asp?Tourn=WU202013&Team=BRA&No=140417
+19,Valquiria Carboni Dullius,19/08/1994,188,72,288,281,Players.asp?Tourn=WU202013&Team=BRA&No=136899
+20,Paula Camila Mohr,23/04/1994,187,69,294,280,Players.asp?Tourn=WU202013&Team=BRA&No=136900
+21,Milka MarcÃ­lia Medeiros Silva,18/07/1994,190,75,307,291,Players.asp?Tourn=WU202013&Team=BRA&No=140418
+22,Domingas Soares AraÃºjo,09/09/1994,182,82,311,290,Players.asp?Tourn=WU202013&Team=BRA&No=140419
+23,Sara Aparecida Dias Da Silva,29/04/1994,185,75,29,301,Players.asp?Tourn=WU202013&Team=BRA&No=136909
+24,Daniela GuimarÃ£es,29/07/1994,168,63,274,265,Players.asp?Tourn=WU202013&Team=BRA&No=140420
+25,Gergana Dimitrova,28/02/1996,184,71,305,288,Players.asp?Tourn=WU202013&Team=BUL&No=142341
+26,Milena Dimova,05/07/1994,189,61,306,295,Players.asp?Tourn=WU202013&Team=BUL&No=142335
+27,Ralina Doshkova,07/06/1995,188,64,303,295,Players.asp?Tourn=WU202013&Team=BUL&No=142342
+28,Kristiana Petlichka,06/07/1994,183,67,290,278,Players.asp?Tourn=WU202013&Team=BUL&No=142343
+29,Simona Dimitrova,17/07/1994,185,82,290,280,Players.asp?Tourn=WU202013&Team=BUL&No=142345
+30,Miroslava Paskova,16/02/1996,180,67,299,280,Players.asp?Tourn=WU202013&Team=BUL&No=142347
+31,Petya Barakova,18/06/1994,180,76,283,271,Players.asp?Tourn=WU202013&Team=BUL&No=142348
+32,Kristina Guncheva,24/03/1994,178,61,282,271,Players.asp?Tourn=WU202013&Team=BUL&No=142373
+33,Proletka Ivanova,04/10/1995,182,76,298,285,Players.asp?Tourn=WU202013&Team=BUL&No=142331
+34,Mira Todorova,12/04/1994,187,73,312,300,Players.asp?Tourn=WU202013&Team=BUL&No=142337
+35,Silvana Chausheva,19/05/1995,188,75,305,290,Players.asp?Tourn=WU202013&Team=BUL&No=142333
+36,Zhana Todorova,06/01/1997,170,56,271,255,Players.asp?Tourn=WU202013&Team=BUL&No=142351
+37,Ning Wang,14/05/1994,189,60,312,303,Players.asp?Tourn=WU202013&Team=CHN&No=133592
+38,Weiwei Li,17/11/1994,190,74,312,310,Players.asp?Tourn=WU202013&Team=CHN&No=124131
+39,Yixin Zheng,06/05/1995,187,71,316,307,Players.asp?Tourn=WU202013&Team=CHN&No=135742
+40,Fengjiao Wang,25/07/1994,176,66,307,302,Players.asp?Tourn=WU202013&Team=CHN&No=135743
+41,Siyu Qin,02/05/1994,184,65,305,300,Players.asp?Tourn=WU202013&Team=CHN&No=142133
+42,Fangxu Yang,06/10/1994,190,82,308,300,Players.asp?Tourn=WU202013&Team=CHN&No=123850
+43,Meili Song,23/02/1995,186,75,310,300,Players.asp?Tourn=WU202013&Team=CHN&No=142132
+44,Ting Zhu,29/11/1994,198,78,327,300,Players.asp?Tourn=WU202013&Team=CHN&No=133588
+45,Bei Wu,21/07/1994,182,63,300,295,Players.asp?Tourn=WU202013&Team=CHN&No=133586
+46,Xintong Chen,08/04/1994,178,69,297,290,Players.asp?Tourn=WU202013&Team=CHN&No=142135
+47,Mengjie Wang,14/11/1995,172,65,289,280,Players.asp?Tourn=WU202013&Team=CHN&No=135745
+48,Liuyan Huang,13/06/1994,178,66,297,290,Players.asp?Tourn=WU202013&Team=CHN&No=123835
+49,Valeria Lopez,15/05/1995,175,66,276,267,Players.asp?Tourn=WU202013&Team=COL&No=138901
+50,Maria Margarita Martinez,19/05/1995,180,77,305,300,Players.asp?Tourn=WU202013&Team=COL&No=142892
+51,Silvia Galeano,09/06/1994,178,65,300,295,Players.asp?Tourn=WU202013&Team=COL&No=141514
+52,Eileen AcuÃ±a,04/09/1994,178,65,284,274,Players.asp?Tourn=WU202013&Team=COL&No=141515
+53,Andrea Estrada,22/06/1995,175,64,299,281,Players.asp?Tourn=WU202013&Team=COL&No=139621
+54,Diana Arrechea,14/09/1994,176,67,293,278,Players.asp?Tourn=WU202013&Team=COL&No=138905
+55,Danna Paola Escobar Lucumi,25/01/1994,193,105,295,283,Players.asp?Tourn=WU202013&Team=COL&No=134952
+56,Ivonne MontaÃ±o,12/11/1995,187,72,302,291,Players.asp?Tourn=WU202013&Team=COL&No=138907
+57,Camila Gomez,06/07/1995,160,61,263,260,Players.asp?Tourn=WU202013&Team=COL&No=138909
+58,Maria Alejandra Marin,04/11/1995,180,65,295,283,Players.asp?Tourn=WU202013&Team=COL&No=138911
+59,Melissa Rangel,16/10/1994,193,75,305,300,Players.asp?Tourn=WU202013&Team=COL&No=138910
+60,Angie Katherine Vente Hinestroza,28/10/1995,185,79,310,300,Players.asp?Tourn=WU202013&Team=COL&No=141518
+61,Klara Uhlirova,12/05/1996,173,60,286,278,Players.asp?Tourn=WU202013&Team=CZE&No=142303
+62,Anna Pospisilova,22/03/1995,179,68,290,280,Players.asp?Tourn=WU202013&Team=CZE&No=142300
+63,Klara Melicharova,24/05/1994,185,80,300,290,Players.asp?Tourn=WU202013&Team=CZE&No=137473
+64,Lucie Herbockova,02/01/1994,183,67,299,290,Players.asp?Tourn=WU202013&Team=CZE&No=142292
+65,Marie Kurkova,20/05/1996,181,75,290,284,Players.asp?Tourn=WU202013&Team=CZE&No=142296
+66,Veronika Trnkova,13/10/1995,188,88,314,300,Players.asp?Tourn=WU202013&Team=CZE&No=142302
+67,Lucie Kalhousova,14/05/1996,185,80,300,292,Players.asp?Tourn=WU202013&Team=CZE&No=142294
+68,Barbora Najbrtova,13/09/1995,187,82,300,290,Players.asp?Tourn=WU202013&Team=CZE&No=142298
+69,Katerina Zemanova,01/02/1994,187,85,297,288,Players.asp?Tourn=WU202013&Team=CZE&No=142306
+70,Sarka Bouskova,04/07/1995,179,80,294,285,Players.asp?Tourn=WU202013&Team=CZE&No=142289
+71,Michaela Mlejnkova,26/07/1996,185,75,305,298,Players.asp?Tourn=WU202013&Team=CZE&No=142297
+72,Anna Prokupkova,07/07/1994,172,63,278,269,Players.asp?Tourn=WU202013&Team=CZE&No=142301
+73,Jineiry Martinez,03/12/1997,190,68,305,280,Players.asp?Tourn=WU202013&Team=DOM&No=139910
+74,Winifer Maria Fernandez Perez,06/01/1995,169,62,270,265,Players.asp?Tourn=WU202013&Team=DOM&No=131956
+75,Gaila Ceneida Gonzalez Lopez,25/06/1997,188,73,304,276,Players.asp?Tourn=WU202013&Team=DOM&No=139927
+76,Maria Yvett Garcia De La Cruz,04/07/1996,184,71,296,265,Players.asp?Tourn=WU202013&Team=DOM&No=143960
+77,Natalia Martinez,25/11/2000,186,71,310,300,Players.asp?Tourn=WU202013&Team=DOM&No=139923
+78,Angelica Maria Hinojosa Diaz,10/01/1997,186,72,305,279,Players.asp?Tourn=WU202013&Team=DOM&No=143961
+79,Pamela Marie Soriano Olivo,30/06/1995,175,64,290,287,Players.asp?Tourn=WU202013&Team=DOM&No=131958
+80,Genesis Semfle Milisde,07/11/1996,184,60,290,271,Players.asp?Tourn=WU202013&Team=DOM&No=139924
+81,Yokaty Perez Flores,06/08/1998,178,79,291,257,Players.asp?Tourn=WU202013&Team=DOM&No=139912
+82,Celenia  Toribio De Leon,17/07/1994,181,69,290,286,Players.asp?Tourn=WU202013&Team=DOM&No=131957
+83,Larysmer Martinez Caro,18/10/1996,174,68,288,258,Players.asp?Tourn=WU202013&Team=DOM&No=139913
+84,Brayelin Elizabeth Martinez,11/09/1996,201,83,330,320,Players.asp?Tourn=WU202013&Team=DOM&No=123982
+85,Perihan  Eldeeb,28/08/1995,161,63,254,245,Players.asp?Tourn=WU202013&Team=EGY&No=136138
+86,Lujien  Sallam,21/06/1994,174,65,270,268,Players.asp?Tourn=WU202013&Team=EGY&No=123936
+87,Heidi  Kandiel,01/07/1997,187,68,285,273,Players.asp?Tourn=WU202013&Team=EGY&No=136635
+88,Kenzie  Assem,30/04/1994,177,73,276,265,Players.asp?Tourn=WU202013&Team=EGY&No=136003
+89,Sondos Ramadan,04/01/1994,176,76,271,260,Players.asp?Tourn=WU202013&Team=EGY&No=142397
+90,Aya  Ahmed,27/04/1996,184,69,280,268,Players.asp?Tourn=WU202013&Team=EGY&No=136637
+91,Rana  Elgohary,22/12/1994,180,75,284,272,Players.asp?Tourn=WU202013&Team=EGY&No=136002
+92,Farida El Askalany,14/02/1995,184,71,295,280,Players.asp?Tourn=WU202013&Team=EGY&No=123663
+93,Aya  Elshamy,27/11/1995,186,77,297,279,Players.asp?Tourn=WU202013&Team=EGY&No=136005
+94,Mai Moustafa,01/10/1996,175,63,280,269,Players.asp?Tourn=WU202013&Team=EGY&No=136137
+95,Sarah Hanafy,15/04/1997,179,80,275,263,Players.asp?Tourn=WU202013&Team=EGY&No=136640
+96,Hend Farag,29/09/1997,186,68,277,272,Players.asp?Tourn=WU202013&Team=EGY&No=142404
+97,Elena Perinelli,27/06/1995,182,66,299,277,Players.asp?Tourn=WU202013&Team=ITA&No=136697
+98,Giulia Carraro,25/07/1994,175,65,293,263,Players.asp?Tourn=WU202013&Team=ITA&No=136703
+99,Eleonora Bruno,15/04/1994,180,60,295,258,Players.asp?Tourn=WU202013&Team=ITA&No=136685
+100,Ilaria Maruotti,22/02/1994,183,61,306,283,Players.asp?Tourn=WU202013&Team=ITA&No=136698
+101,Alessia Fiesoli,25/05/1994,185,62,302,286,Players.asp?Tourn=WU202013&Team=ITA&No=136699
+102,Sara Bonifacio,03/07/1996,188,75,328,310,Players.asp?Tourn=WU202013&Team=ITA&No=142391
+103,Cristina Chirichella,10/02/1994,194,79,322,306,Players.asp?Tourn=WU202013&Team=ITA&No=136690
+104,Laura Melandri,31/01/1995,184,60,305,236,Players.asp?Tourn=WU202013&Team=ITA&No=136691
+105,Anna Nicoletti,03/01/1996,193,86,306,290,Players.asp?Tourn=WU202013&Team=ITA&No=142406
+106,Beatrice Parrocchiale,26/12/1995,168,59,286,258,Players.asp?Tourn=WU202013&Team=ITA&No=136689
+107,Miryam Fatime Sylla,08/01/1995,184,80,320,240,Players.asp?Tourn=WU202013&Team=ITA&No=136701
+108,Chiara Scacchetti,10/12/1995,175,67,290,276,Players.asp?Tourn=WU202013&Team=ITA&No=136683
+109,Momoka Oda,28/01/1994,173,72,285,270,Players.asp?Tourn=WU202013&Team=JPN&No=142314
+110,Makiko Homma,26/02/1994,178,68,285,280,Players.asp?Tourn=WU202013&Team=JPN&No=142361
+111,Misaki Yamauchi,10/03/1995,172,69,306,295,Players.asp?Tourn=WU202013&Team=JPN&No=142362
+112,Asuka Nomura,23/07/1994,180,64,304,294,Players.asp?Tourn=WU202013&Team=JPN&No=136503
+113,Kasumi Nakaya,08/10/1994,176,68,290,280,Players.asp?Tourn=WU202013&Team=JPN&No=136506
+114,Manami Kojima,07/11/1994,158,55,258,256,Players.asp?Tourn=WU202013&Team=JPN&No=142367
+115,Aya Horie,16/12/1994,174,66,290,266,Players.asp?Tourn=WU202013&Team=JPN&No=136504
+116,Ayaka Hosokawa,30/12/1994,173,64,293,283,Players.asp?Tourn=WU202013&Team=JPN&No=142371
+117,Nozomi Itoh,16/02/1995,178,70,306,295,Players.asp?Tourn=WU202013&Team=JPN&No=142363
+118,Yuki Yamagami,06/03/1995,171,59,295,290,Players.asp?Tourn=WU202013&Team=JPN&No=142364
+119,Sakura Doi,28/03/1995,177,65,292,285,Players.asp?Tourn=WU202013&Team=JPN&No=136508
+120,Arisa Inoue,08/05/1995,178,66,300,285,Players.asp?Tourn=WU202013&Team=JPN&No=142372
+121,Lizbeth Sainz,14/12/1995,178,55,295,285,Players.asp?Tourn=WU202013&Team=MEX&No=132302
+122,Ivone Martinez,02/03/1997,172,56,310,302,Players.asp?Tourn=WU202013&Team=MEX&No=143236
+123,Samantha Bricio,22/11/1994,185,58,302,283,Players.asp?Tourn=WU202013&Team=MEX&No=123944
+124,Kaomi Solis,06/08/1994,160,56,250,240,Players.asp?Tourn=WU202013&Team=MEX&No=132296
+125,Alejandra Isiordia,17/04/1994,184,72,283,274,Players.asp?Tourn=WU202013&Team=MEX&No=123938
+126,Jocelyn Urias,16/02/1996,190,65,296,284,Players.asp?Tourn=WU202013&Team=MEX&No=136134
+127,Gabriela Zazueta,05/09/1994,173,67,272,264,Players.asp?Tourn=WU202013&Team=MEX&No=140329
+128,Fernanda Guitron,07/03/1996,183,78,295,288,Players.asp?Tourn=WU202013&Team=MEX&No=140099
+129,Maria Celedon,09/08/1994,174,56,282,268,Players.asp?Tourn=WU202013&Team=MEX&No=132297
+130,Patricia Valle,31/05/1996,193,90,305,299,Players.asp?Tourn=WU202013&Team=MEX&No=141574
+131,Valeria Gonzalez,27/03/1994,183,54,305,298,Players.asp?Tourn=WU202013&Team=MEX&No=139791
+132,Sashiko Sanay,13/05/1995,170,63,280,258,Players.asp?Tourn=WU202013&Team=MEX&No=143233
+133,Jummai Bitrus,04/09/1996,167,70,276,244,Players.asp?Tourn=WU202013&Team=NGR&No=137291
+134,Mercy Promise,04/08/1994,182,66,297,284,Players.asp?Tourn=WU202013&Team=NGR&No=123516
+135,Amarachi Nnebuo,11/11/1994,175,89,276,259,Players.asp?Tourn=WU202013&Team=NGR&No=142815
+136,Doosuur Atule,12/06/1995,175,69,285,272,Players.asp?Tourn=WU202013&Team=NGR&No=142816
+137,Hajara Audu,14/12/1996,182,63,286,270,Players.asp?Tourn=WU202013&Team=NGR&No=142817
+138,Ijeoma Ukpabi,11/06/1994,175,63,290,270,Players.asp?Tourn=WU202013&Team=NGR&No=142818
+139,Chinenye Nwosu,17/06/1995,175,60,280,254,Players.asp?Tourn=WU202013&Team=NGR&No=142819
+140,Bukky Oluwatosin C/,30/12/1996,180,75,282,268,Players.asp?Tourn=WU202013&Team=NGR&No=142820
+141,Chidinma Ahara,24/12/1994,182,80,288,279,Players.asp?Tourn=WU202013&Team=NGR&No=142821
+142,Patience Daniel I/,15/06/1997,182,78,286,274,Players.asp?Tourn=WU202013&Team=NGR&No=142822
+143,Aisha Umaru,30/08/1997,171,61,268,264,Players.asp?Tourn=WU202013&Team=NGR&No=142824
+144,Francisca Ikhiede,17/01/1996,172,61,278,272,Players.asp?Tourn=WU202013&Team=NGR&No=142825
+145,Pilar Marie Victoria,11/10/1995,182,53,301,268,Players.asp?Tourn=WU202013&Team=PUR&No=132323
+146,Kanisha Jimenez,28/11/1995,185,56,295,291,Players.asp?Tourn=WU202013&Team=PUR&No=132324
+147,Shalimarie Merlo,21/07/1994,178,66,290,278,Players.asp?Tourn=WU202013&Team=PUR&No=142159
+148,Jennymar Santiago,28/07/1994,190,69,299,289,Players.asp?Tourn=WU202013&Team=PUR&No=141571
+149,Julimar Alvarado,26/07/1994,197,72,309,303,Players.asp?Tourn=WU202013&Team=PUR&No=142164
+150,Wilmarie Rivera,14/02/1997,178,58,294,288,Players.asp?Tourn=WU202013&Team=PUR&No=136611
+151,Genesis Anais Miranda Rosario,05/06/1996,176,59,233,231,Players.asp?Tourn=WU202013&Team=PUR&No=139893
+152,Gabriela Roman,05/10/1994,186,67,290,282,Players.asp?Tourn=WU202013&Team=PUR&No=142161
+153,Ana Sofia Jusino,05/01/1994,189,65,310,294,Players.asp?Tourn=WU202013&Team=PUR&No=132332
+154,Patricia Montero,22/08/1997,178,58,225,224,Players.asp?Tourn=WU202013&Team=PUR&No=139899
+155,Alba Hernandez,03/10/1994,207,87,305,293,Players.asp?Tourn=WU202013&Team=PUR&No=132333
+156,Paola Rojas,26/01/1996,185,74,300,245,Players.asp?Tourn=WU202013&Team=PUR&No=139897
+157,Ekaterina Makarchuk,10/09/1994,190,72,306,285,Players.asp?Tourn=WU202013&Team=RUS&No=142328
+158,Irina Voronkova,20/10/1995,190,84,305,290,Players.asp?Tourn=WU202013&Team=RUS&No=142329
+159,Tatiana Romanova,09/09/1994,180,69,290,275,Players.asp?Tourn=WU202013&Team=RUS&No=142344
+160,Olga Biryukova,19/09/1994,193,74,300,283,Players.asp?Tourn=WU202013&Team=RUS&No=142355
+161,Olesya Nikolaeva,18/03/1994,187,66,301,284,Players.asp?Tourn=WU202013&Team=RUS&No=142384
+162,Irina Fetisova,07/09/1994,190,76,307,286,Players.asp?Tourn=WU202013&Team=RUS&No=142339
+163,Anna Luneva,12/07/1995,190,82,289,285,Players.asp?Tourn=WU202013&Team=RUS&No=142381
+164,Valeriya Zaytseva,24/03/1995,187,71,307,297,Players.asp?Tourn=WU202013&Team=RUS&No=142386
+165,Elena Novik,23/03/1994,180,66,295,290,Players.asp?Tourn=WU202013&Team=RUS&No=136532
+166,Kseniia Ilchenko,31/10/1994,183,64,300,286,Players.asp?Tourn=WU202013&Team=RUS&No=142340
+167,Natalia Reshetnikova,22/03/1994,193,86,303,282,Players.asp?Tourn=WU202013&Team=RUS&No=142379
+168,Ekaterina Voronova,15/01/1994,176,62,287,270,Players.asp?Tourn=WU202013&Team=RUS&No=142376
+169,Mina Popovic,16/09/1994,187,73,315,305,Players.asp?Tourn=WU202013&Team=SRB&No=136030
+170,Maja Simic,18/04/1995,182,64,278,260,Players.asp?Tourn=WU202013&Team=SRB&No=136035
+171,Tijana BoÅ¡kovic,08/03/1997,193,82,315,300,Players.asp?Tourn=WU202013&Team=SRB&No=137941
+172,Aleksandra Stepanovic,01/02/1994,170,67,248,240,Players.asp?Tourn=WU202013&Team=SRB&No=136817
+173,Milica Kubura,20/03/1995,192,77,297,280,Players.asp?Tourn=WU202013&Team=SRB&No=136810
+174,Jelena Trnic,29/08/1995,190,73,290,280,Players.asp?Tourn=WU202013&Team=SRB&No=142480
+175,Natasa Cikiriz,26/06/1995,193,73,299,289,Players.asp?Tourn=WU202013&Team=SRB&No=136027
+176,Katarina Canak,18/08/1995,187,70,297,285,Players.asp?Tourn=WU202013&Team=SRB&No=136807
+177,Bianka Busa,25/07/1994,187,74,312,298,Players.asp?Tourn=WU202013&Team=SRB&No=136024
+178,Sladjana Mirkovic,07/10/1995,185,78,293,283,Players.asp?Tourn=WU202013&Team=SRB&No=136812
+179,Jelena Oluic,15/01/1994,183,68,297,288,Players.asp?Tourn=WU202013&Team=SRB&No=142476
+180,Nikolina Lukic,18/08/1994,181,65,285,280,Players.asp?Tourn=WU202013&Team=SRB&No=136028
+181,Kannika Sitthipat,03/08/1994,163,63,259,248,Players.asp?Tourn=WU202013&Team=THA&No=142170
+182,Thatdao Nuekjang,03/02/1994,184,72,308,296,Players.asp?Tourn=WU202013&Team=THA&No=142172
+183,Suwatjanee Gansa,30/11/1994,162,56,267,252,Players.asp?Tourn=WU202013&Team=THA&No=142173
+184,Kuttika Kaewpin,16/08/1994,168,56,285,268,Players.asp?Tourn=WU202013&Team=THA&No=142174
+185,Tanaporn Polrueng,04/02/1994,174,70,286,267,Players.asp?Tourn=WU202013&Team=THA&No=142177
+186,Khatthalee Pinsuwan,30/10/1994,170,70,294,271,Players.asp?Tourn=WU202013&Team=THA&No=142180
+187,Sasitorn Pimpa,08/10/1994,168,63,272,267,Players.asp?Tourn=WU202013&Team=THA&No=142181
+188,Sineenat Phocharoen,19/05/1995,173,53,287,270,Players.asp?Tourn=WU202013&Team=THA&No=142182
+189,Parinya Pankaew,27/12/1995,170,59,281,269,Players.asp?Tourn=WU202013&Team=THA&No=142184
+190,Kaewkalaya Kamulthala,07/08/1994,178,66,298,281,Players.asp?Tourn=WU202013&Team=THA&No=142185
+191,Ajcharaporn Kongyot,18/06/1995,178,65,298,287,Players.asp?Tourn=WU202013&Team=THA&No=133511
+192,Sasiwimol Sangpan,27/01/1995,176,67,293,275,Players.asp?Tourn=WU202013&Team=THA&No=142187
+193,Ching-Yi Kuo,17/02/1996,166,57,280,270,Players.asp?Tourn=WU202013&Team=TPE&No=142196
+194,Yu Lee,15/06/1996,173,72,281,272,Players.asp?Tourn=WU202013&Team=TPE&No=142192
+195,Tzu Ying Lee,04/07/1994,173,70,274,265,Players.asp?Tourn=WU202013&Team=TPE&No=142199
+196,Tzu Ya Chen,26/08/1997,177,64,275,263,Players.asp?Tourn=WU202013&Team=TPE&No=142195
+197,Wei-Hua Wu,05/02/1994,173,73,278,267,Players.asp?Tourn=WU202013&Team=TPE&No=141876
+198,Li-Wen Chang,27/02/1995,175,62,285,275,Players.asp?Tourn=WU202013&Team=TPE&No=142193
+199,Wan Jung Lee,23/06/1995,166,65,268,258,Players.asp?Tourn=WU202013&Team=TPE&No=142311
+200,I-Mei Hsu,05/06/1994,175,69,277,267,Players.asp?Tourn=WU202013&Team=TPE&No=142194
+201,Yu Chia Chang,27/01/1996,172,67,275,265,Players.asp?Tourn=WU202013&Team=TPE&No=142310
+202,Wan Ling Tseng,13/05/1996,171,64,290,277,Players.asp?Tourn=WU202013&Team=TPE&No=142197
+203,Huang-Ying Chien,10/09/1994,186,80,289,279,Players.asp?Tourn=WU202013&Team=TPE&No=142198
+204,Shih Ting Huang,21/06/1994,163,67,269,259,Players.asp?Tourn=WU202013&Team=TPE&No=142201
+205,Damla Cakiroglu,22/06/1994,179,67,302,293,Players.asp?Tourn=WU202013&Team=TUR&No=137073
+206,Ã‡agla Akin,19/01/1995,177,70,300,280,Players.asp?Tourn=WU202013&Team=TUR&No=137084
+207,Kubra Caliskan,13/10/1994,198,86,310,310,Players.asp?Tourn=WU202013&Team=TUR&No=137086
+208,Dilek Kinik,14/01/1995,170,62,260,258,Players.asp?Tourn=WU202013&Team=TUR&No=137094
+209,Seyma Ercan,05/07/1994,187,73,305,294,Players.asp?Tourn=WU202013&Team=TUR&No=137074
+210,Ceylan Arisan,01/01/1994,193,79,306,297,Players.asp?Tourn=WU202013&Team=TUR&No=137088
+211,Ceyda Aktas,18/08/1994,189,77,295,287,Players.asp?Tourn=WU202013&Team=TUR&No=137079
+212,Asli Kalac,13/12/1995,185,73,306,297,Players.asp?Tourn=WU202013&Team=TUR&No=137087
+213,Ece Hocaoglu,05/03/1994,186,82,296,280,Players.asp?Tourn=WU202013&Team=TUR&No=137075
+214,Sabriye Gonulkirmaz,17/05/1994,186,76,298,288,Players.asp?Tourn=WU202013&Team=TUR&No=137090
+215,Ezgi Dilik,12/06/1995,177,72,288,280,Players.asp?Tourn=WU202013&Team=TUR&No=142469
+216,Dilara Bagci,02/02/1994,165,62,270,260,Players.asp?Tourn=WU202013&Team=TUR&No=137093
+217,Sarah Burrington,20/01/1994,196,84,297,292,Players.asp?Tourn=WU202013&Team=USA&No=142492
+218,Jordan Burgess,20/07/1994,183,69,284,286,Players.asp?Tourn=WU202013&Team=USA&No=132242
+219,Nicole Edelman,14/04/1994,183,71,284,276,Players.asp?Tourn=WU202013&Team=USA&No=132517
+220,Merete Lutz,07/11/1994,203,80,312,312,Players.asp?Tourn=WU202013&Team=USA&No=140045
+221,Kelsey Humphreys,17/01/1995,183,61,288,281,Players.asp?Tourn=WU202013&Team=USA&No=140040
+222,Alexandra Malloy,16/04/1994,188,82,291,282,Players.asp?Tourn=WU202013&Team=USA&No=132246
+223,Allison Palmer,22/01/1994,175,61,263,260,Players.asp?Tourn=WU202013&Team=USA&No=132248
+224,Canace Finley,11/03/1994,191,77,297,292,Players.asp?Tourn=WU202013&Team=USA&No=142497
+225,Amber Rolfzen,25/08/1994,191,73,296,290,Players.asp?Tourn=WU202013&Team=USA&No=132501
+226,Kierra Holst,24/03/1994,193,79,288,284,Players.asp?Tourn=WU202013&Team=USA&No=142499
+227,Chanell Clark-Bibbs,03/04/1994,185,84,282,273,Players.asp?Tourn=WU202013&Team=USA&No=142501
+228,Caitlin Nolan,30/07/1994,173,79,279,260,Players.asp?Tourn=WU202013&Team=USA&No=142502

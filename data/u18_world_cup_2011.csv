@@ -1,0 +1,149 @@
+id,name,date_of_birth,height,weight,spike,block,link
+1,Yasmine Oudni,02/08/1989,182,67,250,240,Players.asp?Tourn=WWC2011&Team=ALG&No=134491
+2,Salima Hammouche,17/01/1984,158,54,270,265,Players.asp?Tourn=WWC2011&Team=ALG&No=120596
+3,Fatma Zahra Djouad,12/07/1988,180,62,295,285,Players.asp?Tourn=WWC2011&Team=ALG&No=120602
+4,Melinda Raissa Hennaoui,18/03/1990,178,68,295,284,Players.asp?Tourn=WWC2011&Team=ALG&No=120594
+5,Silya Magnana,16/03/1991,181,68,274,261,Players.asp?Tourn=WWC2011&Team=ALG&No=133380
+6,Fatima Zahra Oukazi,18/01/1984,175,67,295,283,Players.asp?Tourn=WWC2011&Team=ALG&No=113937
+7,Mouni Abderrahim,19/11/1985,171,60,305,293,Players.asp?Tourn=WWC2011&Team=ALG&No=112540
+8,Safia Boukhima,10/01/1991,176,64,294,284,Players.asp?Tourn=WWC2011&Team=ALG&No=120603
+9,Faiza Tsabet,22/03/1985,181,77,309,295,Players.asp?Tourn=WWC2011&Team=ALG&No=113938
+10,Aicha Mezemate,06/06/1991,187,75,300,285,Players.asp?Tourn=WWC2011&Team=ALG&No=124211
+11,Lydia Oulmou,02/02/1986,181,59,310,305,Players.asp?Tourn=WWC2011&Team=ALG&No=112531
+12,Tassadit Aissou,19/06/1989,184,80,295,285,Players.asp?Tourn=WWC2011&Team=ALG&No=120601
+13,Lucia Gaido,19/01/1988,164,53,245,244,Players.asp?Tourn=WWC2011&Team=ARG&No=124662
+14,Paula Yamila Nizetich,27/01/1989,181,74,305,295,Players.asp?Tourn=WWC2011&Team=ARG&No=122486
+15,Maria Jimena Perez,06/02/1984,176,64,290,275,Players.asp?Tourn=WWC2011&Team=ARG&No=138015
+16,Lucia Fresco,14/05/1991,195,92,304,290,Players.asp?Tourn=WWC2011&Team=ARG&No=124661
+17,Tatiana Soledad Rizzo,30/12/1986,178,64,280,268,Players.asp?Tourn=WWC2011&Team=ARG&No=122484
+18,Emilce Sosa,11/09/1987,177,72,305,295,Players.asp?Tourn=WWC2011&Team=ARG&No=124660
+19,Antonella Bortolozzi,22/01/1986,182,72,298,278,Players.asp?Tourn=WWC2011&Team=ARG&No=117251
+20,Leticia Boscacci,08/11/1985,186,70,302,284,Players.asp?Tourn=WWC2011&Team=ARG&No=117250
+21,Florencia Carlotto,14/10/1988,183,72,302,291,Players.asp?Tourn=WWC2011&Team=ARG&No=123034
+22,Florencia Natasha Busquets Reyes,27/06/1989,192,68,305,290,Players.asp?Tourn=WWC2011&Team=ARG&No=122490
+23,Antonela Ayelen Curatola,23/10/1991,175,71,290,280,Players.asp?Tourn=WWC2011&Team=ARG&No=135505
+24,Yael Castiglione,27/09/1985,184,75,295,281,Players.asp?Tourn=WWC2011&Team=ARG&No=112619
+25,Fabiana Claudino,24/01/1985,193,76,314,293,Players.asp?Tourn=WWC2011&Team=BRA&No=112628
+26,Juciely Cristina Barreto,18/12/1980,184,71,312,289,Players.asp?Tourn=WWC2011&Team=BRA&No=132589
+27,Danielle Lins,05/01/1985,181,68,290,276,Players.asp?Tourn=WWC2011&Team=BRA&No=112625
+28,Paula Pequeno,22/01/1982,184,74,302,285,Players.asp?Tourn=WWC2011&Team=BRA&No=112357
+29,Adenizia Da Silva,18/12/1986,185,63,312,290,Players.asp?Tourn=WWC2011&Team=BRA&No=113955
+30,Thaisa Daher de Menezes,15/05/1987,196,79,316,301,Players.asp?Tourn=WWC2011&Team=BRA&No=113963
+31,Marianne Steinbrecher,23/08/1983,188,70,310,290,Players.asp?Tourn=WWC2011&Team=BRA&No=114276
+32,Welissa Gonzaga,09/09/1982,179,76,300,287,Players.asp?Tourn=WWC2011&Team=BRA&No=112363
+33,Tandara Caixeta,30/10/1988,184,87,305,297,Players.asp?Tourn=WWC2011&Team=BRA&No=115958
+34,Sheilla Castro De Paula Blassioli,01/07/1983,185,64,302,284,Players.asp?Tourn=WWC2011&Team=BRA&No=112366
+35,Fabiana Oliveira,07/03/1980,169,59,276,266,Players.asp?Tourn=WWC2011&Team=BRA&No=113162
+36,Fernanda Rodrigues,10/05/1986,179,74,308,288,Players.asp?Tourn=WWC2011&Team=BRA&No=112641
+37,Josefa Fabiola Almeida De Sousa Alves,03/02/1983,184,70,300,285,Players.asp?Tourn=WWC2011&Team=BRA&No=119147
+38,Camila Brait,28/10/1988,170,58,271,256,Players.asp?Tourn=WWC2011&Team=BRA&No=119241
+39,Yimei Wang,11/01/1988,190,87,318,305,Players.asp?Tourn=WWC2011&Team=CHN&No=114285
+40,Yang Mi,24/01/1989,180,70,305,298,Players.asp?Tourn=WWC2011&Team=CHN&No=119296
+41,Jie Yang,01/03/1994,194,82,312,300,Players.asp?Tourn=WWC2011&Team=CHN&No=119302
+42,Ruoqi Hui,04/03/1991,189,70,312,305,Players.asp?Tourn=WWC2011&Team=CHN&No=123853
+43,Xian Zhang,16/03/1985,168,57,290,280,Players.asp?Tourn=WWC2011&Team=CHN&No=118621
+44,Qiuyue Wei,26/09/1988,182,75,305,300,Players.asp?Tourn=WWC2011&Team=CHN&No=114976
+45,Junjing Yang,15/05/1989,190,70,308,300,Players.asp?Tourn=WWC2011&Team=CHN&No=118690
+46,Danna Shan,08/10/1991,168,60,290,285,Players.asp?Tourn=WWC2011&Team=CHN&No=124138
+47,Yunli Xu,02/08/1987,196,75,317,315,Players.asp?Tourn=WWC2011&Team=CHN&No=123864
+48,Zhou Yang,21/04/1992,190,78,308,303,Players.asp?Tourn=WWC2011&Team=CHN&No=133590
+49,Liyi Chen,27/04/1989,184,75,302,290,Players.asp?Tourn=WWC2011&Team=CHN&No=119295
+50,Yunwen Ma,19/10/1986,190,76,315,307,Players.asp?Tourn=WWC2011&Team=CHN&No=114518
+51,Lei Zhang,11/01/1985,181,71,316,310,Players.asp?Tourn=WWC2011&Team=CHN&No=132057
+52,Linlin Fan,01/12/1991,190,77,316,301,Players.asp?Tourn=WWC2011&Team=CHN&No=116423
+53,Lenka DÃƒÂ¼rr,10/12/1990,171,59,280,270,Players.asp?Tourn=WWC2011&Team=GER&No=119315
+54,Kathleen WeiÃƒÅ¸,02/02/1984,173,64,290,273,Players.asp?Tourn=WWC2011&Team=GER&No=113902
+55,Kerstin Tzscherlich,15/02/1978,179,72,295,282,Players.asp?Tourn=WWC2011&Team=GER&No=111003
+56,Angelina HÃƒÂ¼bner-GrÃƒÂ¼n,02/12/1979,185,74,309,287,Players.asp?Tourn=WWC2011&Team=GER&No=111007
+57,Berit Kauffeldt,08/07/1990,190,75,311,294,Players.asp?Tourn=WWC2011&Team=GER&No=118959
+58,Corina Ssuschke-Voigt,09/05/1983,189,75,310,298,Players.asp?Tourn=WWC2011&Team=GER&No=112479
+59,Anne Matthes,30/04/1985,182,66,312,295,Players.asp?Tourn=WWC2011&Team=GER&No=120334
+60,Christiane FÃƒÂ¼rst,29/03/1985,193,80,323,307,Players.asp?Tourn=WWC2011&Team=GER&No=112473
+61,Saskia Hippe,16/01/1991,185,67,315,292,Players.asp?Tourn=WWC2011&Team=GER&No=118954
+62,Margareta Kozuch,30/10/1986,187,70,309,297,Players.asp?Tourn=WWC2011&Team=GER&No=116179
+63,Maren Fromm,10/07/1986,184,68,303,295,Players.asp?Tourn=WWC2011&Team=GER&No=120333
+64,Lisa Thomsen,20/08/1985,172,68,290,285,Players.asp?Tourn=WWC2011&Team=GER&No=123175
+65,Regina Burchardt,01/07/1983,186,77,302,294,Players.asp?Tourn=WWC2011&Team=GER&No=112480
+66,Mareen Von RÃƒÂ¶mer,26/03/1987,183,73,295,284,Players.asp?Tourn=WWC2011&Team=GER&No=114525
+67,Sara Anzanello,30/07/1980,193,78,316,298,Players.asp?Tourn=WWC2011&Team=ITA&No=113620
+68,Cristina Barcellini,20/11/1986,183,78,307,292,Players.asp?Tourn=WWC2011&Team=ITA&No=124171
+69,Paola Croce,06/03/1978,167,52,290,265,Players.asp?Tourn=WWC2011&Team=ITA&No=113630
+70,Monica De Gennaro,08/01/1987,174,67,292,217,Players.asp?Tourn=WWC2011&Team=ITA&No=115478
+71,Carolina del Pilar Costagrande,15/10/1980,188,80,312,291,Players.asp?Tourn=WWC2011&Team=ITA&No=134088
+72,Caterina Bosetti,02/02/1994,179,59,299,281,Players.asp?Tourn=WWC2011&Team=ITA&No=123744
+73,Immacolata Sirressi,19/05/1990,175,62,290,220,Players.asp?Tourn=WWC2011&Team=ITA&No=118763
+74,Valentina Arrighetti,26/01/1985,185,72,318,310,Players.asp?Tourn=WWC2011&Team=ITA&No=112728
+75,Eleonora Lo Bianco,22/12/1979,171,67,287,273,Players.asp?Tourn=WWC2011&Team=ITA&No=113627
+76,Antonella Del Core,05/11/1980,180,70,296,279,Players.asp?Tourn=WWC2011&Team=ITA&No=114249
+77,Lucia Bosetti,09/07/1989,178,63,310,292,Players.asp?Tourn=WWC2011&Team=ITA&No=115816
+78,Simona Gioli,17/09/1977,185,70,307,283,Players.asp?Tourn=WWC2011&Team=ITA&No=113905
+79,Noemi Signorile,15/02/1990,183,72,294,290,Players.asp?Tourn=WWC2011&Team=ITA&No=132039
+80,Raphaela Folie,07/03/1991,187,73,324,300,Players.asp?Tourn=WWC2011&Team=ITA&No=135582
+81,Hitomi Nakamichi,18/09/1985,159,53,270,256,Players.asp?Tourn=WWC2011&Team=JPN&No=134030
+82,Yoshie Takeshita,18/03/1978,159,53,280,270,Players.asp?Tourn=WWC2011&Team=JPN&No=111715
+83,Yuko Sano,26/07/1979,159,54,260,250,Players.asp?Tourn=WWC2011&Team=JPN&No=113311
+84,Mai Yamaguchi,03/07/1983,176,62,304,292,Players.asp?Tourn=WWC2011&Team=JPN&No=122617
+85,Kotoki Zayasu,11/01/1990,159,57,270,255,Players.asp?Tourn=WWC2011&Team=JPN&No=135413
+86,Mizuho Ishida,22/01/1988,174,65,301,286,Players.asp?Tourn=WWC2011&Team=JPN&No=119191
+87,Nana Iwasaka,03/07/1990,187,76,298,293,Players.asp?Tourn=WWC2011&Team=JPN&No=135410
+88,Erika Shinomiya,03/08/1984,186,78,305,297,Players.asp?Tourn=WWC2011&Team=JPN&No=112717
+89,Saori Kimura,19/08/1986,185,65,304,293,Players.asp?Tourn=WWC2011&Team=JPN&No=114038
+90,Risa Shinnabe,11/07/1990,175,64,293,285,Players.asp?Tourn=WWC2011&Team=JPN&No=135411
+91,Yukiko Ebata,07/11/1989,176,67,305,298,Players.asp?Tourn=WWC2011&Team=JPN&No=132056
+92,Maiko Kano,15/07/1988,185,72,303,285,Players.asp?Tourn=WWC2011&Team=JPN&No=122614
+93,Saori Sakoda,18/12/1987,175,63,305,279,Players.asp?Tourn=WWC2011&Team=JPN&No=132053
+94,Kazuyo Mori,21/06/1976,175,64,303,291,Players.asp?Tourn=WWC2011&Team=JPN&No=124010
+95,Everlyne Makuto,25/08/1990,181,64,328,308,Players.asp?Tourn=WWC2011&Team=KEN&No=124183
+96,Esther Wangeci,22/11/1990,180,73,302,296,Players.asp?Tourn=WWC2011&Team=KEN&No=124180
+97,Diana Khisa,26/05/1987,180,72,305,300,Players.asp?Tourn=WWC2011&Team=KEN&No=117695
+98,Ruth Jepngetich,09/04/1990,186,74,194,199,Players.asp?Tourn=WWC2011&Team=KEN&No=132935
+99,Janet Wanja,24/02/1984,175,59,299,287,Players.asp?Tourn=WWC2011&Team=KEN&No=114310
+100,Roseline Odhiambo,11/03/1981,179,71,280,264,Players.asp?Tourn=WWC2011&Team=KEN&No=133185
+101,Noel Murambi,29/01/1989,178,68,302,297,Players.asp?Tourn=WWC2011&Team=KEN&No=137998
+102,Lydia Maiyo,03/11/1988,185,75,325,315,Players.asp?Tourn=WWC2011&Team=KEN&No=112746
+103,Mercy Moim,01/01/1989,183,72,320,308,Players.asp?Tourn=WWC2011&Team=KEN&No=112744
+104,Brackcides Khadambi,14/05/1984,180,70,310,306,Players.asp?Tourn=WWC2011&Team=KEN&No=118369
+105,Judith Tarus,26/06/1986,170,60,260,256,Players.asp?Tourn=WWC2011&Team=KEN&No=112742
+106,Florence Bosire,26/09/1988,175,60,270,255,Players.asp?Tourn=WWC2011&Team=KEN&No=124315
+107,Rossy Dahiana Burgos Herrera,07/04/1985,184,70,305,300,Players.asp?Tourn=WWC2011&Team=DOM&No=114295
+108,Lisvel Elisa Eve Mejia,10/09/1991,194,90,325,315,Players.asp?Tourn=WWC2011&Team=DOM&No=119591
+109,Brenda Castillo,05/06/1992,167,55,245,230,Players.asp?Tourn=WWC2011&Team=DOM&No=119039
+110,Carmen Rosa Caso Sierra,29/11/1981,168,59,240,230,Players.asp?Tourn=WWC2011&Team=DOM&No=112460
+111,Niverka Dharlenis Marte Frica,19/10/1990,178,71,295,283,Players.asp?Tourn=WWC2011&Team=DOM&No=119585
+112,Candida Estefany Arias Perez,11/03/1992,194,68,320,315,Players.asp?Tourn=WWC2011&Team=DOM&No=119224
+113,Milagros Cabral de la Cruz,17/10/1978,182,63,325,320,Players.asp?Tourn=WWC2011&Team=DOM&No=113445
+114,Jeoselyna Rodriguez Santos,09/12/1991,187,63,325,315,Players.asp?Tourn=WWC2011&Team=DOM&No=119587
+115,Karla Miguelina Echenique Medina,16/05/1986,180,65,300,290,Players.asp?Tourn=WWC2011&Team=DOM&No=112464
+116,Cindy Carolina Rondon Martinez,12/11/1987,186,61,320,315,Players.asp?Tourn=WWC2011&Team=DOM&No=114085
+117,Prisilla Rivera Brens,29/12/1984,183,67,309,305,Players.asp?Tourn=WWC2011&Team=DOM&No=112468
+118,Bethania De La Cruz De PeÃƒÂ±a,13/05/1987,188,70,330,320,Players.asp?Tourn=WWC2011&Team=DOM&No=114294
+119,Ana Yorkira Binet Stephens,09/02/1992,174,58,280,260,Players.asp?Tourn=WWC2011&Team=DOM&No=119229
+120,Brayelin Elizabeth Martinez,11/09/1996,201,83,330,320,Players.asp?Tourn=WWC2011&Team=DOM&No=123982
+121,Min-Ji Kim,25/05/1985,187,75,304,296,Players.asp?Tourn=WWC2011&Team=KOR&No=112774
+122,Ji-Youn Jung,28/06/1980,178,64,295,284,Players.asp?Tourn=WWC2011&Team=KOR&No=113907
+123,Youn Joo Hwang,13/08/1986,177,64,285,265,Players.asp?Tourn=WWC2011&Team=KOR&No=114880
+124,Youn-Ok Choi,23/04/1985,173,59,290,280,Players.asp?Tourn=WWC2011&Team=KOR&No=138033
+125,Hye-Suk Yoon,19/06/1983,174,60,293,283,Players.asp?Tourn=WWC2011&Team=KOR&No=114879
+126,Jie Youn Nam,25/05/1983,170,61,285,273,Players.asp?Tourn=WWC2011&Team=KOR&No=112496
+127,Yeon Koung Kim,26/02/1988,192,73,330,320,Players.asp?Tourn=WWC2011&Team=KOR&No=116439
+128,Bo-Lam Lee,08/08/1988,185,75,283,274,Players.asp?Tourn=WWC2011&Team=KOR&No=116441
+129,Yea-Na Joo,02/05/1990,175,61,289,280,Players.asp?Tourn=WWC2011&Team=KOR&No=119472
+130,Se Young Kim,04/06/1981,190,72,294,284,Players.asp?Tourn=WWC2011&Team=KOR&No=113906
+131,Young-Eun Jang,30/10/1993,182,68,290,270,Players.asp?Tourn=WWC2011&Team=KOR&No=133087
+132,Hyejin Kim,17/02/1989,180,62,284,274,Players.asp?Tourn=WWC2011&Team=KOR&No=116436
+133,Heejin Kim,29/04/1991,185,75,305,295,Players.asp?Tourn=WWC2011&Team=KOR&No=119484
+134,Jeongah Park,26/03/1993,187,75,300,290,Players.asp?Tourn=WWC2011&Team=KOR&No=131893
+135,Alisha Glass,05/04/1988,184,72,305,300,Players.asp?Tourn=WWC2011&Team=USA&No=132576
+136,Danielle Scott-Arruda,01/10/1972,188,84,325,302,Players.asp?Tourn=WWC2011&Team=USA&No=113366
+137,Tayyiba Haneef-Park,23/03/1979,200,82,328,312,Players.asp?Tourn=WWC2011&Team=USA&No=113377
+138,Lindsey Berg,16/07/1980,173,75,287,274,Players.asp?Tourn=WWC2011&Team=USA&No=117611
+139,Nicole Davis,24/04/1982,167,73,284,266,Players.asp?Tourn=WWC2011&Team=USA&No=112581
+140,Heather Bown,29/11/1978,188,90,301,290,Players.asp?Tourn=WWC2011&Team=USA&No=113369
+141,Cynthia Barboza,07/02/1987,183,68,311,301,Players.asp?Tourn=WWC2011&Team=USA&No=112592
+142,Jennifer Tamas,23/11/1982,191,82,315,301,Players.asp?Tourn=WWC2011&Team=USA&No=114061
+143,Jordan Larson,16/10/1986,188,75,302,295,Players.asp?Tourn=WWC2011&Team=USA&No=114051
+144,Nancy Metcalf,12/11/1978,186,73,314,292,Players.asp?Tourn=WWC2011&Team=USA&No=113376
+145,Tamari Miyashiro,08/07/1987,170,70,284,266,Players.asp?Tourn=WWC2011&Team=USA&No=132048
+146,Logan Tom,25/05/1981,186,80,306,297,Players.asp?Tourn=WWC2011&Team=USA&No=113373
+147,Foluke Akinradewo,05/10/1987,191,79,331,300,Players.asp?Tourn=WWC2011&Team=USA&No=115495
+148,Megan Easy,15/10/1988,191,80,320,297,Players.asp?Tourn=WWC2011&Team=USA&No=115857
