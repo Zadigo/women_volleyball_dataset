@@ -129,75 +129,6 @@ def table(soup, map_rows, attrs: dict={}, has_header=True, output_name=None, **k
         print('No table to parse')
 
 
-# def table2(soup, has_header=True, attrs: dict = {}, output_name=None, **kwargs):
-#     """
-#     Parser for other types of FIVB tables
-#     """
-#     if attrs:
-#         table = soup.find('table', attrs=attrs)
-#     else:
-#         table = soup.find('table')
-
-#     if table:
-#         rows = table.find_all('tr')
-#         if has_header:
-#             rows.pop(0)
-#         for row in rows:
-#             characteristics = row.find_all('td')
-
-#             try:
-#                 link = characteristics[1].find('a')
-#             except IndexError as e:
-#                 link = None
-#                 full_name = None
-#                 print('Error', e.args)
-#             else:
-#                 full_name = refixer(link.text)
-
-#             try:
-#                 date_of_birth = characteristics[2].text
-#             except IndexError as e:
-#                 date_of_birth = None
-#                 print('Error', e.args)
-
-#             try:
-#                 height = characteristics[3].text
-#             except IndexError as e:
-#                 height = None
-#                 print('Error', e.args)
-
-#             try:
-#                 weight = characteristics[4].text
-#             except IndexError as e:
-#                 weight = None
-#                 print('Error', e.args)
-
-#             try:
-#                 spike = characteristics[5].text
-#             except IndexError as e:
-#                 spike = None
-#                 print('Error', e.args)
-
-#             try:
-#                 block = characteristics[6].text
-#             except IndexError as e:
-#                 block = None
-#                 print('Error', e.args)
-
-#             try:
-#                 link = link['href']
-#             except Exception as e:
-#                 link = None
-#                 print('Error', e.args)
-
-#             player = [full_name, date_of_birth, height,
-#                         weight, spike, block, link]
-
-#             PLAYERS.append(player)
-#     else:
-#         print('No table to parse.')
-
-
 def html_page_parser(parser, map_rows:dict, table_has_header=True, 
         target_folder=None, output_name=None, attrs: dict={}):
     pages = create_paths(target_folder=target_folder)
@@ -243,7 +174,8 @@ def selenium_parser(url, xpath, url_suffix=None):
     Selenium pages by retrieving the links to each team roster
     in the menu dropdown
     """
-    driver = Edge(executable_path='C:\\Users\\Pende\\Documents\\edge_driver\\msedgedriver.exe')
+    # driver = Edge(executable_path='C:\\Users\\Pende\\Documents\\edge_driver\\msedgedriver.exe')
+    driver = Edge(executable_path=os.environ.get('EDGE_DRIVER'))
     driver.get(url)
 
     time.sleep(2)
@@ -295,7 +227,7 @@ def selenium_parser(url, xpath, url_suffix=None):
         # the full HTML tag
         body = driver.find_element_by_tag_name('body')
 
-        output_path = os.path.join(PAGES_PATH, f'{list_of_url[1]}.html')
+        output_path = os.path.join(PAGES_PATH, 'temp', f'{list_of_url[1]}.html')
         html = body.get_attribute('innerHTML')
 
         asyncio.run(main(output_path, html))
@@ -308,18 +240,20 @@ def selenium_parser(url, xpath, url_suffix=None):
 
 # time.sleep(2)
 
-html_page_parser(
-    table,
-    {
-        'name': 4,
-        'surname': 5,
-        'date_of_birth': 7,
-        'height': 8,
-        'weight': 9,
-        'spike': 10,
-        'block': 11
-    },
-    target_folder='u20_wc_2007',
-    output_name='u20_world_championships_2007.csv',
-    attrs={'class': 'players'},
-)
+
+if __name__ == "__main__":
+    html_page_parser(
+        table,
+        {
+            'name': 4,
+            'surname': 5,
+            'date_of_birth': 7,
+            'height': 8,
+            'weight': 9,
+            'spike': 10,
+            'block': 11
+        },
+        target_folder='u20_wc_2007',
+        output_name='u20_world_championships_2007.csv',
+        attrs={'class': 'players'},
+    )
