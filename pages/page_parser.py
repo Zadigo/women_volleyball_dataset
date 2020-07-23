@@ -173,15 +173,15 @@ if __name__ == "__main__":
     html_page_parser(
         table,
         {
-            'name': 5,
-            'surname': 6,
+            'name': 1,
+            'surname': 2,
             # 'full_name': 1,
-            'date_of_birth': 8,
-            'height': 9,
-            'weight': 10,
-            'spike': 11,
-            'block': 12
+            'date_of_birth': 4,
+            'height': 5,
+            'weight': 6,
+            'spike': 7,
+            'block': 8
         },
-        target_folder='wgp_2012',
-        output_name='wgp_2012.csv',
+        target_folder='wgp_2013',
+        output_name='wgp_2013.csv',
     )

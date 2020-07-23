@@ -1,2210 +1,268 @@
-
-<div class="Container">
-  <div class="Header">
-    <div class="Box">
-           <script type="text/javascript">
-		var params = {
-			quality:"high",
-			allowscriptaccess:"always",
-		    wmode: "transparent",
-			bgcolor:"#cccccc"
-		};
-		var flashvars = {
-			flvUrl : "netform.flv",
-			jsCall : "colorizeHeader"
-		};
-		var attributes = {
-			id: "headerAnimation",
-			name: "headerAnimation"
-		};
-		//ajout du flash
-	    swfobject.embedSWF("swf/WGP_Header.swf", "FlashContainer", "999", "166", "10", "swf/expressInstall.swf", flashvars, params, attributes);
-		
-		function callToAS(num) {
-			document["headerAnimation"].colorizeHeader(num);
-		};
-		
-		$(document).ready(function() {
-			//initialisation des �l�ments dynamiques
-			init();
-			/*$("a").mouseenter(function() {
-				callToAS(Math.floor(Math.random() * 0xffffff));
-			});*/
-		});
-    </script>
-<!--[if lte IE 7]>
-    <script type="text/javascript" src="misc/DD_belatedPNG_0.0.8a-min.js"></script>
-    <script type="text/javascript">
-    	$(document).ready(function() {
-	    	DD_belatedPNG.fix(".Header, img, .png");
-        });
-    </script>
-    <![endif]-->
-    <div id="FlashContainer" style="visibility: visible;"> <img src="img/header.jpg" alt="FIVB - Volleyball World Grand Prix" width="1000" height="160"> </div>
-
-    </div>
-    <div class="Nav">
-     		<ul>
-			<li><a href="index.asp">Home</a></li>
-				<li><a href="#">Finals</a>
-				
-				<ul>
-          	<li><a href="Finals.asp">Competition Formula</a></li>
-				<li><a href="ScheduleF.asp">Match Schedule</a></li>
-					<li><a href="#">Teams<br></a>
-						<ul>
-									<li><a href="teamsF.asp?Team=BRA"><img height="12" src="http://www.fivb.org/images/flagssmall/BRA.gif" width="18"> Brazil</a></li>
-									<li><a href="teamsF.asp?Team=CHN"><img height="12" src="http://www.fivb.org/images/flagssmall/CHN.gif" width="18"> China</a></li>
-									<li><a href="teamsF.asp?Team=ITA"><img height="12" src="http://www.fivb.org/images/flagssmall/ITA.gif" width="18"> Italy</a></li>
-									<li><a href="teamsF.asp?Team=JPN"><img height="12" src="http://www.fivb.org/images/flagssmall/JPN.gif" width="18"> Japan</a></li>			
-									<li><a href="teamsF.asp?Team=SRB"><img height="12" src="http://www.fivb.org/images/flagssmall/SRB.gif" width="18"> Serbia</a></li>
-									<li><a href="teamsF.asp?Team=USA"><img height="12" src="http://www.fivb.org/images/flagssmall/USA.gif" width="18"> USA</a></li>
-						</ul>
-</li>
-
-<li>
-					<a href="#">Results</a>
-					<ul>
-						<li><a href="ResultsF.asp">Results/Ranking</a></li>
-						<li><a href="StatisticsF.asp">Statistics</a></li>
-						<li><a href="MatchInfoF.asp">Match info/Stats</a></li>
-					</ul>
-					</li>
-					<li><a href="LiveScore.asp">Live Scoring</a></li>
-					<li><a href="#">Media</a>
-					<ul>
-						<li><a href="viewpressrelease.asp">Latest News</a></li>
-					</ul>
-					</li>
-					<li><a href="#">Photos</a><ul>
-						<li><a href="PhotosF.asp">Matches</a></li>
-						<li><a href="PhotoGalleryVarious.asp">Various</a></li>
-						<li><a href="PhotoGalleryAwarding.asp">Awarding Ceremony</a></li>
-						<li><a href="SlideshowF.asp">Slideshow</a></li>
-	</ul>
-					</li>
-
-
-</ul>
-	</li>
-			<li><a href="finalstanding.asp">Final standing</a></li>
-			<li><a href="index.asp">Preliminary round</a>
-			<ul>
-          	<li><a href="Formula.asp">Competition Formula<br></a>
-			<a href="Schedule.asp">Match Schedule<br></a><a href="Pools.asp">Pools</a>
-			<a href="Results.asp">Results/Ranking</a> <a href="MatchInfo.asp">Match info/Stats</a> <a href="Statistics.asp">Statistics</a><br>
-				</li><li><a href="#">Teams</a>
-				<ul>
-							<li class="two-cols">
-								<ul>
-									<li><a href="Teams.asp?Team=ALG"><img height="12" src="http://www.fivb.org/images/flagssmall/ALG.gif" width="18"> Algeria</a></li>
-									<li><a href="Teams.asp?Team=ARG"><img height="12" src="http://www.fivb.org/images/flagssmall/ARG.gif" width="18"> Argentina</a></li>
-									<li><a href="Teams.asp?Team=BRA"><img height="12" src="http://www.fivb.org/images/flagssmall/BRA.gif" width="18"> Brazil</a></li>
-									<li><a href="Teams.asp?Team=BUL"><img height="12" src="http://www.fivb.org/images/flagssmall/BUL.gif" width="18"> Bulgaria</a></li>
-									<li><a href="Teams.asp?Team=CHN"><img height="12" src="http://www.fivb.org/images/flagssmall/CHN.gif" width="18"> China</a></li>
-									<li><a href="Teams.asp?Team=CUB"><img height="12" src="http://www.fivb.org/images/flagssmall/CUB.gif" width="18"> Cuba</a></li>
-									<li><a href="Teams.asp?Team=CZE"><img height="12" src="http://www.fivb.org/images/flagssmall/CZE.gif" width="18"> Czech Republic</a></li>
-									<li><a href="Teams.asp?Team=DOM"><img height="12" src="http://www.fivb.org/images/flagssmall/DOM.gif" width="18"> Dominican Republic</a></li>
-									<li><a href="Teams.asp?Team=GER"><img height="12" src="http://www.fivb.org/images/flagssmall/GER.gif" width="18"> Germany</a></li>
-									<li><a href="Teams.asp?Team=ITA"><img height="12" src="http://www.fivb.org/images/flagssmall/ITA.gif" width="18"> Italy</a></li>
-									<li><a href="Teams.asp?Team=JPN"><img height="12" src="http://www.fivb.org/images/flagssmall/JPN.gif" width="18"> Japan</a></li>
-									<li><a href="Teams.asp?Team=KAZ"><img height="12" src="http://www.fivb.org/images/flagssmall/KAZ.gif" width="18"> Kazakhstan</a></li>
-									<li><a href="Teams.asp?Team=NED"><img height="12" src="http://www.fivb.org/images/flagssmall/NED.gif" width="18"> Netherlands</a></li>
-									<li><a href="Teams.asp?Team=POL"><img height="12" src="http://www.fivb.org/images/flagssmall/POL.gif" width="18"> Poland</a></li>
-									<li><a href="Teams.asp?Team=PUR"><img height="12" src="http://www.fivb.org/images/flagssmall/PUR.gif" width="18"> Puerto Rico</a></li>
-									<li><a href="Teams.asp?Team=RUS"><img height="12" src="http://www.fivb.org/images/flagssmall/RUS.gif" width="18"> Russia</a></li>
-									<li><a href="Teams.asp?Team=SRB"><img height="12" src="http://www.fivb.org/images/flagssmall/SRB.gif" width="18"> Serbia</a></li>
-									<li><a href="Teams.asp?Team=THA"><img height="12" src="http://www.fivb.org/images/flagssmall/THA.gif" width="18"> Thailand</a></li>
-									<li><a href="Teams.asp?Team=TUR"><img height="12" src="http://www.fivb.org/images/flagssmall/TUR.gif" width="18"> Turkey</a></li>
-									<li><a href="Teams.asp?Team=USA"><img height="12" src="http://www.fivb.org/images/flagssmall/USA.gif" width="18"> USA</a></li>
-								</ul>
-</li>
-</ul>
-</li>
-					<li><a href="pools.asp">Week 1 <span class="style1">|</span> August 2-4<br></a>
-						<ul>
-							<li>
-								<ul>
-									<li><a href="Results.asp?Phase=1">Pool A - Brazil</a></li>
-									<li><a href="Results.asp?Phase=2">Pool B - Dominican Republic</a></li>
-									<li><a href="Results.asp?Phase=3">Pool C - Turkey</a></li>
-									<li><a href="Results.asp?Phase=4">Pool D - Macau</a></li>
-									<li><a href="Results.asp?Phase=5">Pool E - Italy</a></li>
-				
-</ul></li></ul></li>
-<li><a href="pools.asp">Week 2 <span class="style1">|</span> August 9-11<br></a>
-						<ul>
-							<li>
-								<ul>
-									<li><a href="Results.asp?Phase=6">Pool F - Serbia</a></li>
-									<li><a href="Results.asp?Phase=7">Pool G - Puerto Rico</a></li>
-									<li><a href="Results.asp?Phase=8">Pool H - Poland</a></li>
-									<li><a href="Results.asp?Phase=9">Pool I - Hong Kong</a></li>
-									<li><a href="Results.asp?Phase=10">Pool J - Russia</a></li>
-								</ul>
-</li></ul>
-
-</li><li><a href="pools.asp">Week 3 <span class="style1">|</span> August 16-18</a>
-						<ul>
-							<li>
-								<ul>
-									<li><a href="Results.asp?Phase=11">Pool K - Kazakhstan</a></li>
-									<li><a href="Results.asp?Phase=12">Pool L - Thailand</a></li>
-									<li><a href="Results.asp?Phase=13">Pool M - Japan</a></li>
-									<li><a href="Results.asp?Phase=14">Pool N - China</a></li>
-									<li><a href="Results.asp?Phase=15">Pool O - Chinese Taipei</a></li>				
-								</ul>
-</li>
-
-
-
-</ul>
-				</li><li><a href="#">Media</a>
-				<ul>
-					<li><a href="viewpressrelease.asp">Latest News</a></li>
-					<li><a href="Photos.asp">Photo Gallery</a></li>
-					<li><a href="Slideshow.asp">Slideshow</a></li>
-				</ul>
-					</li>
-
-</ul>
-	  </li><li><a href="LiveScore.asp">Live Scoring</a></li>
-      <li><a target="_blank" href="http://www.laola1.tv/en/int/fivb/video/201--.html">FIVB Web TV</a></li>
-      <li><a href="#">Media</a>
-				<ul>
-					<li><a href="viewPressRelease.asp">Latest News</a><br><a href="listpressreleases.asp">Press Releases</a>
-					<br>
-					<a href="#" target="_blank">Statistical preview - Finals</a>
-					<ul>
-						<li class="two-cols">
-						<a href="StatisticalPreview/FIVB_WGP2013_Statistical_Preview_Finals_day_1.pdf" target="_blank">Day 1</a></li>
-						<li class="two-cols">
-						<a href="StatisticalPreview/FIVB_WGP2013_Statistical_Preview_Finals_day_2.pdf" target="_blank">Day 2</a></li>
-						<li class="two-cols">
-						<a href="StatisticalPreview/FIVB_WGP2013_Statistical_Preview_Finals_day_3.pdf" target="_blank">Day 3</a></li>
-					</ul>
-					<ul>
-						<li class="two-cols">
-						<a href="StatisticalPreview/FIVB_WGP2013_Statistical_Preview_Finals_day_4.pdf" target="_blank">Day 4</a></li>
-						<li class="two-cols">
-						<a href="StatisticalPreview/FIVB_WGP2013_Statistical_Preview_Finals_day_5.pdf" target="_blank">Day 5</a></li>
-					</ul>
-					</li><li><a href="blog.asp">Blog</a></li>
-					<li><a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2013/MediaGuide" target="_blank">2013 Media Guide</a></li>
-				<li><a href="#">History</a>
-				<ul style=" width: 240px;">
-					<li><a href="honours.asp">Honours</a></li>
-					<li><a href="#">Previous Editions</a>
-					<ul>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2012/FinalStanding.asp" target="_blank">2012</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2011/FinalStanding.asp?Tourn=WGP2011" target="_blank">2011</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2010/ResultsF.asp?Tourn=WGP2010" target="_blank">2010</a>
-						</li><li class="two-cols">
-						<a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2009/Results.asp?Tourn=WGP2009&amp;Phase=10" target="_blank">2009</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2008/Standings/finals.asp" target="_blank">2008</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2007/Standings/finals.asp" target="_blank">2007</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2006/Standings/finals.asp" target="_blank">2006</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/Volleyball/Competitions/WorldGrandPrix/2005/index.asp" target="_blank">2005</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/Volleyball/Competitions/WorldGrandPrix/2004/index.asp" target="_blank">2004</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/Volleyball/Competitions/WorldGrandPrix/2003/press/press_final.asp" target="_blank">2003</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/Volleyball/Competitions/WorldGrandPrix/2002/Index.asp" target="_blank">2002</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/Volleyball/Competitions/WorldGrandPrix/2002/General/GenI_History.asp" target="_blank">2001-1993</a></li>
-					</ul>
-					</li>
-				</ul>
-				</li>
-			</ul>
-		</li></ul>
-					<li class="Home"><a href="http://www.fivb.org">Home FIVB</a></li>
-
-
-
-    </div>
-  </div>
-  <div class="Content" style="left: 0px; top: 0px; ">
-    <div class="Column-2 Left" style="width: 892px">
-      <h1>TEAM COMPOSITION</h1>
-      <style type="text/css">
-.center{
-text-align:center;
-}
-.style9 {
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.style8 {
-	font-size: x-small;
-	font-weight: bold;
-	color: #000000;
-}
-.style2 {
-	font-size: small;
-}
-.style6 {
-	text-align: right;
-	font-size: small;
-	background-color: #999999;
-}
-.style10 {
-	text-align: left;
-	font-size: small;
-	background-color: #999999;
-}
-.style3 {
-	text-align: left;
-}
-	  .style11 {
-		  font-family: Arial, Helvetica, sans-serif;
-	  }
-	  .style12 {
-	  	font-size: x-small;
-	  }
-	  .style13 {
-	font-size: x-small;
-	color: #000000;
-}
-	  .style15 {
-	font-size: small;
-	background-color: #999999;
-}
-	  .style16 {
-	text-align: center;
-	font-size: small;
-	background-color: #999999;
-}
-	  .style19 {
-		  color: #000000;
-	  }
-	  </style>
-		<br>
-				<table border="0" cellspacing="0" cellpadding="0" class="style9" style="width: 100%">
-					<tbody><tr><td>
-					<b><font face="Verdana" size="2"><span class="style11"><img style="margin:0" src="/Images/Flags/DOM2.gif">&nbsp;DOM / Dominican Republic</span></font></b>
-				</td>
-				</tr>	
-					<tr>
-						<td class="text">							
-							<table border="0" cellspacing="0" cellpadding="0" id="table1">
-								<tbody><tr>
-									<td rowspan="2" valign="bottom" style="width: 238">
-<br>
-<a target="_blank" href="http://www.fivb.org/visasp/Img_GetImage.aspx?No=201303404"><img src="http://www.fivb.org/visasp/Img_GetImage.aspx?No=201303404&amp;MaxSize=330">
-								</a></td>
-									<td rowspan="2" style="width: 38px">
-									&nbsp;</td>
-									<td class="text" align="left"></td>
-								</tr>
-								<tr>
-									<td class="titleN" align="left" width="313">
-									<table border="0" width="100%" id="table2" cellspacing="0" cellpadding="0">
-										<tbody><tr class="style11">
-											<td class="style8">Team manager</td>
-											<td class="style13">
-									ALEXANDRE CECCATO</td>
-										</tr>
-										<tr class="style11">
-											<td class="style8">
-											Coach</td>
-											<td class="style13">
-                                      MARCOS KWIEK</td>
-										</tr>
-										<tr class="style11">
-											<td class="style8">Assistant 
-											coach</td>
-											<td class="style13">WAGNER ROBERTO ROCHA PACHECO</td>
-										</tr>
-										<tr class="style11">
-											<td class="style8">2nd assistant 
-											coach</td>
-											<td class="style13">
-											WILSON ANTONIO SANCHEZ DURAN</td>
-										</tr>
-										<tr class="style11">
-											<td class="style8">Doctor</td>
-											<td class="style13"></td>
-										</tr>
-										<tr class="style11">
-											<td class="style8">Physiotherapist</td>
-											<td class="style13">CESAR ADALIO VILLALONA</td>
-										</tr>
-										<tr class="style11">
-											<td class="style8">&nbsp;</td>
-											<td class="style13">
-											&nbsp;</td>
-										</tr>
-									</tbody></table>
-									</td>
-								</tr>
-							</tbody></table>
-						</td>
-					</tr>
-					<tr>
-						<td>&nbsp;</td>
-					</tr>
-					<tr>
-						<td align="LEFT" valign="TOP">
-							<table class="players">
-    							<tbody><tr>
-      								<td width="6" class="style2">
-									&nbsp;</td>
-									<td align="left" class="style15" style="width: 2px">
-									&nbsp;</td><td width="20" align="left" class="style6">
-									<strong>No.</strong></td>
-									<td width="2" align="left" class="style15">
-									</td>
-									<td align="left" class="style10" style="width: 7px">
-									&nbsp;</td>
-									<td align="left" class="style10" style="width: 200">
-									<strong>Name</strong></td>
-									<td align="left" class="style10" style="width: 200">
-									<strong>Lastname</strong></td>
-									<td width="88" align="left" class="style10">
-									<strong>Shirt Name</strong></td>
-									<td width="65" align="left" class="style10">
-									<strong>Birthdate</strong></td>
-									<td width="52" align="center" class="style16">
-									<strong>Height</strong></td>
-									<td width="58" align="center" class="style16">
-									<strong>Weight</strong></td>
-									<td width="45" align="center" class="style16">
-									<strong>Spike</strong></td>
-									<td width="50" align="center" class="style16">
-									<strong>Block</strong></td>
-									<td align="left" class="style10" style="width: 25%">
-									<strong>Club</strong></td>
-								
-                               </tr><tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									1
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Annerys Victoria</td>
-									<td class="style12" align="left" height="11" style="width: 200">Vargas Valdez</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=113454">Valdez</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">07.08.1981</td>									
-									<td class="style12" align="center" height="11">196</td>
-									<td class="style12" align="center" height="11">70</td>
-									<td class="style12" align="center" height="11">327</td>
-									<td class="style12" align="center" height="11">320	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">Seleccion Nacional</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									2
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Winifer Maria</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Fernandez Perez</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=131956">Fernandez</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">06.01.1995</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">169</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">62</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">270</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">265	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Cien Fuego</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									3
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Lisvel Elisa</td>
-									<td class="style12" align="left" height="11" style="width: 200">Eve Mejia</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=119591">Eve</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">10.09.1991</td>									
-									<td class="style12" align="center" height="11">194</td>
-									<td class="style12" align="center" height="11">90</td>
-									<td class="style12" align="center" height="11">325</td>
-									<td class="style12" align="center" height="11">315	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">Puerto Plata</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									4
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Marianne</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Fersola Norberto</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=119544">Fersola</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">16.01.1992</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">191</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">60</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">315</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">310	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Mirador</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									5
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Brenda</td>
-									<td class="style12" align="left" height="11" style="width: 200">Castillo</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=119039">Castillo</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">05.06.1992</td>									
-									<td class="style12" align="center" height="11">167</td>
-									<td class="style12" align="center" height="11">55</td>
-									<td class="style12" align="center" height="11">245</td>
-									<td class="style12" align="center" height="11">230	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">San Cristobal</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									6
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Marifranchi</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Rodriguez</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=115386">Rodriguez</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">29.08.1990</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">184</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">68</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">310</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">300	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Mirador</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									7
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Niverka Dharlenis</td>
-									<td class="style12" align="left" height="11" style="width: 200">Marte Frica</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=119585">Marte</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">19.10.1990</td>									
-									<td class="style12" align="center" height="11">178</td>
-									<td class="style12" align="center" height="11">71</td>
-									<td class="style12" align="center" height="11">295</td>
-									<td class="style12" align="center" height="11">283	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">Deportivo Nacional</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									8
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Candida Estefany</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Arias Perez</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=119224">Arias</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">11.03.1992</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">194</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">68</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">320</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">315	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">San Cristobal</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									9
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Sidarka De Los Milagros</td>
-									<td class="style12" align="left" height="11" style="width: 200">Nuñez</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=114679">Nuñez</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">25.06.1984</td>									
-									<td class="style12" align="center" height="11">185</td>
-									<td class="style12" align="center" height="11">62</td>
-									<td class="style12" align="center" height="11">330</td>
-									<td class="style12" align="center" height="11">320	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">Club Malanga</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									10
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Pamela Marie</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Soriano Olivo</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=131958">Soriano</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">30.06.1995</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">175</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">64</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">290</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">287	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Mirador</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									11
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Jeoselyna</td>
-									<td class="style12" align="left" height="11" style="width: 200">Rodriguez Santos</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=119587">Rodriguez</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">09.12.1991</td>									
-									<td class="style12" align="center" height="11">187</td>
-									<td class="style12" align="center" height="11">63</td>
-									<td class="style12" align="center" height="11">325</td>
-									<td class="style12" align="center" height="11">315	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">Mirador</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									12
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Karla Miguelina</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Echenique Medina</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=112464">Echenique</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">16.05.1986</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">180</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">65</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">300</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">290	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Deportivo Nacional</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									13
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Jineiry</td>
-									<td class="style12" align="left" height="11" style="width: 200">Martinez</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=139910">Martinez </a>
-									</td>
-													
-									<td class="style12" align="left" height="11">03.12.1997</td>									
-									<td class="style12" align="center" height="11">190</td>
-									<td class="style12" align="center" height="11">68</td>
-									<td class="style12" align="center" height="11">305</td>
-									<td class="style12" align="center" height="11">280	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">Mirador</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									14
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Prisilla</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Rivera Brens</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=112468">Rivera</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">29.12.1984</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">183</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">67</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">309</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">305	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">San Pedro</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									15
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Celenia </td>
-									<td class="style12" align="left" height="11" style="width: 200">Toribio De Leon</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=131957">Toribio</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">17.07.1994</td>									
-									<td class="style12" align="center" height="11">181</td>
-									<td class="style12" align="center" height="11">69</td>
-									<td class="style12" align="center" height="11">290</td>
-									<td class="style12" align="center" height="11">286	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">Cien Fuego</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									16
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Yonkaira Paola</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Peña Isabel</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=123978">Peña Isabel</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">10.05.1993</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">190</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">70</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">320</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">310	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Deportivo Nacional</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									17
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Gina Altagracia</td>
-									<td class="style12" align="left" height="11" style="width: 200">Mambru Casilla</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=115391">Mambru</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">21.01.1986</td>									
-									<td class="style12" align="center" height="11">182</td>
-									<td class="style12" align="center" height="11">65</td>
-									<td class="style12" align="center" height="11">330</td>
-									<td class="style12" align="center" height="11">315	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">Los Cachorros</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									C</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									18
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Bethania</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">De La Cruz De Peña</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=114294">De La Cruz</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">13.05.1987</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">188</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">70</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">330</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">320	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Deportivo Nacional</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									19
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Ana Yorkira</td>
-									<td class="style12" align="left" height="11" style="width: 200">Binet Stephens</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=119229">Binet</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">09.02.1992</td>									
-									<td class="style12" align="center" height="11">174</td>
-									<td class="style12" align="center" height="11">58</td>
-									<td class="style12" align="center" height="11">280</td>
-									<td class="style12" align="center" height="11">260	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">Samana</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									20
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Brayelin Elizabeth</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Martinez</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=123982">Martinez </a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">11.09.1996</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">201</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">83</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">330</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">320	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Deportivo Nacional</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									21
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Erasma</td>
-									<td class="style12" align="left" height="11" style="width: 200">Moreno Martinez</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=124158">Moreno</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">25.11.1991</td>									
-									<td class="style12" align="center" height="11">183</td>
-									<td class="style12" align="center" height="11">75</td>
-									<td class="style12" align="center" height="11">304</td>
-									<td class="style12" align="center" height="11">289	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">Monte Plata</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									22
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Gaila Ceneida</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Gonzalez Lopez</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=139927">Gonzalez</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">25.06.1997</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">188</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">73</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">304</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">276	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Mirador</td>
-                                </tr>
-                                
-  							</tbody></table>
-						</td>
-					</tr>
-					<tr>
-						<td height="23" class="style19"><font face="Verdana" size="1">&nbsp;C = Captain&nbsp;&nbsp;  
-						L = Libero</font></td>
-					</tr>
-					<tr>
-									<td align="LEFT" valign="TOP" class="style5" width="50%" style="width: 100%">
-											<strong>&nbsp;<br>Team profile</strong></td>
-									    </tr>
-					<tr>
-									<td align="LEFT" valign="TOP" class="style5" width="50%" style="width: 100%">
-											<hr></td>
-									    </tr>
-					<tr>
-									<td align="LEFT" valign="TOP" class="text" width="50%" style="width: 100%">
-											<table style="width: 2%; float: left" cellspacing="4" cellpadding="4">
-												<tbody><tr>
-													<td>
-											</td>
-												</tr>
-											</tbody></table>
-											<!--[if gte mso 9]><xml>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]-->
-
-<p class="MsoNormal"><span style="font-size:7.5pt;line-height:115%;
-font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-GB" lang="EN-GB">The Dominican
-Republic have qualified for the FIVB World Grand Prix every year, since 2003.
-Their bronze medal at the FIVB World Grand Champions Cup in 2009 was their first
-FIVB medal.</span></p>
-
-<p class="MsoNormal"><span style="font-size:7.5pt;line-height:115%;
-font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-GB" lang="EN-GB">The Dominicans have
-claimed gold in the last three editions of the Central American and Caribbean
-Games in El Salvador (2002), Colombia (2006) and Puerto Rico (2010).</span></p>
-
-<p class="MsoNormal"><span style="font-size:7.5pt;line-height:115%;
-font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-GB" lang="EN-GB">They have won two
-gold medals (2008 and 2010), six silver (2002, 2003, 2005, 2009, 2011, 2013)
-and three bronze (2004, 2006, 2007) at the Pan American Cup. And at the NORCECA
-Continental Championships the team have taken one gold medal (2009), one silver
-(2011) and five bronze (1997, 2001, 2003, 2005,<span style="mso-spacerun:yes">&nbsp;
-</span>2007).</span></p>
-
-<p class="MsoNormal"><span style="font-size:7.5pt;line-height:115%;
-font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-GB" lang="EN-GB">Other important achievements
-include a gold medal at the 2003 Pan American Games in Santo Domingo, and
-qualification to the Olympic Games in Athens 2004 and London 2012, where they
-finished 11th and fifth respectively.</span></p>
-
-<p class="MsoNormal"><span style="font-size:7.5pt;line-height:115%;
-font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-GB" lang="EN-GB">Impressively, only former
-captain Milagros Cabral de la Cruz has retired since the Olympics meaning star
-attacker Bethania de la Cruz, who once held the record for most points in a
-match when scoring 54 for her Japanese club in 2012 and holds the record for
-the World Cup after scoring 42 against Germany in 2011, is still on the books.</span></p>
-
-<p class="MsoNormal"><span style="font-size:7.5pt;line-height:115%;
-font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-GB" lang="EN-GB">The Dominican
-Republic, ranked 10<sup>th</sup> in the world, will be looking to continue
-their excellent start to 2013 having finished third at the Montreux
-VolleyMasters in June. </span></p>
-
-<!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:View>Normal</w:View>
-  <w:Zoom>0</w:Zoom>
-  <w:TrackMoves/>
-  <w:TrackFormatting/>
-  <w:HyphenationZone>21</w:HyphenationZone>
-  <w:PunctuationKerning/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>FR-CH</w:LidThemeOther>
-  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
-  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:EnableOpenTypeKerning/>
-   <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
-  </w:Compatibility>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
-  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="267">
-  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
-  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Table Grid"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
- </w:LatentStyles>
-</xml><![endif]--><!--[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:"Table Normal";
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:10.0pt;
-	mso-para-margin-left:0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-fareast-language:EN-US;}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:View>Normal</w:View>
-  <w:Zoom>0</w:Zoom>
-  <w:TrackMoves/>
-  <w:TrackFormatting/>
-  <w:HyphenationZone>21</w:HyphenationZone>
-  <w:PunctuationKerning/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>FR-CH</w:LidThemeOther>
-  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
-  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:EnableOpenTypeKerning/>
-   <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
-  </w:Compatibility>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
-  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="267">
-  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
-  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Table Grid"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
- </w:LatentStyles>
-</xml><![endif]--><!--[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:"Table Normal";
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:10.0pt;
-	mso-para-margin-left:0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-fareast-language:EN-US;}
-</style>
-<![endif]--></td>
-									    </tr>
-					<tr>
-									<td align="LEFT" valign="TOP" class="font-family: Arial, Helvetica, sans-serif" width="50%" style="width: 100%">
-											</td>
-									    </tr>
-					<tr>
-						<td height="23" style="text-align:justify">
-						&nbsp;</td>
-					</tr>
-					<tr>
-						<td align="left" height="22">
-						
-							    <table border="0" cellspacing="0" cellpadding="0" style="width: 842px">
-									<tbody><tr>
-									<td align="LEFT" valign="TOP" class="style2" width="50%" colspan="2" style="width: 100%">
-											<strong><a name="Coach_profile">Coach profile</a></strong></td>
-									</tr>
-									<tr>
-									<td align="LEFT" valign="TOP" class="style2" width="50%" colspan="2" style="width: 100%">
-											<hr></td>
-									</tr>
-									<tr>
-									<td align="LEFT" valign="TOP" class="text" width="50%" colspan="2" style="width: 100%">
-											<table style="width: 147px; float: left; height: 171px;" cellspacing="4" cellpadding="4">
-												<tbody><tr>
-													<td>
-											<a target="_blank" href="http://www.fivb.org/visasp/Img_GetImage.aspx?No=201249512"><img margin-right:"15px"="" align="LEFT" src="http://www.fivb.org/visasp/Img_GetImage.aspx?No=201249512&amp;MaxSize=150"></a></td>
-												</tr>
-											</tbody></table>
-											<!--[if gte mso 9]><xml>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]--><span style="font-size:7.5pt;line-height:
-115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Arial Unicode MS&quot;;
-mso-bidi-font-family:&quot;Arial Unicode MS&quot;;mso-ansi-language:EN-GB;mso-fareast-language:
-EN-US;mso-bidi-language:AR-SA" lang="EN-GB">Brazilian Marcos Kwiek has coached the women’s
-national volleyball team since 2008. <br><br>With Kwiek at the helm, the Dominican Republic
-have secured one gold medal and two silvers at the Pan American Cup, the 2009
-NORCECA Continental Championship title, gold medals at the Central American and
-Caribbean Games in Mayaguez 2010 and the 2012 NORCECA Olympic Qualification
-Tournament, and bronze at the 2009 FIVB Grand Champions Cup. <br><br>Kwiek began his
-coaching career in 1995 with <i style="mso-bidi-font-style:normal">Gremio
-Recreativo Barueri</i> of the Brazilian League, coaching several other league teams
-until 2007. He worked as assistant coach for Brazil’s women’s national team
-from 2003 to 2007.</span><!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:View>Normal</w:View>
-  <w:Zoom>0</w:Zoom>
-  <w:TrackMoves/>
-  <w:TrackFormatting/>
-  <w:HyphenationZone>21</w:HyphenationZone>
-  <w:PunctuationKerning/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>FR-CH</w:LidThemeOther>
-  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
-  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:EnableOpenTypeKerning/>
-   <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
-  </w:Compatibility>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
-  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="267">
-  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
-  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Table Grid"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
- </w:LatentStyles>
-</xml><![endif]--><!--[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:"Table Normal";
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:10.0pt;
-	mso-para-margin-left:0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-fareast-language:EN-US;}
-</style>
-<![endif]--><br>&nbsp;</td>
-									    </tr>
-								<tr>
-									<td align="LEFT" class="text" width="50%">
-						 <form name="form1" method="POST" action="Teams.asp">
-									<table cellpadding="0" cellspacing="0" border="0">
-									  <tbody>
-									    <tr>
-									      <td><select name="Team" class="text">
-												<option selected="">choose a team</option>
-												<option value="ALG">Algeria</option>
-												<option value="ARG">Argentina</option>
-												<option value="BRA">Brazil</option>
-												<option value="BUL">Bulgaria</option>
-												<option value="CHN">China</option>
-												<option value="CUB">Cuba</option>
-												<option value="CZE">Czech Republic</option>
-												<option value="DOM">Dominican Republic</option>
-												<option value="GER">Germany</option>
-												<option value="ITA">Italy</option>
-												<option value="JPN">Japan</option>
-												<option value="KAZ">Kazakhstan</option>
-												<option value="NED">Netherlands</option>
-												<option value="POL">Poland</option>
-												<option value="PUR">Puerto Rico</option>
-												<option value="RUS">Russia</option>
-												<option value="SRB">Serbia</option>
-												<option value="THA">Thailand</option>
-												<option value="TUR">Turkey</option>
-												<option value="USA">USA</option>
-												</select></td>
-										<td width="5">&nbsp;</td>		
-										<td><input type="submit" value="Show" name="B1" style="font-family: Verdana; font-size: 8pt"></td>
-									    </tr></tbody></table></form></td><td align="right" class="text" width="50%">
-										</td>
-								</tr>
-							</tbody></table>
-</td>
-								</tr>
-							</tbody></table>
-        <br>              
-    </div>
-    
-    <!-- ////////////////////////////////////////////////////////////////////////////////////////// -->
-      <!-- end Col Right -->
-  </div>
-</div>
-
-<script type="text/javascript" src="MiniGallery.js"></script> <!-- for demo only -->
-<script type="text/javascript" src="MiniGallery.aspx"></script>
-
-
+<table>
+    <tbody>
+        <tr>
+            <td> 1 </td>
+            <td>Annerys Victoria</td>
+            <td>Vargas Valdez</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=113454">Valdez</a> </td>
+            <td>07.08.1981</td>
+            <td>196</td>
+            <td>70</td>
+            <td>327</td>
+            <td>320 </td>
+            <td>Seleccion Nacional</td>
+        </tr>
+        <tr>
+            <td> 2 </td>
+            <td>Winifer Maria</td>
+            <td>Fernandez Perez</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=131956">Fernandez</a> </td>
+            <td>06.01.1995</td>
+            <td>169</td>
+            <td>62</td>
+            <td>270</td>
+            <td>265 </td>
+            <td>Cien Fuego</td>
+        </tr>
+        <tr>
+            <td> 3 </td>
+            <td>Lisvel Elisa</td>
+            <td>Eve Mejia</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=119591">Eve</a> </td>
+            <td>10.09.1991</td>
+            <td>194</td>
+            <td>90</td>
+            <td>325</td>
+            <td>315 </td>
+            <td>Puerto Plata</td>
+        </tr>
+        <tr>
+            <td> 4 </td>
+            <td>Marianne</td>
+            <td>Fersola Norberto</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=119544">Fersola</a> </td>
+            <td>16.01.1992</td>
+            <td>191</td>
+            <td>60</td>
+            <td>315</td>
+            <td>310 </td>
+            <td>Mirador</td>
+        </tr>
+        <tr>
+            <td> 5 </td>
+            <td>Brenda</td>
+            <td>Castillo</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=119039">Castillo</a> </td>
+            <td>05.06.1992</td>
+            <td>167</td>
+            <td>55</td>
+            <td>245</td>
+            <td>230 </td>
+            <td>San Cristobal</td>
+        </tr>
+        <tr>
+            <td> 6 </td>
+            <td>Marifranchi</td>
+            <td>Rodriguez</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=115386">Rodriguez</a> </td>
+            <td>29.08.1990</td>
+            <td>184</td>
+            <td>68</td>
+            <td>310</td>
+            <td>300 </td>
+            <td>Mirador</td>
+        </tr>
+        <tr>
+            <td> 7 </td>
+            <td>Niverka Dharlenis</td>
+            <td>Marte Frica</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=119585">Marte</a> </td>
+            <td>19.10.1990</td>
+            <td>178</td>
+            <td>71</td>
+            <td>295</td>
+            <td>283 </td>
+            <td>Deportivo Nacional</td>
+        </tr>
+        <tr>
+            <td> 8 </td>
+            <td>Candida Estefany</td>
+            <td>Arias Perez</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=119224">Arias</a> </td>
+            <td>11.03.1992</td>
+            <td>194</td>
+            <td>68</td>
+            <td>320</td>
+            <td>315 </td>
+            <td>San Cristobal</td>
+        </tr>
+        <tr>
+            <td> 9 </td>
+            <td>Sidarka De Los Milagros</td>
+            <td>Nuñez</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=114679">Nuñez</a> </td>
+            <td>25.06.1984</td>
+            <td>185</td>
+            <td>62</td>
+            <td>330</td>
+            <td>320 </td>
+            <td>Club Malanga</td>
+        </tr>
+        <tr>
+            <td> 10 </td>
+            <td>Pamela Marie</td>
+            <td>Soriano Olivo</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=131958">Soriano</a> </td>
+            <td>30.06.1995</td>
+            <td>175</td>
+            <td>64</td>
+            <td>290</td>
+            <td>287 </td>
+            <td>Mirador</td>
+        </tr>
+        <tr>
+            <td> 11 </td>
+            <td>Jeoselyna</td>
+            <td>Rodriguez Santos</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=119587">Rodriguez</a> </td>
+            <td>09.12.1991</td>
+            <td>187</td>
+            <td>63</td>
+            <td>325</td>
+            <td>315 </td>
+            <td>Mirador</td>
+        </tr>
+        <tr>
+            <td> 12 </td>
+            <td>Karla Miguelina</td>
+            <td>Echenique Medina</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=112464">Echenique</a> </td>
+            <td>16.05.1986</td>
+            <td>180</td>
+            <td>65</td>
+            <td>300</td>
+            <td>290 </td>
+            <td>Deportivo Nacional</td>
+        </tr>
+        <tr>
+            <td> 13 </td>
+            <td>Jineiry</td>
+            <td>Martinez</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=139910">Martinez </a> </td>
+            <td>03.12.1997</td>
+            <td>190</td>
+            <td>68</td>
+            <td>305</td>
+            <td>280 </td>
+            <td>Mirador</td>
+        </tr>
+        <tr>
+            <td> 14 </td>
+            <td>Prisilla</td>
+            <td>Rivera Brens</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=112468">Rivera</a> </td>
+            <td>29.12.1984</td>
+            <td>183</td>
+            <td>67</td>
+            <td>309</td>
+            <td>305 </td>
+            <td>San Pedro</td>
+        </tr>
+        <tr>
+            <td> 15 </td>
+            <td>Celenia </td>
+            <td>Toribio De Leon</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=131957">Toribio</a> </td>
+            <td>17.07.1994</td>
+            <td>181</td>
+            <td>69</td>
+            <td>290</td>
+            <td>286 </td>
+            <td>Cien Fuego</td>
+        </tr>
+        <tr>
+            <td> 16 </td>
+            <td>Yonkaira Paola</td>
+            <td>Peña Isabel</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=123978">Peña Isabel</a> </td>
+            <td>10.05.1993</td>
+            <td>190</td>
+            <td>70</td>
+            <td>320</td>
+            <td>310 </td>
+            <td>Deportivo Nacional</td>
+        </tr>
+        <tr>
+            <td> 17 </td>
+            <td>Gina Altagracia</td>
+            <td>Mambru Casilla</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=115391">Mambru</a> </td>
+            <td>21.01.1986</td>
+            <td>182</td>
+            <td>65</td>
+            <td>330</td>
+            <td>315 </td>
+            <td>Los Cachorros</td>
+        </tr>
+        <tr>
+            <td> 18 </td>
+            <td>Bethania</td>
+            <td>De La Cruz De Peña</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=114294">De La Cruz</a> </td>
+            <td>13.05.1987</td>
+            <td>188</td>
+            <td>70</td>
+            <td>330</td>
+            <td>320 </td>
+            <td>Deportivo Nacional</td>
+        </tr>
+        <tr>
+            <td> 19 </td>
+            <td>Ana Yorkira</td>
+            <td>Binet Stephens</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=119229">Binet</a> </td>
+            <td>09.02.1992</td>
+            <td>174</td>
+            <td>58</td>
+            <td>280</td>
+            <td>260 </td>
+            <td>Samana</td>
+        </tr>
+        <tr>
+            <td> 20 </td>
+            <td>Brayelin Elizabeth</td>
+            <td>Martinez</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=123982">Martinez </a> </td>
+            <td>11.09.1996</td>
+            <td>201</td>
+            <td>83</td>
+            <td>330</td>
+            <td>320 </td>
+            <td>Deportivo Nacional</td>
+        </tr>
+        <tr>
+            <td> 21 </td>
+            <td>Erasma</td>
+            <td>Moreno Martinez</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=124158">Moreno</a> </td>
+            <td>25.11.1991</td>
+            <td>183</td>
+            <td>75</td>
+            <td>304</td>
+            <td>289 </td>
+            <td>Monte Plata</td>
+        </tr>
+        <tr>
+            <td> 22 </td>
+            <td>Gaila Ceneida</td>
+            <td>Gonzalez Lopez</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=DOM&amp;No=139927">Gonzalez</a> </td>
+            <td>25.06.1997</td>
+            <td>188</td>
+            <td>73</td>
+            <td>304</td>
+            <td>276 </td>
+            <td>Mirador</td>
+        </tr>
+    </tbody>
+</table>

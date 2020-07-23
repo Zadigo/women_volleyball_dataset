@@ -15,8 +15,6 @@ files = [
 
 # %%
 
-# Create all the dataframes
-
 dfs = []
 columns = ['name', 'date_of_birth', 'height', 'weight', 'spike', 'block']
 
@@ -35,6 +33,7 @@ df
 
 # %%
 df.to_csv('world_grand_prix-final.csv')
+
 
 
 # %%

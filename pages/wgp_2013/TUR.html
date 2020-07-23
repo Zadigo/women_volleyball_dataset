@@ -1,1893 +1,268 @@
-
-<div class="Container">
-  <div class="Header">
-    <div class="Box">
-           <script type="text/javascript">
-		var params = {
-			quality:"high",
-			allowscriptaccess:"always",
-		    wmode: "transparent",
-			bgcolor:"#cccccc"
-		};
-		var flashvars = {
-			flvUrl : "netform.flv",
-			jsCall : "colorizeHeader"
-		};
-		var attributes = {
-			id: "headerAnimation",
-			name: "headerAnimation"
-		};
-		//ajout du flash
-	    swfobject.embedSWF("swf/WGP_Header.swf", "FlashContainer", "999", "166", "10", "swf/expressInstall.swf", flashvars, params, attributes);
-		
-		function callToAS(num) {
-			document["headerAnimation"].colorizeHeader(num);
-		};
-		
-		$(document).ready(function() {
-			//initialisation des �l�ments dynamiques
-			init();
-			/*$("a").mouseenter(function() {
-				callToAS(Math.floor(Math.random() * 0xffffff));
-			});*/
-		});
-    </script>
-<!--[if lte IE 7]>
-    <script type="text/javascript" src="misc/DD_belatedPNG_0.0.8a-min.js"></script>
-    <script type="text/javascript">
-    	$(document).ready(function() {
-	    	DD_belatedPNG.fix(".Header, img, .png");
-        });
-    </script>
-    <![endif]-->
-    <div id="FlashContainer" style="visibility: visible;"> <img src="img/header.jpg" alt="FIVB - Volleyball World Grand Prix" width="1000" height="160"> </div>
-
-    </div>
-    <div class="Nav">
-     		<ul>
-			<li><a href="index.asp">Home</a></li>
-				<li><a href="#">Finals</a>
-				
-				<ul>
-          	<li><a href="Finals.asp">Competition Formula</a></li>
-				<li><a href="ScheduleF.asp">Match Schedule</a></li>
-					<li><a href="#">Teams<br></a>
-						<ul>
-									<li><a href="teamsF.asp?Team=BRA"><img height="12" src="http://www.fivb.org/images/flagssmall/BRA.gif" width="18"> Brazil</a></li>
-									<li><a href="teamsF.asp?Team=CHN"><img height="12" src="http://www.fivb.org/images/flagssmall/CHN.gif" width="18"> China</a></li>
-									<li><a href="teamsF.asp?Team=ITA"><img height="12" src="http://www.fivb.org/images/flagssmall/ITA.gif" width="18"> Italy</a></li>
-									<li><a href="teamsF.asp?Team=JPN"><img height="12" src="http://www.fivb.org/images/flagssmall/JPN.gif" width="18"> Japan</a></li>			
-									<li><a href="teamsF.asp?Team=SRB"><img height="12" src="http://www.fivb.org/images/flagssmall/SRB.gif" width="18"> Serbia</a></li>
-									<li><a href="teamsF.asp?Team=USA"><img height="12" src="http://www.fivb.org/images/flagssmall/USA.gif" width="18"> USA</a></li>
-						</ul>
-</li>
-
-<li>
-					<a href="#">Results</a>
-					<ul>
-						<li><a href="ResultsF.asp">Results/Ranking</a></li>
-						<li><a href="StatisticsF.asp">Statistics</a></li>
-						<li><a href="MatchInfoF.asp">Match info/Stats</a></li>
-					</ul>
-					</li>
-					<li><a href="LiveScore.asp">Live Scoring</a></li>
-					<li><a href="#">Media</a>
-					<ul>
-						<li><a href="viewpressrelease.asp">Latest News</a></li>
-					</ul>
-					</li>
-					<li><a href="#">Photos</a><ul>
-						<li><a href="PhotosF.asp">Matches</a></li>
-						<li><a href="PhotoGalleryVarious.asp">Various</a></li>
-						<li><a href="PhotoGalleryAwarding.asp">Awarding Ceremony</a></li>
-						<li><a href="SlideshowF.asp">Slideshow</a></li>
-	</ul>
-					</li>
-
-
-</ul>
-	</li>
-			<li><a href="finalstanding.asp">Final standing</a></li>
-			<li><a href="index.asp">Preliminary round</a>
-			<ul>
-          	<li><a href="Formula.asp">Competition Formula<br></a>
-			<a href="Schedule.asp">Match Schedule<br></a><a href="Pools.asp">Pools</a>
-			<a href="Results.asp">Results/Ranking</a> <a href="MatchInfo.asp">Match info/Stats</a> <a href="Statistics.asp">Statistics</a><br>
-				</li><li><a href="#">Teams</a>
-				<ul>
-							<li class="two-cols">
-								<ul>
-									<li><a href="Teams.asp?Team=ALG"><img height="12" src="http://www.fivb.org/images/flagssmall/ALG.gif" width="18"> Algeria</a></li>
-									<li><a href="Teams.asp?Team=ARG"><img height="12" src="http://www.fivb.org/images/flagssmall/ARG.gif" width="18"> Argentina</a></li>
-									<li><a href="Teams.asp?Team=BRA"><img height="12" src="http://www.fivb.org/images/flagssmall/BRA.gif" width="18"> Brazil</a></li>
-									<li><a href="Teams.asp?Team=BUL"><img height="12" src="http://www.fivb.org/images/flagssmall/BUL.gif" width="18"> Bulgaria</a></li>
-									<li><a href="Teams.asp?Team=CHN"><img height="12" src="http://www.fivb.org/images/flagssmall/CHN.gif" width="18"> China</a></li>
-									<li><a href="Teams.asp?Team=CUB"><img height="12" src="http://www.fivb.org/images/flagssmall/CUB.gif" width="18"> Cuba</a></li>
-									<li><a href="Teams.asp?Team=CZE"><img height="12" src="http://www.fivb.org/images/flagssmall/CZE.gif" width="18"> Czech Republic</a></li>
-									<li><a href="Teams.asp?Team=DOM"><img height="12" src="http://www.fivb.org/images/flagssmall/DOM.gif" width="18"> Dominican Republic</a></li>
-									<li><a href="Teams.asp?Team=GER"><img height="12" src="http://www.fivb.org/images/flagssmall/GER.gif" width="18"> Germany</a></li>
-									<li><a href="Teams.asp?Team=ITA"><img height="12" src="http://www.fivb.org/images/flagssmall/ITA.gif" width="18"> Italy</a></li>
-									<li><a href="Teams.asp?Team=JPN"><img height="12" src="http://www.fivb.org/images/flagssmall/JPN.gif" width="18"> Japan</a></li>
-									<li><a href="Teams.asp?Team=KAZ"><img height="12" src="http://www.fivb.org/images/flagssmall/KAZ.gif" width="18"> Kazakhstan</a></li>
-									<li><a href="Teams.asp?Team=NED"><img height="12" src="http://www.fivb.org/images/flagssmall/NED.gif" width="18"> Netherlands</a></li>
-									<li><a href="Teams.asp?Team=POL"><img height="12" src="http://www.fivb.org/images/flagssmall/POL.gif" width="18"> Poland</a></li>
-									<li><a href="Teams.asp?Team=PUR"><img height="12" src="http://www.fivb.org/images/flagssmall/PUR.gif" width="18"> Puerto Rico</a></li>
-									<li><a href="Teams.asp?Team=RUS"><img height="12" src="http://www.fivb.org/images/flagssmall/RUS.gif" width="18"> Russia</a></li>
-									<li><a href="Teams.asp?Team=SRB"><img height="12" src="http://www.fivb.org/images/flagssmall/SRB.gif" width="18"> Serbia</a></li>
-									<li><a href="Teams.asp?Team=THA"><img height="12" src="http://www.fivb.org/images/flagssmall/THA.gif" width="18"> Thailand</a></li>
-									<li><a href="Teams.asp?Team=TUR"><img height="12" src="http://www.fivb.org/images/flagssmall/TUR.gif" width="18"> Turkey</a></li>
-									<li><a href="Teams.asp?Team=USA"><img height="12" src="http://www.fivb.org/images/flagssmall/USA.gif" width="18"> USA</a></li>
-								</ul>
-</li>
-</ul>
-</li>
-					<li><a href="pools.asp">Week 1 <span class="style1">|</span> August 2-4<br></a>
-						<ul>
-							<li>
-								<ul>
-									<li><a href="Results.asp?Phase=1">Pool A - Brazil</a></li>
-									<li><a href="Results.asp?Phase=2">Pool B - Dominican Republic</a></li>
-									<li><a href="Results.asp?Phase=3">Pool C - Turkey</a></li>
-									<li><a href="Results.asp?Phase=4">Pool D - Macau</a></li>
-									<li><a href="Results.asp?Phase=5">Pool E - Italy</a></li>
-				
-</ul></li></ul></li>
-<li><a href="pools.asp">Week 2 <span class="style1">|</span> August 9-11<br></a>
-						<ul>
-							<li>
-								<ul>
-									<li><a href="Results.asp?Phase=6">Pool F - Serbia</a></li>
-									<li><a href="Results.asp?Phase=7">Pool G - Puerto Rico</a></li>
-									<li><a href="Results.asp?Phase=8">Pool H - Poland</a></li>
-									<li><a href="Results.asp?Phase=9">Pool I - Hong Kong</a></li>
-									<li><a href="Results.asp?Phase=10">Pool J - Russia</a></li>
-								</ul>
-</li></ul>
-
-</li><li><a href="pools.asp">Week 3 <span class="style1">|</span> August 16-18</a>
-						<ul>
-							<li>
-								<ul>
-									<li><a href="Results.asp?Phase=11">Pool K - Kazakhstan</a></li>
-									<li><a href="Results.asp?Phase=12">Pool L - Thailand</a></li>
-									<li><a href="Results.asp?Phase=13">Pool M - Japan</a></li>
-									<li><a href="Results.asp?Phase=14">Pool N - China</a></li>
-									<li><a href="Results.asp?Phase=15">Pool O - Chinese Taipei</a></li>				
-								</ul>
-</li>
-
-
-
-</ul>
-				</li><li><a href="#">Media</a>
-				<ul>
-					<li><a href="viewpressrelease.asp">Latest News</a></li>
-					<li><a href="Photos.asp">Photo Gallery</a></li>
-					<li><a href="Slideshow.asp">Slideshow</a></li>
-				</ul>
-					</li>
-
-</ul>
-	  </li><li><a href="LiveScore.asp">Live Scoring</a></li>
-      <li><a target="_blank" href="http://www.laola1.tv/en/int/fivb/video/201--.html">FIVB Web TV</a></li>
-      <li><a href="#">Media</a>
-				<ul>
-					<li><a href="viewPressRelease.asp">Latest News</a><br><a href="listpressreleases.asp">Press Releases</a>
-					<br>
-					<a href="#" target="_blank">Statistical preview - Finals</a>
-					<ul>
-						<li class="two-cols">
-						<a href="StatisticalPreview/FIVB_WGP2013_Statistical_Preview_Finals_day_1.pdf" target="_blank">Day 1</a></li>
-						<li class="two-cols">
-						<a href="StatisticalPreview/FIVB_WGP2013_Statistical_Preview_Finals_day_2.pdf" target="_blank">Day 2</a></li>
-						<li class="two-cols">
-						<a href="StatisticalPreview/FIVB_WGP2013_Statistical_Preview_Finals_day_3.pdf" target="_blank">Day 3</a></li>
-					</ul>
-					<ul>
-						<li class="two-cols">
-						<a href="StatisticalPreview/FIVB_WGP2013_Statistical_Preview_Finals_day_4.pdf" target="_blank">Day 4</a></li>
-						<li class="two-cols">
-						<a href="StatisticalPreview/FIVB_WGP2013_Statistical_Preview_Finals_day_5.pdf" target="_blank">Day 5</a></li>
-					</ul>
-					</li><li><a href="blog.asp">Blog</a></li>
-					<li><a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2013/MediaGuide" target="_blank">2013 Media Guide</a></li>
-				<li><a href="#">History</a>
-				<ul style=" width: 240px;">
-					<li><a href="honours.asp">Honours</a></li>
-					<li><a href="#">Previous Editions</a>
-					<ul>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2012/FinalStanding.asp" target="_blank">2012</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2011/FinalStanding.asp?Tourn=WGP2011" target="_blank">2011</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2010/ResultsF.asp?Tourn=WGP2010" target="_blank">2010</a>
-						</li><li class="two-cols">
-						<a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2009/Results.asp?Tourn=WGP2009&amp;Phase=10" target="_blank">2009</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2008/Standings/finals.asp" target="_blank">2008</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2007/Standings/finals.asp" target="_blank">2007</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/volleyball/competitions/WorldGrandPrix/2006/Standings/finals.asp" target="_blank">2006</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/Volleyball/Competitions/WorldGrandPrix/2005/index.asp" target="_blank">2005</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/Volleyball/Competitions/WorldGrandPrix/2004/index.asp" target="_blank">2004</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/Volleyball/Competitions/WorldGrandPrix/2003/press/press_final.asp" target="_blank">2003</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/Volleyball/Competitions/WorldGrandPrix/2002/Index.asp" target="_blank">2002</a></li>
-						<li class="two-cols">
-						<a href="http://www.fivb.org/EN/Volleyball/Competitions/WorldGrandPrix/2002/General/GenI_History.asp" target="_blank">2001-1993</a></li>
-					</ul>
-					</li>
-				</ul>
-				</li>
-			</ul>
-		</li></ul>
-					<li class="Home"><a href="http://www.fivb.org">Home FIVB</a></li>
-
-
-
-    </div>
-  </div>
-  <div class="Content" style="left: 0px; top: 0px; ">
-    <div class="Column-2 Left" style="width: 892px">
-      <h1>TEAM COMPOSITION</h1>
-      <style type="text/css">
-.center{
-text-align:center;
-}
-.style9 {
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.style8 {
-	font-size: x-small;
-	font-weight: bold;
-	color: #000000;
-}
-.style2 {
-	font-size: small;
-}
-.style6 {
-	text-align: right;
-	font-size: small;
-	background-color: #999999;
-}
-.style10 {
-	text-align: left;
-	font-size: small;
-	background-color: #999999;
-}
-.style3 {
-	text-align: left;
-}
-	  .style11 {
-		  font-family: Arial, Helvetica, sans-serif;
-	  }
-	  .style12 {
-	  	font-size: x-small;
-	  }
-	  .style13 {
-	font-size: x-small;
-	color: #000000;
-}
-	  .style15 {
-	font-size: small;
-	background-color: #999999;
-}
-	  .style16 {
-	text-align: center;
-	font-size: small;
-	background-color: #999999;
-}
-	  .style19 {
-		  color: #000000;
-	  }
-	  </style>
-		<br>
-				<table border="0" cellspacing="0" cellpadding="0" class="style9" style="width: 100%">
-					<tbody><tr><td>
-					<b><font face="Verdana" size="2"><span class="style11"><img style="margin:0" src="/Images/Flags/TUR2.gif">&nbsp;TUR / Turkey</span></font></b>
-				</td>
-				</tr>	
-					<tr>
-						<td class="text">							
-							<table border="0" cellspacing="0" cellpadding="0" id="table1">
-								<tbody><tr>
-									<td rowspan="2" valign="bottom" style="width: 238">
-<br>
-<a target="_blank" href="http://www.fivb.org/visasp/Img_GetImage.aspx?No=201303136"><img src="http://www.fivb.org/visasp/Img_GetImage.aspx?No=201303136&amp;MaxSize=330">
-								</a></td>
-									<td rowspan="2" style="width: 38px">
-									&nbsp;</td>
-									<td class="text" align="left"></td>
-								</tr>
-								<tr>
-									<td class="titleN" align="left" width="313">
-									<table border="0" width="100%" id="table2" cellspacing="0" cellpadding="0">
-										<tbody><tr class="style11">
-											<td class="style8">Team manager</td>
-											<td class="style13">
-									Nilufer Basak SHIMONSKY</td>
-										</tr>
-										<tr class="style11">
-											<td class="style8">
-											Coach</td>
-											<td class="style13">
-                                      Massimo BARBOLINI</td>
-										</tr>
-										<tr class="style11">
-											<td class="style8">Assistant 
-											coach</td>
-											<td class="style13">Ferhat AKBAS</td>
-										</tr>
-										<tr class="style11">
-											<td class="style8">2nd assistant 
-											coach</td>
-											<td class="style13">
-											Mustafa Suphi DOGANCI</td>
-										</tr>
-										<tr class="style11">
-											<td class="style8">Doctor</td>
-											<td class="style13">Ali SEHIRLIOGLU for Chinese Taipei</td>
-										</tr>
-										<tr class="style11">
-											<td class="style8">Physiotherapist</td>
-											<td class="style13">Sibel KAHYALIOGLU</td>
-										</tr>
-										<tr class="style11">
-											<td class="style8">&nbsp;</td>
-											<td class="style13">
-											&nbsp;</td>
-										</tr>
-									</tbody></table>
-									</td>
-								</tr>
-							</tbody></table>
-						</td>
-					</tr>
-					<tr>
-						<td>&nbsp;</td>
-					</tr>
-					<tr>
-						<td align="LEFT" valign="TOP">
-							<table class="players">
-    							<tbody><tr>
-      								<td width="6" class="style2">
-									&nbsp;</td>
-									<td align="left" class="style15" style="width: 2px">
-									&nbsp;</td><td width="20" align="left" class="style6">
-									<strong>No.</strong></td>
-									<td width="2" align="left" class="style15">
-									</td>
-									<td align="left" class="style10" style="width: 7px">
-									&nbsp;</td>
-									<td align="left" class="style10" style="width: 200">
-									<strong>Name</strong></td>
-									<td align="left" class="style10" style="width: 200">
-									<strong>Lastname</strong></td>
-									<td width="88" align="left" class="style10">
-									<strong>Shirt Name</strong></td>
-									<td width="65" align="left" class="style10">
-									<strong>Birthdate</strong></td>
-									<td width="52" align="center" class="style16">
-									<strong>Height</strong></td>
-									<td width="58" align="center" class="style16">
-									<strong>Weight</strong></td>
-									<td width="45" align="center" class="style16">
-									<strong>Spike</strong></td>
-									<td width="50" align="center" class="style16">
-									<strong>Block</strong></td>
-									<td align="left" class="style10" style="width: 25%">
-									<strong>Club</strong></td>
-								
-                               </tr><tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									1
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Güldeniz</td>
-									<td class="style12" align="left" height="11" style="width: 200">Önal</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=115402">Güldeniz</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">25.03.1986</td>									
-									<td class="style12" align="center" height="11">183</td>
-									<td class="style12" align="center" height="11">75</td>
-									<td class="style12" align="center" height="11">296</td>
-									<td class="style12" align="center" height="11">290	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">VakifBank </td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									2
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Gülden</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Kayalar Kuzubasioglu</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=138771">Gülden</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">05.12.1980</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">167</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">57</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">281</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">275	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Eczacibasi VitrA Istanbul</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									L</td>
-									<td class="style12" align="right" height="11">
-									3
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Gizem</td>
-									<td class="style12" align="left" height="11" style="width: 200">Karadayi</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=143384">Gizem</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">14.01.1987</td>									
-									<td class="style12" align="center" height="11">178</td>
-									<td class="style12" align="center" height="11">60</td>
-									<td class="style12" align="center" height="11">290</td>
-									<td class="style12" align="center" height="11">285	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">Volero Zürich</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									4
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Birgül</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Guler</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=143382">Guler</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">02.05.1990</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">178</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">68</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">305</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">290	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">BURSA BELEDIYE</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									5
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Ergul</td>
-									<td class="style12" align="left" height="11" style="width: 200">Avci</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=115398">Ergül</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">24.07.1987</td>									
-									<td class="style12" align="center" height="11">190</td>
-									<td class="style12" align="center" height="11">75</td>
-									<td class="style12" align="center" height="11">300</td>
-									<td class="style12" align="center" height="11">285	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">GALATASARAY</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									6
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Polen</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Uslupehlivan</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=138777">Uslupehlivan</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">27.08.1990</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">193</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">65</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">320</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">310	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Fenerbahce </td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									7
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Seda</td>
-									<td class="style12" align="left" height="11" style="width: 200">Tokatlioglu</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=115394">Tokatlioglu</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">25.06.1986</td>									
-									<td class="style12" align="center" height="11">192</td>
-									<td class="style12" align="center" height="11">80</td>
-									<td class="style12" align="center" height="11">312</td>
-									<td class="style12" align="center" height="11">304	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">BAIC Motor Pekin</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									8
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Bahar</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Toksoy</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=138783">Toksoy</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">06.02.1988</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">190</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">68</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">315</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">305	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">VakifBank Istanbul</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									9
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Özge</td>
-									<td class="style12" align="left" height="11" style="width: 200">Kirdar Çemberci</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=124522">Cemberci</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">26.06.1985</td>									
-									<td class="style12" align="center" height="11">183</td>
-									<td class="style12" align="center" height="11">68</td>
-									<td class="style12" align="center" height="11">310</td>
-									<td class="style12" align="center" height="11">300	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">ECZACIBASI</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									10
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Gözde</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Sonsirma</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=143385">Sonsirma</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">26.06.1985</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">183</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">70</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">297</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">292	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">VAKIFBANK</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									11
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Naz</td>
-									<td class="style12" align="left" height="11" style="width: 200">Aydemir</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=115403">Aydemir</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">14.08.1990</td>									
-									<td class="style12" align="center" height="11">186</td>
-									<td class="style12" align="center" height="11">68</td>
-									<td class="style12" align="center" height="11">304</td>
-									<td class="style12" align="center" height="11">300	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">VakifBank Istanbul</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									12
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Esra</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Gumus Kirici</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=143383">Esra</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">02.10.1982</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">181</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">76</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">305</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">297	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">ECZACIBASI</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									13
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Neriman</td>
-									<td class="style12" align="left" height="11" style="width: 200">Ozsoy</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=138775">Özsoy</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">13.07.1988</td>									
-									<td class="style12" align="center" height="11">188</td>
-									<td class="style12" align="center" height="11">76</td>
-									<td class="style12" align="center" height="11">312</td>
-									<td class="style12" align="center" height="11">300	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">Toyoto Auto Bodu Queenseis</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									14
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Gözde</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Yilmaz</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=119686">Gözde</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">09.09.1991</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">194</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">79</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">316</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">306	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Eczacibasi Vitra Istanbul</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									15
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Ezgi</td>
-									<td class="style12" align="left" height="11" style="width: 200">Arslan</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=123800">Guc</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">23.03.1992</td>									
-									<td class="style12" align="center" height="11">181</td>
-									<td class="style12" align="center" height="11">59</td>
-									<td class="style12" align="center" height="11">280</td>
-									<td class="style12" align="center" height="11">275	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">GALATASARAY</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									16
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Büsra</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Kiliçli</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=119685">Büsra</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">16.07.1990</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">188</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">84</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">297</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">291	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Eczacibasi VitrA Istanbul</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									C</td>
-									<td class="style12" align="right" height="11">
-									17
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Neslihan</td>
-									<td class="style12" align="left" height="11" style="width: 200">Darnel</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=138781">Darnel</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">09.12.1983</td>									
-									<td class="style12" align="center" height="11">187</td>
-									<td class="style12" align="center" height="11">72</td>
-									<td class="style12" align="center" height="11">315</td>
-									<td class="style12" align="center" height="11">306	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">ECZACIBASI</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									18
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Asuman</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Karakoyun</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=119697">Karakoyun</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">16.07.1990</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">180</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">72</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">293</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">289	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Eczacibasi </td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									19
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Ayse Melis</td>
-									<td class="style12" align="left" height="11" style="width: 200">Gürkaynak</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=119693">Melis</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">20.04.1990</td>									
-									<td class="style12" align="center" height="11">183</td>
-									<td class="style12" align="center" height="11">68</td>
-									<td class="style12" align="center" height="11">300</td>
-									<td class="style12" align="center" height="11">280	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">VakifBank Istanbul (TUR)</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									20
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Kubra</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Caliskan</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=137086">Kübra</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">13.10.1994</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">198</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">86</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">310</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">310	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Vakifbank</td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11">
-									21
-									</td>
-									<td class="text" align="left" height="11" width="2"></td>
-													
-									<td class="style3" style="width: 7px">
-																						
-									</td><td class="style12" align="left" height="11" style="width: 200">Asli</td>
-									<td class="style12" align="left" height="11" style="width: 200">Kalac</td>
-									
-									<td class="style12" align="left" height="11">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=137087">Kalaç</a>
-									</td>
-													
-									<td class="style12" align="left" height="11">13.12.1995</td>									
-									<td class="style12" align="center" height="11">185</td>
-									<td class="style12" align="center" height="11">73</td>
-									<td class="style12" align="center" height="11">306</td>
-									<td class="style12" align="center" height="11">297	</td>
-									<td class="style12" align="left" height="11" style="width: 25%">Galatasaray </td>
-                                </tr>
-                                
-                               <tr class="style11">
-      								<td height="11" bgcolor="#E6E6E6" class="style12">
-									&nbsp;</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6" style="width: 2px">
-									</td>
-									<td class="style12" align="right" height="11" bgcolor="#E6E6E6">
-									22
-									
-									</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" width="2">
-									&nbsp;</td>
-									
-									
-									
-									<td class="style3" bgcolor="#E6E6E6" style="width: 7px">
-									
-									
-									
-									
-									</td><td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Dilara</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 200">Bagci</td>
-									
-									
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">
-									<a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=137093">Bagci</a>
-									</td>
-									
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6">02.02.1994</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">165</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">62</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">270</td>
-									<td class="style12" align="center" height="11" bgcolor="#E6E6E6">260	</td>
-									<td class="style12" align="left" height="11" bgcolor="#E6E6E6" style="width: 25%">Eczacibasi</td>
-                                </tr>
-                                
-  							</tbody></table>
-						</td>
-					</tr>
-					<tr>
-						<td height="23" class="style19"><font face="Verdana" size="1">&nbsp;C = Captain&nbsp;&nbsp;  
-						L = Libero</font></td>
-					</tr>
-					<tr>
-									<td align="LEFT" valign="TOP" class="style5" width="50%" style="width: 100%">
-											<strong>&nbsp;<br>Team profile</strong></td>
-									    </tr>
-					<tr>
-									<td align="LEFT" valign="TOP" class="style5" width="50%" style="width: 100%">
-											<hr></td>
-									    </tr>
-					<tr>
-									<td align="LEFT" valign="TOP" class="text" width="50%" style="width: 100%">
-											<table style="width: 2%; float: left" cellspacing="4" cellpadding="4">
-												<tbody><tr>
-													<td>
-											</td>
-												</tr>
-											</tbody></table>
-											<br><!--[if gte mso 9]><xml>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]--><span style="font-size:7.5pt;line-height:115%;
-font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-GB" lang="EN-GB">Volleyball came to
-Turkey in the aftermath of World War I, when an American called Dr Deaver
-brought the sport to the country. However, it was only in the 1960s that the
-sport started to take off in a big way and Turkey’s national teams started to
-participate globally. They played in their first major tournament in 1963 when
-they finished 10th in the European Championships. Improvement came slowly. In
-the 1981 and 1995 European Championships, they lost all of their matches,
-finishing 12th and 11th, respectively. </span>
-
-<p class="MsoNormal"><span style="font-size:7.5pt;line-height:115%;
-font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-GB" lang="EN-GB">More recently,
-Turkey finished second in the 2003 European Championships and added the bronze
-medal in 2011. In the European Volleyball League, they finished second, third
-and second from 2009 to 2011 and sixth in 2013. The Turkish women have improved
-in the FIVB’s global tournaments as well. In 2003, they finished seventh at the
-World Cup and since then, they have managed to place 10th (2006) and sixth
-(2010) at the World Championships, and seventh in the 2008 World Grand Prix.</span></p>
-
-<p class="MsoNormal"><span style="font-size:7.5pt;line-height:115%;
-font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-GB" lang="EN-GB">Since that time,
-the team has been improving and they are now a force to be reckoned with,
-capturing the bronze medal in last year’s FIVB World Grand Prix and qualifying
-for the Olympic Games for the first time where they performed admirably,
-sitting on the verge of the quarterfinals having beaten Serbia and Korea before
-Brazil edged them by one point after Turkey lost their last pool match to USA
-in straight sets and the eventual champions beat Serbia by the same margin. This
-year they also took the silver medal at the Mediterranean Games in June, losing
-to Italy in the final on home soil. </span></p>
-
-<p class="MsoNormal"><span style="font-size:7.5pt;line-height:115%;
-font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-GB" lang="EN-GB">Much to everyone’s
-pleasure, the only change in Turkey’s squad from last year’s superb
-performances is on the coaching bench where former Italian chief Massimo
-Barbolini has taken the reins over from Brazil’s Marco Aurelio Motta. Captain
-Esra Gumus and star attackers Neslihan Darnel and Neriman Ozsoy are three of 10
-players who are returning from last year’s Olympics. </span></p>
-
-<!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:View>Normal</w:View>
-  <w:Zoom>0</w:Zoom>
-  <w:TrackMoves/>
-  <w:TrackFormatting/>
-  <w:HyphenationZone>21</w:HyphenationZone>
-  <w:PunctuationKerning/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>FR-CH</w:LidThemeOther>
-  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
-  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:EnableOpenTypeKerning/>
-   <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
-  </w:Compatibility>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
-  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="267">
-  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
-  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Table Grid"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
- </w:LatentStyles>
-</xml><![endif]--><!--[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:"Table Normal";
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:10.0pt;
-	mso-para-margin-left:0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-fareast-language:EN-US;}
-</style>
-<![endif]--></td>
-									    </tr>
-					<tr>
-									<td align="LEFT" valign="TOP" class="font-family: Arial, Helvetica, sans-serif" width="50%" style="width: 100%">
-											</td>
-									    </tr>
-					<tr>
-						<td height="23" style="text-align:justify">
-						&nbsp;</td>
-					</tr>
-					<tr>
-						<td align="left" height="22">
-						
-							    <table border="0" cellspacing="0" cellpadding="0" style="width: 842px">
-									<tbody><tr>
-									<td align="LEFT" valign="TOP" class="style2" width="50%" colspan="2" style="width: 100%">
-											<strong><a name="Coach_profile">Coach profile</a></strong></td>
-									</tr>
-									<tr>
-									<td align="LEFT" valign="TOP" class="style2" width="50%" colspan="2" style="width: 100%">
-											<hr></td>
-									</tr>
-									<tr>
-									<td align="LEFT" valign="TOP" class="text" width="50%" colspan="2" style="width: 100%">
-											<table style="width: 147px; float: left; height: 171px;" cellspacing="4" cellpadding="4">
-												<tbody><tr>
-													<td>
-											<a target="_blank" href="http://www.fivb.org/visasp/Img_GetImage.aspx?No=201256326"><img margin-right:"15px"="" align="LEFT" src="http://www.fivb.org/visasp/Img_GetImage.aspx?No=201256326&amp;MaxSize=150"></a></td>
-												</tr>
-											</tbody></table>
-											<!--[if gte mso 9]><xml>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]-->
-
-<p class="MsoNormal" style="margin-top:4.8pt;margin-right:0cm;margin-bottom:6.0pt;
-margin-left:0cm;line-height:normal;background:white"><span style="font-size:7.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
-&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:FR-CH" lang="EN-GB">Italian
-Massimo Barbolini is coach of both Turkey's women's national volleyball team
-and Galatasaray SK. <br>
-<br>
-He was formerly coach of the national women’s team of Italy, leading them to
-victory in the 2007 and 2009 European Championships. If Turkey makes it to the World
-Grand Prix Finals this year, he will celebrate his 49th birthday in Sapporo on
-August 29. <br>
-<br>
-He played volleyball as setter but was forced into early retirement as a result
-of a serious injury when he was 20 years old. <br>
-<br>
-He became assistant coach to Julio Velasco at Panini Modena before being named
-coach of Sanyo Agrigento in 1989. He took the Sicilian team to Italy’s Serie A1
-(first division) before moving on to coach Carimonte Modena.</span><span style="font-size:7.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;
-mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-mso-fareast-language:FR-CH" lang="EN-GB"></span></p>
-
-<!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:View>Normal</w:View>
-  <w:Zoom>0</w:Zoom>
-  <w:TrackMoves/>
-  <w:TrackFormatting/>
-  <w:HyphenationZone>21</w:HyphenationZone>
-  <w:PunctuationKerning/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>FR-CH</w:LidThemeOther>
-  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
-  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:EnableOpenTypeKerning/>
-   <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
-  </w:Compatibility>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
-  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="267">
-  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
-  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Table Grid"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
- </w:LatentStyles>
-</xml><![endif]--><!--[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:"Table Normal";
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:10.0pt;
-	mso-para-margin-left:0cm;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-fareast-language:EN-US;}
-</style>
-<![endif]--><br>&nbsp;</td>
-									    </tr>
-								<tr>
-									<td align="LEFT" class="text" width="50%">
-						 <form name="form1" method="POST" action="Teams.asp">
-									<table cellpadding="0" cellspacing="0" border="0">
-									  <tbody>
-									    <tr>
-									      <td><select name="Team" class="text">
-												<option selected="">choose a team</option>
-												<option value="ALG">Algeria</option>
-												<option value="ARG">Argentina</option>
-												<option value="BRA">Brazil</option>
-												<option value="BUL">Bulgaria</option>
-												<option value="CHN">China</option>
-												<option value="CUB">Cuba</option>
-												<option value="CZE">Czech Republic</option>
-												<option value="DOM">Dominican Republic</option>
-												<option value="GER">Germany</option>
-												<option value="ITA">Italy</option>
-												<option value="JPN">Japan</option>
-												<option value="KAZ">Kazakhstan</option>
-												<option value="NED">Netherlands</option>
-												<option value="POL">Poland</option>
-												<option value="PUR">Puerto Rico</option>
-												<option value="RUS">Russia</option>
-												<option value="SRB">Serbia</option>
-												<option value="THA">Thailand</option>
-												<option value="TUR">Turkey</option>
-												<option value="USA">USA</option>
-												</select></td>
-										<td width="5">&nbsp;</td>		
-										<td><input type="submit" value="Show" name="B1" style="font-family: Verdana; font-size: 8pt"></td>
-									    </tr></tbody></table></form></td><td align="right" class="text" width="50%">
-										</td>
-								</tr>
-							</tbody></table>
-</td>
-								</tr>
-							</tbody></table>
-        <br>              
-    </div>
-    
-    <!-- ////////////////////////////////////////////////////////////////////////////////////////// -->
-      <!-- end Col Right -->
-  </div>
-</div>
-
-<script type="text/javascript" src="MiniGallery.js"></script> <!-- for demo only -->
-<script type="text/javascript" src="MiniGallery.aspx"></script>
-
-
+<table>
+    <tbody>
+        <tr>
+            <td> 1 </td>
+            <td>Güldeniz</td>
+            <td>Önal</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=115402">Güldeniz</a> </td>
+            <td>25.03.1986</td>
+            <td>183</td>
+            <td>75</td>
+            <td>296</td>
+            <td>290 </td>
+            <td>VakifBank </td>
+        </tr>
+        <tr>
+            <td> 2 </td>
+            <td>Gülden</td>
+            <td>Kayalar Kuzubasioglu</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=138771">Gülden</a> </td>
+            <td>05.12.1980</td>
+            <td>167</td>
+            <td>57</td>
+            <td>281</td>
+            <td>275 </td>
+            <td>Eczacibasi VitrA Istanbul</td>
+        </tr>
+        <tr>
+            <td> 3 </td>
+            <td>Gizem</td>
+            <td>Karadayi</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=143384">Gizem</a> </td>
+            <td>14.01.1987</td>
+            <td>178</td>
+            <td>60</td>
+            <td>290</td>
+            <td>285 </td>
+            <td>Volero Zürich</td>
+        </tr>
+        <tr>
+            <td> 4 </td>
+            <td>Birgül</td>
+            <td>Guler</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=143382">Guler</a> </td>
+            <td>02.05.1990</td>
+            <td>178</td>
+            <td>68</td>
+            <td>305</td>
+            <td>290 </td>
+            <td>BURSA BELEDIYE</td>
+        </tr>
+        <tr>
+            <td> 5 </td>
+            <td>Ergul</td>
+            <td>Avci</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=115398">Ergül</a> </td>
+            <td>24.07.1987</td>
+            <td>190</td>
+            <td>75</td>
+            <td>300</td>
+            <td>285 </td>
+            <td>GALATASARAY</td>
+        </tr>
+        <tr>
+            <td> 6 </td>
+            <td>Polen</td>
+            <td>Uslupehlivan</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=138777">Uslupehlivan</a> </td>
+            <td>27.08.1990</td>
+            <td>193</td>
+            <td>65</td>
+            <td>320</td>
+            <td>310 </td>
+            <td>Fenerbahce </td>
+        </tr>
+        <tr>
+            <td> 7 </td>
+            <td>Seda</td>
+            <td>Tokatlioglu</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=115394">Tokatlioglu</a> </td>
+            <td>25.06.1986</td>
+            <td>192</td>
+            <td>80</td>
+            <td>312</td>
+            <td>304 </td>
+            <td>BAIC Motor Pekin</td>
+        </tr>
+        <tr>
+            <td> 8 </td>
+            <td>Bahar</td>
+            <td>Toksoy</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=138783">Toksoy</a> </td>
+            <td>06.02.1988</td>
+            <td>190</td>
+            <td>68</td>
+            <td>315</td>
+            <td>305 </td>
+            <td>VakifBank Istanbul</td>
+        </tr>
+        <tr>
+            <td> 9 </td>
+            <td>Özge</td>
+            <td>Kirdar Çemberci</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=124522">Cemberci</a> </td>
+            <td>26.06.1985</td>
+            <td>183</td>
+            <td>68</td>
+            <td>310</td>
+            <td>300 </td>
+            <td>ECZACIBASI</td>
+        </tr>
+        <tr>
+            <td> 10 </td>
+            <td>Gözde</td>
+            <td>Sonsirma</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=143385">Sonsirma</a> </td>
+            <td>26.06.1985</td>
+            <td>183</td>
+            <td>70</td>
+            <td>297</td>
+            <td>292 </td>
+            <td>VAKIFBANK</td>
+        </tr>
+        <tr>
+            <td> 11 </td>
+            <td>Naz</td>
+            <td>Aydemir</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=115403">Aydemir</a> </td>
+            <td>14.08.1990</td>
+            <td>186</td>
+            <td>68</td>
+            <td>304</td>
+            <td>300 </td>
+            <td>VakifBank Istanbul</td>
+        </tr>
+        <tr>
+            <td> 12 </td>
+            <td>Esra</td>
+            <td>Gumus Kirici</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=143383">Esra</a> </td>
+            <td>02.10.1982</td>
+            <td>181</td>
+            <td>76</td>
+            <td>305</td>
+            <td>297 </td>
+            <td>ECZACIBASI</td>
+        </tr>
+        <tr>
+            <td> 13 </td>
+            <td>Neriman</td>
+            <td>Ozsoy</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=138775">Özsoy</a> </td>
+            <td>13.07.1988</td>
+            <td>188</td>
+            <td>76</td>
+            <td>312</td>
+            <td>300 </td>
+            <td>Toyoto Auto Bodu Queenseis</td>
+        </tr>
+        <tr>
+            <td> 14 </td>
+            <td>Gözde</td>
+            <td>Yilmaz</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=119686">Gözde</a> </td>
+            <td>09.09.1991</td>
+            <td>194</td>
+            <td>79</td>
+            <td>316</td>
+            <td>306 </td>
+            <td>Eczacibasi Vitra Istanbul</td>
+        </tr>
+        <tr>
+            <td> 15 </td>
+            <td>Ezgi</td>
+            <td>Arslan</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=123800">Guc</a> </td>
+            <td>23.03.1992</td>
+            <td>181</td>
+            <td>59</td>
+            <td>280</td>
+            <td>275 </td>
+            <td>GALATASARAY</td>
+        </tr>
+        <tr>
+            <td> 16 </td>
+            <td>Büsra</td>
+            <td>Kiliçli</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=119685">Büsra</a> </td>
+            <td>16.07.1990</td>
+            <td>188</td>
+            <td>84</td>
+            <td>297</td>
+            <td>291 </td>
+            <td>Eczacibasi VitrA Istanbul</td>
+        </tr>
+        <tr>
+            <td> 17 </td>
+            <td>Neslihan</td>
+            <td>Darnel</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=138781">Darnel</a> </td>
+            <td>09.12.1983</td>
+            <td>187</td>
+            <td>72</td>
+            <td>315</td>
+            <td>306 </td>
+            <td>ECZACIBASI</td>
+        </tr>
+        <tr>
+            <td> 18 </td>
+            <td>Asuman</td>
+            <td>Karakoyun</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=119697">Karakoyun</a> </td>
+            <td>16.07.1990</td>
+            <td>180</td>
+            <td>72</td>
+            <td>293</td>
+            <td>289 </td>
+            <td>Eczacibasi </td>
+        </tr>
+        <tr>
+            <td> 19 </td>
+            <td>Ayse Melis</td>
+            <td>Gürkaynak</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=119693">Melis</a> </td>
+            <td>20.04.1990</td>
+            <td>183</td>
+            <td>68</td>
+            <td>300</td>
+            <td>280 </td>
+            <td>VakifBank Istanbul (TUR)</td>
+        </tr>
+        <tr>
+            <td> 20 </td>
+            <td>Kubra</td>
+            <td>Caliskan</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=137086">Kübra</a> </td>
+            <td>13.10.1994</td>
+            <td>198</td>
+            <td>86</td>
+            <td>310</td>
+            <td>310 </td>
+            <td>Vakifbank</td>
+        </tr>
+        <tr>
+            <td> 21 </td>
+            <td>Asli</td>
+            <td>Kalac</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=137087">Kalaç</a> </td>
+            <td>13.12.1995</td>
+            <td>185</td>
+            <td>73</td>
+            <td>306</td>
+            <td>297 </td>
+            <td>Galatasaray </td>
+        </tr>
+        <tr>
+            <td> 22 </td>
+            <td>Dilara</td>
+            <td>Bagci</td>
+            <td> <a href="Players.asp?Tourn=WGP2013&amp;Team=TUR&amp;No=137093">Bagci</a> </td>
+            <td>02.02.1994</td>
+            <td>165</td>
+            <td>62</td>
+            <td>270</td>
+            <td>260 </td>
+            <td>Eczacibasi</td>
+        </tr>
+    </tbody>
+</table>
