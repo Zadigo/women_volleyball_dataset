@@ -2,7 +2,7 @@
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Gizem Orge",
         "date_of_birth": 728006640000,
         "curr_age": 28,
@@ -14,16 +14,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89251&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Libero",
-        "short_position": "None",
-        "firstname": "Gizem",
-        "lastname": "Orge",
-        "slug": "gizem-orge",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Cansu \u00d6zbay",
         "date_of_birth": 821837400000,
         "curr_age": 25,
@@ -35,16 +31,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89252&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Setter",
-        "short_position": "None",
-        "firstname": "Cansu",
-        "lastname": "\u00d6zbay",
-        "slug": "cansu-ozbay",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Ayse Melis G\u00fcrkaynakc",
         "date_of_birth": 632793840000,
         "curr_age": 31,
@@ -56,16 +48,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89248&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Ayse",
-        "lastname": "Melis G\u00fcrkaynakc",
-        "slug": "ayse-melis-gurkaynakc",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Meliha Ismailoglu",
         "date_of_birth": 727229340000,
         "curr_age": 28,
@@ -77,16 +65,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89253&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Wing spiker",
-        "short_position": "None",
-        "firstname": "Meliha",
-        "lastname": "Ismailoglu",
-        "slug": "meliha-ismailoglu",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Gabriela Braga Guimaraes",
         "date_of_birth": 758937900000,
         "curr_age": 27,
@@ -98,16 +82,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89249&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Wing spiker",
-        "short_position": "None",
-        "firstname": "Gabriela",
-        "lastname": "Braga Guimaraes",
-        "slug": "gabriela-braga-guimaraes",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Isabelle Haak",
         "date_of_birth": 916013220000,
         "curr_age": 22,
@@ -119,16 +99,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89255&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Opposite spiker",
-        "short_position": "None",
-        "firstname": "Isabelle",
-        "lastname": "Haak",
-        "slug": "isabelle-haak",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "P\u0131nar Atasever",
         "date_of_birth": 505872720000,
         "curr_age": 35,
@@ -140,16 +116,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89257&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Libero",
-        "short_position": "None",
-        "firstname": "P\u0131nar",
-        "lastname": "Atasever",
-        "slug": "p\u0131nar-atasever",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "G\u00f6zde Yilmaz",
         "date_of_birth": 663379740000,
         "curr_age": 30,
@@ -161,16 +133,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89247&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Opposite spiker",
-        "short_position": "None",
-        "firstname": "G\u00f6zde",
-        "lastname": "Yilmaz",
-        "slug": "gozde-yilmaz",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Ebrar Karakurt",
         "date_of_birth": 948067260000,
         "curr_age": 21,
@@ -182,16 +150,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89256&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Wing spiker",
-        "short_position": "None",
-        "firstname": "Ebrar",
-        "lastname": "Karakurt",
-        "slug": "ebrar-karakurt",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Milena Rasic",
         "date_of_birth": 633226200000,
         "curr_age": 31,
@@ -203,16 +167,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89246&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Milena",
-        "lastname": "Rasic",
-        "slug": "milena-rasic",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Maja Ognjenovic",
         "date_of_birth": 442195680000,
         "curr_age": 37,
@@ -224,16 +184,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89245&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Setter",
-        "short_position": "None",
-        "firstname": "Maja",
-        "lastname": "Ognjenovic",
-        "slug": "maja-ognjenovic",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Zehra Gunes",
         "date_of_birth": 915667620000,
         "curr_age": 22,
@@ -245,10 +201,6 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89254&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Zehra",
-        "lastname": "Gunes",
-        "slug": "zehra-gunes",
-        "captain": false
+        "short_position": null
     }
 ]

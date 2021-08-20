@@ -1,7 +1,6 @@
 [
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746971&height=865&stretch=uniform&width=1500",
         "name": "Kirsten Knip",
@@ -15,14 +14,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711892&height=450&stretch=uniformtofill&width=300",
         "nationality": "NED",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Kirsten",
-        "lastname": "Knip",
-        "slug": "kirsten-knip"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746971&height=865&stretch=uniform&width=1500",
         "name": "Femke Stoltenborg",
@@ -36,14 +31,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711893&height=450&stretch=uniformtofill&width=300",
         "nationality": "NED",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Femke",
-        "lastname": "Stoltenborg",
-        "slug": "femke-stoltenborg"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746971&height=865&stretch=uniform&width=1500",
         "name": "Yvon Belien",
@@ -57,14 +48,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711894&height=450&stretch=uniformtofill&width=300",
         "nationality": "NED",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Yvon",
-        "lastname": "Belien",
-        "slug": "yvon-belien"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746971&height=865&stretch=uniform&width=1500",
         "name": "Celeste Plak",
@@ -78,14 +65,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711895&height=450&stretch=uniformtofill&width=300",
         "nationality": "NED",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Celeste",
-        "lastname": "Plak",
-        "slug": "celeste-plak"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746971&height=865&stretch=uniform&width=1500",
         "name": "Robin De Kruijf",
@@ -99,14 +82,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711896&height=450&stretch=uniformtofill&width=300",
         "nationality": "NED",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Robin",
-        "lastname": "De Kruijf",
-        "slug": "robin-de-kruijf"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746971&height=865&stretch=uniform&width=1500",
         "name": "Maret Balkestein-Grothuesc",
@@ -120,14 +99,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711897&height=450&stretch=uniformtofill&width=300",
         "nationality": "NED",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Maret",
-        "lastname": "Balkestein-Grothuesc",
-        "slug": "maret-balkestein-grothuesc"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746971&height=865&stretch=uniform&width=1500",
         "name": "Myrthe Schoot",
@@ -141,14 +116,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711899&height=450&stretch=uniformtofill&width=300",
         "nationality": "NED",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Myrthe",
-        "lastname": "Schoot",
-        "slug": "myrthe-schoot"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746971&height=865&stretch=uniform&width=1500",
         "name": "Anne Buijs",
@@ -162,14 +133,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711901&height=450&stretch=uniformtofill&width=300",
         "nationality": "NED",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Anne",
-        "lastname": "Buijs",
-        "slug": "anne-buijs"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746971&height=865&stretch=uniform&width=1500",
         "name": "Laura Dijkema",
@@ -183,14 +150,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711904&height=450&stretch=uniformtofill&width=300",
         "nationality": "NED",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Laura",
-        "lastname": "Dijkema",
-        "slug": "laura-dijkema"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746971&height=865&stretch=uniform&width=1500",
         "name": "Nicole Oude Luttikhuis",
@@ -204,14 +167,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711906&height=450&stretch=uniformtofill&width=300",
         "nationality": "NED",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Nicole",
-        "lastname": "Oude Luttikhuis",
-        "slug": "nicole-oude-luttikhuis"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746971&height=865&stretch=uniform&width=1500",
         "name": "Marrit Jasper",
@@ -225,14 +184,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711907&height=450&stretch=uniformtofill&width=300",
         "nationality": "NED",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Marrit",
-        "lastname": "Jasper",
-        "slug": "marrit-jasper"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746971&height=865&stretch=uniform&width=1500",
         "name": "Nika Daalderop",
@@ -246,14 +201,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711908&height=450&stretch=uniformtofill&width=300",
         "nationality": "NED",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Nika",
-        "lastname": "Daalderop",
-        "slug": "nika-daalderop"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746971&height=865&stretch=uniform&width=1500",
         "name": "Tessa Polder",
@@ -267,14 +218,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711909&height=450&stretch=uniformtofill&width=300",
         "nationality": "NED",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Tessa",
-        "lastname": "Polder",
-        "slug": "tessa-polder"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746971&height=865&stretch=uniform&width=1500",
         "name": "Nicole Koolhaas",
@@ -288,14 +235,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711910&height=450&stretch=uniformtofill&width=300",
         "nationality": "NED",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Nicole",
-        "lastname": "Koolhaas",
-        "slug": "nicole-koolhaas"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740122&height=865&stretch=uniform&width=1500",
         "name": "Gizem Orge",
@@ -309,14 +252,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711350&height=450&stretch=uniformtofill&width=300",
         "nationality": "TUR",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Gizem",
-        "lastname": "Orge",
-        "slug": "gizem-orge"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740122&height=865&stretch=uniform&width=1500",
         "name": "Simge Sebnem Akoz",
@@ -330,14 +269,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711351&height=450&stretch=uniformtofill&width=300",
         "nationality": "TUR",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Simge",
-        "lastname": "Sebnem Akoz",
-        "slug": "simge-sebnem-akoz"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740122&height=865&stretch=uniform&width=1500",
         "name": "Seyma Ercan",
@@ -351,14 +286,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711352&height=450&stretch=uniformtofill&width=300",
         "nationality": "TUR",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Seyma",
-        "lastname": "Ercan",
-        "slug": "seyma-ercan"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740122&height=865&stretch=uniform&width=1500",
         "name": "Gamze Alikaya",
@@ -372,14 +303,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711353&height=450&stretch=uniformtofill&width=300",
         "nationality": "TUR",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Gamze",
-        "lastname": "Alikaya",
-        "slug": "gamze-alikaya"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740122&height=865&stretch=uniform&width=1500",
         "name": "Kubra Caliskan",
@@ -393,14 +320,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711354&height=450&stretch=uniformtofill&width=300",
         "nationality": "TUR",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Kubra",
-        "lastname": "Caliskan",
-        "slug": "kubra-caliskan"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740122&height=865&stretch=uniform&width=1500",
         "name": "Polen Unver",
@@ -414,14 +337,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711355&height=450&stretch=uniformtofill&width=300",
         "nationality": "TUR",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Polen",
-        "lastname": "Unver",
-        "slug": "polen-unver"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740122&height=865&stretch=uniform&width=1500",
         "name": "Meliha Ismailoglu",
@@ -435,14 +354,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711358&height=450&stretch=uniformtofill&width=300",
         "nationality": "TUR",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Meliha",
-        "lastname": "Ismailoglu",
-        "slug": "meliha-ismailoglu"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740122&height=865&stretch=uniform&width=1500",
         "name": "Ezgi Dilik",
@@ -456,14 +371,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711359&height=450&stretch=uniformtofill&width=300",
         "nationality": "TUR",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Ezgi",
-        "lastname": "Dilik",
-        "slug": "ezgi-dilik"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740122&height=865&stretch=uniform&width=1500",
         "name": "Ozge Nur Yurtdagulen",
@@ -477,14 +388,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711363&height=450&stretch=uniformtofill&width=300",
         "nationality": "TUR",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Ozge",
-        "lastname": "Nur Yurtdagulen",
-        "slug": "ozge-nur-yurtdagulen"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740122&height=865&stretch=uniform&width=1500",
         "name": "Hande Baladin",
@@ -498,14 +405,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711364&height=450&stretch=uniformtofill&width=300",
         "nationality": "TUR",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Hande",
-        "lastname": "Baladin",
-        "slug": "hande-baladin"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740122&height=865&stretch=uniform&width=1500",
         "name": "Beyza Arici",
@@ -519,14 +422,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201714924&height=450&stretch=uniformtofill&width=300",
         "nationality": "TUR",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Beyza",
-        "lastname": "Arici",
-        "slug": "beyza-arici"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740122&height=865&stretch=uniform&width=1500",
         "name": "Dicle Nur Babat",
@@ -540,14 +439,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711366&height=450&stretch=uniformtofill&width=300",
         "nationality": "TUR",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Dicle",
-        "lastname": "Nur Babat",
-        "slug": "dicle-nur-babat"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740122&height=865&stretch=uniform&width=1500",
         "name": "Fatma Yildirimc",
@@ -561,14 +456,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711573&height=450&stretch=uniformtofill&width=300",
         "nationality": "TUR",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Fatma",
-        "lastname": "Yildirimc",
-        "slug": "fatma-yildirimc"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740122&height=865&stretch=uniform&width=1500",
         "name": "Meryem Boz",
@@ -582,14 +473,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711575&height=450&stretch=uniformtofill&width=300",
         "nationality": "TUR",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Meryem",
-        "lastname": "Boz",
-        "slug": "meryem-boz"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711308&height=865&stretch=uniform&width=1500",
         "name": "Jasmien Biebauw",
@@ -603,14 +490,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711309&height=450&stretch=uniformtofill&width=300",
         "nationality": "BEL",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Jasmien",
-        "lastname": "Biebauw",
-        "slug": "jasmien-biebauw"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711308&height=865&stretch=uniform&width=1500",
         "name": "Britt Herbots",
@@ -624,14 +507,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711310&height=450&stretch=uniformtofill&width=300",
         "nationality": "BEL",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Britt",
-        "lastname": "Herbots",
-        "slug": "britt-herbots"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711308&height=865&stretch=uniform&width=1500",
         "name": "Charlotte Leysc",
@@ -645,14 +524,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711314&height=450&stretch=uniformtofill&width=300",
         "nationality": "BEL",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Charlotte",
-        "lastname": "Leysc",
-        "slug": "charlotte-leysc"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711308&height=865&stretch=uniform&width=1500",
         "name": "Celine Van Gestel",
@@ -666,14 +541,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711316&height=450&stretch=uniformtofill&width=300",
         "nationality": "BEL",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Celine",
-        "lastname": "Van Gestel",
-        "slug": "celine-van-gestel"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711308&height=865&stretch=uniform&width=1500",
         "name": "Kaja Grobelna",
@@ -687,14 +558,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711317&height=450&stretch=uniformtofill&width=300",
         "nationality": "BEL",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Kaja",
-        "lastname": "Grobelna",
-        "slug": "kaja-grobelna"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711308&height=865&stretch=uniform&width=1500",
         "name": "Marlies Janssens",
@@ -708,14 +575,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711324&height=450&stretch=uniformtofill&width=300",
         "nationality": "BEL",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Marlies",
-        "lastname": "Janssens",
-        "slug": "marlies-janssens"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711308&height=865&stretch=uniform&width=1500",
         "name": "Margo Voets",
@@ -729,14 +592,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711326&height=450&stretch=uniformtofill&width=300",
         "nationality": "BEL",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Margo",
-        "lastname": "Voets",
-        "slug": "margo-voets"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711308&height=865&stretch=uniform&width=1500",
         "name": "Ilka Van De Vyver",
@@ -750,14 +609,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711328&height=450&stretch=uniformtofill&width=300",
         "nationality": "BEL",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Ilka",
-        "lastname": "Van De Vyver",
-        "slug": "ilka-van-de-vyver"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711308&height=865&stretch=uniform&width=1500",
         "name": "Nathalie Lemmens",
@@ -771,14 +626,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711329&height=450&stretch=uniformtofill&width=300",
         "nationality": "BEL",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Nathalie",
-        "lastname": "Lemmens",
-        "slug": "nathalie-lemmens"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711308&height=865&stretch=uniform&width=1500",
         "name": "Jodie Guilliams",
@@ -792,14 +643,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711330&height=450&stretch=uniformtofill&width=300",
         "nationality": "BEL",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Jodie",
-        "lastname": "Guilliams",
-        "slug": "jodie-guilliams"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711308&height=865&stretch=uniform&width=1500",
         "name": "Amber De Tant",
@@ -813,14 +660,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711333&height=450&stretch=uniformtofill&width=300",
         "nationality": "BEL",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Amber",
-        "lastname": "De Tant",
-        "slug": "amber-de-tant"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711308&height=865&stretch=uniform&width=1500",
         "name": "Iris Vandewiele",
@@ -834,14 +677,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711337&height=450&stretch=uniformtofill&width=300",
         "nationality": "BEL",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Iris",
-        "lastname": "Vandewiele",
-        "slug": "iris-vandewiele"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201730904&height=865&stretch=uniform&width=1500",
         "name": "Mariia Frolova",
@@ -855,14 +694,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711053&height=450&stretch=uniformtofill&width=300",
         "nationality": "RUS",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Mariia",
-        "lastname": "Frolova",
-        "slug": "mariia-frolova"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201730904&height=865&stretch=uniform&width=1500",
         "name": "Irina Filishtinskaia",
@@ -876,14 +711,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711054&height=450&stretch=uniformtofill&width=300",
         "nationality": "RUS",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Irina",
-        "lastname": "Filishtinskaia",
-        "slug": "irina-filishtinskaia"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201730904&height=865&stretch=uniform&width=1500",
         "name": "Iuliia Kutiukova",
@@ -897,14 +728,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711056&height=450&stretch=uniformtofill&width=300",
         "nationality": "RUS",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Iuliia",
-        "lastname": "Kutiukova",
-        "slug": "iuliia-kutiukova"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201730904&height=865&stretch=uniform&width=1500",
         "name": "Irina Korolevac",
@@ -918,14 +745,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711057&height=450&stretch=uniformtofill&width=300",
         "nationality": "RUS",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Irina",
-        "lastname": "Korolevac",
-        "slug": "irina-korolevac"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201730904&height=865&stretch=uniform&width=1500",
         "name": "Anna Lazareva",
@@ -939,14 +762,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711058&height=450&stretch=uniformtofill&width=300",
         "nationality": "RUS",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Anna",
-        "lastname": "Lazareva",
-        "slug": "anna-lazareva"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201730904&height=865&stretch=uniform&width=1500",
         "name": "Alla Galkina",
@@ -960,14 +779,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711061&height=450&stretch=uniformtofill&width=300",
         "nationality": "RUS",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Alla",
-        "lastname": "Galkina",
-        "slug": "alla-galkina"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201730904&height=865&stretch=uniform&width=1500",
         "name": "Irina Voronkova",
@@ -981,14 +796,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711065&height=450&stretch=uniformtofill&width=300",
         "nationality": "RUS",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Irina",
-        "lastname": "Voronkova",
-        "slug": "irina-voronkova"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201730904&height=865&stretch=uniform&width=1500",
         "name": "Ekaterina Polyakova",
@@ -1002,14 +813,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711066&height=450&stretch=uniformtofill&width=300",
         "nationality": "RUS",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Ekaterina",
-        "lastname": "Polyakova",
-        "slug": "ekaterina-polyakova"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201730904&height=865&stretch=uniform&width=1500",
         "name": "Kseniia Parubets",
@@ -1023,14 +830,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711067&height=450&stretch=uniformtofill&width=300",
         "nationality": "RUS",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Kseniia",
-        "lastname": "Parubets",
-        "slug": "kseniia-parubets"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201730904&height=865&stretch=uniform&width=1500",
         "name": "Ekaterina Evdokimova",
@@ -1044,14 +847,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711049&height=450&stretch=uniformtofill&width=300",
         "nationality": "RUS",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Ekaterina",
-        "lastname": "Evdokimova",
-        "slug": "ekaterina-evdokimova"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201730904&height=865&stretch=uniform&width=1500",
         "name": "Angelina Sperskaite",
@@ -1065,14 +864,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711068&height=450&stretch=uniformtofill&width=300",
         "nationality": "RUS",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Angelina",
-        "lastname": "Sperskaite",
-        "slug": "angelina-sperskaite"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201730904&height=865&stretch=uniform&width=1500",
         "name": "Ekaterina Efimova",
@@ -1086,14 +881,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711069&height=450&stretch=uniformtofill&width=300",
         "nationality": "RUS",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Ekaterina",
-        "lastname": "Efimova",
-        "slug": "ekaterina-efimova"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201730904&height=865&stretch=uniform&width=1500",
         "name": "Tatiana Romanova",
@@ -1107,14 +898,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711051&height=450&stretch=uniformtofill&width=300",
         "nationality": "RUS",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Tatiana",
-        "lastname": "Romanova",
-        "slug": "tatiana-romanova"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746358&height=865&stretch=uniform&width=1500",
         "name": "Mara Ferreira Leao",
@@ -1128,14 +915,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201712032&height=450&stretch=uniformtofill&width=300",
         "nationality": "BRA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Mara",
-        "lastname": "Ferreira Leao",
-        "slug": "mara-ferreira-leao"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746358&height=865&stretch=uniform&width=1500",
         "name": "Macris Fernanda Silva Carneiro",
@@ -1149,14 +932,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201712033&height=450&stretch=uniformtofill&width=300",
         "nationality": "BRA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Macris",
-        "lastname": "Fernanda Silva Carneiro",
-        "slug": "macris-fernanda-silva-carneiro"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746358&height=865&stretch=uniform&width=1500",
         "name": "Ana Carolina Da Silva",
@@ -1170,14 +949,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201712036&height=450&stretch=uniformtofill&width=300",
         "nationality": "BRA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Ana",
-        "lastname": "Carolina Da Silva",
-        "slug": "ana-carolina-da-silva"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746358&height=865&stretch=uniform&width=1500",
         "name": "Adenizia Da Silva",
@@ -1191,14 +966,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201712037&height=450&stretch=uniformtofill&width=300",
         "nationality": "Molico\/Nestl\u00e9",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Adenizia",
-        "lastname": "Da Silva",
-        "slug": "adenizia-da-silva"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746358&height=865&stretch=uniform&width=1500",
         "name": "Rosamaria Montibeller",
@@ -1212,14 +983,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201712039&height=450&stretch=uniformtofill&width=300",
         "nationality": "BRA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Rosamaria",
-        "lastname": "Montibeller",
-        "slug": "rosamaria-montibeller"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746358&height=865&stretch=uniform&width=1500",
         "name": "Roberta Silva Ratzke",
@@ -1233,14 +1000,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201712041&height=450&stretch=uniformtofill&width=300",
         "nationality": "BRA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Roberta",
-        "lastname": "Silva Ratzke",
-        "slug": "roberta-silva-ratzke"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746358&height=865&stretch=uniform&width=1500",
         "name": "Tandara Caixeta",
@@ -1254,14 +1017,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201712043&height=450&stretch=uniformtofill&width=300",
         "nationality": "BRA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Tandara",
-        "lastname": "Caixeta",
-        "slug": "tandara-caixeta"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746358&height=865&stretch=uniform&width=1500",
         "name": "Natalia Pereirac",
@@ -1275,14 +1034,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201712044&height=450&stretch=uniformtofill&width=300",
         "nationality": "BRA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Natalia",
-        "lastname": "Pereirac",
-        "slug": "natalia-pereirac"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746358&height=865&stretch=uniform&width=1500",
         "name": "Amanda Francisco",
@@ -1296,14 +1051,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201712045&height=450&stretch=uniformtofill&width=300",
         "nationality": "BRA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Amanda",
-        "lastname": "Francisco",
-        "slug": "amanda-francisco"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746358&height=865&stretch=uniform&width=1500",
         "name": "Gabriella De Souza",
@@ -1317,14 +1068,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201712046&height=450&stretch=uniformtofill&width=300",
         "nationality": "BRA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Gabriella",
-        "lastname": "De Souza",
-        "slug": "gabriella-de-souza"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746358&height=865&stretch=uniform&width=1500",
         "name": "Drussyla Costa",
@@ -1338,14 +1085,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201712048&height=450&stretch=uniformtofill&width=300",
         "nationality": "BRA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Drussyla",
-        "lastname": "Costa",
-        "slug": "drussyla-costa"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746358&height=865&stretch=uniform&width=1500",
         "name": "Suelen Pinto",
@@ -1359,14 +1102,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201712049&height=450&stretch=uniformtofill&width=300",
         "nationality": "BRA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Suelen",
-        "lastname": "Pinto",
-        "slug": "suelen-pinto"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746358&height=865&stretch=uniform&width=1500",
         "name": "Ana Beatriz Correa",
@@ -1380,14 +1119,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201712052&height=450&stretch=uniformtofill&width=300",
         "nationality": "BRA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Ana",
-        "lastname": "Beatriz Correa",
-        "slug": "ana-beatriz-correa"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746358&height=865&stretch=uniform&width=1500",
         "name": "Monique Marinho Pavao",
@@ -1401,14 +1136,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201712053&height=450&stretch=uniformtofill&width=300",
         "nationality": "BRA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Monique",
-        "lastname": "Marinho Pavao",
-        "slug": "monique-marinho-pavao"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740399&height=865&stretch=uniform&width=1500",
         "name": "Annerys Victoria Vargas Valdez",
@@ -1422,14 +1153,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201706632&height=450&stretch=uniformtofill&width=300",
         "nationality": "DOM",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Annerys",
-        "lastname": "Victoria Vargas Valdez",
-        "slug": "annerys-victoria-vargas-valdez"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740399&height=865&stretch=uniform&width=1500",
         "name": "Marianne Fersola Norberto",
@@ -1443,14 +1170,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201706624&height=450&stretch=uniformtofill&width=300",
         "nationality": "DOM",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Marianne",
-        "lastname": "Fersola Norberto",
-        "slug": "marianne-fersola-norberto"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740399&height=865&stretch=uniform&width=1500",
         "name": "Brenda Castillo",
@@ -1464,14 +1187,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201706631&height=450&stretch=uniformtofill&width=300",
         "nationality": "DOM",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Brenda",
-        "lastname": "Castillo",
-        "slug": "brenda-castillo"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740399&height=865&stretch=uniform&width=1500",
         "name": "Camil Inmaculada Dominguez Martinez",
@@ -1485,14 +1204,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201706622&height=450&stretch=uniformtofill&width=300",
         "nationality": "DOM",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Camil",
-        "lastname": "Inmaculada Dominguez Martinez",
-        "slug": "camil-inmaculada-dominguez-martinez"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740399&height=865&stretch=uniform&width=1500",
         "name": "Niverka Dharlenis Marte Frica",
@@ -1506,14 +1221,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201706634&height=450&stretch=uniformtofill&width=300",
         "nationality": "DOM",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Niverka",
-        "lastname": "Dharlenis Marte Frica",
-        "slug": "niverka-dharlenis-marte-frica"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740399&height=865&stretch=uniform&width=1500",
         "name": "Jeoselyna Rodriguez Santos",
@@ -1527,14 +1238,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201706720&height=450&stretch=uniformtofill&width=300",
         "nationality": "DOM",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Jeoselyna",
-        "lastname": "Rodriguez Santos",
-        "slug": "jeoselyna-rodriguez-santos"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740399&height=865&stretch=uniform&width=1500",
         "name": "Prisilla Rivera Brens",
@@ -1548,14 +1255,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201706626&height=450&stretch=uniformtofill&width=300",
         "nationality": "San Pedro",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Prisilla",
-        "lastname": "Rivera Brens",
-        "slug": "prisilla-rivera-brens"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740399&height=865&stretch=uniform&width=1500",
         "name": "Yonkaira Paola Pe\u00f1a Isabel",
@@ -1569,14 +1272,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201706627&height=450&stretch=uniformtofill&width=300",
         "nationality": "DOM",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Yonkaira",
-        "lastname": "Paola Pe\u00f1a Isabel",
-        "slug": "yonkaira-paola-pena-isabel"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740399&height=865&stretch=uniform&width=1500",
         "name": "Gina Altagracia Mambru Casilla",
@@ -1590,14 +1289,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201706629&height=450&stretch=uniformtofill&width=300",
         "nationality": "DOM",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Gina",
-        "lastname": "Altagracia Mambru Casilla",
-        "slug": "gina-altagracia-mambru-casilla"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740399&height=865&stretch=uniform&width=1500",
         "name": "Bethania De La Cruz De Pe\u00f1a",
@@ -1611,14 +1306,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201706625&height=450&stretch=uniformtofill&width=300",
         "nationality": "Deportivo Nacional",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Bethania",
-        "lastname": "De La Cruz De Pe\u00f1a",
-        "slug": "bethania-de-la-cruz-de-pena"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740399&height=865&stretch=uniform&width=1500",
         "name": "Brayelin Elizabeth Martinez",
@@ -1632,14 +1323,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201706628&height=450&stretch=uniformtofill&width=300",
         "nationality": "DOM",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Brayelin",
-        "lastname": "Elizabeth Martinez",
-        "slug": "brayelin-elizabeth-martinez"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740399&height=865&stretch=uniform&width=1500",
         "name": "Jineiry Martinez",
@@ -1653,14 +1340,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201706623&height=450&stretch=uniformtofill&width=300",
         "nationality": "DOM",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Jineiry",
-        "lastname": "Martinez",
-        "slug": "jineiry-martinez"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746184&height=865&stretch=uniform&width=1500",
         "name": "Bianka Busa",
@@ -1674,14 +1357,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711793&height=450&stretch=uniformtofill&width=300",
         "nationality": "SRB",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Bianka",
-        "lastname": "Busa",
-        "slug": "bianka-busa"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746184&height=865&stretch=uniform&width=1500",
         "name": "Sanja Malagurski",
@@ -1695,14 +1374,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711795&height=450&stretch=uniformtofill&width=300",
         "nationality": "SRB",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Sanja",
-        "lastname": "Malagurski",
-        "slug": "sanja-malagurski"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746184&height=865&stretch=uniform&width=1500",
         "name": "Bojana Drca",
@@ -1716,14 +1391,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711796&height=450&stretch=uniformtofill&width=300",
         "nationality": "SRB",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Bojana",
-        "lastname": "Drca",
-        "slug": "bojana-drca"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746184&height=865&stretch=uniform&width=1500",
         "name": "Tijana Malesevic",
@@ -1737,14 +1408,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711798&height=450&stretch=uniformtofill&width=300",
         "nationality": "SRB",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Tijana",
-        "lastname": "Malesevic",
-        "slug": "tijana-malesevic"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746184&height=865&stretch=uniform&width=1500",
         "name": "Ana Antonijevic",
@@ -1758,14 +1425,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711799&height=450&stretch=uniformtofill&width=300",
         "nationality": "SRB",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Ana",
-        "lastname": "Antonijevic",
-        "slug": "ana-antonijevic"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746184&height=865&stretch=uniform&width=1500",
         "name": "Brankica Mihajlovic",
@@ -1779,14 +1442,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711801&height=450&stretch=uniformtofill&width=300",
         "nationality": "SRB",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Brankica",
-        "lastname": "Mihajlovic",
-        "slug": "brankica-mihajlovic"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746184&height=865&stretch=uniform&width=1500",
         "name": "Stefana Veljkovic",
@@ -1800,14 +1459,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711803&height=450&stretch=uniformtofill&width=300",
         "nationality": "SRB",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Stefana",
-        "lastname": "Veljkovic",
-        "slug": "stefana-veljkovic"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746184&height=865&stretch=uniform&width=1500",
         "name": "Teodora Pusic",
@@ -1821,14 +1476,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711804&height=450&stretch=uniformtofill&width=300",
         "nationality": "SRB",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Teodora",
-        "lastname": "Pusic",
-        "slug": "teodora-pusic"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746184&height=865&stretch=uniform&width=1500",
         "name": "Ana Bjelica",
@@ -1842,14 +1493,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711805&height=450&stretch=uniformtofill&width=300",
         "nationality": "SRB",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Ana",
-        "lastname": "Bjelica",
-        "slug": "ana-bjelica"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746184&height=865&stretch=uniform&width=1500",
         "name": "Jovana Stevanovic",
@@ -1863,14 +1510,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711807&height=450&stretch=uniformtofill&width=300",
         "nationality": "SRB",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Jovana",
-        "lastname": "Stevanovic",
-        "slug": "jovana-stevanovic"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746184&height=865&stretch=uniform&width=1500",
         "name": "Milena Rasicc",
@@ -1884,14 +1527,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711808&height=450&stretch=uniformtofill&width=300",
         "nationality": "SRB",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Milena",
-        "lastname": "Rasicc",
-        "slug": "milena-rasicc"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746184&height=865&stretch=uniform&width=1500",
         "name": "Tijana Bo\u0161kovic",
@@ -1905,14 +1544,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711810&height=450&stretch=uniformtofill&width=300",
         "nationality": "SRB",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Tijana",
-        "lastname": "Bo\u0161kovic",
-        "slug": "tijana-boskovic"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746184&height=865&stretch=uniform&width=1500",
         "name": "Bojana Milenkovic",
@@ -1926,14 +1561,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711811&height=450&stretch=uniformtofill&width=300",
         "nationality": "SRB",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Bojana",
-        "lastname": "Milenkovic",
-        "slug": "bojana-milenkovic"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746184&height=865&stretch=uniform&width=1500",
         "name": "Jelena Blagojevic",
@@ -1947,14 +1578,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711812&height=450&stretch=uniformtofill&width=300",
         "nationality": "SRB",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Jelena",
-        "lastname": "Blagojevic",
-        "slug": "jelena-blagojevic"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740384&height=865&stretch=uniform&width=1500",
         "name": "Wipawee Srithong",
@@ -1968,14 +1595,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710813&height=450&stretch=uniformtofill&width=300",
         "nationality": "THA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Wipawee",
-        "lastname": "Srithong",
-        "slug": "wipawee-srithong"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740384&height=865&stretch=uniform&width=1500",
         "name": "Piyanut Pannoy",
@@ -1989,14 +1612,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710814&height=450&stretch=uniformtofill&width=300",
         "nationality": "THA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Piyanut",
-        "lastname": "Pannoy",
-        "slug": "piyanut-pannoy"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740384&height=865&stretch=uniform&width=1500",
         "name": "Pornpun Guedpard",
@@ -2010,14 +1629,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710815&height=450&stretch=uniformtofill&width=300",
         "nationality": "THA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Pornpun",
-        "lastname": "Guedpard",
-        "slug": "pornpun-guedpard"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740384&height=865&stretch=uniform&width=1500",
         "name": "Pleumjit Thinkaowc",
@@ -2031,14 +1646,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710817&height=450&stretch=uniformtofill&width=300",
         "nationality": "Supreme VC",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Pleumjit",
-        "lastname": "Thinkaowc",
-        "slug": "pleumjit-thinkaowc"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740384&height=865&stretch=uniform&width=1500",
         "name": "Hattaya Bamrungsuk",
@@ -2052,14 +1663,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710819&height=450&stretch=uniformtofill&width=300",
         "nationality": "THA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Hattaya",
-        "lastname": "Bamrungsuk",
-        "slug": "hattaya-bamrungsuk"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740384&height=865&stretch=uniform&width=1500",
         "name": "Jarasporn Bundasak",
@@ -2073,14 +1680,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710821&height=450&stretch=uniformtofill&width=300",
         "nationality": "THA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Jarasporn",
-        "lastname": "Bundasak",
-        "slug": "jarasporn-bundasak"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740384&height=865&stretch=uniform&width=1500",
         "name": "Wilavan Apinyapong",
@@ -2094,14 +1697,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710822&height=450&stretch=uniformtofill&width=300",
         "nationality": "Supreme VC",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Wilavan",
-        "lastname": "Apinyapong",
-        "slug": "wilavan-apinyapong"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740384&height=865&stretch=uniform&width=1500",
         "name": "Tapaphaipun Chaisri",
@@ -2115,14 +1714,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710824&height=450&stretch=uniformtofill&width=300",
         "nationality": "THA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Tapaphaipun",
-        "lastname": "Chaisri",
-        "slug": "tapaphaipun-chaisri"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740384&height=865&stretch=uniform&width=1500",
         "name": "Nootsara Tomkom",
@@ -2136,14 +1731,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710825&height=450&stretch=uniformtofill&width=300",
         "nationality": "Nakhon Ratchasima The Mall VC",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Nootsara",
-        "lastname": "Tomkom",
-        "slug": "nootsara-tomkom"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740384&height=865&stretch=uniform&width=1500",
         "name": "Pimpichaya Kokram",
@@ -2157,14 +1748,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710828&height=450&stretch=uniformtofill&width=300",
         "nationality": "THA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Pimpichaya",
-        "lastname": "Kokram",
-        "slug": "pimpichaya-kokram"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740384&height=865&stretch=uniform&width=1500",
         "name": "Tichaya Boonlert",
@@ -2178,14 +1765,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710829&height=450&stretch=uniformtofill&width=300",
         "nationality": "THA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Tichaya",
-        "lastname": "Boonlert",
-        "slug": "tichaya-boonlert"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740384&height=865&stretch=uniform&width=1500",
         "name": "Ajcharaporn Kongyot",
@@ -2199,14 +1782,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710830&height=450&stretch=uniformtofill&width=300",
         "nationality": "THA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Ajcharaporn",
-        "lastname": "Kongyot",
-        "slug": "ajcharaporn-kongyot"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740384&height=865&stretch=uniform&width=1500",
         "name": "Chatchu-On Moksri",
@@ -2220,14 +1799,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710831&height=450&stretch=uniformtofill&width=300",
         "nationality": "THA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Chatchu-On",
-        "lastname": "Moksri",
-        "slug": "chatchu-on-moksri"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201740384&height=865&stretch=uniform&width=1500",
         "name": "Supattra Pairoj",
@@ -2241,14 +1816,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710832&height=450&stretch=uniformtofill&width=300",
         "nationality": "THA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Supattra",
-        "lastname": "Pairoj",
-        "slug": "supattra-pairoj"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746185&height=865&stretch=uniform&width=1500",
         "name": "Micha Hancock",
@@ -2262,14 +1833,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710790&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Micha",
-        "lastname": "Hancock",
-        "slug": "micha-hancock"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746185&height=865&stretch=uniform&width=1500",
         "name": "Carli Lloydc",
@@ -2283,14 +1850,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710792&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Carli",
-        "lastname": "Lloydc",
-        "slug": "carli-lloydc"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746185&height=865&stretch=uniform&width=1500",
         "name": "Justine Wong-Orantes",
@@ -2304,14 +1867,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710802&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Justine",
-        "lastname": "Wong-Orantes",
-        "slug": "justine-wong-orantes"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746185&height=865&stretch=uniform&width=1500",
         "name": "Sarah Wilhite",
@@ -2325,14 +1884,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711375&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Sarah",
-        "lastname": "Wilhite",
-        "slug": "sarah-wilhite"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746185&height=865&stretch=uniform&width=1500",
         "name": "Tetori Dixon",
@@ -2346,14 +1901,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710788&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Tetori",
-        "lastname": "Dixon",
-        "slug": "tetori-dixon"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746185&height=865&stretch=uniform&width=1500",
         "name": "Lauren Gibbemeyer",
@@ -2367,14 +1918,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710791&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Lauren",
-        "lastname": "Gibbemeyer",
-        "slug": "lauren-gibbemeyer"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746185&height=865&stretch=uniform&width=1500",
         "name": "Madison Kingdon Rishel",
@@ -2388,14 +1935,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710803&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Madison",
-        "lastname": "Kingdon Rishel",
-        "slug": "madison-kingdon-rishel"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746185&height=865&stretch=uniform&width=1500",
         "name": "Andrea Drews",
@@ -2409,14 +1952,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711979&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Andrea",
-        "lastname": "Drews",
-        "slug": "andrea-drews"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746185&height=865&stretch=uniform&width=1500",
         "name": "Kelly Murphy",
@@ -2430,14 +1969,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710795&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Kelly",
-        "lastname": "Murphy",
-        "slug": "kelly-murphy"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746185&height=865&stretch=uniform&width=1500",
         "name": "Michelle Bartsch-Hackley",
@@ -2451,14 +1986,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710784&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Michelle",
-        "lastname": "Bartsch-Hackley",
-        "slug": "michelle-bartsch-hackley"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746185&height=865&stretch=uniform&width=1500",
         "name": "Megan Courtney",
@@ -2472,14 +2003,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710787&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Megan",
-        "lastname": "Courtney",
-        "slug": "megan-courtney"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746185&height=865&stretch=uniform&width=1500",
         "name": "Hannah Tapp",
@@ -2493,14 +2020,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710800&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Hannah",
-        "lastname": "Tapp",
-        "slug": "hannah-tapp"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746185&height=865&stretch=uniform&width=1500",
         "name": "Amanda Benson",
@@ -2514,14 +2037,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710785&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Amanda",
-        "lastname": "Benson",
-        "slug": "amanda-benson"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746185&height=865&stretch=uniform&width=1500",
         "name": "Paige Tapp",
@@ -2535,14 +2054,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710801&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Paige",
-        "lastname": "Tapp",
-        "slug": "paige-tapp"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746359&height=865&stretch=uniform&width=1500",
         "name": "Xinyue Yuan",
@@ -2556,14 +2071,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711191&height=450&stretch=uniformtofill&width=300",
         "nationality": "CHN",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Xinyue",
-        "lastname": "Yuan",
-        "slug": "xinyue-yuan"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746359&height=865&stretch=uniform&width=1500",
         "name": "Ting Zhuc",
@@ -2577,14 +2088,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711192&height=450&stretch=uniformtofill&width=300",
         "nationality": "CHN",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Ting",
-        "lastname": "Zhuc",
-        "slug": "ting-zhuc"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746359&height=865&stretch=uniform&width=1500",
         "name": "Jing Li",
@@ -2598,14 +2105,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711193&height=450&stretch=uniformtofill&width=300",
         "nationality": "CHN",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Jing",
-        "lastname": "Li",
-        "slug": "jing-li"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746359&height=865&stretch=uniform&width=1500",
         "name": "Jingwen Qian",
@@ -2619,14 +2122,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711194&height=450&stretch=uniformtofill&width=300",
         "nationality": "CHN",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Jingwen",
-        "lastname": "Qian",
-        "slug": "jingwen-qian"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746359&height=865&stretch=uniform&width=1500",
         "name": "Yi Gao",
@@ -2640,14 +2139,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711195&height=450&stretch=uniformtofill&width=300",
         "nationality": "CHN",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Yi",
-        "lastname": "Gao",
-        "slug": "yi-gao"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746359&height=865&stretch=uniform&width=1500",
         "name": "Xiangyu Gong",
@@ -2661,14 +2156,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711196&height=450&stretch=uniformtofill&width=300",
         "nationality": "CHN",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Xiangyu",
-        "lastname": "Gong",
-        "slug": "xiangyu-gong"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746359&height=865&stretch=uniform&width=1500",
         "name": "Linyu Diao",
@@ -2682,14 +2173,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711197&height=450&stretch=uniformtofill&width=300",
         "nationality": "CHN",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Linyu",
-        "lastname": "Diao",
-        "slug": "linyu-diao"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746359&height=865&stretch=uniform&width=1500",
         "name": "Changning Zhang",
@@ -2703,14 +2190,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711199&height=450&stretch=uniformtofill&width=300",
         "nationality": "CHN",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Changning",
-        "lastname": "Zhang",
-        "slug": "changning-zhang"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746359&height=865&stretch=uniform&width=1500",
         "name": "Xiaotong Liu",
@@ -2724,14 +2207,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711200&height=450&stretch=uniformtofill&width=300",
         "nationality": "CHN",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Xiaotong",
-        "lastname": "Liu",
-        "slug": "xiaotong-liu"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746359&height=865&stretch=uniform&width=1500",
         "name": "Yixin Zheng",
@@ -2745,14 +2224,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711202&height=450&stretch=uniformtofill&width=300",
         "nationality": "CHN",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Yixin",
-        "lastname": "Zheng",
-        "slug": "yixin-zheng"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746359&height=865&stretch=uniform&width=1500",
         "name": "Li Lin",
@@ -2766,14 +2241,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711244&height=450&stretch=uniformtofill&width=300",
         "nationality": "CHN",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Li",
-        "lastname": "Lin",
-        "slug": "li-lin"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746359&height=865&stretch=uniform&width=1500",
         "name": "Xia Ding",
@@ -2787,14 +2258,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711245&height=450&stretch=uniformtofill&width=300",
         "nationality": "CHN",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Xia",
-        "lastname": "Ding",
-        "slug": "xia-ding"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746359&height=865&stretch=uniform&width=1500",
         "name": "Yuanyuan Wang",
@@ -2808,14 +2275,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711246&height=450&stretch=uniformtofill&width=300",
         "nationality": "CHN",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Yuanyuan",
-        "lastname": "Wang",
-        "slug": "yuanyuan-wang"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746359&height=865&stretch=uniform&width=1500",
         "name": "Mengjie Wang",
@@ -2829,14 +2292,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711247&height=450&stretch=uniformtofill&width=300",
         "nationality": "CHN",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Mengjie",
-        "lastname": "Wang",
-        "slug": "mengjie-wang"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746811&height=865&stretch=uniform&width=1500",
         "name": "Indre Sorokaite",
@@ -2850,14 +2309,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711435&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Indre",
-        "lastname": "Sorokaite",
-        "slug": "indre-sorokaite"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746811&height=865&stretch=uniform&width=1500",
         "name": "Sara Loda",
@@ -2871,14 +2326,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711436&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Sara",
-        "lastname": "Loda",
-        "slug": "sara-loda"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746811&height=865&stretch=uniform&width=1500",
         "name": "Sara Bonifacio",
@@ -2892,14 +2343,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711434&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Sara",
-        "lastname": "Bonifacio",
-        "slug": "sara-bonifacio"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746811&height=865&stretch=uniform&width=1500",
         "name": "Ofelia Malinov",
@@ -2913,14 +2360,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711437&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Ofelia",
-        "lastname": "Malinov",
-        "slug": "ofelia-malinov"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746811&height=865&stretch=uniform&width=1500",
         "name": "Monica De Gennaro",
@@ -2934,14 +2377,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711438&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Monica",
-        "lastname": "De Gennaro",
-        "slug": "monica-de-gennaro"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746811&height=865&stretch=uniform&width=1500",
         "name": "Raphaela Folie",
@@ -2955,14 +2394,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711439&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Raphaela",
-        "lastname": "Folie",
-        "slug": "raphaela-folie"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746811&height=865&stretch=uniform&width=1500",
         "name": "Alessia Orro",
@@ -2976,14 +2411,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711440&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Alessia",
-        "lastname": "Orro",
-        "slug": "alessia-orro"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746811&height=865&stretch=uniform&width=1500",
         "name": "Caterina Bosetti",
@@ -2997,14 +2428,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711441&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Caterina",
-        "lastname": "Bosetti",
-        "slug": "caterina-bosetti"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746811&height=865&stretch=uniform&width=1500",
         "name": "Cristina Chirichellac",
@@ -3018,14 +2445,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711442&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Cristina",
-        "lastname": "Chirichellac",
-        "slug": "cristina-chirichellac"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746811&height=865&stretch=uniform&width=1500",
         "name": "Anna Danesi",
@@ -3039,14 +2462,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711443&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Anna",
-        "lastname": "Danesi",
-        "slug": "anna-danesi"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746811&height=865&stretch=uniform&width=1500",
         "name": "Miryam Fatime Sylla",
@@ -3060,14 +2479,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711445&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Miryam",
-        "lastname": "Fatime Sylla",
-        "slug": "miryam-fatime-sylla"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746811&height=865&stretch=uniform&width=1500",
         "name": "Lucia Bosetti",
@@ -3081,14 +2496,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711447&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Lucia",
-        "lastname": "Bosetti",
-        "slug": "lucia-bosetti"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746811&height=865&stretch=uniform&width=1500",
         "name": "Paola Ogechi Egonu",
@@ -3102,14 +2513,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711448&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Paola",
-        "lastname": "Ogechi Egonu",
-        "slug": "paola-ogechi-egonu"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201746811&height=865&stretch=uniform&width=1500",
         "name": "Beatrice Parrocchiale",
@@ -3123,14 +2530,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711450&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Beatrice",
-        "lastname": "Parrocchiale",
-        "slug": "beatrice-parrocchiale"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201735224&height=865&stretch=uniform&width=1500",
         "name": "Sarina Koga",
@@ -3144,14 +2547,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710906&height=450&stretch=uniformtofill&width=300",
         "nationality": "JAP",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Sarina",
-        "lastname": "Koga",
-        "slug": "sarina-koga"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201735224&height=865&stretch=uniform&width=1500",
         "name": "Nana Iwasakac",
@@ -3165,14 +2564,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710907&height=450&stretch=uniformtofill&width=300",
         "nationality": "JAP",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Nana",
-        "lastname": "Iwasakac",
-        "slug": "nana-iwasakac"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201735224&height=865&stretch=uniform&width=1500",
         "name": "Risa Shinnabe",
@@ -3186,14 +2581,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710909&height=450&stretch=uniformtofill&width=300",
         "nationality": "JAP",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Risa",
-        "lastname": "Shinnabe",
-        "slug": "risa-shinnabe"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201735224&height=865&stretch=uniform&width=1500",
         "name": "Haruyo Shimamura",
@@ -3207,14 +2598,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710913&height=450&stretch=uniformtofill&width=300",
         "nationality": "JAP",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Haruyo",
-        "lastname": "Shimamura",
-        "slug": "haruyo-shimamura"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201735224&height=865&stretch=uniform&width=1500",
         "name": "Koyomi Iwasaki",
@@ -3228,14 +2615,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710914&height=450&stretch=uniformtofill&width=300",
         "nationality": "JAP",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Koyomi",
-        "lastname": "Iwasaki",
-        "slug": "koyomi-iwasaki"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201735224&height=865&stretch=uniform&width=1500",
         "name": "Yurie Nabeya",
@@ -3249,14 +2632,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201720290&height=450&stretch=uniformtofill&width=300",
         "nationality": "JAP",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Yurie",
-        "lastname": "Nabeya",
-        "slug": "yurie-nabeya"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201735224&height=865&stretch=uniform&width=1500",
         "name": "Miya Sato",
@@ -3270,14 +2649,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710916&height=450&stretch=uniformtofill&width=300",
         "nationality": "JAP",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Miya",
-        "lastname": "Sato",
-        "slug": "miya-sato"
+        "short_position": "S"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201735224&height=865&stretch=uniform&width=1500",
         "name": "Mai Okumura",
@@ -3291,14 +2666,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710992&height=450&stretch=uniformtofill&width=300",
         "nationality": "JAP",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Mai",
-        "lastname": "Okumura",
-        "slug": "mai-okumura"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201735224&height=865&stretch=uniform&width=1500",
         "name": "Ayaka Matsumoto",
@@ -3312,14 +2683,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710993&height=450&stretch=uniformtofill&width=300",
         "nationality": "JAP",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Ayaka",
-        "lastname": "Matsumoto",
-        "slug": "ayaka-matsumoto"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201735224&height=865&stretch=uniform&width=1500",
         "name": "Risa Ishii",
@@ -3333,14 +2700,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710994&height=450&stretch=uniformtofill&width=300",
         "nationality": "JAP",
         "position": "Universal",
-        "short_position": "U",
-        "firstname": "Risa",
-        "lastname": "Ishii",
-        "slug": "risa-ishii"
+        "short_position": "U"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201735224&height=865&stretch=uniform&width=1500",
         "name": "Mami Uchiseto",
@@ -3354,14 +2717,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710996&height=450&stretch=uniformtofill&width=300",
         "nationality": "JAP",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Mami",
-        "lastname": "Uchiseto",
-        "slug": "mami-uchiseto"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201735224&height=865&stretch=uniform&width=1500",
         "name": "Mako Kobata",
@@ -3375,14 +2734,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710998&height=450&stretch=uniformtofill&width=300",
         "nationality": "JAP",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Mako",
-        "lastname": "Kobata",
-        "slug": "mako-kobata"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201735224&height=865&stretch=uniform&width=1500",
         "name": "Kotoe Inoue",
@@ -3396,14 +2751,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201710999&height=450&stretch=uniformtofill&width=300",
         "nationality": "JAP",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Kotoe",
-        "lastname": "Inoue",
-        "slug": "kotoe-inoue"
+        "short_position": "L"
     },
     {
         "competition_name": "World Grand Prix",
-        "captain": false,
         "competition_year": 2017,
         "team": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201735224&height=865&stretch=uniform&width=1500",
         "name": "Rika Nomoto",
@@ -3417,9 +2768,6 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=201711001&height=450&stretch=uniformtofill&width=300",
         "nationality": "JAP",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Rika",
-        "lastname": "Nomoto",
-        "slug": "rika-nomoto"
+        "short_position": "OH"
     }
 ]

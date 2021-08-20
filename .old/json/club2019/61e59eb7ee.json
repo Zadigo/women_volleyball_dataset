@@ -2,7 +2,7 @@
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Yingying Li",
         "date_of_birth": 948240120000,
         "curr_age": 21,
@@ -14,16 +14,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89410&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Wing spiker",
-        "short_position": "None",
-        "firstname": "Yingying",
-        "lastname": "Li",
-        "slug": "yingying-li",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Yumo Yuan",
         "date_of_birth": 852595680000,
         "curr_age": 24,
@@ -35,16 +31,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89414&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Yumo",
-        "lastname": "Yuan",
-        "slug": "yumo-yuan",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Junwei Yu",
         "date_of_birth": 757642020000,
         "curr_age": 27,
@@ -56,16 +48,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89404&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Wing spiker",
-        "short_position": "None",
-        "firstname": "Junwei",
-        "lastname": "Yu",
-        "slug": "junwei-yu",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Ting Zhuc",
         "date_of_birth": 759802260000,
         "curr_age": 27,
@@ -77,16 +65,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89400&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Wing spiker",
-        "short_position": "None",
-        "firstname": "Ting",
-        "lastname": "Zhuc",
-        "slug": "ting-zhuc",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Yi Yang",
         "date_of_birth": 853632180000,
         "curr_age": 24,
@@ -98,16 +82,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89409&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Opposite spiker",
-        "short_position": "None",
-        "firstname": "Yi",
-        "lastname": "Yang",
-        "slug": "yi-yang",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Destinee Hooker",
         "date_of_birth": 536976540000,
         "curr_age": 34,
@@ -119,16 +99,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89399&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Opposite spiker",
-        "short_position": "None",
-        "firstname": "Destinee",
-        "lastname": "Hooker",
-        "slug": "destinee-hooker",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Liwen Liu",
         "date_of_birth": 757469280000,
         "curr_age": 27,
@@ -140,16 +116,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89412&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Libero",
-        "short_position": "None",
-        "firstname": "Liwen",
-        "lastname": "Liu",
-        "slug": "liwen-liu",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Xinyue Yuan",
         "date_of_birth": 822183120000,
         "curr_age": 25,
@@ -161,16 +133,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89403&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Xinyue",
-        "lastname": "Yuan",
-        "slug": "xinyue-yuan",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Zixuan Meng",
         "date_of_birth": 821923860000,
         "curr_age": 25,
@@ -182,16 +150,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89408&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Libero",
-        "short_position": "None",
-        "firstname": "Zixuan",
-        "lastname": "Meng",
-        "slug": "zixuan-meng",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Yuanyuan Wang",
         "date_of_birth": 853200420000,
         "curr_age": 24,
@@ -203,16 +167,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89406&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Yuanyuan",
-        "lastname": "Wang",
-        "slug": "yuanyuan-wang",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Di Yao",
         "date_of_birth": 695434080000,
         "curr_age": 29,
@@ -224,16 +184,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89397&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Setter",
-        "short_position": "None",
-        "firstname": "Di",
-        "lastname": "Yao",
-        "slug": "di-yao",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Xintong Chen",
         "date_of_birth": 757987440000,
         "curr_age": 27,
@@ -245,16 +201,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89405&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Setter",
-        "short_position": "None",
-        "firstname": "Xintong",
-        "lastname": "Chen",
-        "slug": "xintong-chen",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Yanan Li",
         "date_of_birth": 884563500000,
         "curr_age": 23,
@@ -266,16 +218,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89411&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Yanan",
-        "lastname": "Li",
-        "slug": "yanan-li",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Yizhu Wang",
         "date_of_birth": 980208180000,
         "curr_age": 20,
@@ -287,10 +235,6 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89415&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Wing spiker",
-        "short_position": "None",
-        "firstname": "Yizhu",
-        "lastname": "Wang",
-        "slug": "yizhu-wang",
-        "captain": false
+        "short_position": null
     }
 ]

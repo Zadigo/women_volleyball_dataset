@@ -2,7 +2,7 @@
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Indre Sorokaite",
         "date_of_birth": 568080420000,
         "curr_age": 33,
@@ -14,16 +14,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89332&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Opposite spiker",
-        "short_position": "None",
-        "firstname": "Indre",
-        "lastname": "Sorokaite",
-        "slug": "indre-sorokaite",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Robin De Kruijf",
         "date_of_birth": 663033900000,
         "curr_age": 30,
@@ -35,16 +31,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89324&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Robin",
-        "lastname": "De Kruijf",
-        "slug": "robin-de-kruijf",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Jennifer Janiska",
         "date_of_birth": 757728240000,
         "curr_age": 27,
@@ -56,16 +48,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89325&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Wing spiker",
-        "short_position": "None",
-        "firstname": "Jennifer",
-        "lastname": "Janiska",
-        "slug": "jennifer-janiska",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Raphaela Folie",
         "date_of_birth": 663206580000,
         "curr_age": 30,
@@ -77,16 +65,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89326&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Raphaela",
-        "lastname": "Folie",
-        "slug": "raphaela-folie",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Eleonora Fersino",
         "date_of_birth": 948672060000,
         "curr_age": 21,
@@ -98,16 +82,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89335&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Libero",
-        "short_position": "None",
-        "firstname": "Eleonora",
-        "lastname": "Fersino",
-        "slug": "eleonora-fersino",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Alexandra Botezat",
         "date_of_birth": 883786080000,
         "curr_age": 23,
@@ -119,16 +99,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89331&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Alexandra",
-        "lastname": "Botezat",
-        "slug": "alexandra-botezat",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Monica De Gennaro",
         "date_of_birth": 537062460000,
         "curr_age": 34,
@@ -140,16 +116,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89322&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Libero",
-        "short_position": "None",
-        "firstname": "Monica",
-        "lastname": "De Gennaro",
-        "slug": "monica-de-gennaro",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Chiaka Ogbogu",
         "date_of_birth": 790128240000,
         "curr_age": 26,
@@ -161,16 +133,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89334&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Chiaka",
-        "lastname": "Ogbogu",
-        "slug": "chiaka-ogbogu",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Nkemdilim Ruth Terry Enweonwu",
         "date_of_birth": 947635500000,
         "curr_age": 21,
@@ -182,16 +150,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89333&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Opposite spiker",
-        "short_position": "None",
-        "firstname": "Nkemdilim",
-        "lastname": "Ruth Terry Enweonwu",
-        "slug": "nkemdilim-ruth-terry-enweonwu",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Giulia Gennari",
         "date_of_birth": 822355560000,
         "curr_age": 25,
@@ -203,16 +167,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89329&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Setter",
-        "short_position": "None",
-        "firstname": "Giulia",
-        "lastname": "Gennari",
-        "slug": "giulia-gennari",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Joanna Woloszc",
         "date_of_birth": 631670640000,
         "curr_age": 31,
@@ -224,16 +184,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89323&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Setter",
-        "short_position": "None",
-        "firstname": "Joanna",
-        "lastname": "Woloszc",
-        "slug": "joanna-woloszc",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Kimberly Hill",
         "date_of_birth": 602122260000,
         "curr_age": 32,
@@ -245,16 +201,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89328&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Wing spiker",
-        "short_position": "None",
-        "firstname": "Kimberly",
-        "lastname": "Hill",
-        "slug": "kimberly-hill",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Miryam Fatime Sylla",
         "date_of_birth": 789523260000,
         "curr_age": 26,
@@ -266,16 +218,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89327&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Wing spiker",
-        "short_position": "None",
-        "firstname": "Miryam",
-        "lastname": "Fatime Sylla",
-        "slug": "miryam-fatime-sylla",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Paola Ogechi Egonu",
         "date_of_birth": 885082320000,
         "curr_age": 23,
@@ -287,10 +235,6 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89330&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Opposite spiker",
-        "short_position": "None",
-        "firstname": "Paola",
-        "lastname": "Ogechi Egonu",
-        "slug": "paola-ogechi-egonu",
-        "captain": false
+        "short_position": null
     }
 ]

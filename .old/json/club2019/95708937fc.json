@@ -2,7 +2,7 @@
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Caroline De Oliveira Saad Gattazc",
         "date_of_birth": 349402020000,
         "curr_age": 40,
@@ -14,16 +14,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89268&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Caroline",
-        "lastname": "De Oliveira Saad Gattazc",
-        "slug": "caroline-de-oliveira-saad-gattazc",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Macris Fernanda Silva Carneiro",
         "date_of_birth": 599788980000,
         "curr_age": 32,
@@ -35,16 +31,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89275&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Setter",
-        "short_position": "None",
-        "firstname": "Macris",
-        "lastname": "Fernanda Silva Carneiro",
-        "slug": "macris-fernanda-silva-carneiro",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Laura Gambatto Kudiess",
         "date_of_birth": 980380920000,
         "curr_age": 20,
@@ -56,16 +48,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89278&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Laura",
-        "lastname": "Gambatto Kudiess",
-        "slug": "laura-gambatto-kudiess",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Thaisa Daher De Menezes",
         "date_of_birth": 537667500000,
         "curr_age": 34,
@@ -77,16 +65,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89269&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Thaisa",
-        "lastname": "Daher De Menezes",
-        "slug": "thaisa-daher-de-menezes",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Vivian Maria Pellegrino",
         "date_of_birth": 475977900000,
         "curr_age": 36,
@@ -98,16 +82,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89282&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Middle blocker",
-        "short_position": "None",
-        "firstname": "Vivian",
-        "lastname": "Maria Pellegrino",
-        "slug": "vivian-maria-pellegrino",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Lana Sliva Concei\u00e7\u00e3o",
         "date_of_birth": 821059920000,
         "curr_age": 25,
@@ -119,16 +99,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89271&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Wing spiker",
-        "short_position": "None",
-        "firstname": "Lana",
-        "lastname": "Sliva Concei\u00e7\u00e3o",
-        "slug": "lana-sliva-concei\u00e7\u00e3o",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Bruna Honorio Marques",
         "date_of_birth": 599789220000,
         "curr_age": 32,
@@ -140,16 +116,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89273&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Opposite spiker",
-        "short_position": "None",
-        "firstname": "Bruna",
-        "lastname": "Honorio Marques",
-        "slug": "bruna-honorio-marques",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Luanna Luiza Moreira Emiliano",
         "date_of_birth": 1012003740000,
         "curr_age": 19,
@@ -161,16 +133,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89281&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Libero",
-        "short_position": "None",
-        "firstname": "Luanna",
-        "lastname": "Luiza Moreira Emiliano",
-        "slug": "luanna-luiza-moreira-emiliano",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Bruna Rocha Costa",
         "date_of_birth": 791424060000,
         "curr_age": 26,
@@ -182,16 +150,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89277&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Setter",
-        "short_position": "None",
-        "firstname": "Bruna",
-        "lastname": "Rocha Costa",
-        "slug": "bruna-rocha-costa",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Sheilla Castro De Paula Blassioli",
         "date_of_birth": 410227620000,
         "curr_age": 38,
@@ -203,16 +167,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89267&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Opposite spiker",
-        "short_position": "None",
-        "firstname": "Sheilla",
-        "lastname": "Castro De Paula Blassioli",
-        "slug": "sheilla-castro-de-paula-blassioli",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Deja Monique Mcclendon",
         "date_of_birth": 696470760000,
         "curr_age": 29,
@@ -224,16 +184,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89274&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Wing spiker",
-        "short_position": "None",
-        "firstname": "Deja",
-        "lastname": "Monique Mcclendon",
-        "slug": "deja-monique-mcclendon",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Kasiely Clemente",
         "date_of_birth": 726279120000,
         "curr_age": 28,
@@ -245,16 +201,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89272&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Wing spiker",
-        "short_position": "None",
-        "firstname": "Kasiely",
-        "lastname": "Clemente",
-        "slug": "kasiely-clemente",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Roslandy Del Valle Acosta Alvarado",
         "date_of_birth": 696297720000,
         "curr_age": 29,
@@ -266,16 +218,12 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89270&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Wing spiker",
-        "short_position": "None",
-        "firstname": "Roslandy",
-        "lastname": "Del Valle Acosta Alvarado",
-        "slug": "roslandy-del-valle-acosta-alvarado",
-        "captain": false
+        "short_position": null
     },
     {
         "competition_name": "Club World Championships",
         "competition_year": 2019,
-        "team": "None",
+        "team": null,
         "name": "Leia Henrique Da Silva Nicolosi",
         "date_of_birth": 473385780000,
         "curr_age": 36,
@@ -287,10 +235,6 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=89276&Type=Press&height=2000&stretch=uniformtofill&width=300",
         "nationality": "None",
         "position": "Libero",
-        "short_position": "None",
-        "firstname": "Leia",
-        "lastname": "Henrique Da Silva Nicolosi",
-        "slug": "leia-henrique-da-silva-nicolosi",
-        "captain": false
+        "short_position": null
     }
 ]

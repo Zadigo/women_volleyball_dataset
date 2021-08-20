@@ -14,11 +14,7 @@
         "player_image": null,
         "nationality": null,
         "position": null,
-        "short_position": null,
-        "captain": 0.0,
-        "firstname": "Mara",
-        "lastname": "Ferreira Leao",
-        "slug": "mara-ferreira-leao"
+        "short_position": null
     },
     {
         "name": "Caroline De Oliveira Saad Gattaz",
@@ -35,11 +31,7 @@
         "player_image": null,
         "nationality": null,
         "position": null,
-        "short_position": null,
-        "captain": 0.0,
-        "firstname": "Caroline",
-        "lastname": "De Oliveira Saad Gattaz",
-        "slug": "caroline-de-oliveira-saad-gattaz"
+        "short_position": null
     },
     {
         "name": "Macris Fernanda Silva Carneiro",
@@ -56,11 +48,7 @@
         "player_image": null,
         "nationality": null,
         "position": null,
-        "short_position": null,
-        "captain": 0.0,
-        "firstname": "Macris",
-        "lastname": "Fernanda Silva Carneiro",
-        "slug": "macris-fernanda-silva-carneiro"
+        "short_position": null
     },
     {
         "name": "Maria Cecilia De Paula",
@@ -77,11 +65,7 @@
         "player_image": null,
         "nationality": null,
         "position": null,
-        "short_position": null,
-        "captain": 0.0,
-        "firstname": "Maria",
-        "lastname": "Cecilia De Paula",
-        "slug": "maria-cecilia-de-paula"
+        "short_position": null
     },
     {
         "name": "Lana Sliva Concei\u00e7\u00e3o",
@@ -98,11 +82,7 @@
         "player_image": null,
         "nationality": null,
         "position": null,
-        "short_position": null,
-        "captain": 0.0,
-        "firstname": "Lana",
-        "lastname": "Sliva Concei\u00e7\u00e3o",
-        "slug": "lana-sliva-concei\u00e7\u00e3o"
+        "short_position": null
     },
     {
         "name": "Maria Luisa Silva Ramos De Oliveira",
@@ -119,11 +99,7 @@
         "player_image": null,
         "nationality": null,
         "position": null,
-        "short_position": null,
-        "captain": 0.0,
-        "firstname": "Maria",
-        "lastname": "Luisa Silva Ramos De Oliveira",
-        "slug": "maria-luisa-silva-ramos-de-oliveira"
+        "short_position": null
     },
     {
         "name": "Bruna Honorio Marques",
@@ -140,11 +116,7 @@
         "player_image": null,
         "nationality": null,
         "position": null,
-        "short_position": null,
-        "captain": 0.0,
-        "firstname": "Bruna",
-        "lastname": "Honorio Marques",
-        "slug": "bruna-honorio-marques"
+        "short_position": null
     },
     {
         "name": "Gabriela Braga Guimaraes",
@@ -161,11 +133,7 @@
         "player_image": null,
         "nationality": null,
         "position": null,
-        "short_position": null,
-        "captain": 0.0,
-        "firstname": "Gabriela",
-        "lastname": "Braga Guimaraes",
-        "slug": "gabriela-braga-guimaraes"
+        "short_position": null
     },
     {
         "name": "Natalia Pereira",
@@ -182,11 +150,7 @@
         "player_image": null,
         "nationality": null,
         "position": null,
-        "short_position": null,
-        "captain": 0.0,
-        "firstname": "Natalia",
-        "lastname": "Pereira",
-        "slug": "natalia-pereira"
+        "short_position": null
     },
     {
         "name": "Georgia Zanluca Cattani",
@@ -203,11 +167,7 @@
         "player_image": null,
         "nationality": null,
         "position": null,
-        "short_position": null,
-        "captain": null,
-        "firstname": "Georgia",
-        "lastname": "Zanluca Cattani",
-        "slug": "georgia-zanluca-cattani"
+        "short_position": null
     },
     {
         "name": "Monique Helena Gervasio De Jesus",
@@ -224,11 +184,7 @@
         "player_image": null,
         "nationality": null,
         "position": null,
-        "short_position": null,
-        "captain": 0.0,
-        "firstname": "Monique",
-        "lastname": "Helena Gervasio De Jesus",
-        "slug": "monique-helena-gervasio-de-jesus"
+        "short_position": null
     },
     {
         "name": "Mayany Cristina Araujo De Souza",
@@ -245,11 +201,7 @@
         "player_image": null,
         "nationality": null,
         "position": null,
-        "short_position": null,
-        "captain": 0.0,
-        "firstname": "Mayany",
-        "lastname": "Cristina Araujo De Souza",
-        "slug": "mayany-cristina-araujo-de-souza"
+        "short_position": null
     },
     {
         "name": "Leia Henrique Da Silva Nicolosi",
@@ -266,11 +218,7 @@
         "player_image": null,
         "nationality": null,
         "position": null,
-        "short_position": null,
-        "captain": 0.0,
-        "firstname": "Leia",
-        "lastname": "Henrique Da Silva Nicolosi",
-        "slug": "leia-henrique-da-silva-nicolosi"
+        "short_position": null
     },
     {
         "name": "Bruna Rocha Costa",
@@ -287,10 +235,6 @@
         "player_image": null,
         "nationality": null,
         "position": null,
-        "short_position": null,
-        "captain": 0.0,
-        "firstname": "Bruna",
-        "lastname": "Rocha Costa",
-        "slug": "bruna-rocha-costa"
+        "short_position": null
     }
 ]

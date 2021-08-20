@@ -1,7 +1,6 @@
 [
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Nkemdilim Ruth Terry Enweonwu",
@@ -15,14 +14,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83076&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Nkemdilim",
-        "lastname": "Ruth Terry Enweonwu",
-        "slug": "nkemdilim-ruth-terry-enweonwu"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Valeria Battista",
@@ -36,14 +31,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83077&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Valeria",
-        "lastname": "Battista",
-        "slug": "valeria-battista"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Federica Squarcini",
@@ -57,14 +48,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83201&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Federica",
-        "lastname": "Squarcini",
-        "slug": "federica-squarcini"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Marina Lubian",
@@ -78,14 +65,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83198&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Marina",
-        "lastname": "Lubian",
-        "slug": "marina-lubian"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Fatim Yassimina Soraya Kone",
@@ -99,14 +82,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83079&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Fatim",
-        "lastname": "Yassimina Soraya Kone",
-        "slug": "fatim-yassimina-soraya-kone"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Adhuoljok John Majak Malual",
@@ -120,14 +99,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83216&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Adhuoljok",
-        "lastname": "John Majak Malual",
-        "slug": "adhuoljok-john-majak-malual"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Alessia Populinic",
@@ -141,14 +116,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83204&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Alessia",
-        "lastname": "Populinic",
-        "slug": "alessia-populinic"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Sara Panetoni",
@@ -162,14 +133,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83203&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Sara",
-        "lastname": "Panetoni",
-        "slug": "sara-panetoni"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Oghosasere Loveth Omoruyi",
@@ -183,14 +150,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83214&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Oghosasere",
-        "lastname": "Loveth Omoruyi",
-        "slug": "oghosasere-loveth-omoruyi"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Francesca Scola",
@@ -204,14 +167,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83206&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Francesca",
-        "lastname": "Scola",
-        "slug": "francesca-scola"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Alice Alexandra Tanase",
@@ -225,14 +184,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83209&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Alice",
-        "lastname": "Alexandra Tanase",
-        "slug": "alice-alexandra-tanase"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Rachele Morello",
@@ -246,14 +201,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83208&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "ITA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Rachele",
-        "lastname": "Morello",
-        "slug": "rachele-morello"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Brooke Nuneviller",
@@ -267,14 +218,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=84681&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Brooke",
-        "lastname": "Nuneviller",
-        "slug": "brooke-nuneviller"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Amelia Tuaniga",
@@ -288,14 +235,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=84724&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Amelia",
-        "lastname": "Tuaniga",
-        "slug": "amelia-tuaniga"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Azhani Tealer",
@@ -309,14 +252,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=84672&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Azhani",
-        "lastname": "Tealer",
-        "slug": "azhani-tealer"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Logan Egglestonc",
@@ -330,14 +269,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=84665&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Logan",
-        "lastname": "Egglestonc",
-        "slug": "logan-egglestonc"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Jenna Wenaas",
@@ -351,14 +286,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=84676&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Jenna",
-        "lastname": "Wenaas",
-        "slug": "jenna-wenaas"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Skylar Fields",
@@ -372,14 +303,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=84666&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Skylar",
-        "lastname": "Fields",
-        "slug": "skylar-fields"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Molly Phillips",
@@ -393,14 +320,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=84680&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Molly",
-        "lastname": "Phillips",
-        "slug": "molly-phillips"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Ella Powell",
@@ -414,14 +337,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=84678&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Ella",
-        "lastname": "Powell",
-        "slug": "ella-powell"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Katherine Clark",
@@ -435,14 +354,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=84677&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Katherine",
-        "lastname": "Clark",
-        "slug": "katherine-clark"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Anna Dixon",
@@ -456,14 +371,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=84673&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Anna",
-        "lastname": "Dixon",
-        "slug": "anna-dixon"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Kendall Kipp",
@@ -477,14 +388,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=84667&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Kendall",
-        "lastname": "Kipp",
-        "slug": "kendall-kipp"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Heather Gneiting",
@@ -498,14 +405,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=84671&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "USA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Heather",
-        "lastname": "Gneiting",
-        "slug": "heather-gneiting"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Uxue Amaya Guereca Parrac",
@@ -519,14 +422,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83508&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "MEX",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Uxue",
-        "lastname": "Amaya Guereca Parrac",
-        "slug": "uxue-amaya-guereca-parrac"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Sofia Maldonado Diaz",
@@ -540,14 +439,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83516&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "MEX",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Sofia",
-        "lastname": "Maldonado Diaz",
-        "slug": "sofia-maldonado-diaz"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Natalie Nizeth Nava Minjarez",
@@ -561,14 +456,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83507&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "MEX",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Natalie",
-        "lastname": "Nizeth Nava Minjarez",
-        "slug": "natalie-nizeth-nava-minjarez"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Renata L\u00f3pez Morales",
@@ -582,14 +473,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83510&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "MEX",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Renata",
-        "lastname": "L\u00f3pez Morales",
-        "slug": "renata-l\u00f3pez-morales"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Gloria Argentina Ung Enriquez",
@@ -603,14 +490,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83521&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "MEX",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Gloria",
-        "lastname": "Argentina Ung Enriquez",
-        "slug": "gloria-argentina-ung-enriquez"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Marian Aylin Ovalle Leyva",
@@ -624,14 +507,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83518&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "MEX",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Marian",
-        "lastname": "Aylin Ovalle Leyva",
-        "slug": "marian-aylin-ovalle-leyva"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Mar\u00eda Celeste Vela Jimenez",
@@ -645,14 +524,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83513&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "MEX",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Mar\u00eda",
-        "lastname": "Celeste Vela Jimenez",
-        "slug": "mar\u00eda-celeste-vela-jimenez"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Daniela Siller Flores",
@@ -666,14 +541,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83514&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "MEX",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Daniela",
-        "lastname": "Siller Flores",
-        "slug": "daniela-siller-flores"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Joseline Landeros Palacios",
@@ -687,14 +558,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83515&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "MEX",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Joseline",
-        "lastname": "Landeros Palacios",
-        "slug": "joseline-landeros-palacios"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Mirna Yajaira Valenzuela Castro",
@@ -708,14 +575,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83519&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "MEX",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Mirna",
-        "lastname": "Yajaira Valenzuela Castro",
-        "slug": "mirna-yajaira-valenzuela-castro"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Grecia Esther Castro L\u00f3pez",
@@ -729,14 +592,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83512&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "MEX",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Grecia",
-        "lastname": "Esther Castro L\u00f3pez",
-        "slug": "grecia-esther-castro-l\u00f3pez"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Melanie Guadalupe Parra Quintero",
@@ -750,14 +609,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83511&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "MEX",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Melanie",
-        "lastname": "Guadalupe Parra Quintero",
-        "slug": "melanie-guadalupe-parra-quintero"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Dezirett De La Caridad Madan Rosales",
@@ -771,14 +626,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83785&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "CUB",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Dezirett",
-        "lastname": "De La Caridad Madan Rosales",
-        "slug": "dezirett-de-la-caridad-madan-rosales"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Dayana Martinez Hernandez",
@@ -792,14 +643,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83784&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "CUB",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Dayana",
-        "lastname": "Martinez Hernandez",
-        "slug": "dayana-martinez-hernandez"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Ellemay Santa Miranda Tejeda",
@@ -813,14 +660,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83787&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "CUB",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Ellemay",
-        "lastname": "Santa Miranda Tejeda",
-        "slug": "ellemay-santa-miranda-tejeda"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Yaimaris De Los Angeles Garcia Victoria",
@@ -834,14 +677,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83782&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "CUB",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Yaimaris",
-        "lastname": "De Los Angeles Garcia Victoria",
-        "slug": "yaimaris-de-los-angeles-garcia-victoria"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Claudia Basilia Tarin Alarcon",
@@ -855,14 +694,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83791&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "CUB",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Claudia",
-        "lastname": "Basilia Tarin Alarcon",
-        "slug": "claudia-basilia-tarin-alarcon"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Ailama Cese Montalvo",
@@ -876,14 +711,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83769&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "CUB",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Ailama",
-        "lastname": "Cese Montalvo",
-        "slug": "ailama-cese-montalvo"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Yamisleydis Viltres Pacheco",
@@ -897,14 +728,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83777&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "CUB",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Yamisleydis",
-        "lastname": "Viltres Pacheco",
-        "slug": "yamisleydis-viltres-pacheco"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Amelia Morozo Moises",
@@ -918,14 +745,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83774&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "CUB",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Amelia",
-        "lastname": "Morozo Moises",
-        "slug": "amelia-morozo-moises"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Thainalien Castillo Leyva",
@@ -939,14 +762,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83779&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "CUB",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Thainalien",
-        "lastname": "Castillo Leyva",
-        "slug": "thainalien-castillo-leyva"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Daima Del Ri\u00f3 Preval",
@@ -960,14 +779,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83778&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "CUB",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Daima",
-        "lastname": "Del Ri\u00f3 Preval",
-        "slug": "daima-del-ri\u00f3-preval"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Thalia Moreno Reyesc",
@@ -981,14 +796,10 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83772&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "CUB",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Thalia",
-        "lastname": "Moreno Reyesc",
-        "slug": "thalia-moreno-reyesc"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2019,
         "team": "http:\/\/\/",
         "name": "Ivy May Vila Wittingham",
@@ -1002,9 +813,6 @@
         "player_image": "https:\/\/www.fivb.org\/Vis2009\/Images\/GetImage.asmx?No=83775&Type=Press&height=450&stretch=uniformtofill&width=300",
         "nationality": "CUB",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Ivy",
-        "lastname": "May Vila Wittingham",
-        "slug": "ivy-may-vila-wittingham"
+        "short_position": "OH"
     }
 ]

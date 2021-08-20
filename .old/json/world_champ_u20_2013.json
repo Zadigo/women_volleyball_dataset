@@ -1,7 +1,6 @@
 [
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246286",
         "name": "Nadira Ait Oumghar",
@@ -15,14 +14,10 @@
         "player_image": null,
         "nationality": "ALG",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Nadira",
-        "lastname": "Ait Oumghar",
-        "slug": "nadira-ait-oumghar"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246286",
         "name": "Yasmine Abderrahim",
@@ -36,14 +31,10 @@
         "player_image": null,
         "nationality": "ALG",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Yasmine",
-        "lastname": "Abderrahim",
-        "slug": "yasmine-abderrahim"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246286",
         "name": "Sara Belhocine",
@@ -57,14 +48,10 @@
         "player_image": null,
         "nationality": "ALG",
         "position": "-",
-        "short_position": null,
-        "firstname": "Sara",
-        "lastname": "Belhocine",
-        "slug": "sara-belhocine"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246286",
         "name": "Louiza Bayou",
@@ -78,14 +65,10 @@
         "player_image": null,
         "nationality": "ALG",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Louiza",
-        "lastname": "Bayou",
-        "slug": "louiza-bayou"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246286",
         "name": "Titem Hani",
@@ -99,14 +82,10 @@
         "player_image": null,
         "nationality": "ALG",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Titem",
-        "lastname": "Hani",
-        "slug": "titem-hani"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246286",
         "name": "Sarah Akroun",
@@ -120,14 +99,10 @@
         "player_image": null,
         "nationality": "ALG",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Sarah",
-        "lastname": "Akroun",
-        "slug": "sarah-akroun"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246286",
         "name": "Chanez Ayadi",
@@ -141,14 +116,10 @@
         "player_image": null,
         "nationality": "ALG",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Chanez",
-        "lastname": "Ayadi",
-        "slug": "chanez-ayadi"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246286",
         "name": "Wissem Samia Dali",
@@ -162,14 +133,10 @@
         "player_image": null,
         "nationality": "ALG",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Wissem",
-        "lastname": "Samia Dali",
-        "slug": "wissem-samia-dali"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246286",
         "name": "Nawel Hammouche",
@@ -183,14 +150,10 @@
         "player_image": null,
         "nationality": "ALG",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Nawel",
-        "lastname": "Hammouche",
-        "slug": "nawel-hammouche"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246286",
         "name": "Dallal Merwa Achour",
@@ -204,14 +167,10 @@
         "player_image": null,
         "nationality": "ALG",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Dallal",
-        "lastname": "Merwa Achour",
-        "slug": "dallal-merwa-achour"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246286",
         "name": "Zaidi Amel",
@@ -225,14 +184,10 @@
         "player_image": null,
         "nationality": "ALG",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Zaidi",
-        "lastname": "Amel",
-        "slug": "zaidi-amel"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246286",
         "name": "Celia Bourihane",
@@ -246,14 +201,10 @@
         "player_image": null,
         "nationality": "ALG",
         "position": "-",
-        "short_position": null,
-        "firstname": "Celia",
-        "lastname": "Bourihane",
-        "slug": "celia-bourihane"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236553",
         "name": "Naiane De Almeida Rios",
@@ -267,14 +218,10 @@
         "player_image": null,
         "nationality": "BRA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Naiane",
-        "lastname": "De Almeida Rios",
-        "slug": "naiane-de-almeida-rios"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236553",
         "name": "Maira Cipriano Claro",
@@ -288,14 +235,10 @@
         "player_image": null,
         "nationality": "BRA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Maira",
-        "lastname": "Cipriano Claro",
-        "slug": "maira-cipriano-claro"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236553",
         "name": "Saraelen Leandro Ferreira Lima",
@@ -309,14 +252,10 @@
         "player_image": null,
         "nationality": "BRA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Saraelen",
-        "lastname": "Leandro Ferreira Lima",
-        "slug": "saraelen-leandro-ferreira-lima"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236553",
         "name": "Gabriela Braga Guimaraes",
@@ -330,14 +269,10 @@
         "player_image": null,
         "nationality": "BRA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Gabriela",
-        "lastname": "Braga Guimaraes",
-        "slug": "gabriela-braga-guimaraes"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236553",
         "name": "Rosamaria Montibeller",
@@ -351,14 +286,10 @@
         "player_image": null,
         "nationality": "BRA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Rosamaria",
-        "lastname": "Montibeller",
-        "slug": "rosamaria-montibeller"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236553",
         "name": "Giovana Gasparini",
@@ -372,14 +303,10 @@
         "player_image": null,
         "nationality": "BRA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Giovana",
-        "lastname": "Gasparini",
-        "slug": "giovana-gasparini"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236553",
         "name": "Valquiria Carboni Dullius",
@@ -393,14 +320,10 @@
         "player_image": null,
         "nationality": "BRA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Valquiria",
-        "lastname": "Carboni Dullius",
-        "slug": "valquiria-carboni-dullius"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236553",
         "name": "Paula Camila Mohr",
@@ -414,14 +337,10 @@
         "player_image": null,
         "nationality": "BRA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Paula",
-        "lastname": "Camila Mohr",
-        "slug": "paula-camila-mohr"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236553",
         "name": "Milka Marc\u00e3\u00adLia Medeiros Silva",
@@ -435,14 +354,10 @@
         "player_image": null,
         "nationality": "BRA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Milka",
-        "lastname": "Marc\u00e3\u00adLia Medeiros Silva",
-        "slug": "milka-marc\u00e3\u00adlia-medeiros-silva"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236553",
         "name": "Domingas Soares Ara\u00e3\u00bajo",
@@ -456,14 +371,10 @@
         "player_image": null,
         "nationality": "BRA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Domingas",
-        "lastname": "Soares Ara\u00e3\u00bajo",
-        "slug": "domingas-soares-ara\u00e3\u00bajo"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236553",
         "name": "Sara Aparecida Dias Da Silva",
@@ -477,14 +388,10 @@
         "player_image": null,
         "nationality": "BRA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Sara",
-        "lastname": "Aparecida Dias Da Silva",
-        "slug": "sara-aparecida-dias-da-silva"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236553",
         "name": "Daniela Guimar\u00e3\u00a3Es",
@@ -498,14 +405,10 @@
         "player_image": null,
         "nationality": "BRA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Daniela",
-        "lastname": "Guimar\u00e3\u00a3Es",
-        "slug": "daniela-guimar\u00e3\u00a3es"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246432",
         "name": "Gergana Dimitrova",
@@ -519,14 +422,10 @@
         "player_image": null,
         "nationality": "BUL",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Gergana",
-        "lastname": "Dimitrova",
-        "slug": "gergana-dimitrova"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246432",
         "name": "Milena Dimova",
@@ -540,14 +439,10 @@
         "player_image": null,
         "nationality": "BUL",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Milena",
-        "lastname": "Dimova",
-        "slug": "milena-dimova"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246432",
         "name": "Ralina Doshkova",
@@ -561,14 +456,10 @@
         "player_image": null,
         "nationality": "BUL",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Ralina",
-        "lastname": "Doshkova",
-        "slug": "ralina-doshkova"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246432",
         "name": "Kristiana Petlichka",
@@ -582,14 +473,10 @@
         "player_image": null,
         "nationality": "BUL",
         "position": "-",
-        "short_position": null,
-        "firstname": "Kristiana",
-        "lastname": "Petlichka",
-        "slug": "kristiana-petlichka"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246432",
         "name": "Simona Dimitrova",
@@ -603,14 +490,10 @@
         "player_image": null,
         "nationality": "BUL",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Simona",
-        "lastname": "Dimitrova",
-        "slug": "simona-dimitrova"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246432",
         "name": "Miroslava Paskova",
@@ -624,14 +507,10 @@
         "player_image": null,
         "nationality": "BUL",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Miroslava",
-        "lastname": "Paskova",
-        "slug": "miroslava-paskova"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246432",
         "name": "Petya Barakova",
@@ -645,14 +524,10 @@
         "player_image": null,
         "nationality": "BUL",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Petya",
-        "lastname": "Barakova",
-        "slug": "petya-barakova"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246432",
         "name": "Kristina Guncheva",
@@ -666,14 +541,10 @@
         "player_image": null,
         "nationality": "BUL",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Kristina",
-        "lastname": "Guncheva",
-        "slug": "kristina-guncheva"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246432",
         "name": "Proletka Ivanova",
@@ -687,14 +558,10 @@
         "player_image": null,
         "nationality": "BUL",
         "position": "-",
-        "short_position": null,
-        "firstname": "Proletka",
-        "lastname": "Ivanova",
-        "slug": "proletka-ivanova"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246432",
         "name": "Mira Todorova",
@@ -708,14 +575,10 @@
         "player_image": null,
         "nationality": "BUL",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Mira",
-        "lastname": "Todorova",
-        "slug": "mira-todorova"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246432",
         "name": "Silvana Chausheva",
@@ -729,14 +592,10 @@
         "player_image": null,
         "nationality": "BUL",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Silvana",
-        "lastname": "Chausheva",
-        "slug": "silvana-chausheva"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246432",
         "name": "Zhana Todorova",
@@ -750,14 +609,10 @@
         "player_image": null,
         "nationality": "BUL",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Zhana",
-        "lastname": "Todorova",
-        "slug": "zhana-todorova"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247599",
         "name": "Ning Wang",
@@ -771,14 +626,10 @@
         "player_image": null,
         "nationality": "CHN",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Ning",
-        "lastname": "Wang",
-        "slug": "ning-wang"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247599",
         "name": "Weiwei Li",
@@ -792,14 +643,10 @@
         "player_image": null,
         "nationality": "CHN",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Weiwei",
-        "lastname": "Li",
-        "slug": "weiwei-li"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247599",
         "name": "Yixin Zheng",
@@ -813,14 +660,10 @@
         "player_image": null,
         "nationality": "CHN",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Yixin",
-        "lastname": "Zheng",
-        "slug": "yixin-zheng"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247599",
         "name": "Fengjiao Wang",
@@ -834,14 +677,10 @@
         "player_image": null,
         "nationality": "CHN",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Fengjiao",
-        "lastname": "Wang",
-        "slug": "fengjiao-wang"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247599",
         "name": "Siyu Qin",
@@ -855,14 +694,10 @@
         "player_image": null,
         "nationality": "CHN",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Siyu",
-        "lastname": "Qin",
-        "slug": "siyu-qin"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247599",
         "name": "Fangxu Yang",
@@ -876,14 +711,10 @@
         "player_image": null,
         "nationality": "CHN",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Fangxu",
-        "lastname": "Yang",
-        "slug": "fangxu-yang"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247599",
         "name": "Meili Song",
@@ -897,14 +728,10 @@
         "player_image": null,
         "nationality": "CHN",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Meili",
-        "lastname": "Song",
-        "slug": "meili-song"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247599",
         "name": "Ting Zhu",
@@ -918,14 +745,10 @@
         "player_image": null,
         "nationality": "CHN",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Ting",
-        "lastname": "Zhu",
-        "slug": "ting-zhu"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247599",
         "name": "Bei Wu",
@@ -939,14 +762,10 @@
         "player_image": null,
         "nationality": "CHN",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Bei",
-        "lastname": "Wu",
-        "slug": "bei-wu"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247599",
         "name": "Xintong Chen",
@@ -960,14 +779,10 @@
         "player_image": null,
         "nationality": "CHN",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Xintong",
-        "lastname": "Chen",
-        "slug": "xintong-chen"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247599",
         "name": "Mengjie Wang",
@@ -981,14 +796,10 @@
         "player_image": null,
         "nationality": "CHN",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Mengjie",
-        "lastname": "Wang",
-        "slug": "mengjie-wang"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247599",
         "name": "Liuyan Huang",
@@ -1002,14 +813,10 @@
         "player_image": null,
         "nationality": "CHN",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Liuyan",
-        "lastname": "Huang",
-        "slug": "liuyan-huang"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246287",
         "name": "Valeria Lopez",
@@ -1023,14 +830,10 @@
         "player_image": null,
         "nationality": "COL",
         "position": "-",
-        "short_position": null,
-        "firstname": "Valeria",
-        "lastname": "Lopez",
-        "slug": "valeria-lopez"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246287",
         "name": "Maria Margarita Martinez",
@@ -1044,14 +847,10 @@
         "player_image": null,
         "nationality": "COL",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Maria",
-        "lastname": "Margarita Martinez",
-        "slug": "maria-margarita-martinez"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246287",
         "name": "Silvia Galeano",
@@ -1065,14 +864,10 @@
         "player_image": null,
         "nationality": "COL",
         "position": "-",
-        "short_position": null,
-        "firstname": "Silvia",
-        "lastname": "Galeano",
-        "slug": "silvia-galeano"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246287",
         "name": "Eileen Acu\u00e3\u00b1A",
@@ -1086,14 +881,10 @@
         "player_image": null,
         "nationality": "COL",
         "position": "-",
-        "short_position": null,
-        "firstname": "Eileen",
-        "lastname": "Acu\u00e3\u00b1A",
-        "slug": "eileen-acu\u00e3\u00b1a"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246287",
         "name": "Andrea Estrada",
@@ -1107,14 +898,10 @@
         "player_image": null,
         "nationality": "COL",
         "position": "-",
-        "short_position": null,
-        "firstname": "Andrea",
-        "lastname": "Estrada",
-        "slug": "andrea-estrada"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246287",
         "name": "Diana Arrechea",
@@ -1128,14 +915,10 @@
         "player_image": null,
         "nationality": "COL",
         "position": "-",
-        "short_position": null,
-        "firstname": "Diana",
-        "lastname": "Arrechea",
-        "slug": "diana-arrechea"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246287",
         "name": "Danna Paola Escobar Lucumi",
@@ -1149,14 +932,10 @@
         "player_image": null,
         "nationality": "COL",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Danna",
-        "lastname": "Paola Escobar Lucumi",
-        "slug": "danna-paola-escobar-lucumi"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246287",
         "name": "Ivonne Monta\u00e3\u00b1O",
@@ -1170,14 +949,10 @@
         "player_image": null,
         "nationality": "COL",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Ivonne",
-        "lastname": "Monta\u00e3\u00b1O",
-        "slug": "ivonne-monta\u00e3\u00b1o"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246287",
         "name": "Camila Gomez",
@@ -1191,14 +966,10 @@
         "player_image": null,
         "nationality": "COL",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Camila",
-        "lastname": "Gomez",
-        "slug": "camila-gomez"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246287",
         "name": "Maria Alejandra Marin",
@@ -1212,14 +983,10 @@
         "player_image": null,
         "nationality": "COL",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Maria",
-        "lastname": "Alejandra Marin",
-        "slug": "maria-alejandra-marin"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246287",
         "name": "Melissa Rangel",
@@ -1233,14 +1000,10 @@
         "player_image": null,
         "nationality": "COL",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Melissa",
-        "lastname": "Rangel",
-        "slug": "melissa-rangel"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246287",
         "name": "Angie Katherine Vente Hinestroza",
@@ -1254,14 +1017,10 @@
         "player_image": null,
         "nationality": "COL",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Angie",
-        "lastname": "Katherine Vente Hinestroza",
-        "slug": "angie-katherine-vente-hinestroza"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201235743",
         "name": "Klara Uhlirova",
@@ -1275,14 +1034,10 @@
         "player_image": null,
         "nationality": "CZE",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Klara",
-        "lastname": "Uhlirova",
-        "slug": "klara-uhlirova"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201235743",
         "name": "Anna Pospisilova",
@@ -1296,14 +1051,10 @@
         "player_image": null,
         "nationality": "CZE",
         "position": "-",
-        "short_position": null,
-        "firstname": "Anna",
-        "lastname": "Pospisilova",
-        "slug": "anna-pospisilova"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201235743",
         "name": "Klara Melicharova",
@@ -1317,14 +1068,10 @@
         "player_image": null,
         "nationality": "CZE",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Klara",
-        "lastname": "Melicharova",
-        "slug": "klara-melicharova"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201235743",
         "name": "Lucie Herbockova",
@@ -1338,14 +1085,10 @@
         "player_image": null,
         "nationality": "CZE",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Lucie",
-        "lastname": "Herbockova",
-        "slug": "lucie-herbockova"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201235743",
         "name": "Marie Kurkova",
@@ -1359,14 +1102,10 @@
         "player_image": null,
         "nationality": "CZE",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Marie",
-        "lastname": "Kurkova",
-        "slug": "marie-kurkova"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201235743",
         "name": "Veronika Trnkova",
@@ -1380,14 +1119,10 @@
         "player_image": null,
         "nationality": "CZE",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Veronika",
-        "lastname": "Trnkova",
-        "slug": "veronika-trnkova"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201235743",
         "name": "Lucie Kalhousova",
@@ -1401,14 +1136,10 @@
         "player_image": null,
         "nationality": "CZE",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Lucie",
-        "lastname": "Kalhousova",
-        "slug": "lucie-kalhousova"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201235743",
         "name": "Barbora Najbrtova",
@@ -1422,14 +1153,10 @@
         "player_image": null,
         "nationality": "CZE",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Barbora",
-        "lastname": "Najbrtova",
-        "slug": "barbora-najbrtova"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201235743",
         "name": "Katerina Zemanova",
@@ -1443,14 +1170,10 @@
         "player_image": null,
         "nationality": "CZE",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Katerina",
-        "lastname": "Zemanova",
-        "slug": "katerina-zemanova"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201235743",
         "name": "Sarka Bouskova",
@@ -1464,14 +1187,10 @@
         "player_image": null,
         "nationality": "CZE",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Sarka",
-        "lastname": "Bouskova",
-        "slug": "sarka-bouskova"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201235743",
         "name": "Michaela Mlejnkova",
@@ -1485,14 +1204,10 @@
         "player_image": null,
         "nationality": "CZE",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Michaela",
-        "lastname": "Mlejnkova",
-        "slug": "michaela-mlejnkova"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201235743",
         "name": "Anna Prokupkova",
@@ -1506,14 +1221,10 @@
         "player_image": null,
         "nationality": "CZE",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Anna",
-        "lastname": "Prokupkova",
-        "slug": "anna-prokupkova"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247425",
         "name": "Jineiry Martinez",
@@ -1527,14 +1238,10 @@
         "player_image": null,
         "nationality": "DOM",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Jineiry",
-        "lastname": "Martinez",
-        "slug": "jineiry-martinez"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247425",
         "name": "Winifer Maria Fernandez Perez",
@@ -1548,14 +1255,10 @@
         "player_image": null,
         "nationality": "DOM",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Winifer",
-        "lastname": "Maria Fernandez Perez",
-        "slug": "winifer-maria-fernandez-perez"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247425",
         "name": "Gaila Ceneida Gonzalez Lopez",
@@ -1569,14 +1272,10 @@
         "player_image": null,
         "nationality": "DOM",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Gaila",
-        "lastname": "Ceneida Gonzalez Lopez",
-        "slug": "gaila-ceneida-gonzalez-lopez"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247425",
         "name": "Maria Yvett Garcia De La Cruz",
@@ -1590,14 +1289,10 @@
         "player_image": null,
         "nationality": "DOM",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Maria",
-        "lastname": "Yvett Garcia De La Cruz",
-        "slug": "maria-yvett-garcia-de-la-cruz"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247425",
         "name": "Natalia Martinez",
@@ -1611,14 +1306,10 @@
         "player_image": null,
         "nationality": "DOM",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Natalia",
-        "lastname": "Martinez",
-        "slug": "natalia-martinez"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247425",
         "name": "Angelica Maria Hinojosa Diaz",
@@ -1632,14 +1323,10 @@
         "player_image": null,
         "nationality": "DOM",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Angelica",
-        "lastname": "Maria Hinojosa Diaz",
-        "slug": "angelica-maria-hinojosa-diaz"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247425",
         "name": "Pamela Marie Soriano Olivo",
@@ -1653,14 +1340,10 @@
         "player_image": null,
         "nationality": "DOM",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Pamela",
-        "lastname": "Marie Soriano Olivo",
-        "slug": "pamela-marie-soriano-olivo"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247425",
         "name": "Genesis Semfle Milisde",
@@ -1674,14 +1357,10 @@
         "player_image": null,
         "nationality": "DOM",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Genesis",
-        "lastname": "Semfle Milisde",
-        "slug": "genesis-semfle-milisde"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247425",
         "name": "Yokaty Perez Flores",
@@ -1695,14 +1374,10 @@
         "player_image": null,
         "nationality": "DOM",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Yokaty",
-        "lastname": "Perez Flores",
-        "slug": "yokaty-perez-flores"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247425",
         "name": "Celenia Toribio De Leon",
@@ -1716,14 +1391,10 @@
         "player_image": null,
         "nationality": "DOM",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Celenia",
-        "lastname": "Toribio De Leon",
-        "slug": "celenia-toribio-de-leon"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247425",
         "name": "Larysmer Martinez Caro",
@@ -1737,14 +1408,10 @@
         "player_image": null,
         "nationality": "DOM",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Larysmer",
-        "lastname": "Martinez Caro",
-        "slug": "larysmer-martinez-caro"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201247425",
         "name": "Brayelin Elizabeth Martinez",
@@ -1758,14 +1425,10 @@
         "player_image": null,
         "nationality": "DOM",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Brayelin",
-        "lastname": "Elizabeth Martinez",
-        "slug": "brayelin-elizabeth-martinez"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246311",
         "name": "Perihan Eldeeb",
@@ -1779,14 +1442,10 @@
         "player_image": null,
         "nationality": "EGY",
         "position": "-",
-        "short_position": null,
-        "firstname": "Perihan",
-        "lastname": "Eldeeb",
-        "slug": "perihan-eldeeb"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246311",
         "name": "Lujien Sallam",
@@ -1800,14 +1459,10 @@
         "player_image": null,
         "nationality": "EGY",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Lujien",
-        "lastname": "Sallam",
-        "slug": "lujien-sallam"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246311",
         "name": "Heidi Kandiel",
@@ -1821,14 +1476,10 @@
         "player_image": null,
         "nationality": "EGY",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Heidi",
-        "lastname": "Kandiel",
-        "slug": "heidi-kandiel"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246311",
         "name": "Kenzie Assem",
@@ -1842,14 +1493,10 @@
         "player_image": null,
         "nationality": "EGY",
         "position": "-",
-        "short_position": null,
-        "firstname": "Kenzie",
-        "lastname": "Assem",
-        "slug": "kenzie-assem"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246311",
         "name": "Sondos Ramadan",
@@ -1863,14 +1510,10 @@
         "player_image": null,
         "nationality": "EGY",
         "position": "-",
-        "short_position": null,
-        "firstname": "Sondos",
-        "lastname": "Ramadan",
-        "slug": "sondos-ramadan"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246311",
         "name": "Aya Ahmed",
@@ -1884,14 +1527,10 @@
         "player_image": null,
         "nationality": "EGY",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Aya",
-        "lastname": "Ahmed",
-        "slug": "aya-ahmed"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246311",
         "name": "Rana Elgohary",
@@ -1905,14 +1544,10 @@
         "player_image": null,
         "nationality": "EGY",
         "position": "-",
-        "short_position": null,
-        "firstname": "Rana",
-        "lastname": "Elgohary",
-        "slug": "rana-elgohary"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246311",
         "name": "Farida El Askalany",
@@ -1926,14 +1561,10 @@
         "player_image": null,
         "nationality": "EGY",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Farida",
-        "lastname": "El Askalany",
-        "slug": "farida-el-askalany"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246311",
         "name": "Aya Elshamy",
@@ -1947,14 +1578,10 @@
         "player_image": null,
         "nationality": "EGY",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Aya",
-        "lastname": "Elshamy",
-        "slug": "aya-elshamy"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246311",
         "name": "Mai Moustafa",
@@ -1968,14 +1595,10 @@
         "player_image": null,
         "nationality": "EGY",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Mai",
-        "lastname": "Moustafa",
-        "slug": "mai-moustafa"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246311",
         "name": "Sarah Hanafy",
@@ -1989,14 +1612,10 @@
         "player_image": null,
         "nationality": "EGY",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Sarah",
-        "lastname": "Hanafy",
-        "slug": "sarah-hanafy"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246311",
         "name": "Hend Farag",
@@ -2010,14 +1629,10 @@
         "player_image": null,
         "nationality": "EGY",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Hend",
-        "lastname": "Farag",
-        "slug": "hend-farag"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201237495",
         "name": "Elena Perinelli",
@@ -2031,14 +1646,10 @@
         "player_image": null,
         "nationality": "ITA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Elena",
-        "lastname": "Perinelli",
-        "slug": "elena-perinelli"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201237495",
         "name": "Giulia Carraro",
@@ -2052,14 +1663,10 @@
         "player_image": null,
         "nationality": "ITA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Giulia",
-        "lastname": "Carraro",
-        "slug": "giulia-carraro"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201237495",
         "name": "Eleonora Bruno",
@@ -2073,14 +1680,10 @@
         "player_image": null,
         "nationality": "ITA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Eleonora",
-        "lastname": "Bruno",
-        "slug": "eleonora-bruno"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201237495",
         "name": "Ilaria Maruotti",
@@ -2094,14 +1697,10 @@
         "player_image": null,
         "nationality": "ITA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Ilaria",
-        "lastname": "Maruotti",
-        "slug": "ilaria-maruotti"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201237495",
         "name": "Alessia Fiesoli",
@@ -2115,14 +1714,10 @@
         "player_image": null,
         "nationality": "ITA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Alessia",
-        "lastname": "Fiesoli",
-        "slug": "alessia-fiesoli"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201237495",
         "name": "Sara Bonifacio",
@@ -2136,14 +1731,10 @@
         "player_image": null,
         "nationality": "ITA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Sara",
-        "lastname": "Bonifacio",
-        "slug": "sara-bonifacio"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201237495",
         "name": "Cristina Chirichella",
@@ -2157,14 +1748,10 @@
         "player_image": null,
         "nationality": "ITA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Cristina",
-        "lastname": "Chirichella",
-        "slug": "cristina-chirichella"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201237495",
         "name": "Laura Melandri",
@@ -2178,14 +1765,10 @@
         "player_image": null,
         "nationality": "ITA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Laura",
-        "lastname": "Melandri",
-        "slug": "laura-melandri"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201237495",
         "name": "Anna Nicoletti",
@@ -2199,14 +1782,10 @@
         "player_image": null,
         "nationality": "ITA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Anna",
-        "lastname": "Nicoletti",
-        "slug": "anna-nicoletti"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201237495",
         "name": "Beatrice Parrocchiale",
@@ -2220,14 +1799,10 @@
         "player_image": null,
         "nationality": "ITA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Beatrice",
-        "lastname": "Parrocchiale",
-        "slug": "beatrice-parrocchiale"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201237495",
         "name": "Miryam Fatime Sylla",
@@ -2241,14 +1816,10 @@
         "player_image": null,
         "nationality": "ITA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Miryam",
-        "lastname": "Fatime Sylla",
-        "slug": "miryam-fatime-sylla"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201237495",
         "name": "Chiara Scacchetti",
@@ -2262,14 +1833,10 @@
         "player_image": null,
         "nationality": "ITA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Chiara",
-        "lastname": "Scacchetti",
-        "slug": "chiara-scacchetti"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246686",
         "name": "Momoka Oda",
@@ -2283,14 +1850,10 @@
         "player_image": null,
         "nationality": "JAP",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Momoka",
-        "lastname": "Oda",
-        "slug": "momoka-oda"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246686",
         "name": "Makiko Homma",
@@ -2304,14 +1867,10 @@
         "player_image": null,
         "nationality": "JAP",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Makiko",
-        "lastname": "Homma",
-        "slug": "makiko-homma"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246686",
         "name": "Misaki Yamauchi",
@@ -2325,14 +1884,10 @@
         "player_image": null,
         "nationality": "JAP",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Misaki",
-        "lastname": "Yamauchi",
-        "slug": "misaki-yamauchi"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246686",
         "name": "Asuka Nomura",
@@ -2346,14 +1901,10 @@
         "player_image": null,
         "nationality": "JAP",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Asuka",
-        "lastname": "Nomura",
-        "slug": "asuka-nomura"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246686",
         "name": "Kasumi Nakaya",
@@ -2367,14 +1918,10 @@
         "player_image": null,
         "nationality": "JAP",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Kasumi",
-        "lastname": "Nakaya",
-        "slug": "kasumi-nakaya"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246686",
         "name": "Manami Kojima",
@@ -2388,14 +1935,10 @@
         "player_image": null,
         "nationality": "JAP",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Manami",
-        "lastname": "Kojima",
-        "slug": "manami-kojima"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246686",
         "name": "Aya Horie",
@@ -2409,14 +1952,10 @@
         "player_image": null,
         "nationality": "JAP",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Aya",
-        "lastname": "Horie",
-        "slug": "aya-horie"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246686",
         "name": "Ayaka Hosokawa",
@@ -2430,14 +1969,10 @@
         "player_image": null,
         "nationality": "JAP",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Ayaka",
-        "lastname": "Hosokawa",
-        "slug": "ayaka-hosokawa"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246686",
         "name": "Nozomi Itoh",
@@ -2451,14 +1986,10 @@
         "player_image": null,
         "nationality": "JAP",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Nozomi",
-        "lastname": "Itoh",
-        "slug": "nozomi-itoh"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246686",
         "name": "Yuki Yamagami",
@@ -2472,14 +2003,10 @@
         "player_image": null,
         "nationality": "JAP",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Yuki",
-        "lastname": "Yamagami",
-        "slug": "yuki-yamagami"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246686",
         "name": "Sakura Doi",
@@ -2493,14 +2020,10 @@
         "player_image": null,
         "nationality": "JAP",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Sakura",
-        "lastname": "Doi",
-        "slug": "sakura-doi"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246686",
         "name": "Arisa Inoue",
@@ -2514,14 +2037,10 @@
         "player_image": null,
         "nationality": "JAP",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Arisa",
-        "lastname": "Inoue",
-        "slug": "arisa-inoue"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246057",
         "name": "Lizbeth Sainz",
@@ -2535,14 +2054,10 @@
         "player_image": null,
         "nationality": "MEX",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Lizbeth",
-        "lastname": "Sainz",
-        "slug": "lizbeth-sainz"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246057",
         "name": "Ivonne Martinez",
@@ -2556,14 +2071,10 @@
         "player_image": null,
         "nationality": "MEX",
         "position": "-",
-        "short_position": null,
-        "firstname": "Ivonne",
-        "lastname": "Martinez",
-        "slug": "ivonne-martinez"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246057",
         "name": "Samantha Bricio",
@@ -2577,14 +2088,10 @@
         "player_image": null,
         "nationality": "MEX",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Samantha",
-        "lastname": "Bricio",
-        "slug": "samantha-bricio"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246057",
         "name": "Kaomi Solis",
@@ -2598,14 +2105,10 @@
         "player_image": null,
         "nationality": "MEX",
         "position": "-",
-        "short_position": null,
-        "firstname": "Kaomi",
-        "lastname": "Solis",
-        "slug": "kaomi-solis"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246057",
         "name": "Alejandra Isiordia",
@@ -2619,14 +2122,10 @@
         "player_image": null,
         "nationality": "MEX",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Alejandra",
-        "lastname": "Isiordia",
-        "slug": "alejandra-isiordia"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246057",
         "name": "Jocelyn Urias",
@@ -2640,14 +2139,10 @@
         "player_image": null,
         "nationality": "MEX",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Jocelyn",
-        "lastname": "Urias",
-        "slug": "jocelyn-urias"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246057",
         "name": "Gabriela Zazueta",
@@ -2661,14 +2156,10 @@
         "player_image": null,
         "nationality": "MEX",
         "position": "-",
-        "short_position": null,
-        "firstname": "Gabriela",
-        "lastname": "Zazueta",
-        "slug": "gabriela-zazueta"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246057",
         "name": "Fernanda Guitron",
@@ -2682,14 +2173,10 @@
         "player_image": null,
         "nationality": "MEX",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Fernanda",
-        "lastname": "Guitron",
-        "slug": "fernanda-guitron"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246057",
         "name": "Maria Celedon",
@@ -2703,14 +2190,10 @@
         "player_image": null,
         "nationality": "MEX",
         "position": "-",
-        "short_position": null,
-        "firstname": "Maria",
-        "lastname": "Celedon",
-        "slug": "maria-celedon"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246057",
         "name": "Patricia Valle",
@@ -2724,14 +2207,10 @@
         "player_image": null,
         "nationality": "MEX",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Patricia",
-        "lastname": "Valle",
-        "slug": "patricia-valle"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246057",
         "name": "Valeria Gonzalez",
@@ -2745,14 +2224,10 @@
         "player_image": null,
         "nationality": "MEX",
         "position": "-",
-        "short_position": null,
-        "firstname": "Valeria",
-        "lastname": "Gonzalez",
-        "slug": "valeria-gonzalez"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246057",
         "name": "Sashiko Sanay",
@@ -2766,14 +2241,10 @@
         "player_image": null,
         "nationality": "MEX",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Sashiko",
-        "lastname": "Sanay",
-        "slug": "sashiko-sanay"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246632",
         "name": "Jummai Bitrus",
@@ -2787,14 +2258,10 @@
         "player_image": null,
         "nationality": "NIG",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Jummai",
-        "lastname": "Bitrus",
-        "slug": "jummai-bitrus"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246632",
         "name": "Mercy Promise",
@@ -2808,14 +2275,10 @@
         "player_image": null,
         "nationality": "NIG",
         "position": "-",
-        "short_position": null,
-        "firstname": "Mercy",
-        "lastname": "Promise",
-        "slug": "mercy-promise"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246632",
         "name": "Amarachi Nnebuo",
@@ -2829,14 +2292,10 @@
         "player_image": null,
         "nationality": "NIG",
         "position": "-",
-        "short_position": null,
-        "firstname": "Amarachi",
-        "lastname": "Nnebuo",
-        "slug": "amarachi-nnebuo"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246632",
         "name": "Doosuur Atule",
@@ -2850,14 +2309,10 @@
         "player_image": null,
         "nationality": "NIG",
         "position": "-",
-        "short_position": null,
-        "firstname": "Doosuur",
-        "lastname": "Atule",
-        "slug": "doosuur-atule"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246632",
         "name": "Hajara Audu",
@@ -2871,14 +2326,10 @@
         "player_image": null,
         "nationality": "NIG",
         "position": "-",
-        "short_position": null,
-        "firstname": "Hajara",
-        "lastname": "Audu",
-        "slug": "hajara-audu"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246632",
         "name": "Ijeoma Ukpabi",
@@ -2892,14 +2343,10 @@
         "player_image": null,
         "nationality": "NIG",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Ijeoma",
-        "lastname": "Ukpabi",
-        "slug": "ijeoma-ukpabi"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246632",
         "name": "Chinenye Nwosu",
@@ -2913,14 +2360,10 @@
         "player_image": null,
         "nationality": "NIG",
         "position": "-",
-        "short_position": null,
-        "firstname": "Chinenye",
-        "lastname": "Nwosu",
-        "slug": "chinenye-nwosu"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246632",
         "name": "Bukky Oluwatosin C.",
@@ -2934,14 +2377,10 @@
         "player_image": null,
         "nationality": "NIG",
         "position": "-",
-        "short_position": null,
-        "firstname": "Bukky",
-        "lastname": "Oluwatosin C.",
-        "slug": "bukky-oluwatosin-c."
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246632",
         "name": "Chidinma Ahara",
@@ -2955,14 +2394,10 @@
         "player_image": null,
         "nationality": "NIG",
         "position": "-",
-        "short_position": null,
-        "firstname": "Chidinma",
-        "lastname": "Ahara",
-        "slug": "chidinma-ahara"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246632",
         "name": "Patience Daniel I.",
@@ -2976,14 +2411,10 @@
         "player_image": null,
         "nationality": "NIG",
         "position": "-",
-        "short_position": null,
-        "firstname": "Patience",
-        "lastname": "Daniel I.",
-        "slug": "patience-daniel-i."
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246632",
         "name": "Aisha Umaru",
@@ -2997,14 +2428,10 @@
         "player_image": null,
         "nationality": "NIG",
         "position": "-",
-        "short_position": null,
-        "firstname": "Aisha",
-        "lastname": "Umaru",
-        "slug": "aisha-umaru"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246632",
         "name": "Francisca Ikhiede",
@@ -3018,14 +2445,10 @@
         "player_image": null,
         "nationality": "NIG",
         "position": "-",
-        "short_position": null,
-        "firstname": "Francisca",
-        "lastname": "Ikhiede",
-        "slug": "francisca-ikhiede"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246029",
         "name": "Luciana Del Valle",
@@ -3039,14 +2462,10 @@
         "player_image": null,
         "nationality": "PER",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Luciana",
-        "lastname": "Del Valle",
-        "slug": "luciana-del-valle"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246029",
         "name": "Hilary Palma",
@@ -3060,14 +2479,10 @@
         "player_image": null,
         "nationality": "PER",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Hilary",
-        "lastname": "Palma",
-        "slug": "hilary-palma"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246029",
         "name": "Cristina Cuba",
@@ -3081,14 +2496,10 @@
         "player_image": null,
         "nationality": "PER",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Cristina",
-        "lastname": "Cuba",
-        "slug": "cristina-cuba"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246029",
         "name": "Ginna Lopez",
@@ -3102,14 +2513,10 @@
         "player_image": null,
         "nationality": "PER",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Ginna",
-        "lastname": "Lopez",
-        "slug": "ginna-lopez"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246029",
         "name": "Milagros Rodriguez",
@@ -3123,14 +2530,10 @@
         "player_image": null,
         "nationality": "PER",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Milagros",
-        "lastname": "Rodriguez",
-        "slug": "milagros-rodriguez"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246029",
         "name": "Maguilaura Frias",
@@ -3144,14 +2547,10 @@
         "player_image": null,
         "nationality": "PER",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Maguilaura",
-        "lastname": "Frias",
-        "slug": "maguilaura-frias"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246029",
         "name": "Danae Carranza",
@@ -3165,14 +2564,10 @@
         "player_image": null,
         "nationality": "PER",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Danae",
-        "lastname": "Carranza",
-        "slug": "danae-carranza"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246029",
         "name": "Izabot Bravo",
@@ -3186,14 +2581,10 @@
         "player_image": null,
         "nationality": "PER",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Izabot",
-        "lastname": "Bravo",
-        "slug": "izabot-bravo"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246029",
         "name": "Andrea Urrutia",
@@ -3207,14 +2598,10 @@
         "player_image": null,
         "nationality": "PER",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Andrea",
-        "lastname": "Urrutia",
-        "slug": "andrea-urrutia"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246029",
         "name": "Angela Leyva",
@@ -3228,14 +2615,10 @@
         "player_image": null,
         "nationality": "PER",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Angela",
-        "lastname": "Leyva",
-        "slug": "angela-leyva"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246029",
         "name": "Sandra Santana",
@@ -3249,14 +2632,10 @@
         "player_image": null,
         "nationality": "PER",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Sandra",
-        "lastname": "Santana",
-        "slug": "sandra-santana"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246029",
         "name": "Violeta Delgado Gudiel",
@@ -3270,14 +2649,10 @@
         "player_image": null,
         "nationality": "PER",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Violeta",
-        "lastname": "Delgado Gudiel",
-        "slug": "violeta-delgado-gudiel"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236084",
         "name": "Pilar Marie Victoria",
@@ -3291,14 +2666,10 @@
         "player_image": null,
         "nationality": "PUR",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Pilar",
-        "lastname": "Marie Victoria",
-        "slug": "pilar-marie-victoria"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236084",
         "name": "Kanisha Jimenez",
@@ -3312,14 +2683,10 @@
         "player_image": null,
         "nationality": "PUR",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Kanisha",
-        "lastname": "Jimenez",
-        "slug": "kanisha-jimenez"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236084",
         "name": "Shalimarie Merlo",
@@ -3333,14 +2700,10 @@
         "player_image": null,
         "nationality": "PUR",
         "position": "-",
-        "short_position": null,
-        "firstname": "Shalimarie",
-        "lastname": "Merlo",
-        "slug": "shalimarie-merlo"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236084",
         "name": "Jennymar Santiago",
@@ -3354,14 +2717,10 @@
         "player_image": null,
         "nationality": "PUR",
         "position": "-",
-        "short_position": null,
-        "firstname": "Jennymar",
-        "lastname": "Santiago",
-        "slug": "jennymar-santiago"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236084",
         "name": "Julimar Alvarado",
@@ -3375,14 +2734,10 @@
         "player_image": null,
         "nationality": "PUR",
         "position": "-",
-        "short_position": null,
-        "firstname": "Julimar",
-        "lastname": "Alvarado",
-        "slug": "julimar-alvarado"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236084",
         "name": "Wilmarie Rivera",
@@ -3396,14 +2751,10 @@
         "player_image": null,
         "nationality": "PUR",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Wilmarie",
-        "lastname": "Rivera",
-        "slug": "wilmarie-rivera"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236084",
         "name": "Genesis Anais Miranda Rosario",
@@ -3417,14 +2768,10 @@
         "player_image": null,
         "nationality": "PUR",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Genesis",
-        "lastname": "Anais Miranda Rosario",
-        "slug": "genesis-anais-miranda-rosario"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236084",
         "name": "Gabriela Roman",
@@ -3438,14 +2785,10 @@
         "player_image": null,
         "nationality": "PUR",
         "position": "-",
-        "short_position": null,
-        "firstname": "Gabriela",
-        "lastname": "Roman",
-        "slug": "gabriela-roman"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236084",
         "name": "Ana Sofia Jusino",
@@ -3459,14 +2802,10 @@
         "player_image": null,
         "nationality": "PUR",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Ana",
-        "lastname": "Sofia Jusino",
-        "slug": "ana-sofia-jusino"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236084",
         "name": "Patricia Montero",
@@ -3480,14 +2819,10 @@
         "player_image": null,
         "nationality": "PUR",
         "position": "-",
-        "short_position": null,
-        "firstname": "Patricia",
-        "lastname": "Montero",
-        "slug": "patricia-montero"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236084",
         "name": "Alba Hernandez",
@@ -3501,14 +2836,10 @@
         "player_image": null,
         "nationality": "PUR",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Alba",
-        "lastname": "Hernandez",
-        "slug": "alba-hernandez"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201236084",
         "name": "Paola Rojas",
@@ -3522,14 +2853,10 @@
         "player_image": null,
         "nationality": "PUR",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Paola",
-        "lastname": "Rojas",
-        "slug": "paola-rojas"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246053",
         "name": "Ekaterina Makarchuk",
@@ -3543,14 +2870,10 @@
         "player_image": null,
         "nationality": "RUS",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Ekaterina",
-        "lastname": "Makarchuk",
-        "slug": "ekaterina-makarchuk"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246053",
         "name": "Irina Voronkova",
@@ -3564,14 +2887,10 @@
         "player_image": null,
         "nationality": "RUS",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Irina",
-        "lastname": "Voronkova",
-        "slug": "irina-voronkova"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246053",
         "name": "Tatiana Romanova",
@@ -3585,14 +2904,10 @@
         "player_image": null,
         "nationality": "RUS",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Tatiana",
-        "lastname": "Romanova",
-        "slug": "tatiana-romanova"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246053",
         "name": "Olga Biryukova",
@@ -3606,14 +2921,10 @@
         "player_image": null,
         "nationality": "RUS",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Olga",
-        "lastname": "Biryukova",
-        "slug": "olga-biryukova"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246053",
         "name": "Olesya Nikolaeva",
@@ -3627,14 +2938,10 @@
         "player_image": null,
         "nationality": "RUS",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Olesya",
-        "lastname": "Nikolaeva",
-        "slug": "olesya-nikolaeva"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246053",
         "name": "Irina Fetisova",
@@ -3648,14 +2955,10 @@
         "player_image": null,
         "nationality": "RUS",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Irina",
-        "lastname": "Fetisova",
-        "slug": "irina-fetisova"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246053",
         "name": "Anna Luneva",
@@ -3669,14 +2972,10 @@
         "player_image": null,
         "nationality": "RUS",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Anna",
-        "lastname": "Luneva",
-        "slug": "anna-luneva"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246053",
         "name": "Valeriya Zaytseva",
@@ -3690,14 +2989,10 @@
         "player_image": null,
         "nationality": "RUS",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Valeriya",
-        "lastname": "Zaytseva",
-        "slug": "valeriya-zaytseva"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246053",
         "name": "Elena Novik",
@@ -3711,14 +3006,10 @@
         "player_image": null,
         "nationality": "RUS",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Elena",
-        "lastname": "Novik",
-        "slug": "elena-novik"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246053",
         "name": "Kseniia Ilchenko",
@@ -3732,14 +3023,10 @@
         "player_image": null,
         "nationality": "RUS",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Kseniia",
-        "lastname": "Ilchenko",
-        "slug": "kseniia-ilchenko"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246053",
         "name": "Natalia Reshetnikova",
@@ -3753,14 +3040,10 @@
         "player_image": null,
         "nationality": "RUS",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Natalia",
-        "lastname": "Reshetnikova",
-        "slug": "natalia-reshetnikova"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246053",
         "name": "Ekaterina Voronova",
@@ -3774,14 +3057,10 @@
         "player_image": null,
         "nationality": "RUS",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Ekaterina",
-        "lastname": "Voronova",
-        "slug": "ekaterina-voronova"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246288",
         "name": "Mina Popovic",
@@ -3795,14 +3074,10 @@
         "player_image": null,
         "nationality": "SRB",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Mina",
-        "lastname": "Popovic",
-        "slug": "mina-popovic"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246288",
         "name": "Maja Simic",
@@ -3816,14 +3091,10 @@
         "player_image": null,
         "nationality": "SRB",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Maja",
-        "lastname": "Simic",
-        "slug": "maja-simic"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246288",
         "name": "Tijana Bo\u00e5\u00a1Kovic",
@@ -3837,14 +3108,10 @@
         "player_image": null,
         "nationality": "SRB",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Tijana",
-        "lastname": "Bo\u00e5\u00a1Kovic",
-        "slug": "tijana-bo\u00e5\u00a1kovic"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246288",
         "name": "Aleksandra Stepanovic",
@@ -3858,14 +3125,10 @@
         "player_image": null,
         "nationality": "SRB",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Aleksandra",
-        "lastname": "Stepanovic",
-        "slug": "aleksandra-stepanovic"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246288",
         "name": "Milica Kubura",
@@ -3879,14 +3142,10 @@
         "player_image": null,
         "nationality": "SRB",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Milica",
-        "lastname": "Kubura",
-        "slug": "milica-kubura"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246288",
         "name": "Jelena Trnic",
@@ -3900,14 +3159,10 @@
         "player_image": null,
         "nationality": "SRB",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Jelena",
-        "lastname": "Trnic",
-        "slug": "jelena-trnic"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246288",
         "name": "Natasa Cikiriz",
@@ -3921,14 +3176,10 @@
         "player_image": null,
         "nationality": "SRB",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Natasa",
-        "lastname": "Cikiriz",
-        "slug": "natasa-cikiriz"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246288",
         "name": "Katarina Canak",
@@ -3942,14 +3193,10 @@
         "player_image": null,
         "nationality": "SRB",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Katarina",
-        "lastname": "Canak",
-        "slug": "katarina-canak"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246288",
         "name": "Bianka Busa",
@@ -3963,14 +3210,10 @@
         "player_image": null,
         "nationality": "SRB",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Bianka",
-        "lastname": "Busa",
-        "slug": "bianka-busa"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246288",
         "name": "Sladjana Mirkovic",
@@ -3984,14 +3227,10 @@
         "player_image": null,
         "nationality": "SRB",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Sladjana",
-        "lastname": "Mirkovic",
-        "slug": "sladjana-mirkovic"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246288",
         "name": "Jelena Oluic",
@@ -4005,14 +3244,10 @@
         "player_image": null,
         "nationality": "SRB",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Jelena",
-        "lastname": "Oluic",
-        "slug": "jelena-oluic"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246288",
         "name": "Nikolina Lukic",
@@ -4026,14 +3261,10 @@
         "player_image": null,
         "nationality": "SRB",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Nikolina",
-        "lastname": "Lukic",
-        "slug": "nikolina-lukic"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246687",
         "name": "Kannika Sitthipat",
@@ -4047,14 +3278,10 @@
         "player_image": null,
         "nationality": "THA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Kannika",
-        "lastname": "Sitthipat",
-        "slug": "kannika-sitthipat"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246687",
         "name": "Thatdao Nuekjang",
@@ -4068,14 +3295,10 @@
         "player_image": null,
         "nationality": "THA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Thatdao",
-        "lastname": "Nuekjang",
-        "slug": "thatdao-nuekjang"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246687",
         "name": "Suwatjanee Gansa",
@@ -4089,14 +3312,10 @@
         "player_image": null,
         "nationality": "THA",
         "position": "-",
-        "short_position": null,
-        "firstname": "Suwatjanee",
-        "lastname": "Gansa",
-        "slug": "suwatjanee-gansa"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246687",
         "name": "Kuttika Kaewpin",
@@ -4110,14 +3329,10 @@
         "player_image": null,
         "nationality": "THA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Kuttika",
-        "lastname": "Kaewpin",
-        "slug": "kuttika-kaewpin"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246687",
         "name": "Tanaporn Polrueng",
@@ -4131,14 +3346,10 @@
         "player_image": null,
         "nationality": "THA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Tanaporn",
-        "lastname": "Polrueng",
-        "slug": "tanaporn-polrueng"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246687",
         "name": "Khatthalee Pinsuwan",
@@ -4152,14 +3363,10 @@
         "player_image": null,
         "nationality": "THA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Khatthalee",
-        "lastname": "Pinsuwan",
-        "slug": "khatthalee-pinsuwan"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246687",
         "name": "Sasitorn Pimpa",
@@ -4173,14 +3380,10 @@
         "player_image": null,
         "nationality": "THA",
         "position": "-",
-        "short_position": null,
-        "firstname": "Sasitorn",
-        "lastname": "Pimpa",
-        "slug": "sasitorn-pimpa"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246687",
         "name": "Sineenat Phocharoen",
@@ -4194,14 +3397,10 @@
         "player_image": null,
         "nationality": "THA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Sineenat",
-        "lastname": "Phocharoen",
-        "slug": "sineenat-phocharoen"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246687",
         "name": "Parinya Pankaew",
@@ -4215,14 +3414,10 @@
         "player_image": null,
         "nationality": "THA",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Parinya",
-        "lastname": "Pankaew",
-        "slug": "parinya-pankaew"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246687",
         "name": "Kaewkalaya Kamulthala",
@@ -4236,14 +3431,10 @@
         "player_image": null,
         "nationality": "THA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Kaewkalaya",
-        "lastname": "Kamulthala",
-        "slug": "kaewkalaya-kamulthala"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246687",
         "name": "Ajcharaporn Kongyot",
@@ -4257,14 +3448,10 @@
         "player_image": null,
         "nationality": "THA",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Ajcharaporn",
-        "lastname": "Kongyot",
-        "slug": "ajcharaporn-kongyot"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246687",
         "name": "Sasiwimol Sangpan",
@@ -4278,14 +3465,10 @@
         "player_image": null,
         "nationality": "THA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Sasiwimol",
-        "lastname": "Sangpan",
-        "slug": "sasiwimol-sangpan"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246030",
         "name": "Ching-Yi Kuo",
@@ -4299,14 +3482,10 @@
         "player_image": null,
         "nationality": "TPE",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Ching-Yi",
-        "lastname": "Kuo",
-        "slug": "ching-yi-kuo"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246030",
         "name": "Yu Lee",
@@ -4320,14 +3499,10 @@
         "player_image": null,
         "nationality": "TPE",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Yu",
-        "lastname": "Lee",
-        "slug": "yu-lee"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246030",
         "name": "Tzu Ying Lee",
@@ -4341,14 +3516,10 @@
         "player_image": null,
         "nationality": "TPE",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Tzu",
-        "lastname": "Ying Lee",
-        "slug": "tzu-ying-lee"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246030",
         "name": "Tzu Ya Chen",
@@ -4362,14 +3533,10 @@
         "player_image": null,
         "nationality": "TPE",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Tzu",
-        "lastname": "Ya Chen",
-        "slug": "tzu-ya-chen"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246030",
         "name": "Wei-Hua Wu",
@@ -4383,14 +3550,10 @@
         "player_image": null,
         "nationality": "TPE",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Wei-Hua",
-        "lastname": "Wu",
-        "slug": "wei-hua-wu"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246030",
         "name": "Li-Wen Chang",
@@ -4404,14 +3567,10 @@
         "player_image": null,
         "nationality": "TPE",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Li-Wen",
-        "lastname": "Chang",
-        "slug": "li-wen-chang"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246030",
         "name": "Wan Jung Lee",
@@ -4425,14 +3584,10 @@
         "player_image": null,
         "nationality": "TPE",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Wan",
-        "lastname": "Jung Lee",
-        "slug": "wan-jung-lee"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246030",
         "name": "I-Mei Hsu",
@@ -4446,14 +3601,10 @@
         "player_image": null,
         "nationality": "TPE",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "I-Mei",
-        "lastname": "Hsu",
-        "slug": "i-mei-hsu"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246030",
         "name": "Yu Chia Chang",
@@ -4467,14 +3618,10 @@
         "player_image": null,
         "nationality": "TPE",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Yu",
-        "lastname": "Chia Chang",
-        "slug": "yu-chia-chang"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246030",
         "name": "Wan Ling Tseng",
@@ -4488,14 +3635,10 @@
         "player_image": null,
         "nationality": "TPE",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Wan",
-        "lastname": "Ling Tseng",
-        "slug": "wan-ling-tseng"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246030",
         "name": "Huang-Ying Chien",
@@ -4509,14 +3652,10 @@
         "player_image": null,
         "nationality": "TPE",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Huang-Ying",
-        "lastname": "Chien",
-        "slug": "huang-ying-chien"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246030",
         "name": "Shih Ting Huang",
@@ -4530,14 +3669,10 @@
         "player_image": null,
         "nationality": "TPE",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Shih",
-        "lastname": "Ting Huang",
-        "slug": "shih-ting-huang"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246633",
         "name": "Damla Cakiroglu",
@@ -4551,14 +3686,10 @@
         "player_image": null,
         "nationality": "TUR",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Damla",
-        "lastname": "Cakiroglu",
-        "slug": "damla-cakiroglu"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246633",
         "name": "\u00c3\u2021Agla Akin",
@@ -4572,14 +3703,10 @@
         "player_image": null,
         "nationality": "TUR",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "\u00c3\u2021Agla",
-        "lastname": "Akin",
-        "slug": "\u00e3\u2021agla-akin"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246633",
         "name": "Kubra Caliskan",
@@ -4593,14 +3720,10 @@
         "player_image": null,
         "nationality": "TUR",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Kubra",
-        "lastname": "Caliskan",
-        "slug": "kubra-caliskan"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246633",
         "name": "Dilek Kinik",
@@ -4614,14 +3737,10 @@
         "player_image": null,
         "nationality": "TUR",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Dilek",
-        "lastname": "Kinik",
-        "slug": "dilek-kinik"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246633",
         "name": "Seyma Ercan",
@@ -4635,14 +3754,10 @@
         "player_image": null,
         "nationality": "TUR",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Seyma",
-        "lastname": "Ercan",
-        "slug": "seyma-ercan"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246633",
         "name": "Ceylan Arisan",
@@ -4656,14 +3771,10 @@
         "player_image": null,
         "nationality": "TUR",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Ceylan",
-        "lastname": "Arisan",
-        "slug": "ceylan-arisan"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246633",
         "name": "Ceyda Aktas",
@@ -4677,14 +3788,10 @@
         "player_image": null,
         "nationality": "TUR",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Ceyda",
-        "lastname": "Aktas",
-        "slug": "ceyda-aktas"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246633",
         "name": "Asli Kalac",
@@ -4698,14 +3805,10 @@
         "player_image": null,
         "nationality": "TUR",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Asli",
-        "lastname": "Kalac",
-        "slug": "asli-kalac"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246633",
         "name": "Ece Hocaoglu",
@@ -4719,14 +3822,10 @@
         "player_image": null,
         "nationality": "TUR",
         "position": "Wing spiker",
-        "short_position": "OH",
-        "firstname": "Ece",
-        "lastname": "Hocaoglu",
-        "slug": "ece-hocaoglu"
+        "short_position": "OH"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246633",
         "name": "Sabriye Gonulkirmaz",
@@ -4740,14 +3839,10 @@
         "player_image": null,
         "nationality": "TUR",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Sabriye",
-        "lastname": "Gonulkirmaz",
-        "slug": "sabriye-gonulkirmaz"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246633",
         "name": "Ezgi Dilik",
@@ -4761,14 +3856,10 @@
         "player_image": null,
         "nationality": "TUR",
         "position": "Setter",
-        "short_position": "S",
-        "firstname": "Ezgi",
-        "lastname": "Dilik",
-        "slug": "ezgi-dilik"
+        "short_position": "S"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246633",
         "name": "Dilara Bagci",
@@ -4782,14 +3873,10 @@
         "player_image": null,
         "nationality": "TUR",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Dilara",
-        "lastname": "Bagci",
-        "slug": "dilara-bagci"
+        "short_position": "L"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246430",
         "name": "Sarah Burrington",
@@ -4803,14 +3890,10 @@
         "player_image": null,
         "nationality": "USA",
         "position": "-",
-        "short_position": null,
-        "firstname": "Sarah",
-        "lastname": "Burrington",
-        "slug": "sarah-burrington"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246430",
         "name": "Jordan Burgess",
@@ -4824,14 +3907,10 @@
         "player_image": null,
         "nationality": "USA",
         "position": "-",
-        "short_position": null,
-        "firstname": "Jordan",
-        "lastname": "Burgess",
-        "slug": "jordan-burgess"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246430",
         "name": "Nicole Edelman",
@@ -4845,14 +3924,10 @@
         "player_image": null,
         "nationality": "USA",
         "position": "-",
-        "short_position": null,
-        "firstname": "Nicole",
-        "lastname": "Edelman",
-        "slug": "nicole-edelman"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246430",
         "name": "Merete Lutz",
@@ -4866,14 +3941,10 @@
         "player_image": null,
         "nationality": "USA",
         "position": "-",
-        "short_position": null,
-        "firstname": "Merete",
-        "lastname": "Lutz",
-        "slug": "merete-lutz"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246430",
         "name": "Kelsey Humphreys",
@@ -4887,14 +3958,10 @@
         "player_image": null,
         "nationality": "USA",
         "position": "-",
-        "short_position": null,
-        "firstname": "Kelsey",
-        "lastname": "Humphreys",
-        "slug": "kelsey-humphreys"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246430",
         "name": "Alexandra Malloy",
@@ -4908,14 +3975,10 @@
         "player_image": null,
         "nationality": "USA",
         "position": "-",
-        "short_position": null,
-        "firstname": "Alexandra",
-        "lastname": "Malloy",
-        "slug": "alexandra-malloy"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246430",
         "name": "Allison Palmer",
@@ -4929,14 +3992,10 @@
         "player_image": null,
         "nationality": "USA",
         "position": "-",
-        "short_position": null,
-        "firstname": "Allison",
-        "lastname": "Palmer",
-        "slug": "allison-palmer"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246430",
         "name": "Canace Finley",
@@ -4950,14 +4009,10 @@
         "player_image": null,
         "nationality": "USA",
         "position": "Opposite spiker",
-        "short_position": "OPP",
-        "firstname": "Canace",
-        "lastname": "Finley",
-        "slug": "canace-finley"
+        "short_position": "OPP"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246430",
         "name": "Amber Rolfzen",
@@ -4971,14 +4026,10 @@
         "player_image": null,
         "nationality": "USA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Amber",
-        "lastname": "Rolfzen",
-        "slug": "amber-rolfzen"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246430",
         "name": "Kierra Holst",
@@ -4992,14 +4043,10 @@
         "player_image": null,
         "nationality": "USA",
         "position": "-",
-        "short_position": null,
-        "firstname": "Kierra",
-        "lastname": "Holst",
-        "slug": "kierra-holst"
+        "short_position": null
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246430",
         "name": "Chanell Clark-Bibbs",
@@ -5013,14 +4060,10 @@
         "player_image": null,
         "nationality": "USA",
         "position": "Middle blocker",
-        "short_position": "MB",
-        "firstname": "Chanell",
-        "lastname": "Clark-Bibbs",
-        "slug": "chanell-clark-bibbs"
+        "short_position": "MB"
     },
     {
         "competition_name": "World Championships",
-        "captain": false,
         "competition_year": 2013,
         "team": "http:\/\/www.fivb.org\/visasp\/Img_GetImage.aspx?MaxSize=2000&No=201246430",
         "name": "Caitlin Nolan",
@@ -5034,9 +4077,6 @@
         "player_image": null,
         "nationality": "USA",
         "position": "Libero",
-        "short_position": "L",
-        "firstname": "Caitlin",
-        "lastname": "Nolan",
-        "slug": "caitlin-nolan"
+        "short_position": "L"
     }
 ]
